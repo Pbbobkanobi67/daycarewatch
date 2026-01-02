@@ -1,0 +1,19 @@
+{
+  "name": "daycarewatch-scripts",
+  "version": "1.0.0",
+  "description": "Data scraping and processing scripts for DaycareWatch",
+  "scripts": {
+    "scrape:mn:test": "node minnesota/scrape_dhs_details.js --license 800064 --visible",
+    "scrape:mn:county": "node minnesota/scrape_dhs_details.js --county",
+    "scrape:mn:all": "node minnesota/scrape_dhs_details.js --all",
+    "capacity:mn": "python minnesota/add_capacity_estimates.py"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
