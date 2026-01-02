@@ -110,9 +110,11 @@ const FacilityDetail = ({
           icon: <Shield size={14} />
         });
       }
+      // ParentAware doesn't support URL params for search, but link to families page
+      const zip = (facility.zip_code || '').substring(0, 5);
       links.push({
-        label: 'ParentAware Quality Ratings',
-        url: 'https://parentaware.org/',
+        label: `ParentAware Ratings (search ${zip || facility.city || 'location'})`,
+        url: 'https://www.parentaware.org/families/#/',
         icon: <CheckCircle size={14} />
       });
       links.push({
