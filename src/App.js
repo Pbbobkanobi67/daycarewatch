@@ -6,6 +6,8 @@ import './App.css';
 // Import state configurations
 import { getState, getAllStates } from './states';
 import StateSelector from './components/StateSelector';
+import FacilityDetail from './components/FacilityDetail';
+import { analyzeAllFacilities, buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
 
 // Chart colors
 const CHART_COLORS = ['#1a365d', '#2c5282', '#4299e1', '#63b3ed', '#90cdf4'];
@@ -22,6 +24,18 @@ function App() {
   const [facilities, setFacilities] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+
+  // Facility detail modal state
+  const [selectedFacility, setSelectedFacility] = useState(null);
+  const [investigationData, setInvestigationData] = useState(null);
+
+  // Load investigation seed data (Shirley investigation)
+  useEffect(() => {
+    fetch('/data/minnesota/minnesota_shirley_investigation_seed.json')
+      .then(res => res.ok ? res.json() : null)
+      .then(data => setInvestigationData(data))
+      .catch(() => setInvestigationData(null));
+  }, []);
 
   // Get current state data if a state is selected
   const stateData = selectedState ? getState(selectedState) : null;
@@ -94,16 +108,35 @@ function App() {
     return flags;
   };
 
-  // Filter and process facilities
+  // Build cross-reference data for anomaly detection
+  const addressGroups = useMemo(() => buildAddressGroups(facilities), [facilities]);
+  const zipStats = useMemo(() => calculateZipStats(facilities), [facilities]);
+
+  // Filter and process facilities with enhanced anomaly detection
   const filteredFacilities = useMemo(() => {
     let filtered = facilities;
 
-    // Add flag data to each facility
-    filtered = filtered.map(f => ({
-      ...f,
-      flagReasons: isFlagged(f),
-      flagged: isFlagged(f).length > 0
-    }));
+    // Build context for anomaly detection
+    const context = {
+      addressGroups,
+      zipStats,
+      investigationList: investigationData?.facilities || []
+    };
+
+    // Add flag data and risk assessment to each facility
+    filtered = filtered.map(f => {
+      const oldFlags = isFlagged(f);
+      // Import advanced risk assessment
+      const { calculateRiskScore } = require('./utils/anomalyDetection');
+      const riskAssessment = calculateRiskScore(f, context);
+
+      return {
+        ...f,
+        flagReasons: oldFlags,
+        flagged: oldFlags.length > 0 || riskAssessment.hasHighFlags,
+        riskAssessment
+      };
+    });
 
     // Text search
     if (facilitySearch) {
@@ -121,8 +154,13 @@ function App() {
       filtered = filtered.filter(f => f.flagged);
     }
 
+    // Sort by risk score descending
+    filtered = [...filtered].sort((a, b) =>
+      (b.riskAssessment?.score || 0) - (a.riskAssessment?.score || 0)
+    );
+
     return filtered;
-  }, [facilities, facilitySearch, showFlagged]);
+  }, [facilities, facilitySearch, showFlagged, addressGroups, zipStats, investigationData]);
 
   // Calculate stats from real data
   const stats = useMemo(() => {
@@ -539,20 +577,36 @@ function App() {
                       <table>
                         <thead>
                           <tr>
+                            <th>Risk</th>
                             <th>Facility Name</th>
                             <th>Type</th>
                             <th>City</th>
                             <th>Capacity</th>
                             <th>Status</th>
-                            <th>Link</th>
                           </tr>
                         </thead>
                         <tbody>
                           {filteredFacilities.slice(0, 100).map(facility => (
-                            <tr key={facility.license_number} className={facility.flagged ? 'flagged-row' : ''}>
+                            <tr
+                              key={facility.license_number}
+                              className={`facility-row ${facility.flagged ? 'flagged-row' : ''} clickable`}
+                              onClick={() => setSelectedFacility(facility)}
+                              style={{ cursor: 'pointer' }}
+                            >
+                              <td>
+                                {facility.riskAssessment && facility.riskAssessment.score > 0 && (
+                                  <span
+                                    className="risk-badge"
+                                    style={{ backgroundColor: facility.riskAssessment.level.color }}
+                                    title={`Risk Score: ${facility.riskAssessment.score}`}
+                                  >
+                                    {facility.riskAssessment.score}
+                                  </span>
+                                )}
+                              </td>
                               <td>
                                 <div className="facility-name">
-                                  {facility.flagged && <AlertTriangle size={16} className="flag-icon" title={facility.flagReasons.join(', ')} />}
+                                  {facility.flagged && <AlertTriangle size={16} className="flag-icon" title={facility.riskAssessment?.flags?.map(f => f.message).join(', ') || facility.flagReasons.join(', ')} />}
                                   <div>
                                     <strong>{facility.name}</strong>
                                     <span className="facility-address">{facility.address}</span>
@@ -561,23 +615,20 @@ function App() {
                               </td>
                               <td>{facility.facility_type}</td>
                               <td>{facility.city}</td>
-                              <td>{facility.capacity}</td>
+                              <td>
+                                {facility.capacity}
+                                {facility.capacity_estimated && <span className="estimated-marker">*</span>}
+                              </td>
                               <td>
                                 <span className={`status-pill ${facility.status?.toLowerCase().replace(/ /g, '-')}`}>
                                   {facility.status}
                                 </span>
                               </td>
-                              <td>
-                                {facility.ccld_url && (
-                                  <a href={facility.ccld_url} target="_blank" rel="noopener noreferrer" className="external-link">
-                                    <ExternalLink size={14} />
-                                  </a>
-                                )}
-                              </td>
                             </tr>
                           ))}
                         </tbody>
                       </table>
+                      <p className="table-hint">* = estimated capacity | Click any row to view details</p>
                     </div>
 
                     {filteredFacilities.length > 100 && (
@@ -658,6 +709,24 @@ function App() {
           </section>
         )}
       </main>
+
+      {/* Facility Detail Modal */}
+      {selectedFacility && (
+        <FacilityDetail
+          facility={selectedFacility}
+          riskAssessment={selectedFacility.riskAssessment}
+          onClose={() => setSelectedFacility(null)}
+          relatedFacilities={
+            // Find other facilities at same address
+            Object.values(addressGroups).flat().filter(f =>
+              f.license_number !== selectedFacility.license_number &&
+              f.address?.toLowerCase().includes(selectedFacility.address?.toLowerCase().split(' ')[0])
+            ).slice(0, 5)
+          }
+          zipStats={zipStats[(selectedFacility.zip_code || '').substring(0, 5)]}
+          stateId={selectedState}
+        />
+      )}
 
       {/* Footer */}
       <footer className="footer">
