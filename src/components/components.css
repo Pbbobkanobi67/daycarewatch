@@ -99,14 +99,15 @@
 }
 
 .network-card {
-  border: 1px solid var(--navy-200);
+  border: 1px solid #edf2f7;
   border-radius: 8px;
   overflow: hidden;
+  background: #ffffff;
 }
 
 .network-card.high-risk {
-  border-color: var(--red-300);
-  background: var(--red-50);
+  border-color: #fc8181;
+  background: #fef2f2;
 }
 
 .network-card.warning {
