@@ -1,10 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
   X,
   AlertTriangle,
   MapPin,
   Phone,
-  Calendar,
   Users,
   FileText,
   ExternalLink,
@@ -13,7 +12,9 @@ import {
   Flag,
   AlertCircle,
   Info,
-  CheckCircle
+  CheckCircle,
+  Eye,
+  Printer
 } from 'lucide-react';
 
 /**
@@ -33,9 +34,33 @@ const FacilityDetail = ({
   onClose,
   relatedFacilities = [],
   zipStats = null,
-  stateId = 'minnesota'
+  stateId = 'minnesota',
+  onAddToWatchlist,
+  isInWatchlist = false,
+  onRemoveFromWatchlist
 }) => {
+  const [watchlistReason, setWatchlistReason] = useState('');
+  const [showWatchlistInput, setShowWatchlistInput] = useState(false);
+
   if (!facility) return null;
+
+  const handlePrint = () => {
+    window.print();
+  };
+
+  const handleWatchlistToggle = () => {
+    if (isInWatchlist) {
+      onRemoveFromWatchlist && onRemoveFromWatchlist(facility.license_number);
+    } else {
+      setShowWatchlistInput(true);
+    }
+  };
+
+  const handleAddToWatchlist = () => {
+    onAddToWatchlist && onAddToWatchlist(facility, watchlistReason || 'Added for investigation');
+    setShowWatchlistInput(false);
+    setWatchlistReason('');
+  };
 
   const getSeverityIcon = (severity) => {
     switch (severity) {
@@ -133,10 +158,40 @@ const FacilityDetail = ({
               {facility.status || 'Unknown'}
             </span>
           </div>
-          <button className="close-button" onClick={onClose}>
-            <X size={24} />
-          </button>
+          <div className="header-actions">
+            <button
+              className={`action-btn ${isInWatchlist ? 'active' : ''}`}
+              onClick={handleWatchlistToggle}
+              title={isInWatchlist ? 'Remove from watchlist' : 'Add to watchlist'}
+            >
+              <Eye size={18} />
+              {isInWatchlist ? 'Watching' : 'Watch'}
+            </button>
+            <button className="action-btn print-btn" onClick={handlePrint} title="Print report">
+              <Printer size={18} />
+              Print
+            </button>
+            <button className="close-button" onClick={onClose}>
+              <X size={24} />
+            </button>
+          </div>
         </div>
+
+        {/* Watchlist Reason Input */}
+        {showWatchlistInput && (
+          <div className="watchlist-input-section">
+            <input
+              type="text"
+              placeholder="Why are you watching this facility? (optional)"
+              value={watchlistReason}
+              onChange={(e) => setWatchlistReason(e.target.value)}
+              onKeyPress={(e) => e.key === 'Enter' && handleAddToWatchlist()}
+              autoFocus
+            />
+            <button onClick={handleAddToWatchlist}>Add to Watchlist</button>
+            <button onClick={() => setShowWatchlistInput(false)}>Cancel</button>
+          </div>
+        )}
 
         {/* Risk Score Banner */}
         {riskAssessment && riskAssessment.score > 0 && (

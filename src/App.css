@@ -1901,3 +1901,150 @@ tr.flagged-row:hover {
     margin-bottom: 0.5rem;
   }
 }
+
+/* ===== Watchlist Button Styles ===== */
+.watchlist-btn {
+  background: none;
+  border: 1px solid var(--navy-200);
+  border-radius: 4px;
+  padding: 0.35rem;
+  cursor: pointer;
+  color: var(--navy-400);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.watchlist-btn:hover {
+  border-color: var(--blue-500);
+  color: var(--blue-500);
+  background-color: var(--blue-50);
+}
+
+.watchlist-btn.active {
+  background-color: var(--blue-500);
+  border-color: var(--blue-500);
+  color: white;
+}
+
+.watchlist-btn.active:hover {
+  background-color: var(--red-500);
+  border-color: var(--red-500);
+}
+
+/* Watched row highlight */
+.facility-row.watched-row {
+  background-color: rgba(66, 153, 225, 0.05);
+}
+
+.facility-row.watched-row:hover {
+  background-color: rgba(66, 153, 225, 0.1);
+}
+
+/* Tab icon alignment */
+.tab svg {
+  vertical-align: middle;
+  margin-right: 0.25rem;
+}
+
+/* ===== Header Actions in Modal ===== */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.action-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--navy-200);
+  background: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--navy-600);
+  transition: all 0.2s ease;
+}
+
+.action-btn:hover {
+  border-color: var(--blue-500);
+  color: var(--blue-500);
+  background-color: var(--blue-50);
+}
+
+.action-btn.active {
+  background-color: var(--blue-500);
+  border-color: var(--blue-500);
+  color: white;
+}
+
+.action-btn.active:hover {
+  background-color: var(--red-500);
+  border-color: var(--red-500);
+}
+
+.print-btn:hover {
+  border-color: var(--navy-400);
+  color: var(--navy-700);
+  background-color: var(--navy-50);
+}
+
+/* Watchlist input section */
+.watchlist-input-section {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background: var(--blue-50);
+  border-bottom: 1px solid var(--blue-200);
+}
+
+.watchlist-input-section input {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--blue-200);
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.watchlist-input-section input:focus {
+  outline: none;
+  border-color: var(--blue-500);
+}
+
+.watchlist-input-section button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.watchlist-input-section button:first-of-type {
+  background: var(--blue-500);
+  color: white;
+}
+
+.watchlist-input-section button:first-of-type:hover {
+  background: var(--blue-600);
+}
+
+.watchlist-input-section button:last-child {
+  background: var(--navy-100);
+  color: var(--navy-600);
+}
+
+.watchlist-input-section button:last-child:hover {
+  background: var(--navy-200);
+}
+
+@media print {
+  .header-actions {
+    display: none !important;
+  }
+  .watchlist-input-section {
+    display: none !important;
+  }
+}

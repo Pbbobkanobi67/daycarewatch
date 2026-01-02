@@ -1,13 +1,21 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked } from 'lucide-react';
 import './App.css';
+import './components/components.css';
 
 // Import state configurations
 import { getState, getAllStates } from './states';
 import StateSelector from './components/StateSelector';
 import FacilityDetail from './components/FacilityDetail';
-import { analyzeAllFacilities, buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
+import NetworkAnalysisPanel from './components/NetworkAnalysisPanel';
+import WatchlistPanel from './components/WatchlistPanel';
+import InvestigationBanner from './components/InvestigationBanner';
+import AdvancedSearch from './components/AdvancedSearch';
+import AnalyticsDashboard from './components/AnalyticsDashboard';
+import { buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
+import { addToWatchlist, removeFromWatchlist, isInWatchlist, getWatchlist } from './utils/watchlist';
+import { analyzeNetworks } from './utils/networkAnalysis';
 
 // Chart colors
 const CHART_COLORS = ['#1a365d', '#2c5282', '#4299e1', '#63b3ed', '#90cdf4'];
@@ -28,6 +36,12 @@ function App() {
   // Facility detail modal state
   const [selectedFacility, setSelectedFacility] = useState(null);
   const [investigationData, setInvestigationData] = useState(null);
+
+  // Advanced search filtered facilities
+  const [advancedFilteredFacilities, setAdvancedFilteredFacilities] = useState([]);
+
+  // Watchlist state
+  const [watchlistRefresh, setWatchlistRefresh] = useState(0);
 
   // Load investigation seed data (Shirley investigation)
   useEffect(() => {
@@ -111,6 +125,28 @@ function App() {
   // Build cross-reference data for anomaly detection
   const addressGroups = useMemo(() => buildAddressGroups(facilities), [facilities]);
   const zipStats = useMemo(() => calculateZipStats(facilities), [facilities]);
+
+  // Network analysis for owner/address connections
+  const networkAnalysis = useMemo(() => analyzeNetworks(facilities), [facilities]);
+
+  // Handler for advanced search results
+  const handleAdvancedFilterResults = useCallback((filtered) => {
+    setAdvancedFilteredFacilities(filtered);
+  }, []);
+
+  // Watchlist handlers
+  const handleAddToWatchlist = useCallback((facility, reason) => {
+    addToWatchlist(facility, reason);
+    setWatchlistRefresh(prev => prev + 1);
+  }, []);
+
+  const handleRemoveFromWatchlist = useCallback((licenseNumber) => {
+    removeFromWatchlist(licenseNumber);
+    setWatchlistRefresh(prev => prev + 1);
+  }, []);
+
+  // Get current watchlist
+  const watchlistItems = useMemo(() => getWatchlist(), [watchlistRefresh]);
 
   // Filter and process facilities with enhanced anomaly detection
   const filteredFacilities = useMemo(() => {
@@ -472,6 +508,9 @@ function App() {
                   </div>
                 </div>
 
+                {/* Investigation Banner for Minnesota */}
+                <InvestigationBanner stateId={selectedState} />
+
                 {/* Tabs */}
                 <div className="tabs">
                   <button
@@ -491,6 +530,24 @@ function App() {
                     onClick={() => setActiveTab('anomalies')}
                   >
                     Anomalies ({stats.flaggedCount})
+                  </button>
+                  <button
+                    className={`tab ${activeTab === 'network' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('network')}
+                  >
+                    <Network size={16} /> Networks
+                  </button>
+                  <button
+                    className={`tab ${activeTab === 'analytics' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('analytics')}
+                  >
+                    <TrendingUp size={16} /> Analytics
+                  </button>
+                  <button
+                    className={`tab ${activeTab === 'watchlist' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('watchlist')}
+                  >
+                    <BookMarked size={16} /> Watchlist ({watchlistItems.length})
                   </button>
                 </div>
 
@@ -553,25 +610,12 @@ function App() {
 
                 {activeTab === 'facilities' && (
                   <div className="tab-content">
-                    <div className="facilities-header">
-                      <div className="search-box">
-                        <Search size={18} />
-                        <input
-                          type="text"
-                          placeholder="Search by name, address, city, or license #..."
-                          value={facilitySearch}
-                          onChange={(e) => setFacilitySearch(e.target.value)}
-                        />
-                      </div>
-                      <label className="filter-checkbox">
-                        <input
-                          type="checkbox"
-                          checked={showFlagged}
-                          onChange={(e) => setShowFlagged(e.target.checked)}
-                        />
-                        Show flagged only ({stats.flaggedCount})
-                      </label>
-                    </div>
+                    {/* Advanced Search Component */}
+                    <AdvancedSearch
+                      facilities={filteredFacilities}
+                      onFilteredResults={handleAdvancedFilterResults}
+                      counties={currentCounties}
+                    />
 
                     <div className="facilities-table">
                       <table>
@@ -583,13 +627,14 @@ function App() {
                             <th>City</th>
                             <th>Capacity</th>
                             <th>Status</th>
+                            <th>Watch</th>
                           </tr>
                         </thead>
                         <tbody>
-                          {filteredFacilities.slice(0, 100).map(facility => (
+                          {(advancedFilteredFacilities.length > 0 ? advancedFilteredFacilities : filteredFacilities).slice(0, 100).map(facility => (
                             <tr
                               key={facility.license_number}
-                              className={`facility-row ${facility.flagged ? 'flagged-row' : ''} clickable`}
+                              className={`facility-row ${facility.flagged ? 'flagged-row' : ''} ${isInWatchlist(facility.license_number) ? 'watched-row' : ''} clickable`}
                               onClick={() => setSelectedFacility(facility)}
                               style={{ cursor: 'pointer' }}
                             >
@@ -624,23 +669,42 @@ function App() {
                                   {facility.status}
                                 </span>
                               </td>
+                              <td onClick={(e) => e.stopPropagation()}>
+                                {isInWatchlist(facility.license_number) ? (
+                                  <button
+                                    className="watchlist-btn active"
+                                    onClick={() => handleRemoveFromWatchlist(facility.license_number)}
+                                    title="Remove from watchlist"
+                                  >
+                                    <Eye size={16} />
+                                  </button>
+                                ) : (
+                                  <button
+                                    className="watchlist-btn"
+                                    onClick={() => handleAddToWatchlist(facility, 'Added for investigation')}
+                                    title="Add to watchlist"
+                                  >
+                                    <Eye size={16} />
+                                  </button>
+                                )}
+                              </td>
                             </tr>
                           ))}
                         </tbody>
                       </table>
-                      <p className="table-hint">* = estimated capacity | Click any row to view details</p>
+                      <p className="table-hint">* = estimated capacity | Click any row to view details | <Eye size={12} style={{verticalAlign: 'middle'}} /> = watchlist</p>
                     </div>
 
-                    {filteredFacilities.length > 100 && (
+                    {(advancedFilteredFacilities.length > 0 ? advancedFilteredFacilities : filteredFacilities).length > 100 && (
                       <p className="table-note">
-                        Showing first 100 of {filteredFacilities.length.toLocaleString()} facilities.
+                        Showing first 100 of {(advancedFilteredFacilities.length > 0 ? advancedFilteredFacilities : filteredFacilities).length.toLocaleString()} facilities.
                         Use search to filter results.
                       </p>
                     )}
 
-                    {filteredFacilities.length === 0 && facilitySearch && (
+                    {advancedFilteredFacilities.length === 0 && filteredFacilities.length === 0 && (
                       <p className="table-note">
-                        No facilities match your search. Try a different term.
+                        No facilities match your search. Try different filters.
                       </p>
                     )}
                   </div>
@@ -704,6 +768,36 @@ function App() {
                     </div>
                   </div>
                 )}
+
+                {activeTab === 'network' && (
+                  <div className="tab-content">
+                    <NetworkAnalysisPanel
+                      facilities={filteredFacilities}
+                      networkAnalysis={networkAnalysis}
+                      onFacilityClick={setSelectedFacility}
+                    />
+                  </div>
+                )}
+
+                {activeTab === 'analytics' && (
+                  <div className="tab-content">
+                    <AnalyticsDashboard
+                      facilities={filteredFacilities}
+                      stateData={stateData}
+                    />
+                  </div>
+                )}
+
+                {activeTab === 'watchlist' && (
+                  <div className="tab-content">
+                    <WatchlistPanel
+                      watchlist={watchlistItems}
+                      facilities={facilities}
+                      onRemove={handleRemoveFromWatchlist}
+                      onFacilityClick={setSelectedFacility}
+                    />
+                  </div>
+                )}
               </>
             )}
           </section>
@@ -725,6 +819,9 @@ function App() {
           }
           zipStats={zipStats[(selectedFacility.zip_code || '').substring(0, 5)]}
           stateId={selectedState}
+          onAddToWatchlist={handleAddToWatchlist}
+          isInWatchlist={isInWatchlist(selectedFacility.license_number)}
+          onRemoveFromWatchlist={handleRemoveFromWatchlist}
         />
       )}
 
