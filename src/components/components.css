@@ -132,6 +132,11 @@
   align-items: center;
   gap: 0.5rem;
   font-size: 0.9rem;
+  color: var(--navy-900);
+}
+
+.network-title strong {
+  color: var(--navy-900);
 }
 
 .network-count {
