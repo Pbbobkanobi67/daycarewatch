@@ -208,6 +208,29 @@ const FacilityDetail = ({
         )}
 
         <div className="facility-detail-body">
+          {/* External Links - Verify with Official Sources */}
+          <section className="detail-section verify-section">
+            <h3>
+              <ExternalLink size={18} />
+              Verify with Official Sources
+            </h3>
+            <div className="external-links">
+              {getExternalLinks().map((link, idx) => (
+                <a
+                  key={idx}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="external-link-button"
+                >
+                  {link.icon}
+                  {link.label}
+                  <ExternalLink size={12} />
+                </a>
+              ))}
+            </div>
+          </section>
+
           {/* Investigation Flags */}
           {riskAssessment && riskAssessment.flags.length > 0 && (
             <section className="detail-section flags-section">
@@ -412,29 +435,6 @@ const FacilityDetail = ({
               )}
             </section>
           )}
-
-          {/* External Links */}
-          <section className="detail-section">
-            <h3>
-              <ExternalLink size={18} />
-              Verify with Official Sources
-            </h3>
-            <div className="external-links">
-              {getExternalLinks().map((link, idx) => (
-                <a
-                  key={idx}
-                  href={link.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="external-link-button"
-                >
-                  {link.icon}
-                  {link.label}
-                  <ExternalLink size={12} />
-                </a>
-              ))}
-            </div>
-          </section>
 
           {/* Data Disclaimer */}
           <section className="detail-section disclaimer-section">
