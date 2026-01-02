@@ -1740,24 +1740,85 @@ tr.flagged-row:hover {
 
 /* Print Styles */
 @media print {
+  /* Hide everything except the modal */
+  body * {
+    visibility: hidden;
+  }
+
+  .facility-detail-overlay,
+  .facility-detail-overlay * {
+    visibility: visible;
+  }
+
   .facility-detail-overlay {
-    position: static;
-    background: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
     padding: 0;
   }
 
   .facility-detail-modal {
+    position: relative;
+    max-width: 100%;
     max-height: none;
     box-shadow: none;
     border-radius: 0;
+    margin: 0;
+    overflow: visible;
   }
 
   .facility-detail-header .close-button,
-  .facility-detail-footer {
+  .facility-detail-footer .close-button-secondary {
+    display: none;
+  }
+
+  .print-button {
     display: none;
   }
 
   .external-link-button {
     border: 1px solid #000;
+    background: white;
+  }
+
+  /* Ensure sections don't break awkwardly */
+  .detail-section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .flag-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Add URL after external links for reference */
+  .external-link-button::after {
+    content: " (" attr(href) ")";
+    font-size: 0.7rem;
+    color: #666;
+  }
+
+  /* Header for printed report */
+  .facility-detail-header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Risk banner prints well */
+  .risk-score-banner {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Make sure colors print */
+  .flag-item,
+  .status-badge,
+  .risk-badge {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 }
