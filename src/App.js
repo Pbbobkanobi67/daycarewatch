@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin } from 'lucide-react';
 import './App.css';
 import './components/components.css';
 
@@ -13,6 +13,7 @@ import WatchlistPanel from './components/WatchlistPanel';
 import InvestigationBanner from './components/InvestigationBanner';
 import AdvancedSearch from './components/AdvancedSearch';
 import AnalyticsDashboard from './components/AnalyticsDashboard';
+import HeatMap from './components/HeatMap';
 import { buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
 import { addToWatchlist, removeFromWatchlist, isInWatchlist, getWatchlist } from './utils/watchlist';
 import { analyzeNetworks } from './utils/networkAnalysis';
@@ -549,6 +550,12 @@ function App() {
                   >
                     <BookMarked size={16} /> Watchlist ({watchlistItems.length})
                   </button>
+                  <button
+                    className={`tab ${activeTab === 'map' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('map')}
+                  >
+                    <MapPin size={16} /> Map
+                  </button>
                 </div>
 
                 {activeTab === 'overview' && (
@@ -794,6 +801,15 @@ function App() {
                       watchlist={watchlistItems}
                       facilities={facilities}
                       onRemove={handleRemoveFromWatchlist}
+                      onFacilityClick={setSelectedFacility}
+                    />
+                  </div>
+                )}
+
+                {activeTab === 'map' && (
+                  <div className="tab-content">
+                    <HeatMap
+                      facilities={filteredFacilities}
                       onFacilityClick={setSelectedFacility}
                     />
                   </div>
