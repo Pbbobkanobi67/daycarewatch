@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55051-1227",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448782",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082966"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082966",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090219",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55051-1609",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449227",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090219"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090219",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109602",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55051-1830",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449234",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109602"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109602",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081809",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449642",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081809"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081809",
+    "capacity_estimated": true
   },
   {
     "license_number": "806286",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450371",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806286",
+    "capacity_estimated": true
   },
   {
     "license_number": "236560",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55051-7713",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451394",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236560"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236560",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042437",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55051-1504",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451421",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042437"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042437",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029790",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451430",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029790"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029790",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109528",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55051-1414",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451718",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109528",
+    "capacity_estimated": true
   },
   {
     "license_number": "219910",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55051-6833",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452943",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219910"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219910",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020105",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453536",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020105"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020105",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105321",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55051-7512",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454375",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105321"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105321",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104218",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55051-6520",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455132",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104218"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104218",
+    "capacity_estimated": true
   },
   {
     "license_number": "226746",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55051-1734",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455141",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226746"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226746",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098863",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56358",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455283",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098863"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098863",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104542",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55051-1606",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455691",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104542",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078216",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55051-1737",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456254",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078216"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078216",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026663",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456540",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026663"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026663",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031844",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457521",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031844"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031844",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108981",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55051-6518",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458043",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108981"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108981",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077261",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458202",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077261"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077261",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043767",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55051",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043767"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043767",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086957",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56358",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459406",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086957"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086957",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116220",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56358-3631",
     "county": "Kanabec",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,6 +548,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459459",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116220"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116220",
+    "capacity_estimated": true
   }
 ]

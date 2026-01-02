@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56220",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447801",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800303"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800303",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094281",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56241-1144",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448331",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094281"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094281",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092974",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56241-1061",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449604",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092974"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092974",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114443",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56220-1237",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449958",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114443"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114443",
+    "capacity_estimated": true
   },
   {
     "license_number": "233077",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56220",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451340",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233077"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233077",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065047",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56241",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451486",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065047"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065047",
+    "capacity_estimated": true
   },
   {
     "license_number": "191010",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56220",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451676",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191010"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191010",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075335",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56241",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451758",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075335"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075335",
+    "capacity_estimated": true
   },
   {
     "license_number": "211721",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56220-1035",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453040",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211721"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211721",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075989",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56220",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453621",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075989"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075989",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109621",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56220-1033",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454020",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109621"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109621",
+    "capacity_estimated": true
   },
   {
     "license_number": "229524",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56241",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454668",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229524"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229524",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105228",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56220-1122",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454923",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105228"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105228",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117019",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56220-1333",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117019",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107026",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56220-1046",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459077",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107026"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107026",
+    "capacity_estimated": true
   },
   {
     "license_number": "206003",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56220-3315",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459437",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206003"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206003",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052238",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56241",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459598",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052238"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052238",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047881",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56241",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460491",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047881"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047881",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080360",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56220",
     "county": "Yellow Medicine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,6 +433,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461082",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080360",
+    "capacity_estimated": true
   }
 ]

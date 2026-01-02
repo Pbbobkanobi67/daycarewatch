@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449657",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083795",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058660",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449873",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058660"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058660",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096811",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452309",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096811"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096811",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059472",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56283-2713",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452806",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059472"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059472",
+    "capacity_estimated": true
   },
   {
     "license_number": "806383",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806383"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806383",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061102",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56283-2242",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455419",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061102"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061102",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109804",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56283-1866",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455610",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109804"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109804",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087694",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456593",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098437",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456617",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098437"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098437",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112350",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56283-2242",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456657",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112350"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112350",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075354",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458207",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075354"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075354",
+    "capacity_estimated": true
   },
   {
     "license_number": "1003234",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56283-1914",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458842",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003234"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003234",
+    "capacity_estimated": true
   },
   {
     "license_number": "1027007",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458934",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027007"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027007",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103571",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56283-1858",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458994",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103571"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103571",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096124",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56283-1851",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459020",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096124"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096124",
+    "capacity_estimated": true
   },
   {
     "license_number": "218498",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459301",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074596",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459535",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074596"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074596",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075353",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075353"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075353",
+    "capacity_estimated": true
   },
   {
     "license_number": "223671",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56283",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459613",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223671"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223671",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009942",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56283-2272",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459675",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009942"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009942",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108655",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56283-1670",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461323",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108655"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108655",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089240",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56283-1879",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461481",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089240"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089240",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095424",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56283-1879",
     "county": "Redwood",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,6 +525,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461830",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095424"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095424",
+    "capacity_estimated": true
   }
 ]

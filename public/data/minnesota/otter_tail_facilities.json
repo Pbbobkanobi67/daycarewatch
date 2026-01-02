@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56537-1062",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447889",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800394"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800394",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057341",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447902",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057341"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057341",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110731",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56573-2337",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448146",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110363",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56537-3754",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448411",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110363"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110363",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012865",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56482",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012865"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012865",
+    "capacity_estimated": true
   },
   {
     "license_number": "801369",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448812",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801369",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091751",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449857",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091751"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091751",
+    "capacity_estimated": true
   },
   {
     "license_number": "802387",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449954",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095620",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56515-0000",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450082",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095620",
+    "capacity_estimated": true
   },
   {
     "license_number": "802546",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56567",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450147",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802546"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802546",
+    "capacity_estimated": true
   },
   {
     "license_number": "830574",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56537-1051",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450148",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830574",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114081",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56537-1281",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450246",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116001",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56573-1160",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450257",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116001"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116001",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114085",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56482-1444",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450258",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114085"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114085",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114082",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56572-7416",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450263",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114082"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114082",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044580",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56537-3320",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450428",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044580"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044580",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074985",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56482",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450455",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074985"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074985",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086193",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450473",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086193",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079081",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56551-9237",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451266",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079081",
+    "capacity_estimated": true
   },
   {
     "license_number": "190425",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56551-4004",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451315",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190425"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190425",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110645",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56567-9365",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110645",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097016",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451446",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097016"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097016",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099758",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56482-2336",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451477",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099758"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099758",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114961",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56537-2722",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451534",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114961"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114961",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100297",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56537-3301",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451537",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100297"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100297",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064526",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56482-1313",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451764",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064526"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064526",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008750",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56573-8731",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451919",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008750"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008750",
+    "capacity_estimated": true
   },
   {
     "license_number": "212665",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56537-2646",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212665"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212665",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098258",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452030",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098258"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098258",
+    "capacity_estimated": true
   },
   {
     "license_number": "191793",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56537-7504",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452047",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191793"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191793",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116580",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56572-4508",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452294",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116580"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116580",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106828",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56567-9142",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452379",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106828"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106828",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060064",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56537-1049",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452446",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060064"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060064",
+    "capacity_estimated": true
   },
   {
     "license_number": "807969",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56537-1045",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452490",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807969"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807969",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109672",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56567-8933",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452531",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109672"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109672",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114943",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56537-2315",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452542",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114943",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080545",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56537-3405",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452831",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080545"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080545",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074117",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56537-3224",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074117"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074117",
+    "capacity_estimated": true
   },
   {
     "license_number": "200446",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56537-1729",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453261",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200446"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200446",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114058",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56567-8957",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453269",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114058"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114058",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049672",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56572-4512",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453288",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049672"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049672",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061567",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56573-8127",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453425",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061567"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061567",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066644",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56573-1500",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453568",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066644",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094037",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56567",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094037"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094037",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014777",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56572",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453608",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014777"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014777",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008395",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56573-8147",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453629",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008395"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008395",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103933",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56573-8831",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453734",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103933"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103933",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106268",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56537-1701",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453772",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106268"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106268",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083500",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56572-4645",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453988",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083500"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083500",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094038",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56573-1903",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454008",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094038"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094038",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108126",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56573-8917",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454225",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108126"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108126",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115742",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56572-0000",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454278",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115742"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115742",
+    "capacity_estimated": true
   },
   {
     "license_number": "106282",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56537-1264",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454303",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106282"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106282",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111090",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56537-7522",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454311",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111090"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111090",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098469",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56572",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098469"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098469",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097091",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56537-3721",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454385",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097091",
+    "capacity_estimated": true
   },
   {
     "license_number": "231167",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56573-2321",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454394",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231167"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231167",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101631",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56567-9142",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454566",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101631",
+    "capacity_estimated": true
   },
   {
     "license_number": "231940",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56537-1101",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454594",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231940"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231940",
+    "capacity_estimated": true
   },
   {
     "license_number": "220976",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56482-4654",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454960",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220976"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220976",
+    "capacity_estimated": true
   },
   {
     "license_number": "107366",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56537-2273",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455039",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107366"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107366",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109269",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56515-9619",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455090",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109269"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109269",
+    "capacity_estimated": true
   },
   {
     "license_number": "211707",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56537-1726",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455302",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211707"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211707",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091286",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078421",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455315",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078421"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078421",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039066",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56482",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455495",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039066"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039066",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111183",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56573-8106",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455534",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111183"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111183",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000990",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56573-1329",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455802",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093203",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56537-7721",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093203",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050390",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56537-3953",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456109",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050390"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050390",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112799",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56537-8221",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456113",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112799"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112799",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106005",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56482-4604",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106005"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106005",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104455",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56573-1669",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456295",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113721",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56573-2326",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456325",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113721"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113721",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106250",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56551-4301",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456486",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106250"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106250",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107261",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56572-4308",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456494",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107261"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107261",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080317",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456564",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080317"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080317",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076836",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56537-3614",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456643",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076836"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076836",
+    "capacity_estimated": true
   },
   {
     "license_number": "1001347",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56537-1740",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456666",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001347",
+    "capacity_estimated": true
   },
   {
     "license_number": "104213",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56537-2513",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456714",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104213"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104213",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108327",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56482-1349",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456803",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105643",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56482-1847",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105643"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105643",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085324",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56572",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457015",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085324"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085324",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105539",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56567-9376",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457056",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105539"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105539",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084188",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56573-0000",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457089",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084188"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084188",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002414",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56573-1456",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457113",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002414"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002414",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099714",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56537-4506",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457220",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099714"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099714",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075616",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56567-4310",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457269",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075616"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075616",
+    "capacity_estimated": true
   },
   {
     "license_number": "236475",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56537-1821",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457359",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236475"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236475",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079841",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457384",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079841"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079841",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106402",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56537-1533",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457388",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106402"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106402",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059396",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "56537-3316",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059396",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075392",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458072",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075392"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075392",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114598",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "56567-4401",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458089",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114598"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114598",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085899",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "56537-2513",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458137",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085899",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087965",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "56537-1547",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458337",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087965"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087965",
+    "capacity_estimated": true
   },
   {
     "license_number": "211682",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "56482-2332",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458490",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211682"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211682",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115390",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "56537-7207",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458721",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115390"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115390",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078295",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "56572",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458726",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078295"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078295",
+    "capacity_estimated": true
   },
   {
     "license_number": "221813",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "56537-4323",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458781",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221813"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221813",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081248",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458858",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081248"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081248",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084076",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458920",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084076"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084076",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094036",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458924",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094036"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094036",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113940",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "56537-1129",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458927",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113940"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113940",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080318",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459039",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080318"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080318",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020141",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "56482",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459073",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020141"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020141",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074008",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "56482",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459100",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074008"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074008",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065369",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "56482-4615",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459105",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065369",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066634",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459108",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066634"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066634",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111838",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "56537-1934",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459145",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111838"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111838",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109271",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "56573-8701",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459240",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109271"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109271",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004801",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "56551-9512",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004801"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004801",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117301",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "56572-4140",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459389",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117301"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117301",
+    "capacity_estimated": true
   },
   {
     "license_number": "115036",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "56537-3761",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459405",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115036"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115036",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105920",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "56482-2119",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459408",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105920"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105920",
+    "capacity_estimated": true
   },
   {
     "license_number": "809766",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "56537-4622",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459561",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809766"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809766",
+    "capacity_estimated": true
   },
   {
     "license_number": "216344",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "56567-4500",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459565",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216344"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216344",
+    "capacity_estimated": true
   },
   {
     "license_number": "225532",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "56573-2402",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459844",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225532"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225532",
+    "capacity_estimated": true
   },
   {
     "license_number": "231237",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "56537-1442",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460010",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231237",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040187",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "56573-1610",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460038",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040187"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040187",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105271",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "56482-1972",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460039",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105271"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105271",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082067",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "56537-2003",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,7 +2802,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460056",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082067"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082067",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106798",
@@ -2693,7 +2815,7 @@
     "state": "MN",
     "zip_code": "56482-1980",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2703,7 +2825,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460145",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106798"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106798",
+    "capacity_estimated": true
   },
   {
     "license_number": "227543",
@@ -2715,7 +2838,7 @@
     "state": "MN",
     "zip_code": "56537-1207",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2725,7 +2848,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460281",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227543"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227543",
+    "capacity_estimated": true
   },
   {
     "license_number": "232015",
@@ -2737,7 +2861,7 @@
     "state": "MN",
     "zip_code": "56537",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2747,7 +2871,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460293",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232015"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232015",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114015",
@@ -2759,7 +2884,7 @@
     "state": "MN",
     "zip_code": "56537-2908",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2769,7 +2894,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460373",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114015"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114015",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113666",
@@ -2781,7 +2907,7 @@
     "state": "MN",
     "zip_code": "56515-4014",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2791,7 +2917,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460436",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113666"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113666",
+    "capacity_estimated": true
   },
   {
     "license_number": "230931",
@@ -2803,7 +2930,7 @@
     "state": "MN",
     "zip_code": "56537-3758",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2813,7 +2940,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460580",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230931"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230931",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105186",
@@ -2825,7 +2953,7 @@
     "state": "MN",
     "zip_code": "56482-1970",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2835,7 +2963,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460713",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105186",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098103",
@@ -2847,7 +2976,7 @@
     "state": "MN",
     "zip_code": "56573-2072",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2857,7 +2986,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460841",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098103"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098103",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116250",
@@ -2869,7 +2999,7 @@
     "state": "MN",
     "zip_code": "56482-1929",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2879,7 +3009,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116250"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116250",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074789",
@@ -2891,7 +3022,7 @@
     "state": "MN",
     "zip_code": "56573",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2901,7 +3032,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460906",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074789"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074789",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089532",
@@ -2913,7 +3045,7 @@
     "state": "MN",
     "zip_code": "56572-7416",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2923,7 +3055,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461504",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089532"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089532",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115384",
@@ -2935,7 +3068,7 @@
     "state": "MN",
     "zip_code": "56537-1580",
     "county": "Otter Tail",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2945,6 +3078,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461564",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115384"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115384",
+    "capacity_estimated": true
   }
 ]

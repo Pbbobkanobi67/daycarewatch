@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448726",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035820"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035820",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114084",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56381-4623",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450255",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114084"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114084",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079326",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56381",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450395",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079326"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079326",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105895",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56334-2117",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451275",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105895"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105895",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087970",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453008",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087970"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087970",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049646",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453441",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049646"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049646",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113677",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56334-1707",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454725",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113677"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113677",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074263",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455209",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074263"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074263",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111181",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56334-2111",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455628",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111181"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111181",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110180",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56334-4089",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456132",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110180"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110180",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100545",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56334-0000",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100545"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100545",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021764",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456394",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021764"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021764",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090486",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456567",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090486"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090486",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059301",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56334-2351",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456633",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059301"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059301",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094711",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56381",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457098",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114603",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56334-4176",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114603"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114603",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102571",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56381-2458",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458228",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102571"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102571",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113723",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56381-9504",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458244",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113723"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113723",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050041",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56334",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460557",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050041"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050041",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097066",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56381-9782",
     "county": "Pope",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,6 +456,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461595",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097066"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097066",
+    "capacity_estimated": true
   }
 ]

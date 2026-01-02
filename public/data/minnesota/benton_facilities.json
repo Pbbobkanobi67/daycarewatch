@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56329-4534",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112247"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112247",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036649",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56379-0000",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448376",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036649"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036649",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017050",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449590",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017050"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017050",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095685",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56329-9195",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450032",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095685"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095685",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101935",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56379-2714",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450277",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101935"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101935",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097855",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56379-0000",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451548",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097855"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097855",
+    "capacity_estimated": true
   },
   {
     "license_number": "190822",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56379-1809",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451564",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190822"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190822",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100921",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56367-9532",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451904",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100921"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100921",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062602",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451922",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062602"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062602",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099577",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56379-8604",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451975",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099577"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099577",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066062",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452074",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066062"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066062",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046162",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452075",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046162",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091554",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56379-2801",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452098",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091554"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091554",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099500",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56379-4560",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452357",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099500"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099500",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000496",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452833",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000496"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000496",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074365",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452910",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074365"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074365",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041953",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56379-4502",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041953"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041953",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101857",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56379-5801",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453051",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101857"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101857",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031991",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453157",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031991"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031991",
+    "capacity_estimated": true
   },
   {
     "license_number": "104904",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56379-2511",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453590",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104904"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104904",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009685",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009685"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009685",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091722",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453813",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091722"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091722",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113659",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56379-2416",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453940",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113659"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113659",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045795",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454043",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045795",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079278",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56379-0000",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454095",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079278"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079278",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111338",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56379-2810",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454362",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111338"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111338",
+    "capacity_estimated": true
   },
   {
     "license_number": "1027026",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454526",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027026"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027026",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000072",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454536",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000072"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000072",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083386",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454583",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083386",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107124",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56367-4546",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455128",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107124"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107124",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115988",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56329-9147",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455136",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115988"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115988",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111558",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56379-1502",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455326",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111558"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111558",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007246",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56329-9313",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455342",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007246"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007246",
+    "capacity_estimated": true
   },
   {
     "license_number": "218393",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455552",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218393"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218393",
+    "capacity_estimated": true
   },
   {
     "license_number": "1070263",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455564",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1070263"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1070263",
+    "capacity_estimated": true
   },
   {
     "license_number": "206379",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56329-9708",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455567",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206379"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206379",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045643",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56367-9692",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455577",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045643"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045643",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087231",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455582",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087231"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087231",
+    "capacity_estimated": true
   },
   {
     "license_number": "227473",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56379-9564",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455608",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227473"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227473",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114463",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56329-9024",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455788",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114463"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114463",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106037",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56379-2309",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455918",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106037"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106037",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079517",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455923",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079517"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079517",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063341",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455981",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063341"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063341",
+    "capacity_estimated": true
   },
   {
     "license_number": "221195",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56379-9425",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456037",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221195"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221195",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004606",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456199",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004606"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004606",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103375",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56367-8838",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103375"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103375",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087178",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56367-7505",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456308",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087178",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106267",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56379-9408",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456345",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106267"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106267",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059652",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456490",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059652"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059652",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021455",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456578",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062360",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456592",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100613",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56329-2100",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456626",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100613"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100613",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081431",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456774",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081431"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081431",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114419",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56367-8842",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457175",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114419"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114419",
+    "capacity_estimated": true
   },
   {
     "license_number": "111320",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111320"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111320",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102950",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56379-2227",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457210",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102950"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102950",
+    "capacity_estimated": true
   },
   {
     "license_number": "222324",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457643",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222324"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222324",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028116",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457668",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028116"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028116",
+    "capacity_estimated": true
   },
   {
     "license_number": "232291",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56379-2245",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457861",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232291",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037444",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56367-7631",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457917",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037444"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037444",
+    "capacity_estimated": true
   },
   {
     "license_number": "231834",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457986",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231834"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231834",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073963",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458046",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073963",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065488",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458055",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065488"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065488",
+    "capacity_estimated": true
   },
   {
     "license_number": "233384",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56367-8715",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458130",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233384"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233384",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063819",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458153",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063819"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063819",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098809",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458189",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098809"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098809",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115321",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56379-2613",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458217",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115321"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115321",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108455",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56379-4513",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458230",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107506",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56329-9570",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458266",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107506"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107506",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099327",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56367-8708",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458311",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091457",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56367-9831",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458431",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091457"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091457",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107507",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56367-8637",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458494",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107507"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107507",
+    "capacity_estimated": true
   },
   {
     "license_number": "113503",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458524",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113503"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113503",
+    "capacity_estimated": true
   },
   {
     "license_number": "225658",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56379-2580",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458627",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106848",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56329-8703",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458706",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106848"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106848",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059332",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458733",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059332"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059332",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055944",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458810",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055944"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055944",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052192",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458834",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052192"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052192",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083791",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458877",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083791"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083791",
+    "capacity_estimated": true
   },
   {
     "license_number": "210542",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459004",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210542",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048799",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459088",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048799"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048799",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109821",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56367-4510",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459321",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109821"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109821",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115872",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56367-4547",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459509",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115872"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115872",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106304",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56367-4590",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459610",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106304"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106304",
+    "capacity_estimated": true
   },
   {
     "license_number": "203475",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56379-2433",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459657",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203475"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203475",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036191",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459670",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036191"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036191",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047525",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459848",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047525",
+    "capacity_estimated": true
   },
   {
     "license_number": "1001778",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460082",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001778"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001778",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091885",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56367-9807",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460143",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091885"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091885",
+    "capacity_estimated": true
   },
   {
     "license_number": "212029",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56329-9566",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460241",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212029"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212029",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036422",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460313",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036422"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036422",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050882",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "56379-9725",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460342",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050882"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050882",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079964",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460406",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079964"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079964",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104459",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "56379-1364",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460421",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104459"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104459",
+    "capacity_estimated": true
   },
   {
     "license_number": "205375",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460577",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205375"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205375",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083360",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "56367-9509",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460591",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107509",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "56329-0000",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460626",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107509"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107509",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090974",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "56367",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460654",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090974"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090974",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080139",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "56329-0000",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080139"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080139",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073685",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "56329",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460944",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073685"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073685",
+    "capacity_estimated": true
   },
   {
     "license_number": "233125",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "56379",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461074",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233125"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233125",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102354",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "56329-8752",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461338",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102354"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102354",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089283",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "56379-1301",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461938",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089283"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089283",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089279",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "56379-2337",
     "county": "Benton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,6 +2388,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461942",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089279"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089279",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56701-2928",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448081",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800657"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800657",
+    "capacity_estimated": true
   },
   {
     "license_number": "803870",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450061",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=803870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=803870",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093752",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450513",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093752"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093752",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113129",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56701-1641",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450534",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113129"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113129",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111773",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56701-8546",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451296",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111773"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111773",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075746",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451359",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075746"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075746",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113915",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56701-4001",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451483",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113915"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113915",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105919",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56701-8536",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451515",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105919"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105919",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113455",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56701-3007",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452044",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094796",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56701-4011",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452045",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094796"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094796",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094093",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56701-8533",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452163",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111466",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56701-3307",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452432",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111466"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111466",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043110",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56701-2550",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452567",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043110"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043110",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112745",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56701-1917",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452906",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112745"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112745",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116470",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56701-1433",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453156",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116470"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116470",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110205",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56701-1220",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453215",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110205"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110205",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052165",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56701-2410",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453228",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052165",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043716",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453693",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043716",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111476",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56701-3410",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453711",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111476"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111476",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053873",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56701-8459",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453832",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053873"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053873",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038946",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454197",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038946"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038946",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095406",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56701-8563",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454774",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095406"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095406",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048594",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455021",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048594",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057328",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56701-3307",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455098",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007612",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56701-3940",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455194",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007612"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007612",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111399",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56701-1629",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455279",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111399"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111399",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086606",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455453",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086606"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086606",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112039",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56701-3615",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455554",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112039"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112039",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116581",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56701-4329",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455715",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116581"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116581",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051075",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56701-8414",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456088",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051075",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045895",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56701-0000",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456188",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045895"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045895",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112251",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56701-1627",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456243",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112251"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112251",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111102",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56701-1509",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456246",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111102"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111102",
+    "capacity_estimated": true
   },
   {
     "license_number": "211976",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56701-1433",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456682",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211976"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211976",
+    "capacity_estimated": true
   },
   {
     "license_number": "233645",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56701-2826",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457193",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233645",
+    "capacity_estimated": true
   },
   {
     "license_number": "808017",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56701-9293",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457674",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808017"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808017",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115034",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56701-2716",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115034"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115034",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002543",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56701-2333",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459310",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002543"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002543",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076935",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460027",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076935"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076935",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102352",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56701-3212",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460599",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102352",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062636",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460788",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062636"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062636",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050138",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56701",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461376",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050138"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050138",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089344",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56701-4004",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461518",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089344"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089344",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097141",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56701-3335",
     "county": "Pennington",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,6 +1008,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461962",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097141"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097141",
+    "capacity_estimated": true
   }
 ]

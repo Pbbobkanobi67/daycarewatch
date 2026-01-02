@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447548",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807340"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807340",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048644",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448445",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048644",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000467",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55981-1452",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449856",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000467"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000467",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030248",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55041",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449935",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030248"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030248",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007149",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55932-5268",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450122",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007149"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007149",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000081",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55981",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450216",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000081",
+    "capacity_estimated": true
   },
   {
     "license_number": "217411",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55041",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451612",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217411"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217411",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061110",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451692",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061110"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061110",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110898",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55964-1521",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451702",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110898"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110898",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103372",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55964-3050",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452050",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103372"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103372",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062325",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55041-1806",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452644",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062325"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062325",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058937",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55932",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452865",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058937"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058937",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089825",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55041-1149",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453042",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089825"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089825",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078207",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55964-4524",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453466",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078207"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078207",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112724",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55981-1031",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453740",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112724"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112724",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060523",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55932",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454090",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060523"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060523",
+    "capacity_estimated": true
   },
   {
     "license_number": "206887",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55041-2020",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454201",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206887"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206887",
+    "capacity_estimated": true
   },
   {
     "license_number": "809939",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55041",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454339",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809939"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809939",
+    "capacity_estimated": true
   },
   {
     "license_number": "227751",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227751"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227751",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111245",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55041-2027",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454590",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111245"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111245",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053025",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55932",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454909",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053025"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053025",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024019",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454971",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024019",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105493",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55932-9694",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105493"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105493",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084627",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455872",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084627",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076367",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55964-1062",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456050",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076367"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076367",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074772",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55981",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456146",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074772"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074772",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104327",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55041-2102",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456162",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104327",
+    "capacity_estimated": true
   },
   {
     "license_number": "217622",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217622"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217622",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105469",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55981-9647",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456902",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105469"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105469",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113233",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55981-1720",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456912",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113233"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113233",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111812",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55981-7500",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456914",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111812"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111812",
+    "capacity_estimated": true
   },
   {
     "license_number": "203445",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55041-1309",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456994",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203445"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203445",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114695",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55981-1622",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457097",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114695"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114695",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017221",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55932",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457257",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017221"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017221",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101861",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55964-1433",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101861"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101861",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050183",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55041",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458022",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050183"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050183",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076488",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55041",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458585",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076488"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076488",
+    "capacity_estimated": true
   },
   {
     "license_number": "210043",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55981-1037",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210043"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210043",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107705",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55932-5253",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458635",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107705"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107705",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045696",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55932-5276",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459085",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045696"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045696",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098556",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459093",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098556"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098556",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026195",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55964-5964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459127",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026195"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026195",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049523",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55041",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459171",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049523"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049523",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100369",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55932-9671",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459428",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100369",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004769",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459740",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004769"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004769",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086927",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459875",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086927"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086927",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092532",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55041-9572",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459883",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092532"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092532",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086609",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55964",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460123",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086609",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081732",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55932-5254",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460264",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081732"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081732",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110181",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55041-3254",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460420",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110181"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110181",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100370",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55932-5251",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460434",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100370"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100370",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077062",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55932",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460642",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077062"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077062",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063797",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55964-3157",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460660",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054885",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55041-6300",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460830",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054885"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054885",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114441",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55932-2632",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460930",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097781",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55041-2186",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097781"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097781",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075949",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55981",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460955",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075949"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075949",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051770",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55041-2123",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461057",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051770",
+    "capacity_estimated": true
   },
   {
     "license_number": "213296",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55041-2132",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461370",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213296"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213296",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089315",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55041-2175",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461467",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089315"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089315",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089319",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55981-1781",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461561",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089319",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089420",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55964-1033",
     "county": "Wabasha",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,6 +1422,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462046",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089420",
+    "capacity_estimated": true
   }
 ]

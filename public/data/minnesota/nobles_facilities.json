@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56187-0000",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448372",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099967"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099967",
+    "capacity_estimated": true
   },
   {
     "license_number": "801030",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56187",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801030",
+    "capacity_estimated": true
   },
   {
     "license_number": "809456",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56187",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448590",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809456"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809456",
+    "capacity_estimated": true
   },
   {
     "license_number": "803815",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56187-2445",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450267",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=803815"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=803815",
+    "capacity_estimated": true
   },
   {
     "license_number": "200689",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56187-1357",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200689",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043516",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56187-6260",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451932",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043516"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043516",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088376",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56187",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453232",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088376",
+    "capacity_estimated": true
   },
   {
     "license_number": "104928",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56187-1965",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453600",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104928"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104928",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002097",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56187",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453873",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002097"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002097",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064186",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56187-1320",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064186",
+    "capacity_estimated": true
   },
   {
     "license_number": "206187",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56187-2234",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206187"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206187",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010684",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56187-1129",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455750",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010684"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010684",
+    "capacity_estimated": true
   },
   {
     "license_number": "227038",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56187-2231",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456143",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227038"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227038",
+    "capacity_estimated": true
   },
   {
     "license_number": "109795",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56187-9548",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109795",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052148",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56187",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456622",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052148"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052148",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099190",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56187",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458651",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099190"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099190",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099985",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56187-1120",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459537",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099985"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099985",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094654",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56187-0000",
     "county": "Nobles",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,6 +410,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459643",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094654"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094654",
+    "capacity_estimated": true
   }
 ]

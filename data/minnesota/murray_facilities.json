@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56172",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450292",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802724"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802724",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067162",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56172-1439",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450415",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067162",
+    "capacity_estimated": true
   },
   {
     "license_number": "227362",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56172-1540",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451894",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227362"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227362",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040658",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56172-1410",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452042",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040658",
+    "capacity_estimated": true
   },
   {
     "license_number": "120359",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56172-1534",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452658",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120359"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120359",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056021",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56172-1845",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453183",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094630",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56172-1429",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453742",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094630",
+    "capacity_estimated": true
   },
   {
     "license_number": "220851",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56172-1506",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455173",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220851"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220851",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091666",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56172",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455919",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091666"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091666",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052409",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56172-1233",
     "county": "Murray",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,6 +226,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458292",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052409"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052409",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56353-1809",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447584",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049848"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049848",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074359",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56330",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451418",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074359"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074359",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096020",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56353",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451746",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096020"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096020",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099535",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56342-4709",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451909",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099535"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099535",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091047",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56353-4583",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091047"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091047",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088883",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56342",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454068",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088883"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088883",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114927",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56353-4444",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454782",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114927"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114927",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040346",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56359-2807",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040346"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040346",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107494",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56342-2651",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456084",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107494"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107494",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058930",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56353-4532",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456843",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058930"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058930",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091998",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56353",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456949",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091998"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091998",
+    "capacity_estimated": true
   },
   {
     "license_number": "219758",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56359",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457020",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219758"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219758",
+    "capacity_estimated": true
   },
   {
     "license_number": "111199",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56353-4030",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457145",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111199"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111199",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114462",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56353-1529",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457227",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114462"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114462",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106647",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56330-9418",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457338",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106647"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106647",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044263",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56342",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457543",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044263"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044263",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073522",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56330",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457877",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073522"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073522",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090214",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56353",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458023",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090214"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090214",
+    "capacity_estimated": true
   },
   {
     "license_number": "236243",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56359",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458165",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236243"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236243",
+    "capacity_estimated": true
   },
   {
     "license_number": "202834",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56353-3049",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458719",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202834"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202834",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079842",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56353-3722",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460432",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079842"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079842",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100418",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56353-3737",
     "county": "Mille Lacs",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,6 +502,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461100",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100418"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100418",
+    "capacity_estimated": true
   }
 ]

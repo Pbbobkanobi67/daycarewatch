@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448949",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019500"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019500",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107893",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56156-1209",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107893"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107893",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090160",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090160",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105587",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56156-1063",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452844",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105587"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105587",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113694",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56156-2016",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453107",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062840",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56156-1121",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453503",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062840"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062840",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111517",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56156-1136",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454283",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111517"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111517",
+    "capacity_estimated": true
   },
   {
     "license_number": "215992",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56156-2127",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454550",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215992",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051473",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56156-2132",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454827",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051473"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051473",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039062",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455143",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039062"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039062",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080219",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455250",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080219"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080219",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114037",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56156-1401",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455657",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114037"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114037",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078190",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456794",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078190"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078190",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065167",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457106",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065167"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065167",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032771",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032771"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032771",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075289",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457313",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075289"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075289",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039530",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457314",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039530"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039530",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092319",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56156-2123",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458960",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092319",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108532",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56156-4259",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459422",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108532"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108532",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075518",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56156-4149",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459452",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075518"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075518",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063396",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56156",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459896",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063396",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112574",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56156-1557",
     "county": "Rock",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,6 +502,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461314",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112574",
+    "capacity_estimated": true
   }
 ]

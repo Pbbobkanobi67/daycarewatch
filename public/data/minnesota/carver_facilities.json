@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55318-2841",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447589",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056538",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55386",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447595",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056538"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056538",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017489",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447596",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017489"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017489",
+    "capacity_estimated": true
   },
   {
     "license_number": "830823",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447848",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830823"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830823",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021418",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55317-8518",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447868",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021418"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021418",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088343",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55315",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447870",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088343"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088343",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083642",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55368",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447872",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083642"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083642",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046049",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55387-4552",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447875",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046049"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046049",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021919",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447911",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021919"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021919",
+    "capacity_estimated": true
   },
   {
     "license_number": "802378",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55388",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447926",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802378"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802378",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100328",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55317-9463",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448034",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018196",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55317-5300",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448228",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018196"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018196",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094407",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55387-4578",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448246",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094407"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094407",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088066",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448299",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088066"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088066",
+    "capacity_estimated": true
   },
   {
     "license_number": "801173",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448512",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801173"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801173",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110633",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55317-4560",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448525",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110633"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110633",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109871",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55318-0000",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448576",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109871"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109871",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101936",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55388-8257",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448593",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101936"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101936",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025224",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448676",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025224",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094109",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448735",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094109"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094109",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094113",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448742",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094113"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094113",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074042",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448764",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074042"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074042",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077022",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448795",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077022"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077022",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080452",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448837",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080452",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054866",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55317-9647",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448985",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054866"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054866",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111693",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55317-9364",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448991",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111693"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111693",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005122",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55317-9324",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449016",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005122"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005122",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109807",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55318-1354",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449158",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109807"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109807",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000964",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449306",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000964"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000964",
+    "capacity_estimated": true
   },
   {
     "license_number": "801673",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449334",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801673"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801673",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115770",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55315-0000",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449378",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115770",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079093",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449379",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079094",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079094"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079094",
+    "capacity_estimated": true
   },
   {
     "license_number": "810125",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810125"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810125",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064067",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449559",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064067"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064067",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099186",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55317-0015",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449659",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099186",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065534",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449790",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065534"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065534",
+    "capacity_estimated": true
   },
   {
     "license_number": "830831",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55318-2103",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449832",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830831"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830831",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074767",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55397",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449870",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074767"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074767",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018677",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55318-2114",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449937",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018677"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018677",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086836",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086836"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086836",
+    "capacity_estimated": true
   },
   {
     "license_number": "802548",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55387-1611",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450153",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802548"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802548",
+    "capacity_estimated": true
   },
   {
     "license_number": "808134",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55317-8419",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451368",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808134"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808134",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007101",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55387-1181",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451420",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084621",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451455",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084621"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084621",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076418",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55360",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451463",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076418"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076418",
+    "capacity_estimated": true
   },
   {
     "license_number": "205263",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55317-9651",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205263"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205263",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112108",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55388-8415",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112108"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112108",
+    "capacity_estimated": true
   },
   {
     "license_number": "216106",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55397-9267",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452070",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216106"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216106",
+    "capacity_estimated": true
   },
   {
     "license_number": "213587",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55387-9599",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452159",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213587"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213587",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088601",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55397-9245",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452180",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088601"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088601",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074017",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452413",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074017"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074017",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004458",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55386-8251",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452648",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004458"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004458",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112621",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55318-2933",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452723",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112621"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112621",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009606",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55387-1142",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453049",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009606"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009606",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093597",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55387-1138",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453109",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093597"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093597",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022189",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55339-9406",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453166",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022189"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022189",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065033",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55318-2425",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453169",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065033"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065033",
+    "capacity_estimated": true
   },
   {
     "license_number": "213768",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55318-2720",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453188",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213768",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025094",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55388-4592",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453359",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025094"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025094",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022111",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55387-9641",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453482",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022111"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022111",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082824",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453810",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082824"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082824",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099900",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55367-9315",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454203",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099900"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099900",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005293",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55315-9308",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005293"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005293",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030325",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55318-3236",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454264",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030325"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030325",
+    "capacity_estimated": true
   },
   {
     "license_number": "230385",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55388-8347",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454349",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230385"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230385",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105586",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55318-2733",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454366",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105586"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105586",
+    "capacity_estimated": true
   },
   {
     "license_number": "223518",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55387-9770",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454628",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223518"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223518",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082733",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55322-8004",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454708",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082733"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082733",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059734",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454726",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059734"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059734",
+    "capacity_estimated": true
   },
   {
     "license_number": "106782",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55397-9209",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454746",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106782"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106782",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078269",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454752",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078269"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078269",
+    "capacity_estimated": true
   },
   {
     "license_number": "809963",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55318-2713",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454848",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809963",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038078",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55317-8538",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455059",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038078"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038078",
+    "capacity_estimated": true
   },
   {
     "license_number": "229305",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55318-2870",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455144",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229305"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229305",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084431",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55388",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084431"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084431",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089887",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55315",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089887"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089887",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079340",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55387-9749",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455371",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079340"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079340",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017779",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "55317-6706",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455494",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017779"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017779",
+    "capacity_estimated": true
   },
   {
     "license_number": "108673",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "55318-1621",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455707",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108673"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108673",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109625",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "55315-4544",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455777",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109625"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109625",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113842",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "55315-2103",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455882",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113842"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113842",
+    "capacity_estimated": true
   },
   {
     "license_number": "228203",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "55388-4588",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455883",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228203",
+    "capacity_estimated": true
   },
   {
     "license_number": "109083",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "55318-1885",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455937",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109083"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109083",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043721",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "55318-1295",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456072",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043721"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043721",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054408",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "55388-8253",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456100",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054408"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054408",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108947",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "55387-4602",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456297",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108947"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108947",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098349",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "55387-5006",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456509",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098349"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098349",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108053",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "55397-9622",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456919",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108053"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108053",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058010",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457073",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058010"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058010",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022948",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "55318-3217",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457202",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022948"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022948",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076878",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "55388",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457279",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076878"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076878",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112911",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "55315-4500",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457280",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112911"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112911",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116234",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55322-9130",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457317",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116234"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116234",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043069",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "55388-8389",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457590",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043069"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043069",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015685",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "55318-5403",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015685"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015685",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076828",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "55318-3230",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076828"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076828",
+    "capacity_estimated": true
   },
   {
     "license_number": "231603",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "55318-2713",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458017",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231603"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231603",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073514",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "55317",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458077",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073514"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073514",
+    "capacity_estimated": true
   },
   {
     "license_number": "112759",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "55318-1479",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458103",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112759"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112759",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100266",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "55387-1199",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458199",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061355",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458232",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061355"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061355",
+    "capacity_estimated": true
   },
   {
     "license_number": "209142",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "55388-8255",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209142"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209142",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042841",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "55387-9787",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458247",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042841"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042841",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004946",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "55388-9267",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458323",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004946"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004946",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056470",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "55368-9304",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458362",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056470"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056470",
+    "capacity_estimated": true
   },
   {
     "license_number": "227351",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "55386-9765",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458965",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227351"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227351",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025236",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "55388-8328",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025236"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025236",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090305",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459082",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090305"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090305",
+    "capacity_estimated": true
   },
   {
     "license_number": "114512",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "55322-9338",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459099",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049569",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "55318-1144",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459128",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049569"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049569",
+    "capacity_estimated": true
   },
   {
     "license_number": "226119",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "55318-1476",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459166",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226119"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226119",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024818",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "55315-9307",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081979",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "55318-1141",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459314",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081979"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081979",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098164",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "55318",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459356",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098164"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098164",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005900",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "55387-9511",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459392",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005900"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005900",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110715",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "55318-1884",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459592",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110715"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110715",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064465",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "55387-1531",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459636",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064465"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064465",
+    "capacity_estimated": true
   },
   {
     "license_number": "204572",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "55318-1472",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459722",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204572"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204572",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065619",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "55387",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459775",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065619"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065619",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109043",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "55368-9687",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459822",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109043"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109043",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108352",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "55317-9720",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,7 +2802,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459952",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108352",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083768",
@@ -2693,7 +2815,7 @@
     "state": "MN",
     "zip_code": "55388-8703",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2703,7 +2825,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083768",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110093",
@@ -2715,7 +2838,7 @@
     "state": "MN",
     "zip_code": "55317-9005",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2725,7 +2848,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103744",
@@ -2737,7 +2861,7 @@
     "state": "MN",
     "zip_code": "55387-1140",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2747,7 +2871,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460006",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103744"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103744",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036747",
@@ -2759,7 +2884,7 @@
     "state": "MN",
     "zip_code": "55368-9658",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2769,7 +2894,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460068",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036747"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036747",
+    "capacity_estimated": true
   },
   {
     "license_number": "116283",
@@ -2781,7 +2907,7 @@
     "state": "MN",
     "zip_code": "55360-9606",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2791,7 +2917,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460112",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116283"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116283",
+    "capacity_estimated": true
   },
   {
     "license_number": "116473",
@@ -2803,7 +2930,7 @@
     "state": "MN",
     "zip_code": "55388-9301",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2813,7 +2940,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460214",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116473"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116473",
+    "capacity_estimated": true
   },
   {
     "license_number": "234107",
@@ -2825,7 +2953,7 @@
     "state": "MN",
     "zip_code": "55322-9066",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2835,7 +2963,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460394",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234107"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234107",
+    "capacity_estimated": true
   },
   {
     "license_number": "233296",
@@ -2847,7 +2976,7 @@
     "state": "MN",
     "zip_code": "55318-1815",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2857,7 +2986,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460479",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233296"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233296",
+    "capacity_estimated": true
   },
   {
     "license_number": "207639",
@@ -2869,7 +2999,7 @@
     "state": "MN",
     "zip_code": "55317-9029",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2879,7 +3009,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460608",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207639"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207639",
+    "capacity_estimated": true
   },
   {
     "license_number": "220403",
@@ -2891,7 +3022,7 @@
     "state": "MN",
     "zip_code": "55318-9281",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2901,7 +3032,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220403"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220403",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081650",
@@ -2913,7 +3045,7 @@
     "state": "MN",
     "zip_code": "55387-5005",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2923,7 +3055,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461024",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081650"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081650",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101858",
@@ -2935,7 +3068,7 @@
     "state": "MN",
     "zip_code": "55387-2205",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2945,7 +3078,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461102",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101858"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101858",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063583",
@@ -2957,7 +3091,7 @@
     "state": "MN",
     "zip_code": "55360-9611",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2967,7 +3101,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461106",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063583"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063583",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089207",
@@ -2979,7 +3114,7 @@
     "state": "MN",
     "zip_code": "55388-8257",
     "county": "Carver",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2989,6 +3124,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461650",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089207"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089207",
+    "capacity_estimated": true
   }
 ]

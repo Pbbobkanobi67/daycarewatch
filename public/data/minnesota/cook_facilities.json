@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55604",
     "county": "Cook",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088047"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088047",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076306",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55615",
     "county": "Cook",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451830",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076306"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076306",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055670",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55604-0422",
     "county": "Cook",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452351",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055670"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055670",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080309",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55604",
     "county": "Cook",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080309"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080309",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089915",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55604",
     "county": "Cook",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,6 +111,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452625",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089915"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089915",
+    "capacity_estimated": true
   }
 ]

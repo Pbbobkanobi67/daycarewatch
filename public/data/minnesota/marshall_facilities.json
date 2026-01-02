@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56762",
     "county": "Marshall",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448997",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080534"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080534",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106026",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56762-1142",
     "county": "Marshall",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451884",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106026"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106026",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074416",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56762",
     "county": "Marshall",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453356",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074416"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074416",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101193",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56762-1238",
     "county": "Marshall",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456672",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101193",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113193",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56762-1144",
     "county": "Marshall",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457527",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113193",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104097",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56762-1446",
     "county": "Marshall",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,6 +134,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460004",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104097"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104097",
+    "capacity_estimated": true
   }
 ]

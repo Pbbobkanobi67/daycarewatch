@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088719"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088719",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099265",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55063-5787",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448121",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099265"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099265",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030931",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55063-1658",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448347",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030931"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030931",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000931",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55037",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000931"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000931",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062777",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449515",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062777"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062777",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112185",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55072-5134",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449613",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112185"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112185",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097046",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55063-1804",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449946",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097046"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097046",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110493",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55063-9814",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450548",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110493"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110493",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115965",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55063-2148",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452633",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115965"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115965",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114328",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55063-4706",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452941",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112020",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55063-1017",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112020"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112020",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101229",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55037-3802",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453806",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101229"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101229",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083198",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55063-4864",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454270",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083198"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083198",
+    "capacity_estimated": true
   },
   {
     "license_number": "107377",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455033",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107377"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107377",
+    "capacity_estimated": true
   },
   {
     "license_number": "221707",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55072-9780",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455736",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221707"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221707",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013837",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456337",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013837"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013837",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094455",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456433",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056928",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55037-7338",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457831",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056928"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056928",
+    "capacity_estimated": true
   },
   {
     "license_number": "234595",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55063-1659",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458141",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234595"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234595",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044041",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55063-1161",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458248",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044041"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044041",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083829",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55063-1523",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458333",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083829"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083829",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117748",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55063-5443",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458659",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117748"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117748",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096585",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55037-8741",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459618",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096585"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096585",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089884",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55063-1907",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459815",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089884"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089884",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050474",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460089",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050474"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050474",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006731",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55037",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460223",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082051",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55063-5902",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082051",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025930",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460891",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025930"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025930",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083026",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460956",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083026"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083026",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080486",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55063",
     "county": "Pine",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,6 +686,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461284",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080486"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080486",
+    "capacity_estimated": true
   }
 ]

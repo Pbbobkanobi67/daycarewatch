@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447748",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055759"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055759",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012286",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111830",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55398-8795",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448018",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111830"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111830",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083770",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55330-2462",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448022",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083770",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100126",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55330-6322",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448023",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100126"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100126",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074753",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448057",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074753",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051430",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55371-2113",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448074",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051430"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051430",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074352",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55330-1845",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448241",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074352",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039204",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039204"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039204",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061636",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448858",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061636"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061636",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073631",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448868",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073631",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002647",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448940",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002647"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002647",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039378",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039378"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039378",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065166",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448983",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065166"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065166",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095076",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449240",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095076"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095076",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082846",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55309-3315",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449257",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082846"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082846",
+    "capacity_estimated": true
   },
   {
     "license_number": "810731",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55330-1287",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449281",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064066",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449542",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064066"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064066",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051888",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051888"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051888",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111725",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55308-8809",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449641",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111725"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111725",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087439",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55398-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450460",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087439"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087439",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049319",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55330-1274",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451290",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049319",
+    "capacity_estimated": true
   },
   {
     "license_number": "190412",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55308-9523",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451309",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190412"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190412",
+    "capacity_estimated": true
   },
   {
     "license_number": "190424",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190424"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190424",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112917",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55309-8865",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451406",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112917",
+    "capacity_estimated": true
   },
   {
     "license_number": "201103",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55330-2218",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451653",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201103"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201103",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055742",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55309-8272",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451738",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055742"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055742",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030386",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451747",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030386",
+    "capacity_estimated": true
   },
   {
     "license_number": "217871",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55330-4110",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451754",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217871"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217871",
+    "capacity_estimated": true
   },
   {
     "license_number": "210409",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55309-8910",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451785",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210409"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210409",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028855",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028855"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028855",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055851",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55308",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452033",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055851"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055851",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066403",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55309-4606",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452105",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066403"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066403",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103562",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55309-4723",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452144",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103562"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103562",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114630",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55398-4569",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452183",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114630",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066101",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55330-9090",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452240",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057452",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55398-4510",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452247",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057452",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084235",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55398-8588",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452249",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084235"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084235",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048612",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55330-2882",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452337",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048612"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048612",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048610",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55330-7067",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452355",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048610"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048610",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107791",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55309-4928",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452389",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107791"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107791",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102405",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55330-7412",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452401",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102405"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102405",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111335",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55309-9643",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452430",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111335"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111335",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097150",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452439",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097150"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097150",
+    "capacity_estimated": true
   },
   {
     "license_number": "227544",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452450",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227544"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227544",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064736",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55330-4679",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452506",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064736"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064736",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081707",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55330-1923",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452620",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081707"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081707",
+    "capacity_estimated": true
   },
   {
     "license_number": "216342",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452695",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216342"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216342",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087935",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452728",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087935"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087935",
+    "capacity_estimated": true
   },
   {
     "license_number": "236871",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236871"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236871",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112614",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55398-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452908",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112614"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112614",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010244",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55371-6334",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010244"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010244",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102508",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55308-8844",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453123",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102508"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102508",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085669",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453304",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085669"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085669",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079955",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55330-8251",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453377",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079955"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079955",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104566",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55330-5618",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453397",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104566"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104566",
+    "capacity_estimated": true
   },
   {
     "license_number": "117944",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55371-3335",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453442",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117944"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117944",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099317",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55398-9443",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099317"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099317",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088595",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55398-8337",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088595"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088595",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082480",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55309-8260",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453639",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082480"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082480",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116179",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55398-9004",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453709",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116179"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116179",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115038",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55398-4553",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453731",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115038"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115038",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114128",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55371-4619",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453774",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114128"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114128",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032874",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55398-4343",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453814",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032874"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032874",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117573",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55319-9778",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453816",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058036",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55309-7505",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058036"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058036",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107573",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55330-4691",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453993",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078693",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454010",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078693"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078693",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115813",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55330-8610",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454045",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115813"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115813",
+    "capacity_estimated": true
   },
   {
     "license_number": "220899",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55309-9394",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454100",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220899",
+    "capacity_estimated": true
   },
   {
     "license_number": "235224",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55371-3693",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454119",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235224",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115213",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55330-8615",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454144",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115213"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115213",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104506",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55371-0013",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454290",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104506"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104506",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096087",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55398-9018",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096087"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096087",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061140",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55308-4715",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454316",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061140"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061140",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020410",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55371-3624",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020410"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020410",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081675",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55371-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454655",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081675"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081675",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087282",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55330-5607",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454727",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087282"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087282",
+    "capacity_estimated": true
   },
   {
     "license_number": "209396",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454815",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209396",
+    "capacity_estimated": true
   },
   {
     "license_number": "107093",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "55330-1772",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019942",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "55371-4520",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454933",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019942"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019942",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117882",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "55398-9645",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455083",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117882"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117882",
+    "capacity_estimated": true
   },
   {
     "license_number": "110039",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "55398-9459",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455146",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110039"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110039",
+    "capacity_estimated": true
   },
   {
     "license_number": "224840",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "55330-1843",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455166",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224840"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224840",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043070",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "55398-8882",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455349",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043070"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043070",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060362",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "55308-8540",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455398",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060362"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060362",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076193",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455491",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076193",
+    "capacity_estimated": true
   },
   {
     "license_number": "108457",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455578",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108457"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108457",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038140",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "55398-9304",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455581",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038140"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038140",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013475",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "55308",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455603",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013475"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013475",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092198",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "55330-2803",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092198"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092198",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112017",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "55330-4561",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455668",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112017"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112017",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092030",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455885",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092030",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010099",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455926",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010099"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010099",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103224",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "55308-8872",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455936",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103224",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116465",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "55371-1477",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456005",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116465"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116465",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105831",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "55330-4123",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456014",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105831"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105831",
+    "capacity_estimated": true
   },
   {
     "license_number": "234051",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456120",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234051",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084256",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "55398-8583",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456147",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084256"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084256",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092316",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "55330-5713",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456182",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092316"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092316",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057387",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456191",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111611",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "55398-4365",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456425",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111611"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111611",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061204",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456478",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061204"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061204",
+    "capacity_estimated": true
   },
   {
     "license_number": "237363",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "55309-8551",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456522",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237363"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237363",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115405",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "55330-1027",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456535",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115405"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115405",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049735",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456563",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049735"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049735",
+    "capacity_estimated": true
   },
   {
     "license_number": "805481",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "55371-9999",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456609",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805481"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805481",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058974",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "55308-8874",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456721",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058974"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058974",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061013",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "55308-8861",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456722",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061013"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061013",
+    "capacity_estimated": true
   },
   {
     "license_number": "235358",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456772",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235358"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235358",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065330",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "55330-2515",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456799",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065330"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065330",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095832",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "55309-5505",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456848",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095832"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095832",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116980",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "55398-8611",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456852",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116980"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116980",
+    "capacity_estimated": true
   },
   {
     "license_number": "202455",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "55398-8503",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456870",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115933",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "55308-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456871",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115933"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115933",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105711",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "55330-2451",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047235",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456985",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047235"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047235",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081350",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "55319-4506",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457028",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081350"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081350",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034202",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "55371-1135",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457137",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034202"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034202",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087986",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457156",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087986"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087986",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081823",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "55319-9483",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457204",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081823"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081823",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105298",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "55308-5508",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,7 +2802,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457275",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105298"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105298",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043490",
@@ -2693,7 +2815,7 @@
     "state": "MN",
     "zip_code": "55309-8116",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2703,7 +2825,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043490"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043490",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098210",
@@ -2715,7 +2838,7 @@
     "state": "MN",
     "zip_code": "55371-8543",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2725,7 +2848,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457365",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098210"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098210",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013004",
@@ -2737,7 +2861,7 @@
     "state": "MN",
     "zip_code": "55371-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2747,7 +2871,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013004"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013004",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109130",
@@ -2759,7 +2884,7 @@
     "state": "MN",
     "zip_code": "55319-9738",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2769,7 +2894,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457427",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078630",
@@ -2781,7 +2907,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2791,7 +2917,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457478",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078630",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115900",
@@ -2803,7 +2930,7 @@
     "state": "MN",
     "zip_code": "55330-4523",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2813,7 +2940,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457836",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115900"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115900",
+    "capacity_estimated": true
   },
   {
     "license_number": "219399",
@@ -2825,7 +2953,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2835,7 +2963,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457852",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219399"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219399",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013003",
@@ -2847,7 +2976,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2857,7 +2986,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457929",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013003"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013003",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113930",
@@ -2869,7 +2999,7 @@
     "state": "MN",
     "zip_code": "55308-8946",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2879,7 +3009,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457968",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113930"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113930",
+    "capacity_estimated": true
   },
   {
     "license_number": "1118010",
@@ -2891,7 +3022,7 @@
     "state": "MN",
     "zip_code": "55398-4657",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2901,7 +3032,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457975",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1118010"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1118010",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082872",
@@ -2913,7 +3045,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2923,7 +3055,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457978",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082872"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082872",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117291",
@@ -2935,7 +3068,7 @@
     "state": "MN",
     "zip_code": "55371-4778",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2945,7 +3078,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458000",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117291",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065903",
@@ -2957,7 +3091,7 @@
     "state": "MN",
     "zip_code": "55308-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2967,7 +3101,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458097",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065903",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065714",
@@ -2979,7 +3114,7 @@
     "state": "MN",
     "zip_code": "55309-8333",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2989,7 +3124,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458162",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065714"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065714",
+    "capacity_estimated": true
   },
   {
     "license_number": "237028",
@@ -3001,7 +3137,7 @@
     "state": "MN",
     "zip_code": "55398-8786",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3011,7 +3147,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458223",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237028"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237028",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090109",
@@ -3023,7 +3160,7 @@
     "state": "MN",
     "zip_code": "55398-8611",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3033,7 +3170,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458226",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090109"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090109",
+    "capacity_estimated": true
   },
   {
     "license_number": "222161",
@@ -3045,7 +3183,7 @@
     "state": "MN",
     "zip_code": "55330-9445",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3055,7 +3193,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458233",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222161"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222161",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105832",
@@ -3067,7 +3206,7 @@
     "state": "MN",
     "zip_code": "55398-8764",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3077,7 +3216,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458278",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105832"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105832",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014143",
@@ -3089,7 +3229,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3099,7 +3239,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458295",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014143"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014143",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064286",
@@ -3111,7 +3252,7 @@
     "state": "MN",
     "zip_code": "55330-4117",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3121,7 +3262,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458424",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064286",
+    "capacity_estimated": true
   },
   {
     "license_number": "206823",
@@ -3133,7 +3275,7 @@
     "state": "MN",
     "zip_code": "55308-9350",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3143,7 +3285,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458520",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206823"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206823",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064285",
@@ -3155,7 +3298,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3165,7 +3308,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458667",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064285"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064285",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105680",
@@ -3177,7 +3321,7 @@
     "state": "MN",
     "zip_code": "55330-8221",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3187,7 +3331,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458681",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105680"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105680",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017438",
@@ -3199,7 +3344,7 @@
     "state": "MN",
     "zip_code": "55309-4723",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3209,7 +3354,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458699",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017438"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017438",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110317",
@@ -3221,7 +3367,7 @@
     "state": "MN",
     "zip_code": "55319-7500",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3231,7 +3377,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458747",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110317"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110317",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113950",
@@ -3243,7 +3390,7 @@
     "state": "MN",
     "zip_code": "55398-8500",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3253,7 +3400,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458768",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113950"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113950",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094309",
@@ -3265,7 +3413,7 @@
     "state": "MN",
     "zip_code": "55398-8319",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3275,7 +3423,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458816",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094309"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094309",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101752",
@@ -3287,7 +3436,7 @@
     "state": "MN",
     "zip_code": "55309-9628",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3297,7 +3446,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458863",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101752"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101752",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101534",
@@ -3309,7 +3459,7 @@
     "state": "MN",
     "zip_code": "55319-9779",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3319,7 +3469,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101534"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101534",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014704",
@@ -3331,7 +3482,7 @@
     "state": "MN",
     "zip_code": "55398-3507",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3341,7 +3492,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459187",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014704"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014704",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113030",
@@ -3353,7 +3505,7 @@
     "state": "MN",
     "zip_code": "55398-4377",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3363,7 +3515,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459224",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113030",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067249",
@@ -3375,7 +3528,7 @@
     "state": "MN",
     "zip_code": "55309-4722",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3385,7 +3538,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459258",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067249"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067249",
+    "capacity_estimated": true
   },
   {
     "license_number": "223440",
@@ -3397,7 +3551,7 @@
     "state": "MN",
     "zip_code": "55398-1226",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3407,7 +3561,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459284",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223440"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223440",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002839",
@@ -3419,7 +3574,7 @@
     "state": "MN",
     "zip_code": "55330-2907",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3429,7 +3584,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459334",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002839"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002839",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051859",
@@ -3441,7 +3597,7 @@
     "state": "MN",
     "zip_code": "55330-2181",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3451,7 +3607,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051859"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051859",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108587",
@@ -3463,7 +3620,7 @@
     "state": "MN",
     "zip_code": "55398-9553",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3473,7 +3630,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459411",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108587"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108587",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093604",
@@ -3485,7 +3643,7 @@
     "state": "MN",
     "zip_code": "55398-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3495,7 +3653,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459467",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093604"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093604",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074364",
@@ -3507,7 +3666,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3517,7 +3676,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074364"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074364",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112575",
@@ -3529,7 +3689,7 @@
     "state": "MN",
     "zip_code": "55309-0000",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3539,7 +3699,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459731",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112575"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112575",
+    "capacity_estimated": true
   },
   {
     "license_number": "190218",
@@ -3551,7 +3712,7 @@
     "state": "MN",
     "zip_code": "55309-9284",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3561,7 +3722,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459892",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190218"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190218",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092965",
@@ -3573,7 +3735,7 @@
     "state": "MN",
     "zip_code": "55308-4703",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3583,7 +3745,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459924",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092965"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092965",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103149",
@@ -3595,7 +3758,7 @@
     "state": "MN",
     "zip_code": "55330-4527",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3605,7 +3768,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459967",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103149"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103149",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079509",
@@ -3617,7 +3781,7 @@
     "state": "MN",
     "zip_code": "55309",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3627,7 +3791,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460200",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079509"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079509",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108420",
@@ -3639,7 +3804,7 @@
     "state": "MN",
     "zip_code": "55398-4052",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3649,7 +3814,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460300",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112675",
@@ -3661,7 +3827,7 @@
     "state": "MN",
     "zip_code": "55309-8971",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3671,7 +3837,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460382",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112675"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112675",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108332",
@@ -3683,7 +3850,7 @@
     "state": "MN",
     "zip_code": "55308-8851",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3693,7 +3860,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108332"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108332",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021357",
@@ -3705,7 +3873,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3715,7 +3883,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460520",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021357"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021357",
+    "capacity_estimated": true
   },
   {
     "license_number": "222088",
@@ -3727,7 +3896,7 @@
     "state": "MN",
     "zip_code": "55308-8801",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3737,7 +3906,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222088"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222088",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077371",
@@ -3749,7 +3919,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3759,7 +3929,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460712",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077371"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077371",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058324",
@@ -3771,7 +3942,7 @@
     "state": "MN",
     "zip_code": "55330-2314",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3781,7 +3952,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058324"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058324",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095679",
@@ -3793,7 +3965,7 @@
     "state": "MN",
     "zip_code": "55308-8827",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3803,7 +3975,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460836",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095679"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095679",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060235",
@@ -3815,7 +3988,7 @@
     "state": "MN",
     "zip_code": "55371",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3825,7 +3998,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460863",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060235"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060235",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078780",
@@ -3837,7 +4011,7 @@
     "state": "MN",
     "zip_code": "55398",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3847,7 +4021,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460874",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078780"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078780",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107940",
@@ -3859,7 +4034,7 @@
     "state": "MN",
     "zip_code": "55309-4922",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3869,7 +4044,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460878",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107940"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107940",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021256",
@@ -3881,7 +4057,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3891,7 +4067,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460990",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021256"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021256",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046252",
@@ -3903,7 +4080,7 @@
     "state": "MN",
     "zip_code": "55330-2803",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3913,7 +4090,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461060",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046252"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046252",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092814",
@@ -3925,7 +4103,7 @@
     "state": "MN",
     "zip_code": "55308-4555",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3935,7 +4113,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461333",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092814"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092814",
+    "capacity_estimated": true
   },
   {
     "license_number": "233064",
@@ -3947,7 +4126,7 @@
     "state": "MN",
     "zip_code": "55308-4531",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3957,7 +4136,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461336",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233064"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233064",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117182",
@@ -3969,7 +4149,7 @@
     "state": "MN",
     "zip_code": "55309-8224",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3979,7 +4159,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461340",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117182"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117182",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079525",
@@ -3991,7 +4172,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4001,7 +4182,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461359",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079525",
+    "capacity_estimated": true
   },
   {
     "license_number": "233282",
@@ -4013,7 +4195,7 @@
     "state": "MN",
     "zip_code": "55308-4516",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4023,7 +4205,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461378",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233282"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233282",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101663",
@@ -4035,7 +4218,7 @@
     "state": "MN",
     "zip_code": "55309-4659",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4045,7 +4228,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461460",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101663"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101663",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089239",
@@ -4057,7 +4241,7 @@
     "state": "MN",
     "zip_code": "55309-8800",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4067,7 +4251,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461625",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089239"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089239",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089731",
@@ -4079,7 +4264,7 @@
     "state": "MN",
     "zip_code": "55330-2524",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4089,7 +4274,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461628",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089539",
@@ -4101,7 +4287,7 @@
     "state": "MN",
     "zip_code": "55330-2439",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4111,7 +4297,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461629",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089539"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089539",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089130",
@@ -4123,7 +4310,7 @@
     "state": "MN",
     "zip_code": "55330-6671",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4133,7 +4320,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461630",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089312",
@@ -4145,7 +4333,7 @@
     "state": "MN",
     "zip_code": "55330-1343",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4155,7 +4343,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461634",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089312"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089312",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089594",
@@ -4167,7 +4356,7 @@
     "state": "MN",
     "zip_code": "55330-5083",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4177,7 +4366,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461636",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089594",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089735",
@@ -4189,7 +4379,7 @@
     "state": "MN",
     "zip_code": "55398-4515",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4199,7 +4389,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461639",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089735"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089735",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089540",
@@ -4211,7 +4402,7 @@
     "state": "MN",
     "zip_code": "55330-1341",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4221,7 +4412,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461640",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089540"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089540",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089732",
@@ -4233,7 +4425,7 @@
     "state": "MN",
     "zip_code": "55398-9013",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4243,7 +4435,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461642",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089732"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089732",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089701",
@@ -4255,7 +4448,7 @@
     "state": "MN",
     "zip_code": "55371-1502",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4265,7 +4458,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461648",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089701"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089701",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089161",
@@ -4277,7 +4471,7 @@
     "state": "MN",
     "zip_code": "55371-1002",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4287,7 +4481,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461655",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089161"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089161",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110810",
@@ -4299,7 +4494,7 @@
     "state": "MN",
     "zip_code": "55319-9674",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4309,7 +4504,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110810",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089133",
@@ -4321,7 +4517,7 @@
     "state": "MN",
     "zip_code": "55319-9674",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4331,7 +4527,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461916",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089133"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089133",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089600",
@@ -4343,7 +4540,7 @@
     "state": "MN",
     "zip_code": "55309-4659",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4353,7 +4550,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461959",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089600"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089600",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089513",
@@ -4365,7 +4563,7 @@
     "state": "MN",
     "zip_code": "55330-4794",
     "county": "Sherburne",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4375,6 +4573,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462246",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089513"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089513",
+    "capacity_estimated": true
   }
 ]

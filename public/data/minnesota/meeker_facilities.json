@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56228",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447990",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063762"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063762",
+    "capacity_estimated": true
   },
   {
     "license_number": "801238",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55355",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448584",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801238"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801238",
+    "capacity_estimated": true
   },
   {
     "license_number": "830654",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55355",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448893",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830654"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830654",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054869",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55355",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449136",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054869"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054869",
+    "capacity_estimated": true
   },
   {
     "license_number": "830690",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55355",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449977",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830690"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830690",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108797",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55355-2327",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451615",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108797",
+    "capacity_estimated": true
   },
   {
     "license_number": "210539",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55355-1824",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451664",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210539"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210539",
+    "capacity_estimated": true
   },
   {
     "license_number": "214662",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55355-5837",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214662"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214662",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099381",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55389-7500",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452304",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099381"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099381",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002952",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55355-3429",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453145",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002952"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002952",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104286",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55329-1212",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454749",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077807",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55325-1118",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454993",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077807"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077807",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064593",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55355-2723",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455006",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064593"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064593",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101530",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55324-6001",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455230",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101530"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101530",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111996",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55329-4003",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455477",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111996"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111996",
+    "capacity_estimated": true
   },
   {
     "license_number": "214737",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56243-4403",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455812",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214737"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214737",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116208",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55355-3407",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455819",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116208"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116208",
+    "capacity_estimated": true
   },
   {
     "license_number": "205547",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55389",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455901",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205547"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205547",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079706",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55355",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456008",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079706"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079706",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079770",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55355-2543",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456725",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079770",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099273",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55355-2320",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456977",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099273"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099273",
+    "capacity_estimated": true
   },
   {
     "license_number": "112045",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55325-3374",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457588",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112045"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112045",
+    "capacity_estimated": true
   },
   {
     "license_number": "112324",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55355-1814",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112324"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112324",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079834",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55355",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457885",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079834"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079834",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077657",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55389",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457983",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077657"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077657",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038048",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55389",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457984",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038048"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038048",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115574",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55389-4524",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458010",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115574",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101681",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55389-1107",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101681"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101681",
+    "capacity_estimated": true
   },
   {
     "license_number": "225282",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55355-4722",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458547",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225282"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225282",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102270",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55325-1079",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458618",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102270"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102270",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064781",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55329",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458833",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064781"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064781",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099511",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55389-2401",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459133",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099511"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099511",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111040",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55355-1761",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459160",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111040"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111040",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077390",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55329",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459867",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077390"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077390",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075928",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55389",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460337",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075928"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075928",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047745",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55329",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460573",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047745"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047745",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085182",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55329",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460795",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085182"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085182",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115217",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55355-5920",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460992",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115217"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115217",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112256",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55389-5812",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461283",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112256"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112256",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104019",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55329-1203",
     "county": "Meeker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,6 +916,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461964",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104019",
+    "capacity_estimated": true
   }
 ]

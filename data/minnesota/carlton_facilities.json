@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55733-9701",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448345",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105778"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105778",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048704",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55707-9696",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448896",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048704"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048704",
+    "capacity_estimated": true
   },
   {
     "license_number": "801394",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55733-9630",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448908",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801394"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801394",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081768",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55733",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449139",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081768",
+    "capacity_estimated": true
   },
   {
     "license_number": "206754",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55733-9501",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206754"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206754",
+    "capacity_estimated": true
   },
   {
     "license_number": "215990",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55797-9066",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453050",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096166",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55733-9713",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453098",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096166"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096166",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075939",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55733",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454592",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075939"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075939",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115196",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55733-9606",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454855",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115196"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115196",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110532",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55726-8174",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455779",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110532"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110532",
+    "capacity_estimated": true
   },
   {
     "license_number": "203657",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55733",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456248",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203657"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203657",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096156",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55733-9523",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096156"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096156",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051566",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55707",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456518",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051566"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051566",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048518",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55797-9055",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459103",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048518"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048518",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062160",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55733-9502",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460003",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062160",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006836",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55718-8242",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460274",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006836"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006836",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036114",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55718-9108",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460407",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036114"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036114",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078364",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55797",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078364"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078364",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089337",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55707-9698",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461815",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089337"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089337",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089376",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55718-9721",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461818",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089376",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089525",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55797-9000",
     "county": "Carlton",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,6 +479,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462193",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089525",
+    "capacity_estimated": true
   }
 ]

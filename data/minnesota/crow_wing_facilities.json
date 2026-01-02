@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447622",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046878"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046878",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066782",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447629",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066782"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066782",
+    "capacity_estimated": true
   },
   {
     "license_number": "804602",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447731",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804602"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804602",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092943",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092943",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063351",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56450",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448610",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063351"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063351",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029615",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56472",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448968",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029615"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029615",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048334",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56401-3304",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449191",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048334"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048334",
+    "capacity_estimated": true
   },
   {
     "license_number": "800223",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449261",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800223"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800223",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065182",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56442",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449525",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065182"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065182",
+    "capacity_estimated": true
   },
   {
     "license_number": "830837",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56468-2918",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449546",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830837"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830837",
+    "capacity_estimated": true
   },
   {
     "license_number": "802328",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56401-3056",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449919",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064797",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449992",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060203",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449997",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060203",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086484",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450034",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086484"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086484",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087174",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56401-6817",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450055",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087174"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087174",
+    "capacity_estimated": true
   },
   {
     "license_number": "809354",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56472-1004",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450077",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809354"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809354",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065633",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56401-0000",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450080",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065633"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065633",
+    "capacity_estimated": true
   },
   {
     "license_number": "802795",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450145",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802795",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111293",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56401-7101",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450512",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111293"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111293",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066810",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56449",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451458",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066810",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109040",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56425-8514",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451551",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109040"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109040",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057320",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451673",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057320"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057320",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077611",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451752",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077611"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077611",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028966",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56465-4307",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451814",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028966"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028966",
+    "capacity_estimated": true
   },
   {
     "license_number": "120203",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451825",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120203",
+    "capacity_estimated": true
   },
   {
     "license_number": "215598",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451903",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215598"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215598",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021732",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56444",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451918",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021732"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021732",
+    "capacity_estimated": true
   },
   {
     "license_number": "232449",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56455",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232449"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232449",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017121",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56401-6313",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451990",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017121"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017121",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076289",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452420",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076289"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076289",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047103",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452476",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047103"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047103",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114231",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56401-3461",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452537",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114231"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114231",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113331",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56401-6132",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452588",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113331"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113331",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109759",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56465-4228",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452590",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109759"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109759",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099305",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56472-3328",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452691",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099305"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099305",
+    "capacity_estimated": true
   },
   {
     "license_number": "236000",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56401-2415",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236000",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088647",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452804",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088647"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088647",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043680",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56441",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452809",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043680"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043680",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094360",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452857",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044594",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56444",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452899",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044594",
+    "capacity_estimated": true
   },
   {
     "license_number": "202954",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56401-6312",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452983",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202954"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202954",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067527",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453275",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067527"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067527",
+    "capacity_estimated": true
   },
   {
     "license_number": "220771",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220771"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220771",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048104",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453688",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048104"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048104",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092751",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453741",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092751"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092751",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062796",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56474",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453767",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062796"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062796",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111818",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56472-3062",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453830",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111818",
+    "capacity_estimated": true
   },
   {
     "license_number": "230933",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56441",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453889",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230933"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230933",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029101",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454094",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096483",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56425-8501",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454189",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096483"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096483",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112348",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56444-3300",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454344",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112348"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112348",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104949",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56401-6226",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454546",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104949"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104949",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038442",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454569",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038442"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038442",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063326",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56465",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454688",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063326"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063326",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099307",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56425-8259",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454699",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099307"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099307",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116029",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56401-4855",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454819",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116029"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116029",
+    "capacity_estimated": true
   },
   {
     "license_number": "231091",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56468",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455064",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231091",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065030",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065030",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060315",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455441",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060315"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060315",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011204",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56442-4033",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455798",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011204"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011204",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087441",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455886",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087441",
+    "capacity_estimated": true
   },
   {
     "license_number": "228899",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56455",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455986",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228899",
+    "capacity_estimated": true
   },
   {
     "license_number": "218219",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56425-1005",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456102",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218219"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218219",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106530",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56401-2998",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456395",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106530"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106530",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099252",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56472-3130",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456409",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099252"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099252",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112609",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56401-3305",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456598",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112609",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104050",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56401-6558",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104050"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104050",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030870",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456933",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030870",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060316",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56425-8748",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457212",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060316"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060316",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114236",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56425-8326",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457228",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114236"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114236",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065856",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56425-8259",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457439",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065856"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065856",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029762",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56401-6255",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029762"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029762",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005780",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56468",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457686",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005780"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005780",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112736",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56401-2084",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457955",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112736"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112736",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115902",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56449-1581",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458122",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115902"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115902",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036779",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458308",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036779"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036779",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074552",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56450",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458453",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074552"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074552",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095702",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56455",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458493",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095702"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095702",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107963",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56401-4047",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458500",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107963",
+    "capacity_estimated": true
   },
   {
     "license_number": "1118293",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56401-4987",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1118293"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1118293",
+    "capacity_estimated": true
   },
   {
     "license_number": "805189",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56455",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458804",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805189"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805189",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048560",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56472-2091",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459056",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048560"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048560",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112113",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56441-2171",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459101",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112113"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112113",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032502",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459474",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032502"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032502",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042452",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459524",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042452",
+    "capacity_estimated": true
   },
   {
     "license_number": "807557",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459548",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807557"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807557",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092454",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459742",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092454"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092454",
+    "capacity_estimated": true
   },
   {
     "license_number": "207586",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56401-8637",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459792",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207586"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207586",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117359",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56444-6262",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459795",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117359"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117359",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110314",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56401-6314",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459982",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110314"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110314",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111095",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56401-1431",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460113",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111095"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111095",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056381",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460181",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056381"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056381",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050424",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "56401",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460218",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050424"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050424",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059523",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "56425",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460221",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059523"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059523",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116762",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "56401-4118",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460506",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116762"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116762",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111248",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "56468-2248",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461014",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111248"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111248",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031262",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "56468-2044",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461122",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031262"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031262",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106805",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "56425-4505",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461453",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106805"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106805",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089157",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "56401-3850",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461470",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089157"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089157",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089596",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "56401-2635",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461542",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089596"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089596",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089160",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "56472-3108",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461875",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089160",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111624",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "56468-4700",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462009",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111624"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111624",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091551",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "56468-0000",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462013",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091551"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091551",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115099",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "56401-3225",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462107",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115099"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115099",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111623",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "56425-8279",
     "county": "Crow Wing",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,6 +2411,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462164",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111623"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111623",
+    "capacity_estimated": true
   }
 ]

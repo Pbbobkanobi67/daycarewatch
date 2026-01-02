@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56520-1400",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449953",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109075",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111101",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56520-1612",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451428",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109816",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56520-1442",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451951",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109816"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109816",
+    "capacity_estimated": true
   },
   {
     "license_number": "805259",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56520-1807",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452913",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805259"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805259",
+    "capacity_estimated": true
   },
   {
     "license_number": "810810",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56520-1251",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454023",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810810",
+    "capacity_estimated": true
   },
   {
     "license_number": "209498",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56520-2098",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454054",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035475",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56520",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035475"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035475",
+    "capacity_estimated": true
   },
   {
     "license_number": "108396",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56520-1615",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108396",
+    "capacity_estimated": true
   },
   {
     "license_number": "225425",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56520-1619",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456140",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225425"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225425",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114808",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56520-1840",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456484",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114808"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114808",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087938",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56520",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456492",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087938",
+    "capacity_estimated": true
   },
   {
     "license_number": "220699",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56520",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457004",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220699"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220699",
+    "capacity_estimated": true
   },
   {
     "license_number": "116992",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56520-2726",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460486",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116992",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084679",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56520",
     "county": "Wilkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,6 +318,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461079",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084679"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084679",
+    "capacity_estimated": true
   }
 ]

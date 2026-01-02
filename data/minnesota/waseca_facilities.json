@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448322",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031848"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031848",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106423",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56093-2556",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448350",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106423"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106423",
+    "capacity_estimated": true
   },
   {
     "license_number": "800970",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448360",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800970"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800970",
+    "capacity_estimated": true
   },
   {
     "license_number": "807903",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56093-2427",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449705",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807903",
+    "capacity_estimated": true
   },
   {
     "license_number": "802628",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56093-3360",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450221",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802628"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802628",
+    "capacity_estimated": true
   },
   {
     "license_number": "1001686",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56048",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450385",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001686"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001686",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073432",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56093-4727",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450451",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073432"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073432",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052894",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56048",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451459",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052894"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052894",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051740",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56048",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451528",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051740"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051740",
+    "capacity_estimated": true
   },
   {
     "license_number": "224744",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56048-9366",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451540",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224744"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224744",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111173",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56048-3031",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452367",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111173"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111173",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095292",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56093-2304",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095292"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095292",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048412",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452878",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048412"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048412",
+    "capacity_estimated": true
   },
   {
     "license_number": "204957",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204957"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204957",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088265",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56048-2009",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453695",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088265"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088265",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045834",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56048",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454618",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045834"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045834",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020417",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454697",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020417"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020417",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062128",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454741",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062128"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062128",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023600",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56093-2103",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456524",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023600"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023600",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065200",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457378",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065200"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065200",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009132",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009132"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009132",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097301",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457642",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097301"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097301",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114694",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56093-2521",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458135",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114694",
+    "capacity_estimated": true
   },
   {
     "license_number": "113124",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458305",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113124"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113124",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094990",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56048",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458387",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103703",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56093-2329",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458724",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103703"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103703",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005502",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56093",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458848",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005502"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005502",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052807",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56048-9558",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459197",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052807"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052807",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109395",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56093-1400",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460925",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109395"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109395",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089581",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56048-3017",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461839",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089581"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089581",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089274",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56093-3360",
     "county": "Waseca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,6 +709,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462165",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089274"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089274",
+    "capacity_estimated": true
   }
 ]

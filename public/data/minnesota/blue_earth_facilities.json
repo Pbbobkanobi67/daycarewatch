@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447805",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809413"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809413",
+    "capacity_estimated": true
   },
   {
     "license_number": "809321",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56001-6061",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447904",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809321"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809321",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081752",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448020",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081752"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081752",
+    "capacity_estimated": true
   },
   {
     "license_number": "800574",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448042",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800574",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096847",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448046",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096847"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096847",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113584",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56001-5253",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448053",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113584"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113584",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111450",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56001-5816",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448287",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111450"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111450",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105710",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56001-4861",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448293",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105710"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105710",
+    "capacity_estimated": true
   },
   {
     "license_number": "800905",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448310",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800905"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800905",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064674",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448387",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064674"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064674",
+    "capacity_estimated": true
   },
   {
     "license_number": "808597",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448508",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808597"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808597",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040884",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448511",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040884"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040884",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099751",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56001-0000",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448527",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099751"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099751",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076780",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448861",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076780"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076780",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084443",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448865",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084443"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084443",
+    "capacity_estimated": true
   },
   {
     "license_number": "800662",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448875",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800662"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800662",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105093",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56055-4512",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448935",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115945",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56024-9759",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449002",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115945"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115945",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005235",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449010",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005235"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005235",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019635",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449035",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019635"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019635",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098590",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56001-4441",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449078",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098590"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098590",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037234",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56001-5371",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449080",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037234"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037234",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077990",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449180",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061387",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449458",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065533",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449507",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065533",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090245",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449679",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090245"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090245",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066817",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56001-8679",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449742",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066817"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066817",
+    "capacity_estimated": true
   },
   {
     "license_number": "804926",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56024-7712",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449972",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804926"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804926",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064636",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450044",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064636"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064636",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055311",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56003-2136",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450136",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055311"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055311",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112455",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56001-5863",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450294",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065491",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450340",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065491"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065491",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020263",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56001-7401",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450550",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020263"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020263",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040123",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56055-2168",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451278",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040123"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040123",
+    "capacity_estimated": true
   },
   {
     "license_number": "810418",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56024",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451385",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810418"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810418",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101531",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56003-2308",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451451",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101531"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101531",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029137",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451480",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029137"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029137",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111552",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56003-2738",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451862",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111552"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111552",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030432",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56001-3386",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451968",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030432"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030432",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110705",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56003-3234",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452012",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110705"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110705",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093818",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452019",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059516",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452089",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059516"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059516",
+    "capacity_estimated": true
   },
   {
     "license_number": "235858",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56055",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452122",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235858"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235858",
+    "capacity_estimated": true
   },
   {
     "license_number": "208100",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56003-0745",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452151",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208100"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208100",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060052",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56001-6498",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452184",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060052"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060052",
+    "capacity_estimated": true
   },
   {
     "license_number": "226099",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56055-2431",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452238",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226099"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226099",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053672",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56003-0112",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452363",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053672"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053672",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110939",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56001-6631",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452425",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110939"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110939",
+    "capacity_estimated": true
   },
   {
     "license_number": "201314",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56001-0085",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452824",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201314"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201314",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075967",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453179",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075967"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075967",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106059",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56001-4977",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453231",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106059"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106059",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105675",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56003-3233",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453336",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105675"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105675",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096005",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56055-2101",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453495",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096005"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096005",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000585",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56003-1612",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000585"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000585",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009439",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56055-2012",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009439"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009439",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054607",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56024",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453797",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054607"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054607",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041357",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56024",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454141",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041357"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041357",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083461",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56055",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454315",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083461"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083461",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005671",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56055",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454554",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005671"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005671",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019216",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56003-1666",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454647",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019216"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019216",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056803",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056803"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056803",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081249",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454801",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081249"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081249",
+    "capacity_estimated": true
   },
   {
     "license_number": "106889",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56001-4355",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454803",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106889"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106889",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066327",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052345",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56003-4215",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454822",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052345"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052345",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048879",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56024",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454846",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048879"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048879",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085939",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56055",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455035",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085939"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085939",
+    "capacity_estimated": true
   },
   {
     "license_number": "217200",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56003-1653",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455036",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217200"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217200",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063242",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455122",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063242"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063242",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014757",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455210",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014757"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014757",
+    "capacity_estimated": true
   },
   {
     "license_number": "1072207",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455245",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1072207"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1072207",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049229",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56080",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455338",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049229"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049229",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065116",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56003-4508",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455621",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065116"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065116",
+    "capacity_estimated": true
   },
   {
     "license_number": "232208",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56055",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455711",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232208"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232208",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055880",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055880"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055880",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049727",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56003-2233",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455839",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049727"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049727",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094868",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094868"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094868",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108443",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56024-4498",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456022",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108443"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108443",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014678",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56024",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456057",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014678"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014678",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116627",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56001-5544",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456107",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116627",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024064",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56001-3425",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456214",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024064"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024064",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032845",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456585",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032845"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032845",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066549",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456995",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066549"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066549",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037926",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037926"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037926",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077667",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457446",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077667"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077667",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098749",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56001-5337",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098749"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098749",
+    "capacity_estimated": true
   },
   {
     "license_number": "236766",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56001-4090",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457690",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236766"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236766",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104336",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56024-9624",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104336"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104336",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052551",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56024-8607",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457994",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052551"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052551",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090081",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56055-2318",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457997",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032215",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458115",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006382",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "56003-0000",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458583",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006382"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006382",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095127",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458654",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095127"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095127",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015192",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458668",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015192"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015192",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051830",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458709",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051830"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051830",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095858",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "56001-5787",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458898",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095858"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095858",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083195",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "56055-2163",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459149",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083195"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083195",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077644",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "56001-6387",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459156",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077644",
+    "capacity_estimated": true
   },
   {
     "license_number": "229265",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "56055-0129",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459191",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229265"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229265",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077465",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "56001-0000",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459273",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077465"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077465",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049776",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "56055",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459419",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049776"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049776",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055196",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "56055-2136",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459426",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055196"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055196",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033272",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "56001-1763",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459503",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033272"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033272",
+    "capacity_estimated": true
   },
   {
     "license_number": "115462",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "56003-1632",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459640",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115462"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115462",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103227",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "56080-0000",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103227"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103227",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052432",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460007",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052432"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052432",
+    "capacity_estimated": true
   },
   {
     "license_number": "116436",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "56055-2101",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460180",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116436"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116436",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056769",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "56003",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460296",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056769"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056769",
+    "capacity_estimated": true
   },
   {
     "license_number": "205107",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "56024-9619",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460772",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205107"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205107",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056956",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "56001",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461078",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056956"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056956",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105473",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "56001-3731",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105473"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105473",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089749",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "56003-3013",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089749"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089749",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114379",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "56001-2882",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461386",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114379"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114379",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089748",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "56024-3501",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461387",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089748"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089748",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089747",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "56003-2627",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461389",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089747"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089747",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089744",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "56003-3006",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089744"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089744",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089740",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "56001-3924",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089740"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089740",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089112",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "56001-5650",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461394",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089112"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089112",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089742",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "56001-8823",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461395",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089742"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089742",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089741",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "56001-4704",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461396",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089741"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089741",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089743",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "56001-2163",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461398",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089743"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089743",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089746",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "56001-3368",
     "county": "Blue Earth",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,6 +2802,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089746"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089746",
+    "capacity_estimated": true
   }
 ]

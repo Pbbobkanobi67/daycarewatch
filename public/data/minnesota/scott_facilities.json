@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447509",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097992",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101499",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55378-2023",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447581",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101499"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101499",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063267",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55379-2992",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447591",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063267"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063267",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065286",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55352",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447593",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079345",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56011-2213",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447610",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079345"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079345",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062585",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56011",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447687",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062585"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062585",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063373",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448140",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063373"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063373",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077416",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077416"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077416",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107423",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55378-0000",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448170",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107423"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107423",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062392",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062392"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062392",
+    "capacity_estimated": true
   },
   {
     "license_number": "802215",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55379-4443",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448206",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802215",
+    "capacity_estimated": true
   },
   {
     "license_number": "806298",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55352-1401",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448217",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806298"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806298",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009807",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448359",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009807"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009807",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034376",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448561",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034376",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104196",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55372-4565",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448624",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104196"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104196",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097632",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55379-8122",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448696",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097632"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097632",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092355",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448744",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092355"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092355",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108391",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55378-1450",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448756",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108391"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108391",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114585",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55372-0000",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448883",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114585"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114585",
+    "capacity_estimated": true
   },
   {
     "license_number": "810865",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448932",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810865"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810865",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049280",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449101",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049280"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049280",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042288",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449155",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042288"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042288",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103753",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55372-2422",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449258",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103753",
+    "capacity_estimated": true
   },
   {
     "license_number": "809292",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449279",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809292"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809292",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009917",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449311",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009917",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094861",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449367",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094861"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094861",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018416",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56011",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018416"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018416",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066498",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449581",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066498",
+    "capacity_estimated": true
   },
   {
     "license_number": "830434",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449594",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830434"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830434",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102344",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55378-2191",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449668",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102344"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102344",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090464",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449674",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090464"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090464",
+    "capacity_estimated": true
   },
   {
     "license_number": "804770",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449685",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804770",
+    "capacity_estimated": true
   },
   {
     "license_number": "830391",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55379-5899",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449779",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830391"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830391",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110515",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55372-3909",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449816",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110515"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110515",
+    "capacity_estimated": true
   },
   {
     "license_number": "802386",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449897",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802386",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048343",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449913",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048343"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048343",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095394",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56011-1413",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450151",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095394"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095394",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095966",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55378-9775",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450285",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095966"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095966",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112280",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55378-3902",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450308",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112280"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112280",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101001",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55379-2562",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450348",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101001"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101001",
+    "capacity_estimated": true
   },
   {
     "license_number": "218017",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56071-2109",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450539",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218017"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218017",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004040",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55372-1319",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450587",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004040"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004040",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029836",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55379-5417",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451256",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029836"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029836",
+    "capacity_estimated": true
   },
   {
     "license_number": "202128",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55379-2967",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202128"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202128",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048989",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55372",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451388",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048989"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048989",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016660",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55379-8057",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451452",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016660"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016660",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098810",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55020-8504",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451520",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098810",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061777",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451576",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061777"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061777",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062794",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56071-8823",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451584",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062794"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062794",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044241",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55352-1442",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451609",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044241"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044241",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056355",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55372-0000",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451755",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056355"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056355",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015069",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55372-2989",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451781",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015069"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015069",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064095",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56071-2460",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451801",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064095"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064095",
+    "capacity_estimated": true
   },
   {
     "license_number": "202912",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451833",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202912"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202912",
+    "capacity_estimated": true
   },
   {
     "license_number": "810575",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55352-1527",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451837",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810575"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810575",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074126",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074126"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074126",
+    "capacity_estimated": true
   },
   {
     "license_number": "237190",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55378-2507",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451869",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237190"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237190",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032729",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032729"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032729",
+    "capacity_estimated": true
   },
   {
     "license_number": "216362",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55379-3449",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452007",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216362"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216362",
+    "capacity_estimated": true
   },
   {
     "license_number": "215445",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55379-3460",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452010",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215445"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215445",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067576",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55379-2219",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452065",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067576"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067576",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063785",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55378-6601",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452166",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063785"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063785",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007598",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55352-8614",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452203",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007598"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007598",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006394",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55379-3493",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452228",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006394"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006394",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056584",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56011-1706",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452235",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056584"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056584",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108580",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56011-2320",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108580"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108580",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094906",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55372-3343",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452296",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094906"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094906",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033273",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55379-4512",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452324",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033273"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033273",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050443",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452346",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050443"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050443",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075226",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55352-1808",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452376",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075226"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075226",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092401",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56071-4133",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452393",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092401"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092401",
+    "capacity_estimated": true
   },
   {
     "license_number": "102464",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55378-2755",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452402",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=102464"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=102464",
+    "capacity_estimated": true
   },
   {
     "license_number": "215125",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55372-2485",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452459",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215125"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215125",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110644",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55379-5417",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452494",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110644",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083126",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55379-4419",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452501",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083126"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083126",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031564",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55379-4353",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031564"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031564",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057927",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55372-3350",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452547",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057927"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057927",
+    "capacity_estimated": true
   },
   {
     "license_number": "227404",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55378-3610",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452556",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227404"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227404",
+    "capacity_estimated": true
   },
   {
     "license_number": "102928",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "55379-1527",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452629",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=102928"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=102928",
+    "capacity_estimated": true
   },
   {
     "license_number": "233573",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "55378-2180",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452639",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233573",
+    "capacity_estimated": true
   },
   {
     "license_number": "202942",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "55379-2049",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452689",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202942"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202942",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058272",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "55054-5437",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452782",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058272"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058272",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064316",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56071-2601",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452818",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064316"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064316",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012031",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "55379-7064",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452953",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012031"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012031",
+    "capacity_estimated": true
   },
   {
     "license_number": "229032",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "55379-3904",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229032"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229032",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048990",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "55379-3180",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453000",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113183",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56071-4003",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453019",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113183"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113183",
+    "capacity_estimated": true
   },
   {
     "license_number": "103796",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "55379-3502",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453035",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103796"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103796",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099386",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56071-4629",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453076",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099386",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062997",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "55378-4406",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453103",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062997",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112076",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "55379-3393",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453113",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112076"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112076",
+    "capacity_estimated": true
   },
   {
     "license_number": "103994",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "55379-1620",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453132",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103994"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103994",
+    "capacity_estimated": true
   },
   {
     "license_number": "1027694",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "55372-4505",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453139",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078286",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453141",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008668",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "55352-8653",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453158",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008668"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008668",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108650",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "55372-2454",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453216",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108650"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108650",
+    "capacity_estimated": true
   },
   {
     "license_number": "201441",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "55379-3400",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453223",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079396",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "55378-2676",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453227",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079396",
+    "capacity_estimated": true
   },
   {
     "license_number": "223770",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "56071-9128",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453281",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223770",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043030",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "56011-2247",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453285",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043030",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114731",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "56071-4438",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075447",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "55352-1853",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453351",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075447"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075447",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065406",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "55379-2971",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453382",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065406"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065406",
+    "capacity_estimated": true
   },
   {
     "license_number": "207575",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "55372-9205",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453464",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207575"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207575",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114360",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "56011-1417",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453484",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099119",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "55379-2939",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453487",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099119"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099119",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022122",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "55378-1883",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453543",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022122"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022122",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087689",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "55379-2780",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453591",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087689",
+    "capacity_estimated": true
   },
   {
     "license_number": "105021",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "55378-2004",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453644",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076397",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "56011-2285",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453657",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076397"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076397",
+    "capacity_estimated": true
   },
   {
     "license_number": "236354",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "55379-8512",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453712",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236354"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236354",
+    "capacity_estimated": true
   },
   {
     "license_number": "121422",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "55378-1877",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453755",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121422"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121422",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007269",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "55379-4456",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453769",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007269"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007269",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058601",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "56071-2166",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453906",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058601"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058601",
+    "capacity_estimated": true
   },
   {
     "license_number": "218574",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "56011-5056",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453909",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218574",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055254",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "55379-4568",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453930",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055254"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055254",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075452",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "55379-4489",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454063",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075452",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036733",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "55379-9419",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454081",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036733"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036733",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115148",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "56071-2302",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454092",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115148"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115148",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004495",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "55379-1557",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454117",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004495"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004495",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102694",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "55379-2943",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454136",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010466",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "55372-2977",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,7 +2802,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454182",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010466"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010466",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085303",
@@ -2693,7 +2815,7 @@
     "state": "MN",
     "zip_code": "55372-2823",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2703,7 +2825,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454218",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085303"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085303",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098162",
@@ -2715,7 +2838,7 @@
     "state": "MN",
     "zip_code": "55352",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2725,7 +2848,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454255",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098162",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114239",
@@ -2737,7 +2861,7 @@
     "state": "MN",
     "zip_code": "56071-2459",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2747,7 +2871,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454298",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114239"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114239",
+    "capacity_estimated": true
   },
   {
     "license_number": "235785",
@@ -2759,7 +2884,7 @@
     "state": "MN",
     "zip_code": "55378-1656",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2769,7 +2894,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454518",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235785"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235785",
+    "capacity_estimated": true
   },
   {
     "license_number": "205470",
@@ -2781,7 +2907,7 @@
     "state": "MN",
     "zip_code": "55352-9646",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2791,7 +2917,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205470"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205470",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064971",
@@ -2803,7 +2930,7 @@
     "state": "MN",
     "zip_code": "55379-3206",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2813,7 +2940,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064971"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064971",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114545",
@@ -2825,7 +2953,7 @@
     "state": "MN",
     "zip_code": "55372-4108",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2835,7 +2963,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114545"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114545",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099660",
@@ -2847,7 +2976,7 @@
     "state": "MN",
     "zip_code": "56071-5400",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2857,7 +2986,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454629",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099660"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099660",
+    "capacity_estimated": true
   },
   {
     "license_number": "236266",
@@ -2869,7 +2999,7 @@
     "state": "MN",
     "zip_code": "55352-8300",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2879,7 +3009,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454638",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034081",
@@ -2891,7 +3022,7 @@
     "state": "MN",
     "zip_code": "55352-1442",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2901,7 +3032,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454679",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034565",
@@ -2913,7 +3045,7 @@
     "state": "MN",
     "zip_code": "55379-4625",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2923,7 +3055,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454738",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034565"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034565",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006963",
@@ -2935,7 +3068,7 @@
     "state": "MN",
     "zip_code": "56071-9014",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2945,7 +3078,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454748",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006963",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028630",
@@ -2957,7 +3091,7 @@
     "state": "MN",
     "zip_code": "55379-2725",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2967,7 +3101,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454757",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028630",
+    "capacity_estimated": true
   },
   {
     "license_number": "237191",
@@ -2979,7 +3114,7 @@
     "state": "MN",
     "zip_code": "55378-4015",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2989,7 +3124,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454876",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237191"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237191",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045229",
@@ -3001,7 +3137,7 @@
     "state": "MN",
     "zip_code": "55372-2994",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3011,7 +3147,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454910",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045229"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045229",
+    "capacity_estimated": true
   },
   {
     "license_number": "216907",
@@ -3023,7 +3160,7 @@
     "state": "MN",
     "zip_code": "55379-3716",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3033,7 +3170,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454997",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216907"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216907",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007237",
@@ -3045,7 +3183,7 @@
     "state": "MN",
     "zip_code": "55372-2721",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3055,7 +3193,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455001",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007237",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055253",
@@ -3067,7 +3206,7 @@
     "state": "MN",
     "zip_code": "55379-2971",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3077,7 +3216,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455053",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109512",
@@ -3089,7 +3229,7 @@
     "state": "MN",
     "zip_code": "55379-9204",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3099,7 +3239,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455117",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023943",
@@ -3111,7 +3252,7 @@
     "state": "MN",
     "zip_code": "56071-6833",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3121,7 +3262,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455196",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023943",
+    "capacity_estimated": true
   },
   {
     "license_number": "809989",
@@ -3133,7 +3275,7 @@
     "state": "MN",
     "zip_code": "56011-1100",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3143,7 +3285,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455234",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809989"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809989",
+    "capacity_estimated": true
   },
   {
     "license_number": "107868",
@@ -3155,7 +3298,7 @@
     "state": "MN",
     "zip_code": "55379-1912",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3165,7 +3308,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455273",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107868"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107868",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018896",
@@ -3177,7 +3321,7 @@
     "state": "MN",
     "zip_code": "55379-8020",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3187,7 +3331,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455379",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018896"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018896",
+    "capacity_estimated": true
   },
   {
     "license_number": "108215",
@@ -3199,7 +3344,7 @@
     "state": "MN",
     "zip_code": "55372-2128",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3209,7 +3354,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455459",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012098",
@@ -3221,7 +3367,7 @@
     "state": "MN",
     "zip_code": "55372-2472",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3231,7 +3377,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455479",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012098"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012098",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057726",
@@ -3243,7 +3390,7 @@
     "state": "MN",
     "zip_code": "55372-1708",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3253,7 +3400,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455499",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057726"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057726",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052698",
@@ -3265,7 +3413,7 @@
     "state": "MN",
     "zip_code": "55352-1526",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3275,7 +3423,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455646",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052698"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052698",
+    "capacity_estimated": true
   },
   {
     "license_number": "808501",
@@ -3287,7 +3436,7 @@
     "state": "MN",
     "zip_code": "55379-2733",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3297,7 +3446,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455719",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808501"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808501",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057143",
@@ -3309,7 +3459,7 @@
     "state": "MN",
     "zip_code": "55379-2049",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3319,7 +3469,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455789",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057143"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057143",
+    "capacity_estimated": true
   },
   {
     "license_number": "221720",
@@ -3331,7 +3482,7 @@
     "state": "MN",
     "zip_code": "55379-4528",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3341,7 +3492,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455815",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221720"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221720",
+    "capacity_estimated": true
   },
   {
     "license_number": "810771",
@@ -3353,7 +3505,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3363,7 +3515,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455862",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810771"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810771",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077098",
@@ -3375,7 +3528,7 @@
     "state": "MN",
     "zip_code": "55379-5901",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3385,7 +3538,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455865",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077098"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077098",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102719",
@@ -3397,7 +3551,7 @@
     "state": "MN",
     "zip_code": "55378-1606",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3407,7 +3561,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102719"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102719",
+    "capacity_estimated": true
   },
   {
     "license_number": "228701",
@@ -3419,7 +3574,7 @@
     "state": "MN",
     "zip_code": "55379-4668",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3429,7 +3584,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456169",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228701"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228701",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017795",
@@ -3441,7 +3597,7 @@
     "state": "MN",
     "zip_code": "55378-1197",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3451,7 +3607,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017795",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101345",
@@ -3463,7 +3620,7 @@
     "state": "MN",
     "zip_code": "55372-5601",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3473,7 +3630,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456575",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101345"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101345",
+    "capacity_estimated": true
   },
   {
     "license_number": "191782",
@@ -3485,7 +3643,7 @@
     "state": "MN",
     "zip_code": "55378-3643",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3495,7 +3653,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191782"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191782",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060163",
@@ -3507,7 +3666,7 @@
     "state": "MN",
     "zip_code": "55379-3395",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3517,7 +3676,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456616",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060163"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060163",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040045",
@@ -3529,7 +3689,7 @@
     "state": "MN",
     "zip_code": "56011-2309",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3539,7 +3699,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456634",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040045"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040045",
+    "capacity_estimated": true
   },
   {
     "license_number": "110431",
@@ -3551,7 +3712,7 @@
     "state": "MN",
     "zip_code": "55379-3201",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3561,7 +3722,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456674",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110431"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110431",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076031",
@@ -3573,7 +3735,7 @@
     "state": "MN",
     "zip_code": "55379-2466",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3583,7 +3745,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456724",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076031"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076031",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046361",
@@ -3595,7 +3758,7 @@
     "state": "MN",
     "zip_code": "55372-2523",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3605,7 +3768,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456753",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046361"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046361",
+    "capacity_estimated": true
   },
   {
     "license_number": "121687",
@@ -3617,7 +3781,7 @@
     "state": "MN",
     "zip_code": "55378-1883",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3627,7 +3791,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456795",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121687"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121687",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086218",
@@ -3639,7 +3804,7 @@
     "state": "MN",
     "zip_code": "55352-1098",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3649,7 +3814,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456800",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086218"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086218",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099118",
@@ -3661,7 +3827,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3671,7 +3837,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456814",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099118"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099118",
+    "capacity_estimated": true
   },
   {
     "license_number": "810811",
@@ -3683,7 +3850,7 @@
     "state": "MN",
     "zip_code": "55372-3037",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3693,7 +3860,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456821",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810811"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810811",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085302",
@@ -3705,7 +3873,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3715,7 +3883,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456851",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085302"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085302",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111178",
@@ -3727,7 +3896,7 @@
     "state": "MN",
     "zip_code": "56071-1621",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3737,7 +3906,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456915",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111178",
+    "capacity_estimated": true
   },
   {
     "license_number": "228360",
@@ -3749,7 +3919,7 @@
     "state": "MN",
     "zip_code": "56071-1962",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3759,7 +3929,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456929",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028581",
@@ -3771,7 +3942,7 @@
     "state": "MN",
     "zip_code": "55352-1853",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3781,7 +3952,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456966",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028581"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028581",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078153",
@@ -3793,7 +3965,7 @@
     "state": "MN",
     "zip_code": "55379-7705",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3803,7 +3975,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457252",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078153"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078153",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046362",
@@ -3815,7 +3988,7 @@
     "state": "MN",
     "zip_code": "55378-1699",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3825,7 +3998,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457293",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046362"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046362",
+    "capacity_estimated": true
   },
   {
     "license_number": "235012",
@@ -3837,7 +4011,7 @@
     "state": "MN",
     "zip_code": "55379-3502",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3847,7 +4021,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457350",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235012"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235012",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066792",
@@ -3859,7 +4034,7 @@
     "state": "MN",
     "zip_code": "56071-2073",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3869,7 +4044,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457428",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066792"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066792",
+    "capacity_estimated": true
   },
   {
     "license_number": "111789",
@@ -3881,7 +4057,7 @@
     "state": "MN",
     "zip_code": "55379-1514",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3891,7 +4067,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457448",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111789"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111789",
+    "capacity_estimated": true
   },
   {
     "license_number": "1001923",
@@ -3903,7 +4080,7 @@
     "state": "MN",
     "zip_code": "55378-3612",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3913,7 +4090,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457480",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001923"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001923",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010439",
@@ -3925,7 +4103,7 @@
     "state": "MN",
     "zip_code": "55379-4554",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3935,7 +4113,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457535",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010439"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010439",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109270",
@@ -3947,7 +4126,7 @@
     "state": "MN",
     "zip_code": "56071-4808",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3957,7 +4136,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109270"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109270",
+    "capacity_estimated": true
   },
   {
     "license_number": "112061",
@@ -3969,7 +4149,7 @@
     "state": "MN",
     "zip_code": "55378-2649",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3979,7 +4159,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457591",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112061"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112061",
+    "capacity_estimated": true
   },
   {
     "license_number": "232415",
@@ -3991,7 +4172,7 @@
     "state": "MN",
     "zip_code": "55372-1642",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4001,7 +4182,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457620",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232415"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232415",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062499",
@@ -4013,7 +4195,7 @@
     "state": "MN",
     "zip_code": "55352-8602",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4023,7 +4205,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457660",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062499"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062499",
+    "capacity_estimated": true
   },
   {
     "license_number": "220276",
@@ -4035,7 +4218,7 @@
     "state": "MN",
     "zip_code": "56011-1902",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4045,7 +4228,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457902",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220276"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220276",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056608",
@@ -4057,7 +4241,7 @@
     "state": "MN",
     "zip_code": "55379-8023",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4067,7 +4251,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056608"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056608",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059072",
@@ -4079,7 +4264,7 @@
     "state": "MN",
     "zip_code": "55379-4700",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4089,7 +4274,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457967",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059072"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059072",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056963",
@@ -4101,7 +4287,7 @@
     "state": "MN",
     "zip_code": "55378-3637",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4111,7 +4297,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458009",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056963",
+    "capacity_estimated": true
   },
   {
     "license_number": "112660",
@@ -4123,7 +4310,7 @@
     "state": "MN",
     "zip_code": "55379-2128",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4133,7 +4320,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458049",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112660"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112660",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028401",
@@ -4145,7 +4333,7 @@
     "state": "MN",
     "zip_code": "55378-2784",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4155,7 +4343,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458086",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028401"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028401",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096698",
@@ -4167,7 +4356,7 @@
     "state": "MN",
     "zip_code": "56011",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4177,7 +4366,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458088",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096698"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096698",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079044",
@@ -4189,7 +4379,7 @@
     "state": "MN",
     "zip_code": "56071-7805",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4199,7 +4389,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458148",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079044"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079044",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044575",
@@ -4211,7 +4402,7 @@
     "state": "MN",
     "zip_code": "56071-4592",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4221,7 +4412,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458204",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044575"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044575",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114237",
@@ -4233,7 +4425,7 @@
     "state": "MN",
     "zip_code": "55379-4601",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4243,7 +4435,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114237",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114608",
@@ -4255,7 +4448,7 @@
     "state": "MN",
     "zip_code": "56011-2803",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4265,7 +4458,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458285",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114608"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114608",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061552",
@@ -4277,7 +4471,7 @@
     "state": "MN",
     "zip_code": "56071",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4287,7 +4481,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061552"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061552",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044430",
@@ -4299,7 +4494,7 @@
     "state": "MN",
     "zip_code": "55372-2754",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4309,7 +4504,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458372",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044430"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044430",
+    "capacity_estimated": true
   },
   {
     "license_number": "113300",
@@ -4321,7 +4517,7 @@
     "state": "MN",
     "zip_code": "55372-2525",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4331,7 +4527,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458406",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113300"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113300",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059306",
@@ -4343,7 +4540,7 @@
     "state": "MN",
     "zip_code": "55379-5516",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4353,7 +4550,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458466",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059306"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059306",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087990",
@@ -4365,7 +4563,7 @@
     "state": "MN",
     "zip_code": "55378-2533",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4375,7 +4573,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458543",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060383",
@@ -4387,7 +4586,7 @@
     "state": "MN",
     "zip_code": "56011-2317",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4397,7 +4596,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060383"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060383",
+    "capacity_estimated": true
   },
   {
     "license_number": "113658",
@@ -4409,7 +4609,7 @@
     "state": "MN",
     "zip_code": "55352-1327",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4419,7 +4619,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458630",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076781",
@@ -4431,7 +4632,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4441,7 +4642,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458741",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076781"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076781",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053557",
@@ -4453,7 +4655,7 @@
     "state": "MN",
     "zip_code": "55379-4495",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4463,7 +4665,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458776",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053557"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053557",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093300",
@@ -4475,7 +4678,7 @@
     "state": "MN",
     "zip_code": "55378",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4485,7 +4688,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458886",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093300"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093300",
+    "capacity_estimated": true
   },
   {
     "license_number": "114148",
@@ -4497,7 +4701,7 @@
     "state": "MN",
     "zip_code": "55378-1678",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4507,7 +4711,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458890",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114148"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114148",
+    "capacity_estimated": true
   },
   {
     "license_number": "219225",
@@ -4519,7 +4724,7 @@
     "state": "MN",
     "zip_code": "55372-9000",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4529,7 +4734,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458975",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219225"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219225",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078404",
@@ -4541,7 +4747,7 @@
     "state": "MN",
     "zip_code": "55372-1314",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4551,7 +4757,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458977",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078404"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078404",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100034",
@@ -4563,7 +4770,7 @@
     "state": "MN",
     "zip_code": "55372-0000",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4573,7 +4780,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459042",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100034"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100034",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000516",
@@ -4585,7 +4793,7 @@
     "state": "MN",
     "zip_code": "55379-2115",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4595,7 +4803,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459051",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000516"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000516",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094706",
@@ -4607,7 +4816,7 @@
     "state": "MN",
     "zip_code": "56071-2240",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4617,7 +4826,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459111",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094706"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094706",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080451",
@@ -4629,7 +4839,7 @@
     "state": "MN",
     "zip_code": "55372-1772",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4639,7 +4849,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459158",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080451"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080451",
+    "capacity_estimated": true
   },
   {
     "license_number": "114657",
@@ -4651,7 +4862,7 @@
     "state": "MN",
     "zip_code": "56011-1912",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4661,7 +4872,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459174",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114657"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114657",
+    "capacity_estimated": true
   },
   {
     "license_number": "214417",
@@ -4673,7 +4885,7 @@
     "state": "MN",
     "zip_code": "55352-1542",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4683,7 +4895,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459198",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214417"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214417",
+    "capacity_estimated": true
   },
   {
     "license_number": "225975",
@@ -4695,7 +4908,7 @@
     "state": "MN",
     "zip_code": "55372-1857",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4705,7 +4918,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459210",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225975"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225975",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077159",
@@ -4717,7 +4931,7 @@
     "state": "MN",
     "zip_code": "55379",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4727,7 +4941,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459287",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077159"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077159",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088983",
@@ -4739,7 +4954,7 @@
     "state": "MN",
     "zip_code": "56011-2282",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4749,7 +4964,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459325",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088983"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088983",
+    "capacity_estimated": true
   },
   {
     "license_number": "213832",
@@ -4761,7 +4977,7 @@
     "state": "MN",
     "zip_code": "55378-2833",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4771,7 +4987,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459329",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213832"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213832",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048741",
@@ -4783,7 +5000,7 @@
     "state": "MN",
     "zip_code": "55379-2386",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4793,7 +5010,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459351",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048741"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048741",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043342",
@@ -4805,7 +5023,7 @@
     "state": "MN",
     "zip_code": "55372-1218",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4815,7 +5033,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459366",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043342"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043342",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080690",
@@ -4827,7 +5046,7 @@
     "state": "MN",
     "zip_code": "55352-9332",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4837,7 +5056,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459371",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080690"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080690",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110940",
@@ -4849,7 +5069,7 @@
     "state": "MN",
     "zip_code": "56071-5413",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4859,7 +5079,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459395",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110940"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110940",
+    "capacity_estimated": true
   },
   {
     "license_number": "235079",
@@ -4871,7 +5092,7 @@
     "state": "MN",
     "zip_code": "55372-2581",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4881,7 +5102,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235079"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235079",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108356",
@@ -4893,7 +5115,7 @@
     "state": "MN",
     "zip_code": "55378-3015",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4903,7 +5125,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459469",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108356"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108356",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065299",
@@ -4915,7 +5138,7 @@
     "state": "MN",
     "zip_code": "56011-2190",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4925,7 +5148,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459473",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065299"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065299",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106112",
@@ -4937,7 +5161,7 @@
     "state": "MN",
     "zip_code": "56071-2238",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4947,7 +5171,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459532",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106112"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106112",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117157",
@@ -4959,7 +5184,7 @@
     "state": "MN",
     "zip_code": "56071-1015",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4969,7 +5194,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459546",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117157"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117157",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019835",
@@ -4981,7 +5207,7 @@
     "state": "MN",
     "zip_code": "55372-4419",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4991,7 +5217,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019835"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019835",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031732",
@@ -5003,7 +5230,7 @@
     "state": "MN",
     "zip_code": "55352-8611",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5013,7 +5240,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459661",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031732"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031732",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106325",
@@ -5025,7 +5253,7 @@
     "state": "MN",
     "zip_code": "56071-2252",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5035,7 +5263,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459752",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106325"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106325",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117163",
@@ -5047,7 +5276,7 @@
     "state": "MN",
     "zip_code": "55372-1360",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5057,7 +5286,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459769",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117163"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117163",
+    "capacity_estimated": true
   },
   {
     "license_number": "224297",
@@ -5069,7 +5299,7 @@
     "state": "MN",
     "zip_code": "56011-2131",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5079,7 +5309,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459794",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224297"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224297",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050231",
@@ -5091,7 +5322,7 @@
     "state": "MN",
     "zip_code": "55372-1274",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5101,7 +5332,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459833",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050231"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050231",
+    "capacity_estimated": true
   },
   {
     "license_number": "221303",
@@ -5113,7 +5345,7 @@
     "state": "MN",
     "zip_code": "55378-4634",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5123,7 +5355,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459850",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221303"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221303",
+    "capacity_estimated": true
   },
   {
     "license_number": "218692",
@@ -5135,7 +5368,7 @@
     "state": "MN",
     "zip_code": "55372-1144",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5145,7 +5378,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218692"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218692",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108714",
@@ -5157,7 +5391,7 @@
     "state": "MN",
     "zip_code": "55379-2499",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5167,7 +5401,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108714"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108714",
+    "capacity_estimated": true
   },
   {
     "license_number": "217256",
@@ -5179,7 +5414,7 @@
     "state": "MN",
     "zip_code": "56071-9743",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5189,7 +5424,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459984",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217256"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217256",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065997",
@@ -5201,7 +5437,7 @@
     "state": "MN",
     "zip_code": "55379-8533",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5211,7 +5447,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459986",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065997",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046250",
@@ -5223,7 +5460,7 @@
     "state": "MN",
     "zip_code": "55378-3623",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5233,7 +5470,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460017",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046250"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046250",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113871",
@@ -5245,7 +5483,7 @@
     "state": "MN",
     "zip_code": "55352-1640",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5255,7 +5493,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460024",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113871"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113871",
+    "capacity_estimated": true
   },
   {
     "license_number": "807250",
@@ -5267,7 +5506,7 @@
     "state": "MN",
     "zip_code": "55379-2897",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5277,7 +5516,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460036",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807250"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807250",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005957",
@@ -5289,7 +5529,7 @@
     "state": "MN",
     "zip_code": "55379-4391",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5299,7 +5539,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460119",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005957"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005957",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025883",
@@ -5311,7 +5552,7 @@
     "state": "MN",
     "zip_code": "55379-2971",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5321,7 +5562,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460133",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025883"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025883",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113637",
@@ -5333,7 +5575,7 @@
     "state": "MN",
     "zip_code": "55352-1074",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5343,7 +5585,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460135",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113637"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113637",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051917",
@@ -5355,7 +5598,7 @@
     "state": "MN",
     "zip_code": "55378-4666",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5365,7 +5608,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460211",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051917",
+    "capacity_estimated": true
   },
   {
     "license_number": "114992",
@@ -5377,7 +5621,7 @@
     "state": "MN",
     "zip_code": "55378-1870",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5387,7 +5631,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460232",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114992",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038713",
@@ -5399,7 +5644,7 @@
     "state": "MN",
     "zip_code": "55379-8030",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5409,7 +5654,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460326",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038713"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038713",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060292",
@@ -5421,7 +5667,7 @@
     "state": "MN",
     "zip_code": "56011-2290",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5431,7 +5677,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060292"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060292",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062405",
@@ -5443,7 +5690,7 @@
     "state": "MN",
     "zip_code": "55372-2706",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5453,7 +5700,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460348",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062405"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062405",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104170",
@@ -5465,7 +5713,7 @@
     "state": "MN",
     "zip_code": "56071-1912",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5475,7 +5723,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104170"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104170",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112420",
@@ -5487,7 +5736,7 @@
     "state": "MN",
     "zip_code": "55379-8533",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5497,7 +5746,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460514",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091273",
@@ -5509,7 +5759,7 @@
     "state": "MN",
     "zip_code": "56011-1420",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5519,7 +5769,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091273"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091273",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077560",
@@ -5531,7 +5782,7 @@
     "state": "MN",
     "zip_code": "55379-3182",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5541,7 +5792,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077560"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077560",
+    "capacity_estimated": true
   },
   {
     "license_number": "228528",
@@ -5553,7 +5805,7 @@
     "state": "MN",
     "zip_code": "55379-5002",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5563,7 +5815,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460638",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228528",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060935",
@@ -5575,7 +5828,7 @@
     "state": "MN",
     "zip_code": "56071-2217",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5585,7 +5838,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460646",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060935"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060935",
+    "capacity_estimated": true
   },
   {
     "license_number": "1027490",
@@ -5597,7 +5851,7 @@
     "state": "MN",
     "zip_code": "55372-2524",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5607,7 +5861,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460676",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027490"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027490",
+    "capacity_estimated": true
   },
   {
     "license_number": "219512",
@@ -5619,7 +5874,7 @@
     "state": "MN",
     "zip_code": "55378-0445",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5629,7 +5884,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460731",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114609",
@@ -5641,7 +5897,7 @@
     "state": "MN",
     "zip_code": "56071-2194",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5651,7 +5907,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460735",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114609",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030484",
@@ -5663,7 +5920,7 @@
     "state": "MN",
     "zip_code": "55379-7043",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5673,7 +5930,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460783",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030484"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030484",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065549",
@@ -5685,7 +5943,7 @@
     "state": "MN",
     "zip_code": "55372-3371",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5695,7 +5953,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460792",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065549"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065549",
+    "capacity_estimated": true
   },
   {
     "license_number": "201978",
@@ -5707,7 +5966,7 @@
     "state": "MN",
     "zip_code": "56071-1949",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5717,7 +5976,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460837",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201978"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201978",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107785",
@@ -5729,7 +5989,7 @@
     "state": "MN",
     "zip_code": "55379-4337",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5739,7 +5999,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107785"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107785",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063784",
@@ -5751,7 +6012,7 @@
     "state": "MN",
     "zip_code": "55352-9715",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5761,7 +6022,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460903",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063784"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063784",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049667",
@@ -5773,7 +6035,7 @@
     "state": "MN",
     "zip_code": "55378-1892",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5783,7 +6045,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460937",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049667"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049667",
+    "capacity_estimated": true
   },
   {
     "license_number": "225031",
@@ -5795,7 +6058,7 @@
     "state": "MN",
     "zip_code": "55379-1559",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5805,7 +6068,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225031"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225031",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043900",
@@ -5817,7 +6081,7 @@
     "state": "MN",
     "zip_code": "55020-9557",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5827,7 +6091,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043900"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043900",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089186",
@@ -5839,7 +6104,7 @@
     "state": "MN",
     "zip_code": "55378-2858",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5849,7 +6114,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461676",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089186",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089103",
@@ -5861,7 +6127,7 @@
     "state": "MN",
     "zip_code": "55378-2052",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5871,7 +6137,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461682",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089103"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089103",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089527",
@@ -5883,7 +6150,7 @@
     "state": "MN",
     "zip_code": "55379-4653",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5893,7 +6160,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462088",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089527"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089527",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089602",
@@ -5905,7 +6173,7 @@
     "state": "MN",
     "zip_code": "55379-4661",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5915,7 +6183,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462091",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089602"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089602",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089543",
@@ -5927,7 +6196,7 @@
     "state": "MN",
     "zip_code": "55379-3153",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5937,7 +6206,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462092",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089543"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089543",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089544",
@@ -5949,7 +6219,7 @@
     "state": "MN",
     "zip_code": "55379-4374",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5959,7 +6229,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462094",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089544"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089544",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089560",
@@ -5971,7 +6242,7 @@
     "state": "MN",
     "zip_code": "55379-2228",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5981,7 +6252,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462098",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089560"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089560",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089522",
@@ -5993,7 +6265,7 @@
     "state": "MN",
     "zip_code": "55379-4443",
     "county": "Scott",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -6003,6 +6275,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462264",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089522"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089522",
+    "capacity_estimated": true
   }
 ]

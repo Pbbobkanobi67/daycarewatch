@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56142-4008",
     "county": "Lincoln",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453023",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085111"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085111",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090634",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56142-9647",
     "county": "Lincoln",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455625",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090634"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090634",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066147",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56142-9542",
     "county": "Lincoln",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,6 +65,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458280",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066147"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066147",
+    "capacity_estimated": true
   }
 ]

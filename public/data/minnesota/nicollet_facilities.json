@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448388",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081017"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081017",
+    "capacity_estimated": true
   },
   {
     "license_number": "830775",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448565",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830775"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830775",
+    "capacity_estimated": true
   },
   {
     "license_number": "801401",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56082-2012",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801401"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801401",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077489",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449728",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077489"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077489",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049241",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449903",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049241"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049241",
+    "capacity_estimated": true
   },
   {
     "license_number": "802388",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449961",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802388"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802388",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081432",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452084",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081432"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081432",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080493",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452362",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080493"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080493",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095294",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452651",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095294"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095294",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094204",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56082-7507",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452693",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094204"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094204",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114381",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56082-1443",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454280",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114381"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114381",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053126",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56082",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454879",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053126"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053126",
+    "capacity_estimated": true
   },
   {
     "license_number": "237217",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56082-1622",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455574",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237217"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237217",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095581",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56082-1786",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095581"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095581",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048684",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56082-1710",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456253",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048684"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048684",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107571",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56082-1231",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456649",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107571"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107571",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060880",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56082-2419",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060880"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060880",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039432",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56082-1839",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456997",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039432"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039432",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114525",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56082-1943",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457942",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114525",
+    "capacity_estimated": true
   },
   {
     "license_number": "1003280",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56082-1128",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457981",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003280"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003280",
+    "capacity_estimated": true
   },
   {
     "license_number": "113498",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56082-1116",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458526",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104947",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56082-5376",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458669",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104947"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104947",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110657",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56082-5376",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459707",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110657"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110657",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042232",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56082-1989",
     "county": "Nicollet",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,6 +548,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042232"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042232",
+    "capacity_estimated": true
   }
 ]

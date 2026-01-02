@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56101-1561",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450300",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083797",
+    "capacity_estimated": true
   },
   {
     "license_number": "190426",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56101-9505",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451320",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190426"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190426",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102869",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56101-1536",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451878",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102869"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102869",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078365",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56101-1329",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452178",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078365"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078365",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095345",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452342",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095345"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095345",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088901",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56101-1453",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453028",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088901"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088901",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041069",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454937",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041069"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041069",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102015",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56101-1002",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455044",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102015"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102015",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116153",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56101-1066",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455291",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116153"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116153",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067015",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067015"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067015",
+    "capacity_estimated": true
   },
   {
     "license_number": "110015",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56101-1427",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456466",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110015"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110015",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021463",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457080",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021463"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021463",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091611",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457944",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091611"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091611",
+    "capacity_estimated": true
   },
   {
     "license_number": "808044",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458568",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808044"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808044",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061774",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460053",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061774"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061774",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075880",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56101-1605",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460482",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075880"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075880",
+    "capacity_estimated": true
   },
   {
     "license_number": "225537",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56101",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460672",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225537"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225537",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080541",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56101-3104",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460936",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080541"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080541",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089171",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56101-1147",
     "county": "Cottonwood",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,6 +433,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461624",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089171"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089171",
+    "capacity_estimated": true
   }
 ]

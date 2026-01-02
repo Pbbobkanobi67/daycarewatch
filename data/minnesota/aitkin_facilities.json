@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56431-1626",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448600",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052435",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55748-1552",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052435"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052435",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105135",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56431-1214",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453016",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105135"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105135",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091591",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55748-0000",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453163",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091591"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091591",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117002",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55760-2700",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453212",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117002"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117002",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066279",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56431",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454048",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066279"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066279",
+    "capacity_estimated": true
   },
   {
     "license_number": "204783",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56431",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454152",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204783"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204783",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096132",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56431-4657",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454552",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096132"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096132",
+    "capacity_estimated": true
   },
   {
     "license_number": "106563",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56431-4427",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454597",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106563"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106563",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088870",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56431",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455169",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088870",
+    "capacity_estimated": true
   },
   {
     "license_number": "108208",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56431-1845",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455460",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108208"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108208",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063541",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56431-1320",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456603",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063541"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063541",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096133",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55760",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456936",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096133"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096133",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111180",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55760-5684",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456955",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111180"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111180",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114033",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55748-1538",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457108",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114033"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114033",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065727",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55760",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457172",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065727"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065727",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096129",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56431",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096129"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096129",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108429",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56431-2073",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108429"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108429",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096131",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55760",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459269",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096131"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096131",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096130",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56431",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459464",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076001",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56431-5141",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460255",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076001"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076001",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108433",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55748-9754",
     "county": "Aitkin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,6 +502,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460869",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108433"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108433",
+    "capacity_estimated": true
   }
 ]

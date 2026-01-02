@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55358",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447440",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081858"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081858",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083745",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447711",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083745"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083745",
+    "capacity_estimated": true
   },
   {
     "license_number": "800398",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55341-4035",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447884",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800398"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800398",
+    "capacity_estimated": true
   },
   {
     "license_number": "806293",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447909",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806293"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806293",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082479",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448073",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082479"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082479",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105691",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55301-4341",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448309",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105691"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105691",
+    "capacity_estimated": true
   },
   {
     "license_number": "808051",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448514",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808051",
+    "capacity_estimated": true
   },
   {
     "license_number": "804347",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448540",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804347",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095455",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448548",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092878",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55363-8585",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448581",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092878"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092878",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006246",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55321-4356",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448792",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006246"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006246",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096119",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55301-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448802",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096119"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096119",
+    "capacity_estimated": true
   },
   {
     "license_number": "1027576",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55302",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448821",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027576"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027576",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040488",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448834",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040488"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040488",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113172",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55376-1503",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448870",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113172"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113172",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113170",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55330-6605",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448871",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113170"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113170",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113169",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55313-1705",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448874",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113169"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113169",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081748",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55302",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448952",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081748"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081748",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078594",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449219",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078594",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048645",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048645",
+    "capacity_estimated": true
   },
   {
     "license_number": "801716",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55313-1609",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801716",
+    "capacity_estimated": true
   },
   {
     "license_number": "804779",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449520",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804779"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804779",
+    "capacity_estimated": true
   },
   {
     "license_number": "802000",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802000",
+    "capacity_estimated": true
   },
   {
     "license_number": "802329",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802329"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802329",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063308",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063308"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063308",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066335",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449884",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066335"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066335",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065642",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450043",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065642"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065642",
+    "capacity_estimated": true
   },
   {
     "license_number": "830578",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55341",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450114",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830578"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830578",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051224",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450125",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051224",
+    "capacity_estimated": true
   },
   {
     "license_number": "810123",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55302",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450231",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810123"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810123",
+    "capacity_estimated": true
   },
   {
     "license_number": "830835",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55362-8569",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450233",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830835"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830835",
+    "capacity_estimated": true
   },
   {
     "license_number": "830966",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450235",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830966"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830966",
+    "capacity_estimated": true
   },
   {
     "license_number": "804165",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55376-8208",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450237",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804165",
+    "capacity_estimated": true
   },
   {
     "license_number": "801103",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55349",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450242",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801103"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801103",
+    "capacity_estimated": true
   },
   {
     "license_number": "830404",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55363",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450247",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830404"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830404",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014742",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450411",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014742"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014742",
+    "capacity_estimated": true
   },
   {
     "license_number": "218038",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55341-8700",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450443",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218038"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218038",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104102",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55362-3387",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450470",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104102"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104102",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092606",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55363",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450498",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092606"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092606",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065027",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55330-7389",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451284",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065027"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065027",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088397",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55330-7469",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451305",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088397"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088397",
+    "capacity_estimated": true
   },
   {
     "license_number": "121719",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55320-4517",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451328",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121719"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121719",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015078",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451349",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015078"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015078",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088208",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55390",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451371",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088208"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088208",
+    "capacity_estimated": true
   },
   {
     "license_number": "220956",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451372",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220956"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220956",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117822",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55376-9534",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451414",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117822"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117822",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086918",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451492",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086918"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086918",
+    "capacity_estimated": true
   },
   {
     "license_number": "227743",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227743"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227743",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061676",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55349",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061676"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061676",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081153",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55358-3414",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451621",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081153"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081153",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065365",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55320-2006",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451679",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065365"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065365",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018868",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55320",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018868"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018868",
+    "capacity_estimated": true
   },
   {
     "license_number": "1001526",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451685",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001526"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001526",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006386",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451697",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006386",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026233",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451757",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026233"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026233",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086610",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451768",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086610"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086610",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103152",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55301-3505",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451839",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103152"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103152",
+    "capacity_estimated": true
   },
   {
     "license_number": "221594",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451868",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221594",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108748",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55390-5532",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451993",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108748"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108748",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115660",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55313-3533",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452143",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115660"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115660",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033696",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452152",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033696"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033696",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057073",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55320",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452157",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057073"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057073",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105327",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55313-1208",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452246",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091550",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55321-4714",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452261",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091550"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091550",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115458",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55313-1430",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115458"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115458",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074983",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55302-9429",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452323",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074983"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074983",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026887",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026887"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026887",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055995",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55376-3296",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452411",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055995"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055995",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064644",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55376-8604",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452426",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064644",
+    "capacity_estimated": true
   },
   {
     "license_number": "228922",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452437",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228922"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228922",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082680",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55302-4538",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452599",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082680"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082680",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052590",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55301-4591",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452663",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052590"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052590",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083872",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55362-8506",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452677",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083872"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083872",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030641",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452709",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030641"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030641",
+    "capacity_estimated": true
   },
   {
     "license_number": "1003992",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452752",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003992",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024561",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55349-3202",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024561"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024561",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080984",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55363",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452873",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080984"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080984",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081731",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452922",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093158",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453012",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093158"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093158",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094527",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "55330-6929",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453134",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094527"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094527",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047764",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453152",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047764"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047764",
+    "capacity_estimated": true
   },
   {
     "license_number": "223777",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "55313-1254",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453154",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223777"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223777",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020635",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453193",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020635"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020635",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042486",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453225",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042486"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042486",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114884",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "55390-1500",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453347",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114884"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114884",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028028",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453418",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028028"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028028",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061883",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "55313-2349",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453426",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061883"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061883",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064234",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "55328-4571",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453489",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064234"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064234",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047320",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453521",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047320"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047320",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044270",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "55330-7290",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453525",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044270"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044270",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080590",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453553",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080590"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080590",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076373",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "55349",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453586",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076373"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076373",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077310",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "55341",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453596",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077310"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077310",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104553",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55313-5220",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453738",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104553"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104553",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016692",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "55390",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453747",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016692"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016692",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002468",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "55362-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453754",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002468"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002468",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087974",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453777",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087974"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087974",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093823",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "55390-5419",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453798",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093823"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093823",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099542",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "55301-4508",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453801",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099542",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097857",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453845",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097857"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097857",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115175",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "55362-8437",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453852",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115175"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115175",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077963",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "55328",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453891",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077963",
+    "capacity_estimated": true
   },
   {
     "license_number": "230780",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454034",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230780"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230780",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008148",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "55301-9657",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454085",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008148"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008148",
+    "capacity_estimated": true
   },
   {
     "license_number": "221185",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454149",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221185"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221185",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020637",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "55363",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454171",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020637"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020637",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032286",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "55341",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454259",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051787",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "55362-4406",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454355",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051787"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051787",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091724",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091724"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091724",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102945",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "55301-9629",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454539",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102945"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102945",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115570",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "55301-4059",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454623",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115570"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115570",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051966",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "55313-2006",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454674",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051966"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051966",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051010",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454693",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051010"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051010",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043711",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454705",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116711",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "55301-3102",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454756",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073623",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454793",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073623"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073623",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114980",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "55330-6680",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454796",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114980"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114980",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048470",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "55390",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454832",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048470"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048470",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109239",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "55301-4538",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454851",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109239"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109239",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031918",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454863",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031918"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031918",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111572",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "55362-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111572"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111572",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116043",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "55376-3011",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,7 +2802,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454998",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116043"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116043",
+    "capacity_estimated": true
   },
   {
     "license_number": "223808",
@@ -2693,7 +2815,7 @@
     "state": "MN",
     "zip_code": "55302",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2703,7 +2825,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455025",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223808"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223808",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061799",
@@ -2715,7 +2838,7 @@
     "state": "MN",
     "zip_code": "55328-8703",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2725,7 +2848,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455107",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061799"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061799",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076347",
@@ -2737,7 +2861,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2747,7 +2871,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455187",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076347",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092496",
@@ -2759,7 +2884,7 @@
     "state": "MN",
     "zip_code": "55363-8520",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2769,7 +2894,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455300",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092496"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092496",
+    "capacity_estimated": true
   },
   {
     "license_number": "215341",
@@ -2781,7 +2907,7 @@
     "state": "MN",
     "zip_code": "55328-9770",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2791,7 +2917,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455303",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215341"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215341",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020011",
@@ -2803,7 +2930,7 @@
     "state": "MN",
     "zip_code": "55301-8701",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2813,7 +2940,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455318",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020011"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020011",
+    "capacity_estimated": true
   },
   {
     "license_number": "235767",
@@ -2825,7 +2953,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2835,7 +2963,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455353",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235767"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235767",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105990",
@@ -2847,7 +2976,7 @@
     "state": "MN",
     "zip_code": "55330-6837",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2857,7 +2986,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455397",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066404",
@@ -2869,7 +2999,7 @@
     "state": "MN",
     "zip_code": "55313-5043",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2879,7 +3009,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455547",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066404"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066404",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014879",
@@ -2891,7 +3022,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2901,7 +3032,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455619",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014879"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014879",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098348",
@@ -2913,7 +3045,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2923,7 +3055,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455665",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098348"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098348",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063500",
@@ -2935,7 +3068,7 @@
     "state": "MN",
     "zip_code": "55301-4501",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2945,7 +3078,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455728",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063500"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063500",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021377",
@@ -2957,7 +3091,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2967,7 +3101,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455738",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021377"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021377",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083630",
@@ -2979,7 +3114,7 @@
     "state": "MN",
     "zip_code": "55376-3040",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2989,7 +3124,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455767",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083630",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113817",
@@ -3001,7 +3137,7 @@
     "state": "MN",
     "zip_code": "55390-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3011,7 +3147,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455780",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113817"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113817",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074493",
@@ -3023,7 +3160,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3033,7 +3170,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455832",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074493"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074493",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002081",
@@ -3045,7 +3183,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3055,7 +3193,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455902",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097956",
@@ -3067,7 +3206,7 @@
     "state": "MN",
     "zip_code": "55363-8591",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3077,7 +3216,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455909",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097956"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097956",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060449",
@@ -3089,7 +3229,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3099,7 +3239,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456000",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060449"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060449",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042272",
@@ -3111,7 +3252,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3121,7 +3262,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456045",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042272"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042272",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098684",
@@ -3133,7 +3275,7 @@
     "state": "MN",
     "zip_code": "55362-3215",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3143,7 +3285,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456067",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098684"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098684",
+    "capacity_estimated": true
   },
   {
     "license_number": "207400",
@@ -3155,7 +3298,7 @@
     "state": "MN",
     "zip_code": "55362-3162",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3165,7 +3308,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456181",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207400"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207400",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113000",
@@ -3177,7 +3321,7 @@
     "state": "MN",
     "zip_code": "55362-4597",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3187,7 +3331,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456213",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113000",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029759",
@@ -3199,7 +3344,7 @@
     "state": "MN",
     "zip_code": "55376-9488",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3209,7 +3354,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456224",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029759"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029759",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078562",
@@ -3221,7 +3367,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3231,7 +3377,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456252",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078562"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078562",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095450",
@@ -3243,7 +3390,7 @@
     "state": "MN",
     "zip_code": "55320-2118",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3253,7 +3400,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456260",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095450"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095450",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022907",
@@ -3265,7 +3413,7 @@
     "state": "MN",
     "zip_code": "55376-9234",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3275,7 +3423,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456333",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022907"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022907",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005810",
@@ -3287,7 +3436,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3297,7 +3446,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005810",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110135",
@@ -3309,7 +3459,7 @@
     "state": "MN",
     "zip_code": "55374-4896",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3319,7 +3469,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456368",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110135"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110135",
+    "capacity_estimated": true
   },
   {
     "license_number": "225012",
@@ -3331,7 +3482,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3341,7 +3492,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225012"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225012",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023093",
@@ -3353,7 +3505,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3363,7 +3515,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023093",
+    "capacity_estimated": true
   },
   {
     "license_number": "218716",
@@ -3375,7 +3528,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3385,7 +3538,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456398",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218716",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104442",
@@ -3397,7 +3551,7 @@
     "state": "MN",
     "zip_code": "55301-4307",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3407,7 +3561,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456510",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104442"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104442",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087977",
@@ -3419,7 +3574,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3429,7 +3584,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456623",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087977"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087977",
+    "capacity_estimated": true
   },
   {
     "license_number": "230401",
@@ -3441,7 +3597,7 @@
     "state": "MN",
     "zip_code": "55376-9489",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3451,7 +3607,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456658",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230401"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230401",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060344",
@@ -3463,7 +3620,7 @@
     "state": "MN",
     "zip_code": "55390-5036",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3473,7 +3630,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456707",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060344"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060344",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108445",
@@ -3485,7 +3643,7 @@
     "state": "MN",
     "zip_code": "55320-1643",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3495,7 +3653,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456708",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108445"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108445",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079002",
@@ -3507,7 +3666,7 @@
     "state": "MN",
     "zip_code": "55328-8802",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3517,7 +3676,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456740",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079002"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079002",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093525",
@@ -3529,7 +3689,7 @@
     "state": "MN",
     "zip_code": "55358-2472",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3539,7 +3699,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456818",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093525",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067030",
@@ -3551,7 +3712,7 @@
     "state": "MN",
     "zip_code": "55330-4557",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3561,7 +3722,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456862",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067030",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057592",
@@ -3573,7 +3735,7 @@
     "state": "MN",
     "zip_code": "55362-8116",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3583,7 +3745,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457039",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057592"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057592",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077936",
@@ -3595,7 +3758,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3605,7 +3768,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457043",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077936"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077936",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007470",
@@ -3617,7 +3781,7 @@
     "state": "MN",
     "zip_code": "55328-5241",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3627,7 +3791,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457151",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007470"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007470",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116729",
@@ -3639,7 +3804,7 @@
     "state": "MN",
     "zip_code": "55358-2478",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3649,7 +3814,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457282",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116729"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116729",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102685",
@@ -3661,7 +3827,7 @@
     "state": "MN",
     "zip_code": "55320-4551",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3671,7 +3837,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457285",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102685"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102685",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057438",
@@ -3683,7 +3850,7 @@
     "state": "MN",
     "zip_code": "55313-2372",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3693,7 +3860,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057438"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057438",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079703",
@@ -3705,7 +3873,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3715,7 +3883,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457472",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079703"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079703",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082901",
@@ -3727,7 +3896,7 @@
     "state": "MN",
     "zip_code": "55358",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3737,7 +3906,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457506",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082901"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082901",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080476",
@@ -3749,7 +3919,7 @@
     "state": "MN",
     "zip_code": "55358",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3759,7 +3929,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457532",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080476"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080476",
+    "capacity_estimated": true
   },
   {
     "license_number": "209165",
@@ -3771,7 +3942,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3781,7 +3952,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457549",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209165",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067100",
@@ -3793,7 +3965,7 @@
     "state": "MN",
     "zip_code": "55376-3078",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3803,7 +3975,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457577",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067100"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067100",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033551",
@@ -3815,7 +3988,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3825,7 +3998,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457584",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033551"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033551",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033627",
@@ -3837,7 +4011,7 @@
     "state": "MN",
     "zip_code": "55320-2404",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3847,7 +4021,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033627",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067573",
@@ -3859,7 +4034,7 @@
     "state": "MN",
     "zip_code": "55301-4522",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3869,7 +4044,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457677",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007471",
@@ -3881,7 +4057,7 @@
     "state": "MN",
     "zip_code": "55321",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3891,7 +4067,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457875",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007471"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007471",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101106",
@@ -3903,7 +4080,7 @@
     "state": "MN",
     "zip_code": "55362-2968",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3913,7 +4090,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101106"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101106",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011572",
@@ -3925,7 +4103,7 @@
     "state": "MN",
     "zip_code": "55358",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3935,7 +4113,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458005",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011572"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011572",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047760",
@@ -3947,7 +4126,7 @@
     "state": "MN",
     "zip_code": "55341-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3957,7 +4136,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458033",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047760"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047760",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017247",
@@ -3969,7 +4149,7 @@
     "state": "MN",
     "zip_code": "55362-2803",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3979,7 +4159,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458044",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017247"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017247",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114440",
@@ -3991,7 +4172,7 @@
     "state": "MN",
     "zip_code": "55390-8401",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4001,7 +4182,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458120",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114440"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114440",
+    "capacity_estimated": true
   },
   {
     "license_number": "218021",
@@ -4013,7 +4195,7 @@
     "state": "MN",
     "zip_code": "55313-1263",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4023,7 +4205,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012954",
@@ -4035,7 +4218,7 @@
     "state": "MN",
     "zip_code": "55330-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4045,7 +4228,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012954"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012954",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055573",
@@ -4057,7 +4241,7 @@
     "state": "MN",
     "zip_code": "55362-8689",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4067,7 +4251,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458487",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082335",
@@ -4079,7 +4264,7 @@
     "state": "MN",
     "zip_code": "55301-3102",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4089,7 +4274,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458492",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082335"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082335",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082903",
@@ -4101,7 +4287,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4111,7 +4297,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458535",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082903",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058215",
@@ -4123,7 +4310,7 @@
     "state": "MN",
     "zip_code": "55330-7254",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4133,7 +4320,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458554",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102592",
@@ -4145,7 +4333,7 @@
     "state": "MN",
     "zip_code": "55376-3097",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4155,7 +4343,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102592"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102592",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095782",
@@ -4167,7 +4356,7 @@
     "state": "MN",
     "zip_code": "55376-8466",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4177,7 +4366,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458672",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095782"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095782",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089897",
@@ -4189,7 +4379,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4199,7 +4389,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458850",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089897"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089897",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059753",
@@ -4211,7 +4402,7 @@
     "state": "MN",
     "zip_code": "55301-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4221,7 +4412,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458861",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059753",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000546",
@@ -4233,7 +4425,7 @@
     "state": "MN",
     "zip_code": "55362-8658",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4243,7 +4435,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458895",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000546"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000546",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063827",
@@ -4255,7 +4448,7 @@
     "state": "MN",
     "zip_code": "55362-4684",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4265,7 +4458,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458909",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063827"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063827",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030603",
@@ -4277,7 +4471,7 @@
     "state": "MN",
     "zip_code": "55302",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4287,7 +4481,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458932",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030603"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030603",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037970",
@@ -4299,7 +4494,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4309,7 +4504,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458972",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037970"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037970",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083870",
@@ -4321,7 +4517,7 @@
     "state": "MN",
     "zip_code": "55330-4503",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4331,7 +4527,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459067",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083870",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077175",
@@ -4343,7 +4540,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4353,7 +4550,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459078",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077175"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077175",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025612",
@@ -4365,7 +4563,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4375,7 +4573,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459304",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025612"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025612",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079001",
@@ -4387,7 +4586,7 @@
     "state": "MN",
     "zip_code": "55313",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4397,7 +4596,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079001"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079001",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102588",
@@ -4409,7 +4609,7 @@
     "state": "MN",
     "zip_code": "55330-4559",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4419,7 +4619,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459434",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102588"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102588",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115737",
@@ -4431,7 +4632,7 @@
     "state": "MN",
     "zip_code": "55313-1045",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4441,7 +4642,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115737"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115737",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074509",
@@ -4453,7 +4655,7 @@
     "state": "MN",
     "zip_code": "55358",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4463,7 +4665,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459533",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074509"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074509",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000202",
@@ -4475,7 +4678,7 @@
     "state": "MN",
     "zip_code": "55301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4485,7 +4688,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000202"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000202",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077203",
@@ -4497,7 +4701,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4507,7 +4711,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459666",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077203",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093917",
@@ -4519,7 +4724,7 @@
     "state": "MN",
     "zip_code": "55349",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4529,7 +4734,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459703",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093917",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114807",
@@ -4541,7 +4747,7 @@
     "state": "MN",
     "zip_code": "55376-8220",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4551,7 +4757,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459757",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114807"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114807",
+    "capacity_estimated": true
   },
   {
     "license_number": "208770",
@@ -4563,7 +4770,7 @@
     "state": "MN",
     "zip_code": "55376-9731",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4573,7 +4780,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459779",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208770"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208770",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012550",
@@ -4585,7 +4793,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4595,7 +4803,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459853",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012550"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012550",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081328",
@@ -4607,7 +4816,7 @@
     "state": "MN",
     "zip_code": "55376",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4617,7 +4826,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459855",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052011",
@@ -4629,7 +4839,7 @@
     "state": "MN",
     "zip_code": "55341",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4639,7 +4849,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459912",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052011"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052011",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099499",
@@ -4651,7 +4862,7 @@
     "state": "MN",
     "zip_code": "55363-8016",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4661,7 +4872,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459915",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099499"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099499",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080281",
@@ -4673,7 +4885,7 @@
     "state": "MN",
     "zip_code": "55358",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4683,7 +4895,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459932",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080281"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080281",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108939",
@@ -4695,7 +4908,7 @@
     "state": "MN",
     "zip_code": "55362-4416",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4705,7 +4918,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459985",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108939"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108939",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088232",
@@ -4717,7 +4931,7 @@
     "state": "MN",
     "zip_code": "55313-2474",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4727,7 +4941,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460052",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088232"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088232",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106750",
@@ -4739,7 +4954,7 @@
     "state": "MN",
     "zip_code": "55362-0000",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4749,7 +4964,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106750"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106750",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098534",
@@ -4761,7 +4977,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4771,7 +4987,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460315",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098534"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098534",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028441",
@@ -4783,7 +5000,7 @@
     "state": "MN",
     "zip_code": "55320",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4793,7 +5010,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460417",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025965",
@@ -4805,7 +5023,7 @@
     "state": "MN",
     "zip_code": "55320",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4815,7 +5033,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460419",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025965"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025965",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057961",
@@ -4827,7 +5046,7 @@
     "state": "MN",
     "zip_code": "55390",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4837,7 +5056,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460425",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057961"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057961",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052512",
@@ -4849,7 +5069,7 @@
     "state": "MN",
     "zip_code": "55362-8191",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4859,7 +5079,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460510",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074321",
@@ -4871,7 +5092,7 @@
     "state": "MN",
     "zip_code": "55330",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4881,7 +5102,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460600",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074321"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074321",
+    "capacity_estimated": true
   },
   {
     "license_number": "117268",
@@ -4893,7 +5115,7 @@
     "state": "MN",
     "zip_code": "55321-4204",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4903,7 +5125,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460647",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117268"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117268",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038913",
@@ -4915,7 +5138,7 @@
     "state": "MN",
     "zip_code": "55376-3034",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4925,7 +5148,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460702",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038913"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038913",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099345",
@@ -4937,7 +5161,7 @@
     "state": "MN",
     "zip_code": "55321-4296",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4947,7 +5171,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460827",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099345"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099345",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098988",
@@ -4959,7 +5184,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4969,7 +5194,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460852",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098988"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098988",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113872",
@@ -4981,7 +5207,7 @@
     "state": "MN",
     "zip_code": "55349-5135",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -4991,7 +5217,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113872"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113872",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031917",
@@ -5003,7 +5230,7 @@
     "state": "MN",
     "zip_code": "55376-2406",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5013,7 +5240,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461062",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031917",
+    "capacity_estimated": true
   },
   {
     "license_number": "219288",
@@ -5025,7 +5253,7 @@
     "state": "MN",
     "zip_code": "55362",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5035,7 +5263,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461092",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219288"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219288",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106981",
@@ -5047,7 +5276,7 @@
     "state": "MN",
     "zip_code": "55302-9423",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5057,7 +5286,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461098",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106981"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106981",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113923",
@@ -5069,7 +5299,7 @@
     "state": "MN",
     "zip_code": "55362-8872",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5079,7 +5309,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461101",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113923"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113923",
+    "capacity_estimated": true
   },
   {
     "license_number": "232253",
@@ -5091,7 +5322,7 @@
     "state": "MN",
     "zip_code": "55302",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5101,7 +5332,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099975",
@@ -5113,7 +5345,7 @@
     "state": "MN",
     "zip_code": "55302-3056",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5123,7 +5355,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461484",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099975"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099975",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095088",
@@ -5135,7 +5368,7 @@
     "state": "MN",
     "zip_code": "55362-8569",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5145,7 +5378,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461532",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095088"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095088",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091653",
@@ -5157,7 +5391,7 @@
     "state": "MN",
     "zip_code": "55330-6916",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5167,7 +5401,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091653"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091653",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095093",
@@ -5179,7 +5414,7 @@
     "state": "MN",
     "zip_code": "55362-8301",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5189,7 +5424,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461970",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110406",
@@ -5201,7 +5437,7 @@
     "state": "MN",
     "zip_code": "55302-3056",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5211,7 +5447,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461971",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110406"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110406",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096658",
@@ -5223,7 +5460,7 @@
     "state": "MN",
     "zip_code": "55362-9369",
     "county": "Wright",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -5233,6 +5470,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462055",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096658",
+    "capacity_estimated": true
   }
 ]

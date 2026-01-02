@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56013",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447727",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830758"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830758",
+    "capacity_estimated": true
   },
   {
     "license_number": "802266",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56013",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112016",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56097-1923",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448975",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112016"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112016",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077959",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56097",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077959"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077959",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064212",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451948",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064212"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064212",
+    "capacity_estimated": true
   },
   {
     "license_number": "224509",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56097-1606",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453075",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224509"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224509",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104995",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56097-1737",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453457",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104995"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104995",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079051",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56097",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456154",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079051",
+    "capacity_estimated": true
   },
   {
     "license_number": "110824",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56097-1335",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456891",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110824"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110824",
+    "capacity_estimated": true
   },
   {
     "license_number": "111060",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56013-1328",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457030",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111060"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111060",
+    "capacity_estimated": true
   },
   {
     "license_number": "116016",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56013-2612",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116016"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116016",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104997",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56097-1912",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457904",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104997",
+    "capacity_estimated": true
   },
   {
     "license_number": "208404",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56013-2161",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459012",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208404"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208404",
+    "capacity_estimated": true
   },
   {
     "license_number": "211490",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56013",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459142",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211490"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211490",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088641",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56097",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459214",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088641"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088641",
+    "capacity_estimated": true
   },
   {
     "license_number": "115441",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56013",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459624",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115441",
+    "capacity_estimated": true
   },
   {
     "license_number": "117444",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56097-1015",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460724",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117444"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117444",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100641",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56013-2006",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100641"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100641",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089719",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56097-1310",
     "county": "Faribault",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,6 +433,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462112",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089719"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089719",
+    "capacity_estimated": true
   }
 ]

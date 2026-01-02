@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56437",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447700",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800186",
+    "capacity_estimated": true
   },
   {
     "license_number": "802411",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56479-2273",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448113",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802411"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802411",
+    "capacity_estimated": true
   },
   {
     "license_number": "800594",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56479-3000",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800594",
+    "capacity_estimated": true
   },
   {
     "license_number": "830820",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56347",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830820"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830820",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096921",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449027",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096921"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096921",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075950",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56479",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449053",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075950"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075950",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055396",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56479-2323",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449706",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055396",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051067",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56347-1700",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450141",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051067"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051067",
+    "capacity_estimated": true
   },
   {
     "license_number": "806938",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56360-0624",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806938",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100253",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56440-1245",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451589",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094859",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56347",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451650",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094859"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094859",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062497",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56479-2341",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451782",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062497"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062497",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081706",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56347",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452131",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081706"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081706",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053291",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56479",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452149",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053291",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033019",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56347-5403",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033019",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082060",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56347-0000",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452224",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082060"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082060",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051716",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56440-3403",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452416",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051716",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105791",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56360-8071",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452615",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105791"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105791",
+    "capacity_estimated": true
   },
   {
     "license_number": "120266",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56360-8278",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453248",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083446",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56347",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453255",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083446"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083446",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031189",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56360-5020",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453737",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031189"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031189",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102656",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56438-5148",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454289",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102656"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102656",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005591",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56438",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454714",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005591"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005591",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020324",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56336-2801",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454784",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020324"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020324",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034929",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56438",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034929"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034929",
+    "capacity_estimated": true
   },
   {
     "license_number": "233269",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56336-4680",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455500",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233269"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233269",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026817",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56360-8332",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456106",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026817"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026817",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116763",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56347-1740",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456136",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116763"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116763",
+    "capacity_estimated": true
   },
   {
     "license_number": "209091",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56347-1919",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456266",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209091",
+    "capacity_estimated": true
   },
   {
     "license_number": "109818",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56438-0012",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456349",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099769",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56479-4075",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456792",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099769"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099769",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067286",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56438",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457554",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108165",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56347-5510",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457867",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108165",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079271",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56479-5300",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457935",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079271"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079271",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088130",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56479",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458083",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052336",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56360-4974",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458169",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052336"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052336",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116585",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56453-0000",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458216",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116585"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116585",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103576",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56360-8226",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458238",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103576"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103576",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014186",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56438",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458402",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014186",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111877",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56347-1618",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458458",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111877"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111877",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092961",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56347",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092961"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092961",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002369",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56360-8224",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002369",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013102",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56347-1827",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459798",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013102"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013102",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101471",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56360-8258",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460147",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101471"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101471",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091619",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56437",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460541",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091619"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091619",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111004",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56347-1615",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460699",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111004"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111004",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115364",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56453-4051",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460910",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115364"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115364",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054762",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56336",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461055",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054762"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054762",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089290",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56437-1122",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461618",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089290"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089290",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089528",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56347-1353",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089528",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089563",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56360-8253",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462040",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089563"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089563",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089287",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56479-3000",
     "county": "Todd",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,6 +1192,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462117",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089287"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089287",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56661-8104",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449414",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801762"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801762",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113205",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56649-2254",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449633",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113205"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113205",
+    "capacity_estimated": true
   },
   {
     "license_number": "191251",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56649-2720",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191251"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191251",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063903",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56649-3053",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452549",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063903",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096723",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56649",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452923",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096723"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096723",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047025",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56649-2850",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453006",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047025"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047025",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114563",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56649-2877",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455649",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114563"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114563",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117823",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56649-8913",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455695",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117823"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117823",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111406",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56649-2831",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456338",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111406"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111406",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079623",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56649-2142",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456445",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079623"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079623",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105146",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56649-8920",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456903",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105146"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105146",
+    "capacity_estimated": true
   },
   {
     "license_number": "235327",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56649",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457599",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096283",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56649",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458027",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096283"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096283",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087497",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56649-2624",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458065",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087497"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087497",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053816",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56649-4056",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460030",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053816"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053816",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117340",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56649-2893",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460267",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117340"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117340",
+    "capacity_estimated": true
   },
   {
     "license_number": "117947",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56661-9308",
     "county": "Koochiching",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,6 +387,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461015",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117947"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117947",
+    "capacity_estimated": true
   }
 ]

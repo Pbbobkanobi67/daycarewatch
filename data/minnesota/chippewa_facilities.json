@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56265-0000",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101525",
+    "capacity_estimated": true
   },
   {
     "license_number": "801576",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56265-2060",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449192",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801576"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801576",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084101",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56265-0000",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450059",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109052",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56265-1708",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450284",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109052"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109052",
+    "capacity_estimated": true
   },
   {
     "license_number": "220118",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450500",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220118"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220118",
+    "capacity_estimated": true
   },
   {
     "license_number": "190084",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56265-1856",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451331",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190084"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190084",
+    "capacity_estimated": true
   },
   {
     "license_number": "805727",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451488",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805727"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805727",
+    "capacity_estimated": true
   },
   {
     "license_number": "234068",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452798",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234068"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234068",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097908",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56265-1374",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452985",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097908"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097908",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005012",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453462",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005012"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005012",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113815",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56265-1623",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453911",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113815"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113815",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031609",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454056",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031609",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055910",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56265-2240",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454062",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055910"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055910",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102693",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56265-6436",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454065",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102693"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102693",
+    "capacity_estimated": true
   },
   {
     "license_number": "106014",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454175",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106014"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106014",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075885",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455170",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075885"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075885",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076254",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455690",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076254"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076254",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052550",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456064",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052550"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052550",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075401",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56265-4101",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456502",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075401"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075401",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113464",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56265-4541",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457513",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113464"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113464",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100549",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56265-4541",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457533",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100549"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100549",
+    "capacity_estimated": true
   },
   {
     "license_number": "121573",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459202",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038551",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56265",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459964",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038551"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038551",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115729",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56265-1931",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460786",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115729"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115729",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089106",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56265-0000",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461836",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089106"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089106",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090840",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56265-0000",
     "county": "Chippewa",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,6 +594,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461972",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090840"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090840",
+    "capacity_estimated": true
   }
 ]

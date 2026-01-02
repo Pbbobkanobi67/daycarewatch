@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447635",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086983"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086983",
+    "capacity_estimated": true
   },
   {
     "license_number": "830982",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448295",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830982"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830982",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095789",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55395",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448417",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095789"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095789",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101317",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55350-3151",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448440",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101317"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101317",
+    "capacity_estimated": true
   },
   {
     "license_number": "801211",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448532",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801211"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801211",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096459",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55350-2160",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448578",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096459"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096459",
+    "capacity_estimated": true
   },
   {
     "license_number": "801244",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55350-1725",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448580",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801244"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801244",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053426",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448598",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053426"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053426",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053427",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448599",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053427"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053427",
+    "capacity_estimated": true
   },
   {
     "license_number": "804046",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55350-0000",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448716",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804046"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804046",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100956",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55350-1313",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449470",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100956"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100956",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080546",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080546"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080546",
+    "capacity_estimated": true
   },
   {
     "license_number": "809512",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55336-1429",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450123",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082857",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55350-3726",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451456",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082857"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082857",
+    "capacity_estimated": true
   },
   {
     "license_number": "190688",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55354-7766",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451472",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190688"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190688",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077186",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55336-4926",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451547",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077186",
+    "capacity_estimated": true
   },
   {
     "license_number": "203075",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55350-2809",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451629",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203075",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107151",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55350-4370",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451942",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107151"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107151",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110409",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55350-4370",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452201",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110409"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110409",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040810",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55350-2359",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452222",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040810",
+    "capacity_estimated": true
   },
   {
     "license_number": "102122",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55350-1266",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452233",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=102122"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=102122",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026006",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026006"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026006",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051398",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051398"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051398",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032162",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55395-6544",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452536",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032162",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051382",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452641",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051382"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051382",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110408",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55350-5016",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110408"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110408",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032164",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55354",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453331",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032164"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032164",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076444",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453367",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076444"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076444",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082766",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453844",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082766"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082766",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052711",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454194",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081451",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55336-4808",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454232",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081451"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081451",
+    "capacity_estimated": true
   },
   {
     "license_number": "235203",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55350-1708",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454321",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235203",
+    "capacity_estimated": true
   },
   {
     "license_number": "236797",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55354",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454346",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114990",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55336-1425",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454357",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018148",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55354-7756",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018148"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018148",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023447",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55350-0000",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455260",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023447"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023447",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063651",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55381",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455339",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063651"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063651",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022578",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55350-3413",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022578"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022578",
+    "capacity_estimated": true
   },
   {
     "license_number": "215869",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55354-7726",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455457",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215869"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215869",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100376",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55354-7708",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455656",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100376",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066448",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455735",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066448"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066448",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077952",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455821",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077952"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077952",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113947",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55350-3263",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456024",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113947"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113947",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109048",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55354-0000",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456317",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109048"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109048",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111430",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55336-2530",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456318",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111430"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111430",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091916",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55395-1058",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456329",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091916"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091916",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098095",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55395",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098095"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098095",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113917",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55350-9076",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456612",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113917",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114073",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55350-5438",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456614",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114073"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114073",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115727",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55350-4232",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456701",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115727"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115727",
+    "capacity_estimated": true
   },
   {
     "license_number": "216537",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55395-9999",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216537"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216537",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048091",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456875",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048091",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060150",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456934",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060150"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060150",
+    "capacity_estimated": true
   },
   {
     "license_number": "218100",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55395-6570",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456946",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218100"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218100",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011202",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456987",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011202"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011202",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095750",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457002",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095750"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095750",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041295",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55395",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457112",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041295"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041295",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109423",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55350-2920",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457147",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109423"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109423",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076767",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55395",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457299",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076767"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076767",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063623",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55381-6010",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458185",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063623"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063623",
+    "capacity_estimated": true
   },
   {
     "license_number": "112938",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55336-0053",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458187",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112938",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109998",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55354-4501",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458435",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109998"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109998",
+    "capacity_estimated": true
   },
   {
     "license_number": "230848",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55350-3246",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458449",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230848"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230848",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004462",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55336-1152",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458752",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004462"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004462",
+    "capacity_estimated": true
   },
   {
     "license_number": "236735",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55350-3245",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236735"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236735",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053447",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55336",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458998",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053447"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053447",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062235",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55350-4035",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459036",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062235"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062235",
+    "capacity_estimated": true
   },
   {
     "license_number": "208091",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55350-5006",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459412",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208091",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063720",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55381",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063720"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063720",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052712",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459931",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052712"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052712",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085117",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55350",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459938",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085117"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085117",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099913",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55350-2715",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460154",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099913"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099913",
+    "capacity_estimated": true
   },
   {
     "license_number": "205953",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55395-7899",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460965",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205953"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205953",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100166",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55350-5651",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461295",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100166"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100166",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109527",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55350-1612",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461325",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109527"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109527",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096664",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55354-7743",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461893",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096664"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096664",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089162",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55336-1721",
     "county": "McLeod",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,6 +1767,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462047",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089162",
+    "capacity_estimated": true
   }
 ]

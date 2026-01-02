@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56557-4930",
     "county": "Mahnomen",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449059",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801467"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801467",
+    "capacity_estimated": true
   },
   {
     "license_number": "104763",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56557",
     "county": "Mahnomen",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,6 +42,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453510",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104763"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104763",
+    "capacity_estimated": true
   }
 ]

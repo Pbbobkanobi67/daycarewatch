@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448595",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810433"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810433",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056289",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449395",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056289"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056289",
+    "capacity_estimated": true
   },
   {
     "license_number": "804400",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449522",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804400"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804400",
+    "capacity_estimated": true
   },
   {
     "license_number": "802381",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449894",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802381"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802381",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077435",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56164-1668",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450382",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077435"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077435",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096266",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56128-4413",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452039",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054962",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56164-1159",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452477",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054962"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054962",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113722",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56164-1293",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452704",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113722"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113722",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101853",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56164-1026",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452853",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101853"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101853",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063824",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56164-1427",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453540",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063824"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063824",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030925",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453936",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030925"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030925",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101227",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56128-4406",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454001",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101227"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101227",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075363",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56164-1678",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075363"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075363",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077119",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56128-2713",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454106",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077119"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077119",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108654",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56128-1319",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454268",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108654"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108654",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049633",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56128-0000",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454327",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049633"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049633",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101677",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56164-1616",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454858",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101677"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101677",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082478",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454898",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082478"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082478",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091281",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56128",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454922",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091281"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091281",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093259",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56164-1533",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455786",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093259"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093259",
+    "capacity_estimated": true
   },
   {
     "license_number": "109821",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56164-1104",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456361",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109821"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109821",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074436",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56164-1217",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456662",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074436"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074436",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055776",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456847",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055776"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055776",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113420",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56128-1242",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456866",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050998",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56128-1107",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457158",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050998"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050998",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101308",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56128-2724",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457174",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101308"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101308",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074672",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56128-2717",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458366",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074672"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074672",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112430",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56164-1841",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112430"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112430",
+    "capacity_estimated": true
   },
   {
     "license_number": "219836",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459507",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219836"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219836",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044271",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460029",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044271"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044271",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107545",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56164-1207",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460157",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107545"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107545",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061696",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56164",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460283",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061696"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061696",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100424",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56128-2751",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460529",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100424"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100424",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060617",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56164-1244",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460861",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060617"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060617",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089156",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56164-1877",
     "county": "Pipestone",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,6 +801,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461501",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089156"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089156",
+    "capacity_estimated": true
   }
 ]

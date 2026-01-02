@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802771"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802771",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092113",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092113"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092113",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065334",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56308-1992",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065334"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065334",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073055",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56308-2183",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447785",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073055"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073055",
+    "capacity_estimated": true
   },
   {
     "license_number": "800290",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56308-1732",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447790",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800290"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800290",
+    "capacity_estimated": true
   },
   {
     "license_number": "800540",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56308-0045",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447954",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800540"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800540",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077738",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448950",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077738"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077738",
+    "capacity_estimated": true
   },
   {
     "license_number": "830860",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56308-5250",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830860"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830860",
+    "capacity_estimated": true
   },
   {
     "license_number": "830877",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56315-4632",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450254",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830877"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830877",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109210",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56308-3707",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450262",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109210"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109210",
+    "capacity_estimated": true
   },
   {
     "license_number": "802784",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450366",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802784"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802784",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075922",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56308-2590",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450464",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075922"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075922",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105584",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56308-6181",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450562",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105584"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105584",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049540",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56308-5445",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451253",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049540"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049540",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101223",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56308-0000",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451287",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101223"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101223",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007689",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56308-2549",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007689",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101239",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56315-0000",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451640",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101239"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101239",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046201",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451733",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046201"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046201",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085508",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56308-4632",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452011",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085508"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085508",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090124",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56308-5195",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452499",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090124"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090124",
+    "capacity_estimated": true
   },
   {
     "license_number": "236683",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56308-8031",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236683"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236683",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105792",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56308-2121",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452660",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105792"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105792",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114060",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56332-8142",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452761",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114060"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114060",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115663",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56332-8413",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453034",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115663"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115663",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091116",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453045",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091116"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091116",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055614",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56308-6623",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055614"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055614",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010272",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56308-8992",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453323",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010272"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010272",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076080",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56315",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453652",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076080"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076080",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114031",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56315-2010",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453687",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114031"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114031",
+    "capacity_estimated": true
   },
   {
     "license_number": "105139",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56308-1714",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453701",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105139"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105139",
+    "capacity_estimated": true
   },
   {
     "license_number": "224011",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56308-8517",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453724",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224011"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224011",
+    "capacity_estimated": true
   },
   {
     "license_number": "231343",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56308-8941",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453843",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231343"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231343",
+    "capacity_estimated": true
   },
   {
     "license_number": "219550",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56308-0000",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453948",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219550"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219550",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084464",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56326",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454172",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084464"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084464",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078135",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454365",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078135"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078135",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117716",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56308-0059",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454633",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117716",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032802",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56308-4697",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454678",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032802"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032802",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090110",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56308-2145",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454710",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090110"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090110",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109189",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56308-7526",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454711",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109189"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109189",
+    "capacity_estimated": true
   },
   {
     "license_number": "224261",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56308-8981",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454742",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224261"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224261",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063442",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56308-8543",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454743",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063442"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063442",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063504",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56308-2410",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063504"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063504",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055676",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56308-8148",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455114",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055676"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055676",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039957",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56308-8112",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455404",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039957"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039957",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108871",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56308-6628",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108871"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108871",
+    "capacity_estimated": true
   },
   {
     "license_number": "203051",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56332-8305",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455637",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203051",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108873",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56308-8883",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455708",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108873"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108873",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093681",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56308-4000",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456208",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093681"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093681",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114942",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56315-8166",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456469",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114942"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114942",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053012",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56315-8166",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456472",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053012"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053012",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056918",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56308-4986",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456481",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056918"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056918",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052213",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456663",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052213"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052213",
+    "capacity_estimated": true
   },
   {
     "license_number": "225948",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56308-8612",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456687",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225948"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225948",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059048",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56308-1263",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456777",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059048"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059048",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082989",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56308-2144",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456965",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082989"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082989",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007242",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56308-7916",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457006",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007242"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007242",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019000",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56308-4514",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457040",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019000",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046398",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56315",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457115",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046398"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046398",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104952",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56308-8984",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457233",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104952"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104952",
+    "capacity_estimated": true
   },
   {
     "license_number": "203350",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56308-7901",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457296",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203350"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203350",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095057",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457489",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095057"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095057",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076514",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457491",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076514"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076514",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083358",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56308-8570",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457498",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083358"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083358",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096230",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56308-9106",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457830",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096230"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096230",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112945",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56315-4625",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457922",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112945"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112945",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110589",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56308-9766",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458015",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110589"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110589",
+    "capacity_estimated": true
   },
   {
     "license_number": "112776",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56308-8909",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458108",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112776"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112776",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051721",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56308-4761",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458123",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051721"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051721",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108354",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56308-8580",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458403",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108354"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108354",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082764",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56308-6189",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458432",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082764"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082764",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021677",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56308-4008",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458625",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021677"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021677",
+    "capacity_estimated": true
   },
   {
     "license_number": "113892",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56308-8961",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458770",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113892"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113892",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105712",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56308-5345",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458896",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105712"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105712",
+    "capacity_estimated": true
   },
   {
     "license_number": "809727",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56308-8963",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458981",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809727"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809727",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108729",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56308-8984",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459278",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108729"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108729",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114635",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56308-4788",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459379",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114635"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114635",
+    "capacity_estimated": true
   },
   {
     "license_number": "115358",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56308-6023",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459589",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115358"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115358",
+    "capacity_estimated": true
   },
   {
     "license_number": "213426",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56308-5103",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459776",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213426"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213426",
+    "capacity_estimated": true
   },
   {
     "license_number": "229058",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56326-4538",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229058"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229058",
+    "capacity_estimated": true
   },
   {
     "license_number": "231250",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56308-8524",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459981",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231250"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231250",
+    "capacity_estimated": true
   },
   {
     "license_number": "1003720",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56308-8049",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460040",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003720"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003720",
+    "capacity_estimated": true
   },
   {
     "license_number": "217617",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56308-9070",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460170",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217617"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217617",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059834",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56308-9288",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460188",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059834"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059834",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101993",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56308-4712",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460308",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101993"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101993",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079130",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56308-2221",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042228",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56308",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460966",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042228"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042228",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089804",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56308-5250",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461511",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089804"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089804",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089796",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56308-3093",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461512",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089796"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089796",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089798",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56308-2300",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461514",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089798"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089798",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089102",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56308-2493",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461515",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089102"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089102",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089795",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56401-2352",
     "county": "Douglas",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,6 +2089,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089795",
+    "capacity_estimated": true
   }
 ]

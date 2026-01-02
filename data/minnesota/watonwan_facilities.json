@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56062-0000",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449392",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011385"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011385",
+    "capacity_estimated": true
   },
   {
     "license_number": "830968",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56081",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449866",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830968"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830968",
+    "capacity_estimated": true
   },
   {
     "license_number": "830390",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56081",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449927",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830390"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830390",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102683",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56062-1400",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452278",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102683"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102683",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116180",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56081-5540",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452759",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116180"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116180",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091361",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56081",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453784",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091361"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091361",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086185",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56062",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454013",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086185"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086185",
+    "capacity_estimated": true
   },
   {
     "license_number": "106319",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56081-1221",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454328",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106319",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050361",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56081-2002",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455310",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050361"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050361",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021490",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56062-1509",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455682",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021490"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021490",
+    "capacity_estimated": true
   },
   {
     "license_number": "232229",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56062-1213",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455714",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232229"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232229",
+    "capacity_estimated": true
   },
   {
     "license_number": "227081",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56081",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009391",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56081-3320",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458182",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009391"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009391",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081372",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56062-1725",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460167",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081372"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081372",
+    "capacity_estimated": true
   },
   {
     "license_number": "117199",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56081-1144",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460604",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117199"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117199",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116643",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56081-1744",
     "county": "Watonwan",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,6 +364,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462116",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116643"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116643",
+    "capacity_estimated": true
   }
 ]

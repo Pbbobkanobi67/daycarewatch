@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56232-2224",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447716",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098139"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098139",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042530",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56256-1543",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448904",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042530"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042530",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096861",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56256-1406",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448918",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096861"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096861",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110616",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56256-1297",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449048",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110616"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110616",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094713",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56256",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452287",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094713"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094713",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049509",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56256",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452743",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049509"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049509",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025267",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56232",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452872",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025267"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025267",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083355",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56232",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453263",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083355"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083355",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032976",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56256",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453804",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032976"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032976",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058039",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56232",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456135",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058039"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058039",
+    "capacity_estimated": true
   },
   {
     "license_number": "109909",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56232-2352",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456418",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109909"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109909",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064004",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56232",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456864",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064004"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064004",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111928",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56256-1010",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457409",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111928"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111928",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108952",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56232-2248",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458036",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108952"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108952",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076476",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56256",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460260",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076476"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076476",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106065",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56232-2224",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461832",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106065"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106065",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100064",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56256-1406",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461913",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100064"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100064",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112070",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56256-1406",
     "county": "Lac qui Parle",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,6 +410,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461974",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112070"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112070",
+    "capacity_estimated": true
   }
 ]

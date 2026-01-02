@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800396",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060643",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448092",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060643"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060643",
+    "capacity_estimated": true
   },
   {
     "license_number": "809621",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449030",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809621"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809621",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113426",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56288-4631",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449538",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113426"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113426",
+    "capacity_estimated": true
   },
   {
     "license_number": "830468",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56288",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449541",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830468"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830468",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016695",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449658",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016695"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016695",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054346",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56201-2716",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054346"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054346",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102775",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56201-2174",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450291",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102775"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102775",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100460",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56288-8001",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450332",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100460"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100460",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005010",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450338",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005010"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005010",
+    "capacity_estimated": true
   },
   {
     "license_number": "214056",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56201-5433",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451317",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214056"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214056",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113665",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56273-9505",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451902",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113665"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113665",
+    "capacity_estimated": true
   },
   {
     "license_number": "121608",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452265",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121608"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121608",
+    "capacity_estimated": true
   },
   {
     "license_number": "228433",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56288",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452474",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228433"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228433",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060599",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56273",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452582",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060599"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060599",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050912",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452931",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050912"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050912",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034148",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56288",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452981",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034148"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034148",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117435",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56273-9680",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453192",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117435"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117435",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108328",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56201-5093",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453410",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089938",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453421",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089938",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113512",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56201-9638",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089818",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453526",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076023",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56209",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453599",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076023"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076023",
+    "capacity_estimated": true
   },
   {
     "license_number": "206120",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453974",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206120"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206120",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050554",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56201-2756",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454000",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050554"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050554",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074273",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454257",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074273"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074273",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044022",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56201-2446",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454340",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044022"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044022",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081241",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56273-8647",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454585",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081241"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081241",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073855",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56273",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454620",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073855"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073855",
+    "capacity_estimated": true
   },
   {
     "license_number": "107036",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56209-0083",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454873",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107036"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107036",
+    "capacity_estimated": true
   },
   {
     "license_number": "107284",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454999",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107284"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107284",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113583",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56201-4063",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455134",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113583"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113583",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067039",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455614",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067039"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067039",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045491",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56201-9107",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455721",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045491"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045491",
+    "capacity_estimated": true
   },
   {
     "license_number": "108768",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455753",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108768",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061539",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455794",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061539"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061539",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100976",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56201-9210",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456035",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100976"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100976",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075942",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56201-2940",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456099",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075942"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075942",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100601",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56288-8702",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456257",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100601"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100601",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006665",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56201-0000",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456320",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006665"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006665",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115164",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56201-9178",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456331",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115164"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115164",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078529",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456350",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078529"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078529",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078217",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56209",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078217"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078217",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054101",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112118",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56201-8704",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112118"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112118",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114304",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56201-5441",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456751",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114304"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114304",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005904",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457079",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005904"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005904",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083531",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56201-5490",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457121",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083531"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083531",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004601",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457132",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004601"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004601",
+    "capacity_estimated": true
   },
   {
     "license_number": "220626",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56201-5176",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457263",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220626"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220626",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018407",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56273",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457385",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018407"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018407",
+    "capacity_estimated": true
   },
   {
     "license_number": "216359",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56288-9471",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457395",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216359"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216359",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111886",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56273-9544",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457669",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111886"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111886",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111559",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56288-8401",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111559"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111559",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092406",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56201-9243",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457953",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092406"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092406",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036405",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56201-4038",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457977",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036405"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036405",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002547",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56288",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458605",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002547"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002547",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115671",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56288-0000",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458764",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115671"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115671",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107565",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56201-9193",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458984",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107565"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107565",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021633",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56273-8707",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458988",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021633"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021633",
+    "capacity_estimated": true
   },
   {
     "license_number": "114626",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56209",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459168",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114626"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114626",
+    "capacity_estimated": true
   },
   {
     "license_number": "114669",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459180",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114669"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114669",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109045",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56201-3532",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459511",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109045"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109045",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060427",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56209",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459617",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060427"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060427",
+    "capacity_estimated": true
   },
   {
     "license_number": "206190",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459763",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206190"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206190",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062213",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56201-2367",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459902",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062213"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062213",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078339",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56273",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078339"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078339",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049669",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56288-9682",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460034",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049669"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049669",
+    "capacity_estimated": true
   },
   {
     "license_number": "232292",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56273-9537",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460097",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232292"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232292",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066822",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460130",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066822"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066822",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062863",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56273",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460199",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062863"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062863",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095297",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56201-9607",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460475",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095297"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095297",
+    "capacity_estimated": true
   },
   {
     "license_number": "210859",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56288-9619",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460588",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210859"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210859",
+    "capacity_estimated": true
   },
   {
     "license_number": "207558",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56201-2005",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460633",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207558"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207558",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043106",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56201",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460725",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043106"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043106",
+    "capacity_estimated": true
   },
   {
     "license_number": "218974",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56201-2923",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460752",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218974"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218974",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048887",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56288",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048887"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048887",
+    "capacity_estimated": true
   },
   {
     "license_number": "118027",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56201-5161",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461058",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=118027"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=118027",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002381",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56273-9999",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461071",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002381"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002381",
+    "capacity_estimated": true
   },
   {
     "license_number": "236089",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56201-3023",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461299",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236089"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236089",
+    "capacity_estimated": true
   },
   {
     "license_number": "805888",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56201-4418",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461313",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805888"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805888",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091495",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56201-4945",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461486",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091495"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091495",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089722",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56201-3406",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461488",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089722"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089722",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091496",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56201-3406",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461493",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091496"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091496",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114075",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56201-5010",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461495",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114075",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090848",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56201-4708",
     "county": "Kandiyohi",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,6 +1974,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462212",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090848"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090848",
+    "capacity_estimated": true
   }
 ]

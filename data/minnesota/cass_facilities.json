@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56435",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447667",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005570"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005570",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084741",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56672",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448220",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084741"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084741",
+    "capacity_estimated": true
   },
   {
     "license_number": "830889",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56484-2619",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448453",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830889"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830889",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084304",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56473-0000",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448813",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084304"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084304",
+    "capacity_estimated": true
   },
   {
     "license_number": "809720",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56473-8057",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448931",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809720"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809720",
+    "capacity_estimated": true
   },
   {
     "license_number": "805685",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56484",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450220",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805685"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805685",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112572",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56474-0000",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450290",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112572"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112572",
+    "capacity_estimated": true
   },
   {
     "license_number": "216423",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56484",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450481",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216423"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216423",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113018",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56435-2358",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451467",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113018"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113018",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084645",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56473-2121",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451938",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084645",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110382",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56473-2275",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452145",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110382"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110382",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109620",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56484-2269",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453471",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109620",
+    "capacity_estimated": true
   },
   {
     "license_number": "218795",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56474",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454179",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218795"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218795",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100033",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56473-2505",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455056",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100033"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100033",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107505",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56474-6004",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455493",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107505"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107505",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055378",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56484",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455676",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055378"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055378",
+    "capacity_estimated": true
   },
   {
     "license_number": "228737",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56484",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455748",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228737"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228737",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099498",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56474-4501",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455843",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004285",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56484-2226",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456816",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004285"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004285",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105215",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56672-4490",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457258",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024294",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56484",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457940",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024294"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024294",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102347",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56435-2262",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102347",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079512",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56484",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458843",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079512"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079512",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029962",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56484-0000",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029962"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029962",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022759",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56435-0000",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460336",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022759"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022759",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114785",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56435-2567",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460994",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114785"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114785",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089149",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56473-8034",
     "county": "Cass",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,6 +617,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462050",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089149"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089149",
+    "capacity_estimated": true
   }
 ]

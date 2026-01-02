@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56073-2186",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448596",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023615"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023615",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056006",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448974",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056006"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056006",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094279",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56085-1249",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448999",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094279"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094279",
+    "capacity_estimated": true
   },
   {
     "license_number": "830674",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449084",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830674"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830674",
+    "capacity_estimated": true
   },
   {
     "license_number": "801709",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56073-1449",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449382",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801709"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801709",
+    "capacity_estimated": true
   },
   {
     "license_number": "810876",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56087-2102",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449949",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810876"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810876",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103813",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56073-3269",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103813"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103813",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100426",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56073-1857",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449978",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100426"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100426",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060627",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450129",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060627",
+    "capacity_estimated": true
   },
   {
     "license_number": "216082",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56087-9314",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451289",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216082"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216082",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040743",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451348",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040743"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040743",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108168",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56073-1104",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452328",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108168"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108168",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048766",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452605",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048766"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048766",
+    "capacity_estimated": true
   },
   {
     "license_number": "810460",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56073-2024",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453296",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810460"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810460",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111330",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56073-3624",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453728",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111330"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111330",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007174",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56085-3901",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453750",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007174"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007174",
+    "capacity_estimated": true
   },
   {
     "license_number": "105487",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56073-2125",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453868",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105487"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105487",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093200",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56087-1420",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454137",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093200"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093200",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079945",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56073-1951",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454158",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079945"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079945",
+    "capacity_estimated": true
   },
   {
     "license_number": "114716",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56087",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454167",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114716",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053273",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454173",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053273"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053273",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111179",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56085-4506",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111179"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111179",
+    "capacity_estimated": true
   },
   {
     "license_number": "106443",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56087-1526",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454527",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106443"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106443",
+    "capacity_estimated": true
   },
   {
     "license_number": "202502",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454761",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202502"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202502",
+    "capacity_estimated": true
   },
   {
     "license_number": "200609",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56073-9732",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454768",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200609",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090084",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454987",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090084"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090084",
+    "capacity_estimated": true
   },
   {
     "license_number": "226756",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56073-3567",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455055",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226756"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226756",
+    "capacity_estimated": true
   },
   {
     "license_number": "228793",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56085-1755",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455078",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228793"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228793",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059645",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455236",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059645",
+    "capacity_estimated": true
   },
   {
     "license_number": "231331",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56087",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455268",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231331"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231331",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062971",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56073-3261",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455384",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062971"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062971",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114177",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56073-2900",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114177"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114177",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063435",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56073-2155",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455853",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063435"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063435",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082802",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56085-1807",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455907",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082802"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082802",
+    "capacity_estimated": true
   },
   {
     "license_number": "809160",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56085-1938",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455910",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809160",
+    "capacity_estimated": true
   },
   {
     "license_number": "806902",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56085-1814",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455913",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806902"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806902",
+    "capacity_estimated": true
   },
   {
     "license_number": "120153",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455954",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120153"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120153",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111748",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56085-1445",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456030",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111748"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111748",
+    "capacity_estimated": true
   },
   {
     "license_number": "807811",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56073-3612",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456103",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807811"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807811",
+    "capacity_estimated": true
   },
   {
     "license_number": "217243",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56087-1712",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456128",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217243"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217243",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052833",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456168",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052833"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052833",
+    "capacity_estimated": true
   },
   {
     "license_number": "121004",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56073-1312",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121004"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=121004",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097056",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56073-1527",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456922",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097056"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097056",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080768",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456928",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080768",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083627",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56087-1163",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458116",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083627",
+    "capacity_estimated": true
   },
   {
     "license_number": "201482",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56073-1392",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458157",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201482"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201482",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066221",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458324",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066221"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066221",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046990",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458486",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046990"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046990",
+    "capacity_estimated": true
   },
   {
     "license_number": "1003050",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56073-3405",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458488",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003050"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003050",
+    "capacity_estimated": true
   },
   {
     "license_number": "113521",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56085-1780",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458532",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113521"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113521",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096006",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56087-1343",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458615",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096006"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096006",
+    "capacity_estimated": true
   },
   {
     "license_number": "236607",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458621",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236607"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236607",
+    "capacity_estimated": true
   },
   {
     "license_number": "113854",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56073-1320",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458739",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113854"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113854",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052652",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458873",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052652"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052652",
+    "capacity_estimated": true
   },
   {
     "license_number": "229209",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459113",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229209"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229209",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028963",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56073-3303",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459165",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028963"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028963",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012232",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459303",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012232"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012232",
+    "capacity_estimated": true
   },
   {
     "license_number": "120155",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56085",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459318",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120155"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120155",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091471",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56087",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459425",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091471"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091471",
+    "capacity_estimated": true
   },
   {
     "license_number": "221729",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459566",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221729"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221729",
+    "capacity_estimated": true
   },
   {
     "license_number": "807553",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459692",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807553"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807553",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038039",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459819",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038039"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038039",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013609",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56087-1544",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459908",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013609",
+    "capacity_estimated": true
   },
   {
     "license_number": "229254",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56087",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460490",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229254"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229254",
+    "capacity_estimated": true
   },
   {
     "license_number": "805070",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56087",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460651",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805070"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805070",
+    "capacity_estimated": true
   },
   {
     "license_number": "809201",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56073-1201",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460661",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809201"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809201",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112638",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56073-2022",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112638"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112638",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116217",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56085-1223",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460746",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116217"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116217",
+    "capacity_estimated": true
   },
   {
     "license_number": "805202",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56073-2025",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460804",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805202"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805202",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066592",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56073",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460911",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066592"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066592",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089535",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56073-3269",
     "county": "Brown",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,6 +1629,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462133",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089535"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089535",
+    "capacity_estimated": true
   }
 ]

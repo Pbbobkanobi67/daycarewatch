@@ -703,5 +703,7 @@
         "LICENSED": 19
       }
     }
-  }
+  },
+  "capacity_note": "Capacity values are estimates based on facility type. Real capacity data pending from MN DHS.",
+  "capacity_estimated_at": "2026-01-01T20:47:25.821927"
 }

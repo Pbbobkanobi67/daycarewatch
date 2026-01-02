@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448210",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086554"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086554",
+    "capacity_estimated": true
   },
   {
     "license_number": "830471",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448805",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830471"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830471",
+    "capacity_estimated": true
   },
   {
     "license_number": "831021",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448832",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081112",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56069",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448933",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081112"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081112",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089822",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56069-4178",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451464",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089822"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089822",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075804",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56069-4240",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451578",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075804"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075804",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085086",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452049",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085086"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085086",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037311",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452120",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037311"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037311",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111327",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56096-1511",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452277",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063042",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56069",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453206",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063042"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063042",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059132",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56058-1725",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453282",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059132"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059132",
+    "capacity_estimated": true
   },
   {
     "license_number": "219645",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453571",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219645",
+    "capacity_estimated": true
   },
   {
     "license_number": "207077",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56057-1708",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453950",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207077"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207077",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058146",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56069-1234",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454111",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058146"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058146",
+    "capacity_estimated": true
   },
   {
     "license_number": "218764",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56096-4413",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454153",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218764"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218764",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081656",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454236",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081656"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081656",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097454",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455164",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097454"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097454",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035608",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56069",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455352",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035608"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035608",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057574",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56069",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455837",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057574",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100160",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56069-4464",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455980",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100160",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085014",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56096",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456032",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085014"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085014",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099571",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56058-4143",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456078",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099571"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099571",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111279",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56096-1132",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456533",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111279"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111279",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099756",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56069-4492",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456570",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099756"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099756",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090675",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56069",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456573",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090675"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090675",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015774",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56069-4497",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456720",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015774"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015774",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080923",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456788",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080923"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080923",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055332",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56096-1466",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457555",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055332"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055332",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114460",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56096-1132",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457557",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114460"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114460",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091078",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56058-2154",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091078"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091078",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062927",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457837",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062927"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062927",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105000",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56058-2217",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458188",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105000",
+    "capacity_estimated": true
   },
   {
     "license_number": "806333",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56057",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458344",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806333"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806333",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093936",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458693",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093936"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093936",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103983",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56057-1314",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459313",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103983"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103983",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116530",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56069-0000",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459446",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116530"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116530",
+    "capacity_estimated": true
   },
   {
     "license_number": "229723",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56058-1606",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459457",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229723"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229723",
+    "capacity_estimated": true
   },
   {
     "license_number": "206365",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56069-1212",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459487",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206365"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206365",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043731",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56058-1318",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459786",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043731"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043731",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114864",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56057-1128",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459865",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114864"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114864",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009171",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56096",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460480",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009171"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009171",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066038",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56057-1120",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460493",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066038"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066038",
+    "capacity_estimated": true
   },
   {
     "license_number": "117518",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56057-4203",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460760",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117518"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117518",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074971",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460847",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074971"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074971",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008596",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461035",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008596"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008596",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064575",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56058",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461107",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064575"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064575",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089534",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56096-1533",
     "county": "Le Sueur",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,6 +1077,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462186",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089534"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089534",
+    "capacity_estimated": true
   }
 ]

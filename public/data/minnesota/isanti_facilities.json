@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55008",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447512",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101716",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55008-7832",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447782",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101716"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101716",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102085",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55040-0000",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447964",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102085"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102085",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080915",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55008",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080915"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080915",
+    "capacity_estimated": true
   },
   {
     "license_number": "801014",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55040",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448382",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801014"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801014",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048346",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55040",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448729",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048346"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048346",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034546",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55040",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448890",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034546"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034546",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000491",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55008",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000491"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000491",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105975",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55040-7226",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451247",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105975"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105975",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051903",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55008-7726",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452738",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051903",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094331",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55040",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094331"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094331",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014365",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55006",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014365"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014365",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110899",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55008-0000",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110899",
+    "capacity_estimated": true
   },
   {
     "license_number": "237118",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55008-7042",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454138",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237118"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237118",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035063",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55040-6265",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454354",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035063"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035063",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053559",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55008-7846",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454574",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053559"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053559",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059355",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55008-7133",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454660",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059355"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059355",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113401",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55008-7952",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454730",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113401"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113401",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106794",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55040-6146",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454974",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106794"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106794",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019674",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55040",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455313",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019674"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019674",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100631",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55008-2012",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455327",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100631",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076021",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55040-6187",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041765",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55008-6791",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455408",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041765"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041765",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033614",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55040-5290",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455536",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033614"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033614",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084793",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55008",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455782",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084793"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084793",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061943",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55008-2509",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456177",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061943",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105399",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55008-1384",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457230",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105399"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105399",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108062",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55040-8008",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458094",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108062"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108062",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074766",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55006",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074766"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074766",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115380",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55006-3219",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458647",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115380"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115380",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100933",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55040-6292",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459009",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100933"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100933",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056396",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55006",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459400",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056396",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092085",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55040-7260",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459481",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092085"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092085",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093754",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55008-1403",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459955",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093754"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093754",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113083",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55040-3200",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461400",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113083"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113083",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094559",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55006-3088",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461468",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094559"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094559",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089456",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55040-7712",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461812",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089456"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089456",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092555",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55040-7712",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461817",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092555"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092555",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092558",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55008-1079",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461819",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092558"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092558",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092557",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55008-1078",
     "county": "Isanti",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,6 +916,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461822",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092557"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092557",
+    "capacity_estimated": true
   }
 ]

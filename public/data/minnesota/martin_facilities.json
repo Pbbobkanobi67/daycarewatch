@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447780",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081275"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081275",
+    "capacity_estimated": true
   },
   {
     "license_number": "800419",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447893",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800419"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800419",
+    "capacity_estimated": true
   },
   {
     "license_number": "800765",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448190",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800765"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800765",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077077",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449809",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077077"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077077",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091079",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56031-0000",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450549",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091079"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091079",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090220",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56088-1124",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451335",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090220"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090220",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112352",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56031-1580",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451494",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112352",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051869",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451688",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051869"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051869",
+    "capacity_estimated": true
   },
   {
     "license_number": "191638",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56088-0283",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451982",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191638"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191638",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051168",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452061",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051168"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051168",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108130",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56031-4358",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452417",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108130",
+    "capacity_estimated": true
   },
   {
     "license_number": "212070",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56031-3606",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452670",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212070"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212070",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049201",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452929",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049201"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049201",
+    "capacity_estimated": true
   },
   {
     "license_number": "231194",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56031-3205",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453671",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231194"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231194",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049474",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453881",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049474"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049474",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114862",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56031-3521",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454299",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114862"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114862",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101798",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56031-4308",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454994",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101798"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101798",
+    "capacity_estimated": true
   },
   {
     "license_number": "107498",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56031-1622",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455091",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112462",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56031-4305",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455119",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112462"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112462",
+    "capacity_estimated": true
   },
   {
     "license_number": "107686",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56031-4454",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455171",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107686"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107686",
+    "capacity_estimated": true
   },
   {
     "license_number": "211191",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455263",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211191"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211191",
+    "capacity_estimated": true
   },
   {
     "license_number": "236676",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56031-1559",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455346",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236676"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236676",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116582",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56031-4162",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455869",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116582"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116582",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013842",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56031-3005",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455870",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013842"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013842",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095452",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56031-3233",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456457",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095452",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064933",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56031-2233",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456942",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064933"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064933",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046318",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56031-1489",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457119",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046318"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046318",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064211",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457324",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064211"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064211",
+    "capacity_estimated": true
   },
   {
     "license_number": "220192",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457541",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220192"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220192",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053992",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56031-3021",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457563",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053992",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050389",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56031-2130",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458225",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050389"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050389",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065981",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065981"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065981",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064386",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56088",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459121",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064386",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058307",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459254",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058307"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058307",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067215",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56008",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460356",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050584",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56031",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460770",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050584"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050584",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073658",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56088",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460831",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073658",
+    "capacity_estimated": true
   },
   {
     "license_number": "216765",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56031-9904",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460884",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216765"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216765",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094991",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56088",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460904",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094991"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094991",
+    "capacity_estimated": true
   },
   {
     "license_number": "118036",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56031-3509",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461061",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=118036"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=118036",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089614",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56088-1322",
     "county": "Martin",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,6 +939,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462174",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089614"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089614",
+    "capacity_estimated": true
   }
 ]

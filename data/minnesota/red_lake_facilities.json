@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56750",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449797",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802053"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802053",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095781",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56750-4232",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451750",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095781"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095781",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074504",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56750-9067",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455687",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074504"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074504",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063718",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56750",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455854",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063718"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063718",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030735",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56750",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456595",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030735"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030735",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110001",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56750-4506",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457413",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110001"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110001",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002899",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56750",
     "county": "Red Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,6 +157,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457959",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002899",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55616",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448531",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051590"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051590",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106064",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55614-1238",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448955",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106064"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106064",
+    "capacity_estimated": true
   },
   {
     "license_number": "802568",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55616-1468",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450177",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802568"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802568",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048228",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55616",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452339",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048228"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048228",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060310",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55616",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452916",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060310"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060310",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014477",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55616-1624",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452992",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014477"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014477",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107851",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55603-0000",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453378",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107851"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107851",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064706",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55616",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453888",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064706"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064706",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097502",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55616-0000",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454360",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097502"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097502",
+    "capacity_estimated": true
   },
   {
     "license_number": "218000",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55616-1328",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454824",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218000",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102894",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55616-1626",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458210",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102894"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102894",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074318",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55616-3024",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459294",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074318"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074318",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055618",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55614",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459448",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055618"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055618",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061698",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55616",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061698"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061698",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089184",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55616-1468",
     "county": "Lake",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,6 +341,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461865",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089184"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089184",
+    "capacity_estimated": true
   }
 ]

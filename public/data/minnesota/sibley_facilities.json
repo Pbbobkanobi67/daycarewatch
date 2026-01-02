@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55396",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451360",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050245"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050245",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111186",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55334-2416",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451461",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111186"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111186",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088135",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56044",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452289",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088135"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088135",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059802",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55334-2022",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452963",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059802"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059802",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066746",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55334-4418",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453938",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066746"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066746",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099151",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55334-2066",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454229",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099151"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099151",
+    "capacity_estimated": true
   },
   {
     "license_number": "212383",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55334",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212383"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212383",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067091",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55334-4466",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454958",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067091",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067092",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55334",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454961",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067092"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067092",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073486",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55334",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455454",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073486"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073486",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095125",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55396",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455455",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095125"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095125",
+    "capacity_estimated": true
   },
   {
     "license_number": "109203",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55307",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456016",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109203",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080180",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55334-2193",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456299",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080180"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080180",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093002",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55307",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457899",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093002"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093002",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052190",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56044",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458174",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052190"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052190",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108623",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56044-5000",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458582",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108623"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108623",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057227",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55396",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458789",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057227"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057227",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095593",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55307-2080",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458836",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095593"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095593",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108427",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55307-9585",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458997",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108427"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108427",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106217",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55396-2236",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459057",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106217"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106217",
+    "capacity_estimated": true
   },
   {
     "license_number": "805154",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55396",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805154"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805154",
+    "capacity_estimated": true
   },
   {
     "license_number": "230533",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55307",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459616",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230533",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036773",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55396-2211",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459770",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036773"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036773",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038724",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55307",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459857",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038724"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038724",
+    "capacity_estimated": true
   },
   {
     "license_number": "116285",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55334",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460108",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116285"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116285",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103010",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55396-2344",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460871",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103010"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103010",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058508",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55396-1805",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058508"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058508",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090878",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55334-4505",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461833",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090878"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090878",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090877",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55334-4505",
     "county": "Sibley",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,6 +663,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462191",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090877"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090877",
+    "capacity_estimated": true
   }
 ]

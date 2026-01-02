@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447999",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831127"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831127",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116584",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55944-1204",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448025",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116584"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116584",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066706",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448521",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066706"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066706",
+    "capacity_estimated": true
   },
   {
     "license_number": "801202",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801202"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801202",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105372",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55944-1618",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449592",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105372"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105372",
+    "capacity_estimated": true
   },
   {
     "license_number": "830413",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55944-1142",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449758",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830413"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830413",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094535",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55944-1462",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450463",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094535"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094535",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108453",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55955-8089",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450576",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108453"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108453",
+    "capacity_estimated": true
   },
   {
     "license_number": "809709",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451517",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809709"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809709",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095403",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451928",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095403"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095403",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045697",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452038",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045697"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045697",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041347",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452051",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041347",
+    "capacity_estimated": true
   },
   {
     "license_number": "207342",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452174",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207342"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207342",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075776",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452181",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075776"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075776",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051271",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55944-1763",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452191",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051271"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051271",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045094",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452230",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045094"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045094",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106398",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55944-9467",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452364",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106398"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106398",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061735",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061735"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061735",
+    "capacity_estimated": true
   },
   {
     "license_number": "103400",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452846",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103400"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103400",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095541",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452962",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095541"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095541",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088639",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453835",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088639"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088639",
+    "capacity_estimated": true
   },
   {
     "license_number": "220650",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55955",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453880",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220650"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220650",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011302",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453983",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011302"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011302",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105396",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55944-1616",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454186",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105396"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105396",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098350",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55955",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454219",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098350"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098350",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067578",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55944-1097",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455606",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067578"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067578",
+    "capacity_estimated": true
   },
   {
     "license_number": "218286",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55927-9161",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455704",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055689",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455797",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055689",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008441",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455912",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111098",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55927-9285",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455952",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111098"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111098",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078387",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456159",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095376",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456160",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095376",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057450",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456205",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057450"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057450",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108074",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55927-9037",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456220",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108074"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108074",
+    "capacity_estimated": true
   },
   {
     "license_number": "208209",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55927-7827",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457514",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208209"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208209",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032275",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458031",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032275"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032275",
+    "capacity_estimated": true
   },
   {
     "license_number": "214787",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458652",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214787"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214787",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010811",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458812",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010811"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010811",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083552",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083552"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083552",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052721",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459701",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052721"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052721",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077463",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077463"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077463",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114316",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55944-1668",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461012",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114316"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114316",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023848",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461069",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023848"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023848",
+    "capacity_estimated": true
   },
   {
     "license_number": "226890",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55927",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461120",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226890"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226890",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044473",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55944",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461316",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044473"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044473",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100455",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55927-9153",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461507",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100455"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100455",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089346",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55944-1618",
     "county": "Dodge",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,6 +1077,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461837",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089346"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089346",
+    "capacity_estimated": true
   }
 ]

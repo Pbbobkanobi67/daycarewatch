@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56529-1309",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447521",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077914"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077914",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108417",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56529-1309",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108417"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108417",
+    "capacity_estimated": true
   },
   {
     "license_number": "800157",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56514-3608",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447678",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800157"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800157",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036264",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447704",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036264"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036264",
+    "capacity_estimated": true
   },
   {
     "license_number": "804115",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804115"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804115",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097182",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56529",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448109",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097182"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097182",
+    "capacity_estimated": true
   },
   {
     "license_number": "801582",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56563",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448115",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801582"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801582",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101408",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56560-5103",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448122",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101408"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101408",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016319",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56529-1466",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448777",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016319",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087487",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087487"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087487",
+    "capacity_estimated": true
   },
   {
     "license_number": "800542",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56560-2071",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448784",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800542",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080970",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56560-5024",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448907",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080970"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080970",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111174",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56560-7419",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449427",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111174"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111174",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095875",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56560-7419",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449428",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095875"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095875",
+    "capacity_estimated": true
   },
   {
     "license_number": "801836",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449479",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801836"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801836",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115318",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56529-0000",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449769",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115318"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115318",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066308",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56560-2900",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449876",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066308"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066308",
+    "capacity_estimated": true
   },
   {
     "license_number": "802542",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56560-2741",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450156",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802542",
+    "capacity_estimated": true
   },
   {
     "license_number": "808053",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450164",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808053"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808053",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114600",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56560-5519",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450213",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114600"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114600",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080262",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56549-4443",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450372",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080262"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080262",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030775",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56549",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450407",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030775"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030775",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083232",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450538",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083232"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083232",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058622",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56547",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450543",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058622"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058622",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104195",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56549-4110",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104195"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104195",
+    "capacity_estimated": true
   },
   {
     "license_number": "113487",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56514-9765",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451263",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113487"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113487",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005893",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56560-5717",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451291",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005893"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005893",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083658",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451344",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079474",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451357",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079474"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079474",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079126",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451508",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079126"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079126",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110890",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56514-3816",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451538",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110890"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110890",
+    "capacity_estimated": true
   },
   {
     "license_number": "205202",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56560-2240",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451549",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205202"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205202",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095145",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451582",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095145"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095145",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084517",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56549",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451647",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084517"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084517",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112791",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56560-5863",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451654",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112791"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112791",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043563",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56549-0000",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451715",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043563"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043563",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116349",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56560-5557",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451737",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116349"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116349",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057371",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56560-8805",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451769",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057371"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057371",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092619",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56547-4424",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451844",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092619"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092619",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031131",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56549-0224",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451871",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031131"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031131",
+    "capacity_estimated": true
   },
   {
     "license_number": "222628",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56560-2134",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451916",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222628"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222628",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049005",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56560-6918",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452127",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049005"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049005",
+    "capacity_estimated": true
   },
   {
     "license_number": "209296",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56560-4515",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452354",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209296"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209296",
+    "capacity_estimated": true
   },
   {
     "license_number": "1041487",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56560-7254",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452358",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041487"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1041487",
+    "capacity_estimated": true
   },
   {
     "license_number": "211122",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452419",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211122"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211122",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045833",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56514-3953",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452487",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045833"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045833",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117500",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56560-7509",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453104",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117500"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117500",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046101",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56560-3918",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453161",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046101"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046101",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065631",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453235",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065631",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083217",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56514-3423",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083217"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083217",
+    "capacity_estimated": true
   },
   {
     "license_number": "231428",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56560-6800",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453320",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231428"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231428",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112818",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56560-6402",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453362",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058773",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56560-4314",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453432",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058773"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058773",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103056",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56549-9420",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103056"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103056",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108451",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56560-6443",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453542",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108451"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108451",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020686",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56560-1634",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453617",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020686"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020686",
+    "capacity_estimated": true
   },
   {
     "license_number": "105085",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56560-9728",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453679",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105085"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105085",
+    "capacity_estimated": true
   },
   {
     "license_number": "202853",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56560-3906",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453744",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202853"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202853",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058021",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56560-3225",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058224",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56549-4428",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058224",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095881",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56560-6033",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454292",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095881"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095881",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061442",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56529-1515",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454296",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061442"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061442",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000445",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454533",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000445"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000445",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111637",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56549-4427",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454639",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111637"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111637",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037849",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56529",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454665",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037849"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037849",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059590",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56560-4007",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454695",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059590"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059590",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057520",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56560-6809",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455047",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057520"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057520",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109627",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56529-2107",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455052",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109627",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094999",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56549",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455080",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094999"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094999",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063246",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56560-2598",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455082",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063246"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063246",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080011",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56529",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455185",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080011"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080011",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036058",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56560-5365",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455538",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036058"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036058",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021736",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56560-3748",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455763",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021736"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021736",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047385",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56560-6790",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455784",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047385"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047385",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052778",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56560-1434",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455836",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052778"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052778",
+    "capacity_estimated": true
   },
   {
     "license_number": "808275",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56560-3713",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455857",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808275"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808275",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097149",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56560-3105",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455978",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097149"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097149",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048681",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456033",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048681"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048681",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110946",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56514-3323",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456060",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110946"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110946",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031921",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56560-6327",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456093",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031921"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031921",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112339",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56560-6554",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456096",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112339"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112339",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074163",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56514-3305",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456175",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074163"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074163",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112281",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56560-5329",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456201",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112281"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112281",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099906",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56560-5334",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456207",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099906"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099906",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080999",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56529-1546",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456231",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080999"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080999",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078222",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456240",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078222"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078222",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108936",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56549-8929",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456453",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108936"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108936",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019426",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56529",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456468",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019426"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019426",
+    "capacity_estimated": true
   },
   {
     "license_number": "228631",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56560-5642",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456475",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228631",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110950",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56560-5300",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456531",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110950"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110950",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114815",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56560-2564",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456543",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114815"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114815",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096019",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "56514-3102",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096019",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111382",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "56560-3217",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111382"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111382",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024268",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "56560-7127",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456767",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024268"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024268",
+    "capacity_estimated": true
   },
   {
     "license_number": "203999",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "56560-8810",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456834",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203999"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203999",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009680",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457009",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009680"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009680",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116210",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "56549-0000",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457165",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116210"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116210",
+    "capacity_estimated": true
   },
   {
     "license_number": "111262",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457185",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111262"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111262",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084790",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "56560-6711",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457306",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084790"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084790",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076196",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076196"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076196",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002488",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "56560-2153",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457354",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002488"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002488",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091884",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "56529",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457411",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091884"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091884",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080988",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "56560-2151",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457561",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080988"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080988",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106689",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "56560-7428",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457611",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106689",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112995",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "56560-7432",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,7 +2411,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457619",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112995"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112995",
+    "capacity_estimated": true
   },
   {
     "license_number": "112254",
@@ -2319,7 +2424,7 @@
     "state": "MN",
     "zip_code": "56549-0000",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2329,7 +2434,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457692",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112254"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112254",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096123",
@@ -2341,7 +2447,7 @@
     "state": "MN",
     "zip_code": "56560-6973",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2351,7 +2457,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457864",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096123"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096123",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075870",
@@ -2363,7 +2470,7 @@
     "state": "MN",
     "zip_code": "56514-3215",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2373,7 +2480,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458011",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075870",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114330",
@@ -2385,7 +2493,7 @@
     "state": "MN",
     "zip_code": "56529-1220",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2395,7 +2503,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458172",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114330"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114330",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045940",
@@ -2407,7 +2516,7 @@
     "state": "MN",
     "zip_code": "56560-5109",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2417,7 +2526,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045940"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045940",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002171",
@@ -2429,7 +2539,7 @@
     "state": "MN",
     "zip_code": "56560-6614",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2439,7 +2549,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458472",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002171"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002171",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115246",
@@ -2451,7 +2562,7 @@
     "state": "MN",
     "zip_code": "56529-1511",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2461,7 +2572,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458499",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115246"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115246",
+    "capacity_estimated": true
   },
   {
     "license_number": "213630",
@@ -2473,7 +2585,7 @@
     "state": "MN",
     "zip_code": "56529-1633",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2483,7 +2595,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458546",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213630",
+    "capacity_estimated": true
   },
   {
     "license_number": "231610",
@@ -2495,7 +2608,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2505,7 +2618,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458551",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231610"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231610",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084510",
@@ -2517,7 +2631,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2527,7 +2641,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458563",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084510"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084510",
+    "capacity_estimated": true
   },
   {
     "license_number": "113643",
@@ -2539,7 +2654,7 @@
     "state": "MN",
     "zip_code": "56549-4621",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2549,7 +2664,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458612",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113643"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113643",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050175",
@@ -2561,7 +2677,7 @@
     "state": "MN",
     "zip_code": "56560-7254",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2571,7 +2687,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458783",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050175"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050175",
+    "capacity_estimated": true
   },
   {
     "license_number": "217880",
@@ -2583,7 +2700,7 @@
     "state": "MN",
     "zip_code": "56549-9406",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2593,7 +2710,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458787",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217880"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217880",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109081",
@@ -2605,7 +2723,7 @@
     "state": "MN",
     "zip_code": "56549-9412",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2615,7 +2733,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458853",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084296",
@@ -2627,7 +2746,7 @@
     "state": "MN",
     "zip_code": "56529",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2637,7 +2756,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084296"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084296",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049300",
@@ -2649,7 +2769,7 @@
     "state": "MN",
     "zip_code": "56560-4610",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2659,7 +2779,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459022",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049300"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049300",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040659",
@@ -2671,7 +2792,7 @@
     "state": "MN",
     "zip_code": "56560-3909",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2681,7 +2802,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459193",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040659"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040659",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110653",
@@ -2693,7 +2815,7 @@
     "state": "MN",
     "zip_code": "56549-4116",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2703,7 +2825,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459203",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110653"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110653",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006406",
@@ -2715,7 +2838,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2725,7 +2848,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459275",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006406"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006406",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110903",
@@ -2737,7 +2861,7 @@
     "state": "MN",
     "zip_code": "56514-3938",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2747,7 +2871,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459276",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110903",
+    "capacity_estimated": true
   },
   {
     "license_number": "203227",
@@ -2759,7 +2884,7 @@
     "state": "MN",
     "zip_code": "56529-1234",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2769,7 +2894,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459285",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203227"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203227",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103567",
@@ -2781,7 +2907,7 @@
     "state": "MN",
     "zip_code": "56560-3034",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2791,7 +2917,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459372",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103567"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103567",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084294",
@@ -2803,7 +2930,7 @@
     "state": "MN",
     "zip_code": "56547",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2813,7 +2940,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459429",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084294"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084294",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037044",
@@ -2825,7 +2953,7 @@
     "state": "MN",
     "zip_code": "56514",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2835,7 +2963,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459642",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037044"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037044",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046926",
@@ -2847,7 +2976,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2857,7 +2986,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459774",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046926"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046926",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094385",
@@ -2869,7 +2999,7 @@
     "state": "MN",
     "zip_code": "56529-2105",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2879,7 +3009,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459880",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094385"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094385",
+    "capacity_estimated": true
   },
   {
     "license_number": "115869",
@@ -2891,7 +3022,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2901,7 +3032,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459885",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115869"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115869",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115547",
@@ -2913,7 +3045,7 @@
     "state": "MN",
     "zip_code": "56560-5642",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2923,7 +3055,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460103",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115547"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115547",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113797",
@@ -2935,7 +3068,7 @@
     "state": "MN",
     "zip_code": "56514-3746",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2945,7 +3078,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460165",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113797",
+    "capacity_estimated": true
   },
   {
     "license_number": "218964",
@@ -2957,7 +3091,7 @@
     "state": "MN",
     "zip_code": "56560-3909",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2967,7 +3101,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460275",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218964"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218964",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042307",
@@ -2979,7 +3114,7 @@
     "state": "MN",
     "zip_code": "56560-6702",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2989,7 +3124,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460304",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042307"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042307",
+    "capacity_estimated": true
   },
   {
     "license_number": "219019",
@@ -3001,7 +3137,7 @@
     "state": "MN",
     "zip_code": "56514-3217",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3011,7 +3147,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460442",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219019",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102388",
@@ -3023,7 +3160,7 @@
     "state": "MN",
     "zip_code": "56560-2621",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3033,7 +3170,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460644",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102388"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102388",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062943",
@@ -3045,7 +3183,7 @@
     "state": "MN",
     "zip_code": "56549",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3055,7 +3193,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460715",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062943",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060468",
@@ -3067,7 +3206,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3077,7 +3216,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460933",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060468"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060468",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062524",
@@ -3089,7 +3229,7 @@
     "state": "MN",
     "zip_code": "56514",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3099,7 +3239,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461000",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062524"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062524",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085073",
@@ -3111,7 +3252,7 @@
     "state": "MN",
     "zip_code": "56560",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3121,7 +3262,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461117",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085073"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085073",
+    "capacity_estimated": true
   },
   {
     "license_number": "1071614",
@@ -3133,7 +3275,7 @@
     "state": "MN",
     "zip_code": "56560-7511",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3143,7 +3285,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461320",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1071614"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1071614",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010982",
@@ -3155,7 +3298,7 @@
     "state": "MN",
     "zip_code": "56560-3920",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3165,7 +3308,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461361",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010982"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010982",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095694",
@@ -3177,7 +3321,7 @@
     "state": "MN",
     "zip_code": "56560-5499",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3187,7 +3331,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462219",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089672",
@@ -3199,7 +3344,7 @@
     "state": "MN",
     "zip_code": "56560-3676",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3209,7 +3354,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462245",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089672"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089672",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089665",
@@ -3221,7 +3367,7 @@
     "state": "MN",
     "zip_code": "56560-7416",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3231,7 +3377,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462258",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089665"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089665",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089670",
@@ -3243,7 +3390,7 @@
     "state": "MN",
     "zip_code": "56560-1564",
     "county": "Clay",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -3253,6 +3400,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462259",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089670"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089670",
+    "capacity_estimated": true
   }
 ]

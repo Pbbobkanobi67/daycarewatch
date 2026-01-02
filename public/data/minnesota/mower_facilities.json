@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447637",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830687"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830687",
+    "capacity_estimated": true
   },
   {
     "license_number": "800547",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55912-1414",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447971",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800547"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800547",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043439",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448070",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043439"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043439",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081211",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55912-2336",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449481",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081211"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081211",
+    "capacity_estimated": true
   },
   {
     "license_number": "800141",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449761",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800141"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800141",
+    "capacity_estimated": true
   },
   {
     "license_number": "802837",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449892",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802837"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802837",
+    "capacity_estimated": true
   },
   {
     "license_number": "800142",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55912-0000",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450346",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800142"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800142",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099504",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55912-1276",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451382",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099504"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099504",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073384",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451598",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073384"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073384",
+    "capacity_estimated": true
   },
   {
     "license_number": "1003763",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55953",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451600",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003763"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1003763",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101529",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55912-2046",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451891",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101529"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101529",
+    "capacity_estimated": true
   },
   {
     "license_number": "101904",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55912-2318",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452119",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=101904"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=101904",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088879",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452682",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088879"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088879",
+    "capacity_estimated": true
   },
   {
     "license_number": "120352",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453029",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120352",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022375",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55953-9721",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453299",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022375"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022375",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045069",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453420",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045069"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045069",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076652",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55953",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076652"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076652",
+    "capacity_estimated": true
   },
   {
     "license_number": "232130",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116218",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55912-4339",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455159",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116218"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116218",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066605",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455197",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066605"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066605",
+    "capacity_estimated": true
   },
   {
     "license_number": "205845",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55953",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455541",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205845"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205845",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063838",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455650",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063838"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063838",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055633",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55912-6411",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456018",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055633"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055633",
+    "capacity_estimated": true
   },
   {
     "license_number": "211747",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456105",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211747"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211747",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012732",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456235",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012732"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012732",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053369",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456352",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053369",
+    "capacity_estimated": true
   },
   {
     "license_number": "109819",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456354",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109819"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109819",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000306",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55909-9679",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456358",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000306"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000306",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111713",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55912-3921",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456734",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111713"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111713",
+    "capacity_estimated": true
   },
   {
     "license_number": "235281",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457431",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235281"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235281",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109301",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55912-5001",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457522",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109301"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109301",
+    "capacity_estimated": true
   },
   {
     "license_number": "211315",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457628",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211315"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211315",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012533",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458454",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012533",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081981",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458456",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081981"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081981",
+    "capacity_estimated": true
   },
   {
     "license_number": "113870",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458749",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113870",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107783",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55912-3915",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458827",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107783"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107783",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064765",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459667",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064765"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064765",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004125",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459771",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004125"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004125",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113658",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55912-3947",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459941",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076974",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55912-4737",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460935",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076974"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076974",
+    "capacity_estimated": true
   },
   {
     "license_number": "201131",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55909-8667",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461049",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201131"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201131",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044333",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55912",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461090",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044333"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044333",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089361",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55912-1659",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461748",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089361"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089361",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089780",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55912-3578",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461750",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089780"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089780",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089778",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55912-3128",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461754",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089778"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089778",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089487",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55912-0000",
     "county": "Mower",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,6 +1054,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462249",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089487"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089487",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55009-2429",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447514",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101850"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101850",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099182",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55066-3433",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447779",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099182"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099182",
+    "capacity_estimated": true
   },
   {
     "license_number": "804938",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55066",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447948",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804938",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014488",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55992",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448588",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014488"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014488",
+    "capacity_estimated": true
   },
   {
     "license_number": "831088",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55066",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448815",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831088"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=831088",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102026",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55009-2554",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448830",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102026"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102026",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058812",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55066-4008",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449646",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058812"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058812",
+    "capacity_estimated": true
   },
   {
     "license_number": "810554",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55066-2323",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449647",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810554"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810554",
+    "capacity_estimated": true
   },
   {
     "license_number": "808478",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55066-2849",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450180",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808478"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808478",
+    "capacity_estimated": true
   },
   {
     "license_number": "805043",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55992",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805043"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=805043",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026253",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55963-0000",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450569",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102427",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55992-7297",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451605",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102427"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102427",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097027",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55963-7638",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451643",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097027"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097027",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115174",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55066-3512",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451797",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115174"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115174",
+    "capacity_estimated": true
   },
   {
     "license_number": "230517",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55963",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452017",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230517"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230517",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060696",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55946",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452087",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060696"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060696",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106247",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55992-5196",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452095",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106247"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106247",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061936",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55066-4718",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452298",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061936"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061936",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026690",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55066-3903",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452453",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026690"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026690",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107959",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55009-1836",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452492",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107959"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107959",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039953",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55066-1823",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452637",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039953"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039953",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004019",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55946-4420",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452686",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004019",
+    "capacity_estimated": true
   },
   {
     "license_number": "236837",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55066-3826",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453015",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236837"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236837",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107449",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55946-1034",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453110",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107449"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107449",
+    "capacity_estimated": true
   },
   {
     "license_number": "230012",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55066-2016",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453327",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230012"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230012",
+    "capacity_estimated": true
   },
   {
     "license_number": "220289",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55009-1426",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453339",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220289"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220289",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090988",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55009",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453501",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090988"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090988",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104938",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55009-1849",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453723",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104938",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066887",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55066-1211",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066887"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066887",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006390",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55992-1191",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453942",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006390"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006390",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052684",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55009-1519",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454096",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052684"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052684",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095787",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55066-1702",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454272",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095787"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095787",
+    "capacity_estimated": true
   },
   {
     "license_number": "806347",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55946-1234",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454301",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806347",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016136",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55963-6768",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455002",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016136"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016136",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031452",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55009-2004",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455405",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031452",
+    "capacity_estimated": true
   },
   {
     "license_number": "108437",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55066-2629",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455575",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108437"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108437",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096332",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55963-7594",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455933",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096332"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096332",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110711",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55066-3629",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456273",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085468",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55066",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456281",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085468"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085468",
+    "capacity_estimated": true
   },
   {
     "license_number": "109849",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55992-1206",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456379",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109849"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109849",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114184",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55946-1409",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456428",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114184"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114184",
+    "capacity_estimated": true
   },
   {
     "license_number": "109973",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55009-4002",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456451",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109973"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109973",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088847",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55066",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456737",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088847"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088847",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083327",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55009",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456817",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083327",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081901",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55009",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456835",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081901"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081901",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116063",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55992-7333",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456920",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116063"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116063",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059032",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55009-4249",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457010",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059032"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059032",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100441",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55066-1770",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457262",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092812",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55963",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457318",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092812"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092812",
+    "capacity_estimated": true
   },
   {
     "license_number": "236272",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55963-6782",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457377",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236272"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236272",
+    "capacity_estimated": true
   },
   {
     "license_number": "224105",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55066-3717",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457567",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224105"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224105",
+    "capacity_estimated": true
   },
   {
     "license_number": "225371",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55946-1011",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458111",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225371"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225371",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080261",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55992-1223",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458282",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080261"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080261",
+    "capacity_estimated": true
   },
   {
     "license_number": "236554",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55963-9130",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458641",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236554"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236554",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021786",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55963-7634",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458912",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021786"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021786",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088853",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55066",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458941",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088853"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088853",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064163",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55963-9502",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064163"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064163",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099031",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55963",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459017",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099031"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099031",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053352",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55992-7297",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459033",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053352",
+    "capacity_estimated": true
   },
   {
     "license_number": "114490",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55066-3532",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459095",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114490"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114490",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074385",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55963",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459236",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074385"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074385",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110650",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55066-1508",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459326",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110650"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110650",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100168",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55992-1171",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459591",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100168"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100168",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016634",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55066-1708",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460019",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016634"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016634",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109961",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55009-1114",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460597",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109961"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109961",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079016",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55963-7586",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460655",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079016"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079016",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074505",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55992",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460805",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074505"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074505",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028635",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55992-1490",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461349",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028635"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028635",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089235",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55009-2242",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461479",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089235"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089235",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089237",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55992-1642",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461519",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089237",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089232",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55066-3200",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461710",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089232"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089232",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089803",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55963-0000",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461723",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089803"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089803",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113646",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55066-9224",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461897",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113646"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113646",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113645",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55066-3009",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461898",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113645",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089302",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55946-1203",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461954",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089302"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089302",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106061",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55963-9140",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462056",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106061"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106061",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090810",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55066-2323",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462213",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090810"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090810",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090809",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55066-2323",
     "county": "Goodhue",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,6 +1790,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462255",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090809"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090809",
+    "capacity_estimated": true
   }
 ]

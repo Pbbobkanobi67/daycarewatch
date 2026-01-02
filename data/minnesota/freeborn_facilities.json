@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447863",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800371"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800371",
+    "capacity_estimated": true
   },
   {
     "license_number": "800056",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447874",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800056"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800056",
+    "capacity_estimated": true
   },
   {
     "license_number": "803874",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447880",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=803874"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=803874",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066515",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56007-2955",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449911",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066515"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066515",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102555",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56007-2164",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450072",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102555"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102555",
+    "capacity_estimated": true
   },
   {
     "license_number": "802576",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450192",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802576"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802576",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103569",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56007-3041",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450495",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103569"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103569",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092003",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56007-1723",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092003"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092003",
+    "capacity_estimated": true
   },
   {
     "license_number": "224314",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56007-9802",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224314"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224314",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066547",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451775",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066547"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066547",
+    "capacity_estimated": true
   },
   {
     "license_number": "191553",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56007-2224",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451933",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191553"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191553",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109522",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56007-2152",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452301",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109522"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109522",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091280",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452378",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091280"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091280",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109892",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56007-3230",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452482",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109892"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109892",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073895",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452920",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073895"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073895",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094259",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453276",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094259"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094259",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060689",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56007-1416",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453433",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060689",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045792",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56007-3231",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453436",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045792"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045792",
+    "capacity_estimated": true
   },
   {
     "license_number": "224149",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453574",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224149"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224149",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094402",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56007-2735",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453954",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094402"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094402",
+    "capacity_estimated": true
   },
   {
     "license_number": "105677",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56007-2273",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105677"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105677",
+    "capacity_estimated": true
   },
   {
     "license_number": "205565",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56007-3943",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454529",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205565"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205565",
+    "capacity_estimated": true
   },
   {
     "license_number": "229085",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56007-1324",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454745",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229085"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229085",
+    "capacity_estimated": true
   },
   {
     "license_number": "234025",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56007-3362",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454943",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234025"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234025",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008803",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455104",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008803"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008803",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057570",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455272",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057570"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057570",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077623",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455496",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077623"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077623",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087366",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56007-1816",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456990",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087366"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087366",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079572",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457231",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079572"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079572",
+    "capacity_estimated": true
   },
   {
     "license_number": "809713",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56007-7014",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457238",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809713"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809713",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065366",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457587",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065366"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065366",
+    "capacity_estimated": true
   },
   {
     "license_number": "1049981",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457687",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049981"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049981",
+    "capacity_estimated": true
   },
   {
     "license_number": "232865",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56007-3358",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232865"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232865",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092005",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458381",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092005"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092005",
+    "capacity_estimated": true
   },
   {
     "license_number": "113428",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56007-2142",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458480",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113428"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113428",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102425",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56007-4338",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458564",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102425"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102425",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060657",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56007",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459209",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060657"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060657",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084207",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56007-1322",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459711",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084207"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084207",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116400",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56007-3315",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460532",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116400"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116400",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089248",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56007-4335",
     "county": "Freeborn",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,6 +916,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461446",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089248"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089248",
+    "capacity_estimated": true
   }
 ]

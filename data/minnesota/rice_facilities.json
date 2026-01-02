@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447504",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800003"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800003",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064366",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55057-1720",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447624",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064366"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064366",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042526",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55057-1350",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448116",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042526"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042526",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018859",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55021-0000",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448195",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018859"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018859",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109832",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55021-7380",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448229",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109832"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109832",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106051",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55019-4113",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449020",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106051",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097753",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449181",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097753",
+    "capacity_estimated": true
   },
   {
     "license_number": "801755",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449411",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801755"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801755",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004075",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55057-2760",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449412",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004075",
+    "capacity_estimated": true
   },
   {
     "license_number": "811016",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55057-0000",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449415",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=811016"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=811016",
+    "capacity_estimated": true
   },
   {
     "license_number": "801756",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449417",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801756"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801756",
+    "capacity_estimated": true
   },
   {
     "license_number": "801813",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801813"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801813",
+    "capacity_estimated": true
   },
   {
     "license_number": "801893",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449493",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801893"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801893",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058562",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449855",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058562"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058562",
+    "capacity_estimated": true
   },
   {
     "license_number": "830337",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450106",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830337"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830337",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076360",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450421",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113005",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55019-3973",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451327",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113005"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113005",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051009",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55046-8605",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451579",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051009"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051009",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095164",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55046-3438",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451580",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095164"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095164",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082384",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451583",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082384"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082384",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010211",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451591",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010211"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010211",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115094",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55021-4974",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451690",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115094"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115094",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110540",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55021-4410",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451724",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110540"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110540",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075240",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451963",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075240"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075240",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019420",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451996",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102417",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55046-4501",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452027",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102417"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102417",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101671",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55021-2259",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452080",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101671"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101671",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073436",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452083",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073436"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073436",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066053",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452148",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066053"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066053",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084632",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452336",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084632"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084632",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038032",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55057-1215",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452396",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038032"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038032",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015338",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015338"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015338",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105616",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55057-2854",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452838",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105616"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105616",
+    "capacity_estimated": true
   },
   {
     "license_number": "104322",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453286",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104322"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104322",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114883",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55046-3443",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453575",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114883"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114883",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095166",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453640",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095166"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095166",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093920",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453736",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093920"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093920",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114820",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55021-3120",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454047",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114820"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114820",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079150",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454069",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079150"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079150",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114941",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55021-4107",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454180",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114941"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114941",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088903",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454304",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088903"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088903",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095561",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454797",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095561"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095561",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064833",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55046-8605",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064833"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064833",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085921",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455040",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085921"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085921",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115528",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55021-3412",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455041",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115528",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026846",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455069",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026846"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026846",
+    "capacity_estimated": true
   },
   {
     "license_number": "103178",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455285",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103178",
+    "capacity_estimated": true
   },
   {
     "license_number": "810376",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455288",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810376",
+    "capacity_estimated": true
   },
   {
     "license_number": "208684",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455348",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208684"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208684",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085425",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455489",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085425"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085425",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002572",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55021-8701",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455594",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002572"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002572",
+    "capacity_estimated": true
   },
   {
     "license_number": "108612",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55019-3949",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455674",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108612"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=108612",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052846",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55057-4875",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455996",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052846"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052846",
+    "capacity_estimated": true
   },
   {
     "license_number": "109628",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55057-0711",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456256",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109628"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109628",
+    "capacity_estimated": true
   },
   {
     "license_number": "219197",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456359",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219197"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219197",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066994",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066994"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066994",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113542",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55057-4456",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113542",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058854",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456718",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058854"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058854",
+    "capacity_estimated": true
   },
   {
     "license_number": "226695",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456755",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226695"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226695",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081064",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55021-7327",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456760",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081064"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081064",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074615",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074615"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074615",
+    "capacity_estimated": true
   },
   {
     "license_number": "1039504",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55057-5462",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457397",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039504"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1039504",
+    "capacity_estimated": true
   },
   {
     "license_number": "220582",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457510",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220582"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220582",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015960",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457512",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015960"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015960",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079172",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457565",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079172"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079172",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110717",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55046-2303",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457575",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110717"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110717",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113437",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55021-2344",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457854",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113437"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113437",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106730",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55021-3101",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457896",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106730"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106730",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061644",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55057-5406",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458350",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061644",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029818",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55019",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458353",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054684",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458413",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054684"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054684",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078566",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55057-3232",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458482",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078566"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078566",
+    "capacity_estimated": true
   },
   {
     "license_number": "113554",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458567",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113554"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113554",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101630",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55046-5017",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458760",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101630"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101630",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101533",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55021-4223",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458817",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101533",
+    "capacity_estimated": true
   },
   {
     "license_number": "810485",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458957",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810485"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810485",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048541",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55019",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459245",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048541"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048541",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063484",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459330",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063484"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063484",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053460",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "55046-9437",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459475",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053460"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053460",
+    "capacity_estimated": true
   },
   {
     "license_number": "219431",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459599",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219431"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219431",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036994",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "55019",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459645",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036994"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036994",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115761",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "55021-2820",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459914",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115761"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115761",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091919",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "55021-3202",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460184",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091919"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091919",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098316",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "55019-3973",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460256",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098316"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098316",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064927",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460297",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064927"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064927",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066065",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066065"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066065",
+    "capacity_estimated": true
   },
   {
     "license_number": "220574",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "55046-4125",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460318",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220574"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220574",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085643",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "55021",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460389",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085643"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085643",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098319",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "55021-7829",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460498",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098319",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061134",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "55021-6671",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460538",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061134"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061134",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048746",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "55057",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460549",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048746"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048746",
+    "capacity_estimated": true
   },
   {
     "license_number": "201839",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "55057-1538",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460740",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201839"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201839",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105052",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "55019-3967",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460759",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105052"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105052",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109519",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55046-5018",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460839",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109519"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109519",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067024",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460890",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067024"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067024",
+    "capacity_estimated": true
   },
   {
     "license_number": "208143",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "55021-8169",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460968",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208143"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208143",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079687",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "55046",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,7 +2227,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461112",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079687"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079687",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091391",
@@ -2143,7 +2240,7 @@
     "state": "MN",
     "zip_code": "55021-3105",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2153,7 +2250,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461300",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091391"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091391",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096026",
@@ -2165,7 +2263,7 @@
     "state": "MN",
     "zip_code": "55021-6633",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2175,7 +2273,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461826",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096026"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096026",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113778",
@@ -2187,7 +2286,7 @@
     "state": "MN",
     "zip_code": "55021-4722",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2197,7 +2296,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461903",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113778"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113778",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091456",
@@ -2209,7 +2309,7 @@
     "state": "MN",
     "zip_code": "55057-2925",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2219,7 +2319,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091456"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091456",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091452",
@@ -2231,7 +2332,7 @@
     "state": "MN",
     "zip_code": "55057-3056",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2241,7 +2342,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461947",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091452"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091452",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091454",
@@ -2253,7 +2355,7 @@
     "state": "MN",
     "zip_code": "55057-1350",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2263,7 +2365,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461949",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091454"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091454",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089799",
@@ -2275,7 +2378,7 @@
     "state": "MN",
     "zip_code": "56159",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2285,7 +2388,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462070",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089799"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089799",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089107",
@@ -2297,7 +2401,7 @@
     "state": "MN",
     "zip_code": "55021-3921",
     "county": "Rice",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2307,6 +2411,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462100",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089107"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089107",
+    "capacity_estimated": true
   }
 ]

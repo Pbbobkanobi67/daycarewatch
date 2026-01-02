@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56621-0000",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447670",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810959"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810959",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061916",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56621-4670",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451817",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061916"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061916",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098987",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56621",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452445",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098987"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098987",
+    "capacity_estimated": true
   },
   {
     "license_number": "103839",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56621-9110",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453067",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103839"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103839",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065645",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56621",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453861",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065645"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065645",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077273",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56621",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455365",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077273"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077273",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015850",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56621-4131",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455983",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015850"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015850",
+    "capacity_estimated": true
   },
   {
     "license_number": "110387",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56621-9530",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456632",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105299",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56621-5118",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457651",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105299"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105299",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045862",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56621",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457664",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045862"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045862",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112373",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56621-4124",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458748",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112373"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112373",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114297",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56621-4343",
     "county": "Clearwater",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,6 +272,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460305",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114297"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114297",
+    "capacity_estimated": true
   }
 ]

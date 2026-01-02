@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447650",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094333",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55060-1244",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094333"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094333",
+    "capacity_estimated": true
   },
   {
     "license_number": "810552",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55060-1488",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448324",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810552"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810552",
+    "capacity_estimated": true
   },
   {
     "license_number": "802850",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55060-4704",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448538",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802850"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802850",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110165",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55917-0000",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110165",
+    "capacity_estimated": true
   },
   {
     "license_number": "801858",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55060-1405",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449763",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801858"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801858",
+    "capacity_estimated": true
   },
   {
     "license_number": "804543",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55060-1455",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804543"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804543",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104015",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55060-1415",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450117",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104015"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104015",
+    "capacity_estimated": true
   },
   {
     "license_number": "809291",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55060-1405",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450132",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809291",
+    "capacity_estimated": true
   },
   {
     "license_number": "802549",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55060-3407",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802549"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802549",
+    "capacity_estimated": true
   },
   {
     "license_number": "802654",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55060-4710",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450266",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802654"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802654",
+    "capacity_estimated": true
   },
   {
     "license_number": "236206",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450397",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236206"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236206",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102515",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55060-1558",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451254",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102515"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102515",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105639",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55060-2746",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451567",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105639"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105639",
+    "capacity_estimated": true
   },
   {
     "license_number": "220117",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55060-0300",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451644",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220117"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220117",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091111",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451926",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091111"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091111",
+    "capacity_estimated": true
   },
   {
     "license_number": "218237",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452023",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218237",
+    "capacity_estimated": true
   },
   {
     "license_number": "191865",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452099",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191865"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=191865",
+    "capacity_estimated": true
   },
   {
     "license_number": "808219",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452272",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808219"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808219",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116531",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55060-4121",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452291",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116531"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116531",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094986",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452498",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094986"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094986",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077753",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452572",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077753",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052005",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452616",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052005"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052005",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032353",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55049",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452984",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032353"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032353",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011597",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55049",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453032",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011597"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011597",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111096",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55049-9546",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111096"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111096",
+    "capacity_estimated": true
   },
   {
     "license_number": "234111",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453267",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234111"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234111",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084513",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55049-8146",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453346",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084513"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084513",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050928",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55060-2602",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453394",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050928"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050928",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036420",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453447",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088536",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453475",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088536"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088536",
+    "capacity_estimated": true
   },
   {
     "license_number": "203860",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55060-3190",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453502",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203860"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203860",
+    "capacity_estimated": true
   },
   {
     "license_number": "215709",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453760",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215709"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215709",
+    "capacity_estimated": true
   },
   {
     "license_number": "226606",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55060-2168",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453898",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226606"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226606",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017293",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453971",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017293"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017293",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017076",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55060-2009",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454192",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017076"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017076",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113400",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55060-6226",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454200",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113400"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113400",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108132",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55917-0000",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454235",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108132"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108132",
+    "capacity_estimated": true
   },
   {
     "license_number": "203427",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55060-1839",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454545",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203427"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203427",
+    "capacity_estimated": true
   },
   {
     "license_number": "1033081",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454734",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033081"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1033081",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110234",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55917-5936",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454753",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110234"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110234",
+    "capacity_estimated": true
   },
   {
     "license_number": "229523",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455154",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229523"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229523",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074626",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455175",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074626"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074626",
+    "capacity_estimated": true
   },
   {
     "license_number": "229943",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455199",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229943",
+    "capacity_estimated": true
   },
   {
     "license_number": "221193",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55049-7000",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455427",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221193",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062319",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455776",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062319",
+    "capacity_estimated": true
   },
   {
     "license_number": "229033",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55917-0000",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455876",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229033"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229033",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106431",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55060-4166",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455890",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106431"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106431",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074523",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55060-2562",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455903",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074523"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074523",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029275",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55060-4601",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456048",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029275"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029275",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024830",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456110",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024830"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024830",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112754",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55049-7039",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456153",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112754"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112754",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096227",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456200",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096227"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096227",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116883",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55060-4055",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456290",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116883"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116883",
+    "capacity_estimated": true
   },
   {
     "license_number": "110095",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55060-1543",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456505",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110095"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=110095",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110212",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55060-3153",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456676",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110212"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110212",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084543",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456711",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084543"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084543",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060265",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457027",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060265"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060265",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066876",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457447",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066876"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066876",
+    "capacity_estimated": true
   },
   {
     "license_number": "111891",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457505",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111891"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111891",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088447",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457898",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088447"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088447",
+    "capacity_estimated": true
   },
   {
     "license_number": "112599",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458020",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112599"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=112599",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116089",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55060-3026",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458219",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116089"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116089",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042527",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458291",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042527"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042527",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093528",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55060-5182",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458306",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093528",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083117",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458418",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083117"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083117",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043379",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458556",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043379"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043379",
+    "capacity_estimated": true
   },
   {
     "license_number": "113687",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458646",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113687"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113687",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061555",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458649",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061555"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061555",
+    "capacity_estimated": true
   },
   {
     "license_number": "204662",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55060-3303",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458744",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204662"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204662",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099508",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55060-3619",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458755",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099508"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099508",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084074",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55060-1311",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084074"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084074",
+    "capacity_estimated": true
   },
   {
     "license_number": "114380",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459030",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114380"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114380",
+    "capacity_estimated": true
   },
   {
     "license_number": "114497",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459089",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114497"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114497",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026893",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "55060-5501",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459172",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026893"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026893",
+    "capacity_estimated": true
   },
   {
     "license_number": "200797",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "55049-0273",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459183",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1001896",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459227",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001896"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1001896",
+    "capacity_estimated": true
   },
   {
     "license_number": "222093",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459228",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=222093",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074092",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "55917-1140",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459339",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074092"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074092",
+    "capacity_estimated": true
   },
   {
     "license_number": "225528",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459344",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225528",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108806",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "55060-4191",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459347",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108806"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108806",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013329",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "55049",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459363",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013329"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013329",
+    "capacity_estimated": true
   },
   {
     "license_number": "1017261",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459450",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017261"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1017261",
+    "capacity_estimated": true
   },
   {
     "license_number": "115756",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "55060-1573",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459804",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115756"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115756",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075236",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "55060-2115",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459817",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075236"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075236",
+    "capacity_estimated": true
   },
   {
     "license_number": "219711",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "55060-3167",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219711"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219711",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099539",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "55060-5112",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459966",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099539"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099539",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062398",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460061",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062398"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062398",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064533",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460115",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064533",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095323",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "55917-1280",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460586",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095323"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095323",
+    "capacity_estimated": true
   },
   {
     "license_number": "117253",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460639",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015911",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460665",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015911"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015911",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008433",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "55060-4517",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460689",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008433"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008433",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047020",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55060",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,7 +2158,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460733",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047020"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047020",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074548",
@@ -2077,7 +2171,7 @@
     "state": "MN",
     "zip_code": "55060-3515",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2087,7 +2181,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460791",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074548"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074548",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038573",
@@ -2099,7 +2194,7 @@
     "state": "MN",
     "zip_code": "55060-0000",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2109,7 +2204,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460984",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076973",
@@ -2121,7 +2217,7 @@
     "state": "MN",
     "zip_code": "55917",
     "county": "Steele",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2131,6 +2227,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461031",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076973"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076973",
+    "capacity_estimated": true
   }
 ]

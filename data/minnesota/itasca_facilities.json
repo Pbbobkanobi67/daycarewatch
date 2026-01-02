@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55744-3982",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448329",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800918"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800918",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037699",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448465",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037699"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037699",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037696",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56636",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448478",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037696"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037696",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025915",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448730",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025915"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025915",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107251",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55721-9648",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448982",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107251"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107251",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029997",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55721",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449463",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029997",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085934",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449688",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085934"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085934",
+    "capacity_estimated": true
   },
   {
     "license_number": "802346",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449874",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802346"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802346",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009586",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009586"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009586",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092109",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450009",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092109"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092109",
+    "capacity_estimated": true
   },
   {
     "license_number": "802768",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55744-3784",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802768",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066290",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450524",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066290"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066290",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088626",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451251",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088626"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088626",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074162",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451311",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074162",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058302",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451482",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058302"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058302",
+    "capacity_estimated": true
   },
   {
     "license_number": "217473",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55744-3836",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452102",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217473"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217473",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009200",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452335",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009200"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009200",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036459",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452464",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036459"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036459",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110184",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55744-2319",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452653",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110184"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110184",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061094",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452683",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061094"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061094",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087097",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56636",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453025",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087097"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087097",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098765",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56636",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098765"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098765",
+    "capacity_estimated": true
   },
   {
     "license_number": "104720",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453483",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104720"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104720",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082701",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56636-2054",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453655",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082701"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082701",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010768",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55744-5954",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453776",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010768"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010768",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031160",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453839",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031160",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111002",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56636-3299",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453995",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111002"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111002",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078300",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55744-4402",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454631",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078300"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078300",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064803",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55744-2146",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454735",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064803"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064803",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106269",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55744-4859",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454884",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106269"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106269",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115019",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55722-0130",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455988",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115019"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115019",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114059",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55721-2256",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456264",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114059"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114059",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095825",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55744-5835",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456306",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095825"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095825",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109799",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55721-3301",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456569",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109799"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109799",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107125",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55744-4808",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457031",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107125"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107125",
+    "capacity_estimated": true
   },
   {
     "license_number": "225807",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55744-3126",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457221",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225807"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225807",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114028",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55744-0000",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457474",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114028"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114028",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014726",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457477",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014726"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014726",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091607",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55744-9568",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457525",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091607"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091607",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101311",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55744-3000",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457630",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101311"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101311",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073935",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073935"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073935",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114056",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55744-3910",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458220",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114056"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114056",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114663",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55744-3931",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458246",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114663"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114663",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082920",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55744-0000",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458253",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082920"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082920",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110179",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55744-4003",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458607",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110179"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110179",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082392",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458819",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082392"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082392",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114713",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55744-9239",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459290",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114713"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114713",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079944",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459581",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079944"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079944",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084132",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55744-3530",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459744",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084132"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084132",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102139",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55744-2225",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459851",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102139"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102139",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006812",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55744",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459866",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006812"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006812",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095828",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55721-2000",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460253",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095828"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095828",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111929",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55744-4361",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460311",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111929"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111929",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079364",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55744-4275",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460404",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079364"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079364",
+    "capacity_estimated": true
   },
   {
     "license_number": "217162",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55744-3521",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460435",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217162",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098569",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55744-3836",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460589",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098569"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098569",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061224",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55722",
     "county": "Itasca",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,6 +1307,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461034",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061224",
+    "capacity_estimated": true
   }
 ]

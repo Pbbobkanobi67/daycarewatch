@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447683",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800179"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800179",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066499",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447701",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066499"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066499",
+    "capacity_estimated": true
   },
   {
     "license_number": "830742",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56630",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447715",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830742"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830742",
+    "capacity_estimated": true
   },
   {
     "license_number": "800291",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56601-1893",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447797",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800291",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065900",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448378",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065900"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065900",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106062",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56601-4831",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106062"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106062",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106266",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56601-5608",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036443",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450091",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036443"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036443",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075343",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451259",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075343"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075343",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012976",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56601-8276",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451294",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012976"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012976",
+    "capacity_estimated": true
   },
   {
     "license_number": "190482",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190482"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190482",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055663",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055663"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055663",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075997",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451846",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075997",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023583",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023583"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023583",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079286",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452234",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079286"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079286",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054258",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56630",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452371",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054258"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054258",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023550",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452505",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023550"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023550",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079285",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452511",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079285"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079285",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094846",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452807",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094846"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094846",
+    "capacity_estimated": true
   },
   {
     "license_number": "216440",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56601-9504",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216440"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216440",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114054",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56601-9600",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452948",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114054"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114054",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089878",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453070",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089878"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089878",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018753",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56601-8996",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453318",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018753",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045280",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56601-9313",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453341",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045280"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045280",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075891",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56601-2865",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075891"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075891",
+    "capacity_estimated": true
   },
   {
     "license_number": "201901",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56601-8257",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453507",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201901"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=201901",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073376",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56630-4207",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453547",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073376"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073376",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073949",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453559",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073949"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073949",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114072",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56601-4604",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114072"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114072",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048524",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048524"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048524",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096258",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56601-3711",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454160",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096258"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096258",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116464",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56601-0000",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116464"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116464",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100178",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56601-6375",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454324",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100178",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082981",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56601-4786",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454352",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082981"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082981",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058865",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56601-6919",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454659",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058865"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058865",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053227",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56601-3632",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454712",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053227"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053227",
+    "capacity_estimated": true
   },
   {
     "license_number": "233267",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56601-4222",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454861",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233267"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233267",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101218",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56601-9634",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455148",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101218"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101218",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110494",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56601-3713",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455270",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110494"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110494",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095567",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455401",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095567"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095567",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077478",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56601-5250",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455444",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077478"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077478",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048523",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455470",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048523"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048523",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082403",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455471",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082403"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082403",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065891",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455486",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065891"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065891",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102605",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56601-5215",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455747",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102605"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102605",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037971",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56601-8620",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455855",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037971"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037971",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044944",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455951",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044944"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044944",
+    "capacity_estimated": true
   },
   {
     "license_number": "1005589",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456051",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005589"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1005589",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061582",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56601-6468",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456129",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061582"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061582",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086360",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456269",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086360",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080369",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56601-7149",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456340",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080369",
+    "capacity_estimated": true
   },
   {
     "license_number": "109781",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56601-9406",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456348",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109781"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=109781",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045463",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456473",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045463"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045463",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117164",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56601-8894",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456513",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117164"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117164",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116178",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56601-3622",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456660",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116178",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083712",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456690",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083712"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083712",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067476",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456765",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067476"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067476",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064951",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456769",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064951"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064951",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051230",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456771",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051230"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051230",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036918",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456979",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036918"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036918",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062508",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457277",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062508"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062508",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088609",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56601-8233",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457425",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088609"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088609",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036171",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457583",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036171"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036171",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087987",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457671",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087987"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087987",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114305",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56601-8280",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457884",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114305"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114305",
+    "capacity_estimated": true
   },
   {
     "license_number": "808063",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56601-4747",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457970",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808063"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808063",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009030",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458279",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009030",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007268",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458303",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007268"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007268",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115389",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56601-2323",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458899",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115389"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115389",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099109",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459264",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099109"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099109",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020337",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459360",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020337"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020337",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082732",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459494",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082732"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082732",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054896",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56601-7266",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054896"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054896",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111498",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56601-8031",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459550",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015111",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459564",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015111"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015111",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113916",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56601-8859",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459614",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113916"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113916",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075890",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459718",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075890"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075890",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058087",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459727",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058087"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058087",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035291",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459975",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035291",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023097",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56601-0000",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460047",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023097"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023097",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101238",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56601-7207",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101238"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101238",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110533",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56601-2615",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460616",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110533",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100416",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56601-8880",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460728",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100416"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100416",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113160",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56601-0000",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460900",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113160"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113160",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106189",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56601-9642",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461384",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106189"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106189",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098648",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56601-3883",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461466",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098648"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098648",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114514",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461821",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114514"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114514",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109579",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56601-2600",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461829",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109579"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109579",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090829",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461877",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090829"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090829",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106215",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56601-9760",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461879",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106198",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,7 +2089,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461882",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106198"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106198",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106216",
@@ -2011,7 +2102,7 @@
     "state": "MN",
     "zip_code": "56601-4627",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2021,7 +2112,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461886",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106216"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106216",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109580",
@@ -2033,7 +2125,7 @@
     "state": "MN",
     "zip_code": "56601-5668",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2043,7 +2135,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462042",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109580"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109580",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090833",
@@ -2055,7 +2148,7 @@
     "state": "MN",
     "zip_code": "55601",
     "county": "Beltrami",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -2065,6 +2158,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462150",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090833"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090833",
+    "capacity_estimated": true
   }
 ]

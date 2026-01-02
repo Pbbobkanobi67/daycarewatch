@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56510-1262",
     "county": "Norman",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448960",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067369",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062498",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56510-1343",
     "county": "Norman",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452734",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086940",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56510",
     "county": "Norman",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454809",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086940"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086940",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102526",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56510-9284",
     "county": "Norman",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456695",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102526"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102526",
+    "capacity_estimated": true
   },
   {
     "license_number": "215268",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56510-1121",
     "county": "Norman",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459512",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215268"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215268",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073893",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56510",
     "county": "Norman",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,6 +134,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460380",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073893"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073893",
+    "capacity_estimated": true
   }
 ]

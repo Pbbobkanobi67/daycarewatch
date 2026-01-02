@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447633",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074885"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074885",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085255",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55013",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447739",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085255"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085255",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029614",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55092-9451",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447986",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029614"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029614",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113617",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55092-9318",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448760",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113617"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113617",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082959",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55013",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448786",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082959"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082959",
+    "capacity_estimated": true
   },
   {
     "license_number": "830786",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55079-9416",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448892",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830786"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830786",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078197",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449376",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078197"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078197",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110955",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55013-9667",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449689",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110955"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110955",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110957",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55056-5459",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449691",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110957"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110957",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053047",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450093",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053047"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053047",
+    "capacity_estimated": true
   },
   {
     "license_number": "1030982",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451300",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030982"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1030982",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107414",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55079-4403",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451527",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107414"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107414",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014662",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014662"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014662",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097620",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451956",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097620",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096216",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55032",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451960",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096216"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096216",
+    "capacity_estimated": true
   },
   {
     "license_number": "213253",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55079-8906",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451961",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113761",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55013-8518",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452078",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113761"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113761",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081793",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452275",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081793"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081793",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114387",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55069-3404",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452315",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055178",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55056-0000",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452319",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055178",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087544",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55013",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452421",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087544"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087544",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063705",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55069-2164",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452468",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063705"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063705",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088080",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088080"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088080",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104240",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55092-9304",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452775",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104240"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104240",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107520",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55056-6017",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453013",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107520"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107520",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080063",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55045",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453018",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080063"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080063",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022937",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55069",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453233",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022937"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022937",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106469",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55069-2655",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453354",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106469"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106469",
+    "capacity_estimated": true
   },
   {
     "license_number": "1048088",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453520",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048088"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1048088",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103655",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "55045-8080",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453539",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103655"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103655",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028675",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "55045",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453546",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028675"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028675",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087638",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "55045-9040",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453794",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087638"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087638",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060826",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "55032-0000",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454294",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060826"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060826",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103319",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "55079-9717",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454804",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103319",
+    "capacity_estimated": true
   },
   {
     "license_number": "220580",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "55069",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454919",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220580"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220580",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105797",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "55079-9671",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455074",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075414",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455178",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075414"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075414",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101230",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "55069-2173",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455252",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101230"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101230",
+    "capacity_estimated": true
   },
   {
     "license_number": "202481",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455769",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202481"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202481",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112681",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "55056-5710",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455775",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112681"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112681",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115387",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "55032-3906",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456029",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115387"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115387",
+    "capacity_estimated": true
   },
   {
     "license_number": "1021245",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "55092-9422",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456036",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021245"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1021245",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012327",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "55056-6442",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456149",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012327"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012327",
+    "capacity_estimated": true
   },
   {
     "license_number": "228336",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456302",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228336"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228336",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074729",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456826",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074729"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074729",
+    "capacity_estimated": true
   },
   {
     "license_number": "1015750",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457077",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015750"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015750",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106085",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "55056-3303",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457142",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106085"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106085",
+    "capacity_estimated": true
   },
   {
     "license_number": "211018",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "55092-9319",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457179",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211018"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=211018",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035606",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "55069",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457199",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035606"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035606",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018855",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457405",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018855"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018855",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102008",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "55079-9256",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457444",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102008"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102008",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060430",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "55069",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457482",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060430"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060430",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026422",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "55045",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457551",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026422"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026422",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036913",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457661",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036913"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036913",
+    "capacity_estimated": true
   },
   {
     "license_number": "1008183",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "55032",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457882",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008183"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1008183",
+    "capacity_estimated": true
   },
   {
     "license_number": "1025569",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "55045",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457946",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025569"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1025569",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099150",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "55056-5420",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458013",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099150"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099150",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067057",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458058",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067057"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067057",
+    "capacity_estimated": true
   },
   {
     "license_number": "206193",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458839",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206193",
+    "capacity_estimated": true
   },
   {
     "license_number": "103363",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "55069",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459016",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103363"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103363",
+    "capacity_estimated": true
   },
   {
     "license_number": "204790",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "55032",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459398",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204790"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204790",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044751",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459754",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044751"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044751",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109513",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "55069-4408",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459972",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109513"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109513",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029647",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "55045",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460343",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029647"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029647",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026654",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460355",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026654"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026654",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087498",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "55013",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460812",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087498"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087498",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111633",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "55056-7098",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460907",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111633"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111633",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066595",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "55056",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460972",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066595"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066595",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087394",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "55092",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461327",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087394"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087394",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089604",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "55092-9451",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461791",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089604"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089604",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089509",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "55092-7308",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461795",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089509"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089509",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089322",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "55056-6115",
     "county": "Chisago",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,6 +1652,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462018",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089322"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089322",
+    "capacity_estimated": true
   }
 ]

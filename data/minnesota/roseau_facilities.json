@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56763-9748",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451618",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120518"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120518",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111325",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56751-8643",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451648",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111325"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111325",
+    "capacity_estimated": true
   },
   {
     "license_number": "234620",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56751-8334",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452284",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=234620",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096636",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56751",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452317",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096636"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096636",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102298",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56763-9570",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452573",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102298"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102298",
+    "capacity_estimated": true
   },
   {
     "license_number": "103613",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56763-2103",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452937",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103613"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=103613",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113459",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56763-9122",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453406",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113459"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113459",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115665",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56751-8602",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454120",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115665"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115665",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110707",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56751-8206",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454558",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110707"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110707",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047821",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56751-2205",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454867",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047821"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047821",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063459",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56751-1232",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454925",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063459"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063459",
+    "capacity_estimated": true
   },
   {
     "license_number": "205207",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56751-8324",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455048",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205207"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205207",
+    "capacity_estimated": true
   },
   {
     "license_number": "205438",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56751-1664",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455181",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205438"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205438",
+    "capacity_estimated": true
   },
   {
     "license_number": "229803",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56751-8454",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455227",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229803"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229803",
+    "capacity_estimated": true
   },
   {
     "license_number": "226378",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56751-2008",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455601",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226378"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226378",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091429",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56751-8680",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455710",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091429"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091429",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062134",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56751-1829",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456133",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062134"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062134",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066408",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56763-2204",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456806",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066408"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066408",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020818",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56763",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020818"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020818",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032181",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56751-8301",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032181"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032181",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087492",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56751",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456916",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087492"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087492",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095386",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56763-9129",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457363",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095386"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095386",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100605",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56751-8427",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457371",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100605"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100605",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112340",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56763-2547",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457501",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112340"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112340",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081178",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56751",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457537",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081178"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081178",
+    "capacity_estimated": true
   },
   {
     "license_number": "203399",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56763-2356",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457634",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203399"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203399",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042741",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56751-8210",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457644",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042741"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042741",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093692",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56751",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457932",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093692"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093692",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079129",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56763-9562",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458400",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079129"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079129",
+    "capacity_estimated": true
   },
   {
     "license_number": "105074",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56763-0000",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458450",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105074"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105074",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090679",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56751",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459478",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090679"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090679",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009434",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56751-8324",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459480",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009434"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009434",
+    "capacity_estimated": true
   },
   {
     "license_number": "1010994",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56751-1462",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459484",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010994"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1010994",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077165",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56751",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460400",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077165",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086912",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56751-1687",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460496",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086912"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086912",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114456",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56751-1717",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460503",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114456"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114456",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107158",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56763-2541",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460554",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107158"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107158",
+    "capacity_estimated": true
   },
   {
     "license_number": "1047596",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56751-1287",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461053",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047596"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1047596",
+    "capacity_estimated": true
   },
   {
     "license_number": "232063",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56763-2117",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461097",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232063"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232063",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108931",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56763-2708",
     "county": "Roseau",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,6 +916,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108931"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108931",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448101",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802569"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802569",
+    "capacity_estimated": true
   },
   {
     "license_number": "1044962",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448335",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044962"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1044962",
+    "capacity_estimated": true
   },
   {
     "license_number": "801839",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449472",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801839"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801839",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111598",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56542-1328",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449536",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111598"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111598",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022965",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022965"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022965",
+    "capacity_estimated": true
   },
   {
     "license_number": "1000693",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449713",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000693"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1000693",
+    "capacity_estimated": true
   },
   {
     "license_number": "800318",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450116",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800318"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=800318",
+    "capacity_estimated": true
   },
   {
     "license_number": "810852",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810852"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810852",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066749",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56721-1275",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450440",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066749"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066749",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037908",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450449",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037908"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037908",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085256",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450546",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085256"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085256",
+    "capacity_estimated": true
   },
   {
     "license_number": "220798",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450586",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220798"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220798",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043283",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451322",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043283"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043283",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106397",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56716-3031",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451748",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106397"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106397",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116694",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56716-2505",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452123",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031763",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56721-9601",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452160",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031763"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031763",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112997",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56721-2366",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452216",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112997",
+    "capacity_estimated": true
   },
   {
     "license_number": "808245",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452333",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808245"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808245",
+    "capacity_estimated": true
   },
   {
     "license_number": "1009071",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56542",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452350",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009071"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1009071",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114295",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56721-2020",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452732",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114295"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114295",
+    "capacity_estimated": true
   },
   {
     "license_number": "807823",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56716-1118",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453039",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807823"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=807823",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064997",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453641",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064997"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064997",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098236",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56721-2034",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453648",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098236"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098236",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111483",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56716-2708",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453675",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111483"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111483",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080658",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56542",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453959",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093819",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453969",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093819"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093819",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115573",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56542-9217",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454058",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115573"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115573",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080260",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56721-2313",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454190",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080260"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080260",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061756",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56716-1425",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454211",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061756"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061756",
+    "capacity_estimated": true
   },
   {
     "license_number": "208735",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454581",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208735"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208735",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107415",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56721-1224",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454643",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107415"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107415",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104441",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56542-9206",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454857",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101946",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56721-9250",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455076",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101946"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101946",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079193",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455101",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079193"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079193",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064544",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56542",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455389",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064544"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064544",
+    "capacity_estimated": true
   },
   {
     "license_number": "228052",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56721-9014",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455409",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228052"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228052",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114527",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56721-1453",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456073",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114527"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114527",
+    "capacity_estimated": true
   },
   {
     "license_number": "1069319",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456174",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1069319"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1069319",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113225",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56721-1139",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456446",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113225"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113225",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114797",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56721-2228",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457161",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114797",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093682",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56716-3024",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457401",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093682"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093682",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090774",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56542",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457414",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090774"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090774",
+    "capacity_estimated": true
   },
   {
     "license_number": "235494",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56721-1226",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457547",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235494"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=235494",
+    "capacity_estimated": true
   },
   {
     "license_number": "230601",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457662",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230601"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=230601",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090780",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457688",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090780"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090780",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091556",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457906",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091556"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091556",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081899",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56721-1824",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458138",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081899",
+    "capacity_estimated": true
   },
   {
     "license_number": "227941",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458639",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227941"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227941",
+    "capacity_estimated": true
   },
   {
     "license_number": "205954",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56721-2814",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458690",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205954"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205954",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113402",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56716-2432",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458702",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113402"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113402",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074689",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458906",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074689"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074689",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084360",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56721-2360",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458935",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084360"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084360",
+    "capacity_estimated": true
   },
   {
     "license_number": "233687",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56542-9241",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459146",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233687"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233687",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099793",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56721-1822",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459404",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099793"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099793",
+    "capacity_estimated": true
   },
   {
     "license_number": "226438",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56721-1237",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459515",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226438"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226438",
+    "capacity_estimated": true
   },
   {
     "license_number": "115324",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56721-3023",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459572",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115324"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=115324",
+    "capacity_estimated": true
   },
   {
     "license_number": "1034604",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459791",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034604"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034604",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092500",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56716-1107",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459860",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092500"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092500",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064082",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56716",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459996",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064082"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064082",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110136",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56721-1063",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460186",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110136"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110136",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101694",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56721-3411",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460338",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101694"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101694",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055922",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56716-2757",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460517",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055922"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055922",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114634",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56721-2009",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460628",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114634"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114634",
+    "capacity_estimated": true
   },
   {
     "license_number": "117434",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56721-1905",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460721",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117434"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117434",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091616",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56716-1340",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460918",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091616"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091616",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109237",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56721-7000",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460931",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109237",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019631",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56721",
     "county": "Polk",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,6 +1537,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461367",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019631",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56470-2056",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103172"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103172",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114964",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56470-1188",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449054",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114964"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114964",
+    "capacity_estimated": true
   },
   {
     "license_number": "801870",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56470-1219",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449064",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801870",
+    "capacity_estimated": true
   },
   {
     "license_number": "802338",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56470",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449956",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802338"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=802338",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091253",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56470-2751",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451325",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091253"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091253",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064442",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56467",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451390",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064442"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064442",
+    "capacity_estimated": true
   },
   {
     "license_number": "1081308",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56470",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451399",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081308"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1081308",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096334",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56470-1128",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096334"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096334",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105182",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56470-2167",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452267",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105182"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105182",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105255",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56470-3374",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452622",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105255"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105255",
+    "capacity_estimated": true
   },
   {
     "license_number": "1013706",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56470-3212",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452680",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013706"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1013706",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074894",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56470",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453129",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074894"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074894",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014095",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56470-3022",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453202",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014095"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014095",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105538",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56467-5017",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453298",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105538"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105538",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112525",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56470-1300",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453451",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112525"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112525",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080911",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56467-4230",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453531",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080911"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080911",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116624",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56470-1412",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453946",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116624"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116624",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109415",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56470-1794",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454588",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109415"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109415",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097391",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56470-0000",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454729",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097391"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097391",
+    "capacity_estimated": true
   },
   {
     "license_number": "228370",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56470-1113",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455400",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228370"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228370",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063641",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56470",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455421",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063641"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063641",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062977",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56470-2778",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456401",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062977"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062977",
+    "capacity_estimated": true
   },
   {
     "license_number": "1058075",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56470-3358",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456831",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1058075",
+    "capacity_estimated": true
   },
   {
     "license_number": "809109",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56470-1651",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457304",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809109"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809109",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097392",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56470-3224",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458696",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097392"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097392",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091041",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56470-1297",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458740",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091041"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091041",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116087",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56470-2793",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459354",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116087"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116087",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011419",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56470-1109",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459560",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011419"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011419",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057385",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56470-2616",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459841",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057385"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057385",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065996",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56470-2769",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460203",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065996"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065996",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078946",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56470",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460289",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078946"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078946",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104052",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56470-1778",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460415",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104052"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104052",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020899",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56470-2698",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460694",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020899",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107411",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56470-1425",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460739",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107411"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107411",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043143",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56470-2616",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460756",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043143"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043143",
+    "capacity_estimated": true
   },
   {
     "license_number": "1090306",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56467-4449",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461026",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090306"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090306",
+    "capacity_estimated": true
   },
   {
     "license_number": "231714",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56470",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461288",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231714"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231714",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089537",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56470-1188",
     "county": "Hubbard",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,6 +870,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461496",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089537"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089537",
+    "capacity_estimated": true
   }
 ]

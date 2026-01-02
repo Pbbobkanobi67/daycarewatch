@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56208-1552",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447643",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110613"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110613",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110615",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56215-1023",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447684",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110615"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110615",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086726",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56215-1023",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448067",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086726"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086726",
+    "capacity_estimated": true
   },
   {
     "license_number": "830364",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56208-1552",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449539",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830364"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830364",
+    "capacity_estimated": true
   },
   {
     "license_number": "203403",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56215-9463",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452037",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203403"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203403",
+    "capacity_estimated": true
   },
   {
     "license_number": "1087092",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56215-1950",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087092"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1087092",
+    "capacity_estimated": true
   },
   {
     "license_number": "104433",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56215-1213",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453345",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104433"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104433",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061537",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56215-1041",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453715",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061537"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061537",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113204",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56215-1115",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453996",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113204"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113204",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098347",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56215-1378",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454217",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098347"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098347",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112086",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56215-1829",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455948",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112086"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112086",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113239",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56215-3013",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456476",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113239"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113239",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095391",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56215-1310",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456669",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095391"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095391",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059858",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56208",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459176",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059858"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059858",
+    "capacity_estimated": true
   },
   {
     "license_number": "114734",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56215-1016",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459206",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114734"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114734",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075816",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56215",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459766",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075816"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075816",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104180",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56215-1315",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460898",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104180"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104180",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089578",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56215-1023",
     "county": "Swift",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,6 +410,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461638",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089578"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089578",
+    "capacity_estimated": true
   }
 ]

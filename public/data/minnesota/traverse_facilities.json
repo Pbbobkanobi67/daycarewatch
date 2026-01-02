@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56296-1021",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451734",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045688"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045688",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007600",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56296-1118",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451793",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007600"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007600",
+    "capacity_estimated": true
   },
   {
     "license_number": "104868",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56296-1517",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451803",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104868"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=104868",
+    "capacity_estimated": true
   },
   {
     "license_number": "1109632",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56296-1601",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452772",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109632"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1109632",
+    "capacity_estimated": true
   },
   {
     "license_number": "213972",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56296-1207",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455825",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213972"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213972",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062721",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56296",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457181",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062721"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062721",
+    "capacity_estimated": true
   },
   {
     "license_number": "116138",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56296-1217",
     "county": "Traverse",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,6 +157,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460021",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116138"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116138",
+    "capacity_estimated": true
   }
 ]

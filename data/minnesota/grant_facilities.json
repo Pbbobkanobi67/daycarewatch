@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56531-4505",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450244",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830567"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830567",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086939",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56531-4810",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455072",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086939"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086939",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110092",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56531-4727",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455075",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110092"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110092",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104973",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56531-4518",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455266",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104973"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104973",
+    "capacity_estimated": true
   },
   {
     "license_number": "1117001",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56531-4130",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459690",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117001"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1117001",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031388",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56531-4529",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459704",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031388"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031388",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096282",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56531-4505",
     "county": "Grant",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,6 +157,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462185",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096282"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096282",
+    "capacity_estimated": true
   }
 ]

@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56481-2003",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450211",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090712"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090712",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114096",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56464-0000",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450250",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114096"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114096",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107315",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56464-2766",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452344",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107315"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107315",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105196",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56477-2453",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455503",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105196"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105196",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088594",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56481-3122",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455598",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088594"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088594",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108881",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56477-2279",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456893",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108881"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108881",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074543",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56464-0000",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457989",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074543"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074543",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091887",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56477",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458587",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091887"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091887",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112785",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56477-2609",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458592",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112785"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112785",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066205",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56477-2161",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460072",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066205"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066205",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057000",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56477-5042",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460456",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057000"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057000",
+    "capacity_estimated": true
   },
   {
     "license_number": "1091393",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56481-4177",
     "county": "Wadena",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,6 +272,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460737",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091393"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1091393",
+    "capacity_estimated": true
   }
 ]

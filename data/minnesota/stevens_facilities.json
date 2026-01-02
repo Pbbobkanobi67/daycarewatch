@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447681",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080698"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080698",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028145",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56267-1624",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448577",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028145"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028145",
+    "capacity_estimated": true
   },
   {
     "license_number": "809653",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449196",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809653"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809653",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051261",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56267-1950",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450252",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051261"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051261",
+    "capacity_estimated": true
   },
   {
     "license_number": "202881",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453011",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202881"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202881",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061843",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453604",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061843"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061843",
+    "capacity_estimated": true
   },
   {
     "license_number": "209863",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56267-4532",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454169",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209863"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209863",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075326",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455514",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075326"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075326",
+    "capacity_estimated": true
   },
   {
     "license_number": "1085961",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56267-1702",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455813",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085961"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085961",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074917",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456537",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074917"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074917",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103229",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56267-1514",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456945",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103229"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103229",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014524",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457093",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014524"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014524",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112167",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56267-1518",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457404",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112167"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112167",
+    "capacity_estimated": true
   },
   {
     "license_number": "213127",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458673",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213127"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=213127",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108588",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56267-1950",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460242",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108588"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108588",
+    "capacity_estimated": true
   },
   {
     "license_number": "233830",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460263",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233830"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233830",
+    "capacity_estimated": true
   },
   {
     "license_number": "221581",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56267",
     "county": "Stevens",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,6 +387,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460533",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221581"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=221581",
+    "capacity_estimated": true
   }
 ]

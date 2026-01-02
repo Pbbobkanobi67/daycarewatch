@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447794",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078627"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078627",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110117",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56258-2365",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447795",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110117"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110117",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083723",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447798",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083723"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083723",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107733",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56258-1994",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448414",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107733"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107733",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083793",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56258-0000",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449083",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083793"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083793",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065076",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56258-1538",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449738",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065076"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065076",
+    "capacity_estimated": true
   },
   {
     "license_number": "1019855",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019855"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1019855",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062962",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56175",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449878",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062962"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062962",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059377",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56258-2201",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449916",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059377"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059377",
+    "capacity_estimated": true
   },
   {
     "license_number": "1099536",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56264-9627",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449924",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099536"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1099536",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088722",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56258-1601",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449998",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088722"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088722",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102704",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56175-1274",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450103",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102704"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102704",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083796",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56175",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450105",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083796"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083796",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051311",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56175",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450107",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051311"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051311",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057030",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450155",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057030"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057030",
+    "capacity_estimated": true
   },
   {
     "license_number": "233995",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56258-1950",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450478",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233995"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=233995",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102649",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56264-9617",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451270",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102649"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102649",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024552",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56258-1140",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451628",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024552"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024552",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066072",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56258-8000",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451936",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066072"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066072",
+    "capacity_estimated": true
   },
   {
     "license_number": "231779",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56258-1951",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452077",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231779"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231779",
+    "capacity_estimated": true
   },
   {
     "license_number": "227587",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56229-9707",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452139",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227587"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227587",
+    "capacity_estimated": true
   },
   {
     "license_number": "1075352",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56175-1610",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452162",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075352"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1075352",
+    "capacity_estimated": true
   },
   {
     "license_number": "202738",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56264-9307",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452282",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202738"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202738",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102277",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56258-1438",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452656",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102277"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102277",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101626",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56264-9628",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452757",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101626"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101626",
+    "capacity_estimated": true
   },
   {
     "license_number": "217565",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56258-2470",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452801",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217565"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217565",
+    "capacity_estimated": true
   },
   {
     "license_number": "200977",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56258-1739",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452876",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200977"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200977",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066230",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56264-9689",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452886",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066230"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066230",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108164",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56258-1434",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108164"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108164",
+    "capacity_estimated": true
   },
   {
     "license_number": "236441",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56258-1104",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453074",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236441"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236441",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100542",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56264-9644",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453187",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100542"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100542",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080602",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453219",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080602"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080602",
+    "capacity_estimated": true
   },
   {
     "license_number": "203382",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56258-2409",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453335",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203382"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203382",
+    "capacity_estimated": true
   },
   {
     "license_number": "1038703",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56258-7369",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453789",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038703"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1038703",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037856",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56229-9635",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037856"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037856",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105027",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56258-1933",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453924",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105027"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105027",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074774",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56229",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454029",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074774"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074774",
+    "capacity_estimated": true
   },
   {
     "license_number": "105992",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56258-2110",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454168",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105992"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105992",
+    "capacity_estimated": true
   },
   {
     "license_number": "106528",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56264-1300",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454572",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106528"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106528",
+    "capacity_estimated": true
   },
   {
     "license_number": "106811",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56264-9244",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454763",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106811"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=106811",
+    "capacity_estimated": true
   },
   {
     "license_number": "219067",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56258-5480",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454799",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219067"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219067",
+    "capacity_estimated": true
   },
   {
     "license_number": "214093",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56258-2409",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454813",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214093"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=214093",
+    "capacity_estimated": true
   },
   {
     "license_number": "107752",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56175-1215",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455226",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107752"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=107752",
+    "capacity_estimated": true
   },
   {
     "license_number": "210248",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56264",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455760",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210248"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210248",
+    "capacity_estimated": true
   },
   {
     "license_number": "1012047",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56264-9507",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455765",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012047"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1012047",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084870",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455974",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084870"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084870",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111603",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56258-2025",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456790",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111603"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111603",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076266",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56264",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457168",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076266"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076266",
+    "capacity_estimated": true
   },
   {
     "license_number": "1082681",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457326",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082681"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082681",
+    "capacity_estimated": true
   },
   {
     "license_number": "1022446",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56258-2411",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457476",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022446"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1022446",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002105",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56175-1609",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457529",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002105"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002105",
+    "capacity_estimated": true
   },
   {
     "license_number": "225501",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56229-9714",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457582",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225501"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225501",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114754",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56258-1160",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457991",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114754"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114754",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002672",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56258-3305",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458018",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002672"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002672",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077444",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56229-2104",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458288",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077444"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077444",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108163",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56229-1203",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458312",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108163"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108163",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112631",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56258-1472",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112631"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112631",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067521",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56229-9624",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458874",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067521"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067521",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063949",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56258-1821",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458989",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063949"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063949",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116115",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56229-1203",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459235",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116115"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116115",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096231",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56258-3742",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459239",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096231"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096231",
+    "capacity_estimated": true
   },
   {
     "license_number": "114777",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56258-5480",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459252",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114777"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=114777",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050073",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56258-2245",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459345",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050073"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050073",
+    "capacity_estimated": true
   },
   {
     "license_number": "1002906",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56258-2329",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459647",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002906"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1002906",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094466",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56258-2520",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459673",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094466"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094466",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020946",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56258-3059",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460059",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020946"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020946",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088895",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56229-0000",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460383",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088895"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088895",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114564",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56229-2304",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460619",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114564"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114564",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101619",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56229-2118",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460726",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101619"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101619",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107960",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56258-3110",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460773",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107960"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107960",
+    "capacity_estimated": true
   },
   {
     "license_number": "1018624",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56258-1465",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018624"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1018624",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066157",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56258-2190",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460828",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066157"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066157",
+    "capacity_estimated": true
   },
   {
     "license_number": "1042305",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56258",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461037",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042305"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042305",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089111",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56258-1700",
     "county": "Lyon",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,6 +1698,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461981",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089111"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089111",
+    "capacity_estimated": true
   }
 ]

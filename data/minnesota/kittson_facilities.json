@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56728-4169",
     "county": "Kittson",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095899"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095899",
+    "capacity_estimated": true
   },
   {
     "license_number": "190224",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56728-0513",
     "county": "Kittson",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450566",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190224"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190224",
+    "capacity_estimated": true
   },
   {
     "license_number": "190978",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56728",
     "county": "Kittson",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451666",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190978"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190978",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080108",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56728",
     "county": "Kittson",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455970",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080108"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080108",
+    "capacity_estimated": true
   },
   {
     "license_number": "1092134",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56728",
     "county": "Kittson",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456139",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092134"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1092134",
+    "capacity_estimated": true
   },
   {
     "license_number": "203223",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56728",
     "county": "Kittson",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,6 +134,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458211",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203223"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=203223",
+    "capacity_estimated": true
   }
 ]

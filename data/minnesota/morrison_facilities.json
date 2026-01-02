@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56345-4199",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447705",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1007151",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447859",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007151"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1007151",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076797",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448426",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076797"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076797",
+    "capacity_estimated": true
   },
   {
     "license_number": "801395",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448913",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801395"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=801395",
+    "capacity_estimated": true
   },
   {
     "license_number": "806299",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449091",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806299"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806299",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086481",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449506",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086481"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086481",
+    "capacity_estimated": true
   },
   {
     "license_number": "1105960",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56475-4211",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451434",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105960"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1105960",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114665",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56345-4566",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451603",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114665"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114665",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112100",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56345-1864",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451670",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112100"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112100",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043964",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56345-6324",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451815",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043964"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043964",
+    "capacity_estimated": true
   },
   {
     "license_number": "1060305",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56373",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452002",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060305"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060305",
+    "capacity_estimated": true
   },
   {
     "license_number": "1029599",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56338-6113",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452029",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029599"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1029599",
+    "capacity_estimated": true
   },
   {
     "license_number": "1037047",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56345-1622",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452060",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037047"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1037047",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103320",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56373-3011",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452086",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103320"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103320",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102658",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56373-9134",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452106",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061099",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56364-1547",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452192",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061099"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061099",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114185",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56314-2147",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452522",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114185"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114185",
+    "capacity_estimated": true
   },
   {
     "license_number": "1028440",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56364-7637",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452825",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028440"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028440",
+    "capacity_estimated": true
   },
   {
     "license_number": "1032025",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56466",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452934",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032025"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032025",
+    "capacity_estimated": true
   },
   {
     "license_number": "1043112",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453209",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043112"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043112",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079549",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453758",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079549"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079549",
+    "capacity_estimated": true
   },
   {
     "license_number": "1068945",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454002",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1068945"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1068945",
+    "capacity_estimated": true
   },
   {
     "license_number": "808075",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56373-4539",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454018",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808075",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077791",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56373",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454165",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077791"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077791",
+    "capacity_estimated": true
   },
   {
     "license_number": "232407",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56382-9801",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454266",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232407"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232407",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054469",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56475-2323",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454363",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054469"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054469",
+    "capacity_estimated": true
   },
   {
     "license_number": "806348",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56345-2437",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454721",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806348"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806348",
+    "capacity_estimated": true
   },
   {
     "license_number": "1066586",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454770",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066586"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1066586",
+    "capacity_estimated": true
   },
   {
     "license_number": "1016588",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56364-1604",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016588"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1016588",
+    "capacity_estimated": true
   },
   {
     "license_number": "208861",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56345-4704",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454792",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208861"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=208861",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102345",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455162",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102345"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102345",
+    "capacity_estimated": true
   },
   {
     "license_number": "205653",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56382",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455193",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205653"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=205653",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035220",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56364-1633",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455223",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035220"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035220",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113007",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56345-3560",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455447",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113007"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113007",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080049",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56373-3921",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455640",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080049"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080049",
+    "capacity_estimated": true
   },
   {
     "license_number": "1083753",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56345-4627",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455720",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083753"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1083753",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115514",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56345-6390",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455730",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115514"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115514",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113948",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56364-7120",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455799",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113948"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113948",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035209",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56345-4135",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455943",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035209"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035209",
+    "capacity_estimated": true
   },
   {
     "license_number": "1020176",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56385-3307",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455959",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020176"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020176",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057636",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456178",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057636"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057636",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115710",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56345-1347",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456225",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115710"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115710",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093154",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56364-3000",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456250",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093154"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093154",
+    "capacity_estimated": true
   },
   {
     "license_number": "1116328",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56345-4356",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456324",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116328"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1116328",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113166",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56466-9098",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456362",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113166"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113166",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078014",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56475",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456438",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078014"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078014",
+    "capacity_estimated": true
   },
   {
     "license_number": "210418",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56364-9602",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456448",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210418"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=210418",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064495",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56364-2042",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456918",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064495"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064495",
+    "capacity_estimated": true
   },
   {
     "license_number": "1074847",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456943",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074847"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1074847",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076658",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56338-4517",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457019",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076658"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076658",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113938",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56466-2212",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457164",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113938"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113938",
+    "capacity_estimated": true
   },
   {
     "license_number": "1026023",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56345-1866",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457182",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026023"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026023",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078390",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457374",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078390"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078390",
+    "capacity_estimated": true
   },
   {
     "license_number": "1040601",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56475",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457578",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040601"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1040601",
+    "capacity_estimated": true
   },
   {
     "license_number": "215209",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56475",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457865",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215209"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215209",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112996",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56364-1224",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457951",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112996"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112996",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115746",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56345-4549",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457996",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115746"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115746",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062075",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56373",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458144",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062075"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062075",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115998",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56364-3063",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458149",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115998"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115998",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096007",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56373-8145",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458241",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096007"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096007",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055456",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56373-8106",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458273",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055456"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055456",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098622",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56345-5352",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458287",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098622"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098622",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054894",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458346",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054894"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054894",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055379",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56466",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458420",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055379"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055379",
+    "capacity_estimated": true
   },
   {
     "license_number": "1023291",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,7 +1491,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458498",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023291"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023291",
+    "capacity_estimated": true
   },
   {
     "license_number": "113683",
@@ -1439,7 +1504,7 @@
     "state": "MN",
     "zip_code": "56345-2435",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1449,7 +1514,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458655",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113683"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=113683",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115115",
@@ -1461,7 +1527,7 @@
     "state": "MN",
     "zip_code": "56345-6175",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1471,7 +1537,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458660",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115115"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115115",
+    "capacity_estimated": true
   },
   {
     "license_number": "1100292",
@@ -1483,7 +1550,7 @@
     "state": "MN",
     "zip_code": "56345-3020",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1493,7 +1560,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458663",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100292"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100292",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115279",
@@ -1505,7 +1573,7 @@
     "state": "MN",
     "zip_code": "56364-1298",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1515,7 +1583,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458883",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115279"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115279",
+    "capacity_estimated": true
   },
   {
     "license_number": "202948",
@@ -1527,7 +1596,7 @@
     "state": "MN",
     "zip_code": "56475-9621",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1537,7 +1606,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458915",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202948"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=202948",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046620",
@@ -1549,7 +1619,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1559,7 +1629,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459046",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046620",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104091",
@@ -1571,7 +1642,7 @@
     "state": "MN",
     "zip_code": "56364-3144",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1581,7 +1652,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459148",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104091"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104091",
+    "capacity_estimated": true
   },
   {
     "license_number": "1080080",
@@ -1593,7 +1665,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1603,7 +1675,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459188",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080080"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080080",
+    "capacity_estimated": true
   },
   {
     "license_number": "1107508",
@@ -1615,7 +1688,7 @@
     "state": "MN",
     "zip_code": "56364-4122",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1625,7 +1698,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459282",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107508"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1107508",
+    "capacity_estimated": true
   },
   {
     "license_number": "1051511",
@@ -1637,7 +1711,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1647,7 +1721,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459496",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051511"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1051511",
+    "capacity_estimated": true
   },
   {
     "license_number": "216965",
@@ -1659,7 +1734,7 @@
     "state": "MN",
     "zip_code": "56364-1535",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1669,7 +1744,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459518",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216965"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216965",
+    "capacity_estimated": true
   },
   {
     "license_number": "1062162",
@@ -1681,7 +1757,7 @@
     "state": "MN",
     "zip_code": "56345-6347",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1691,7 +1767,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459921",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062162"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1062162",
+    "capacity_estimated": true
   },
   {
     "license_number": "1064208",
@@ -1703,7 +1780,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1713,7 +1790,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459934",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064208"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1064208",
+    "capacity_estimated": true
   },
   {
     "license_number": "1108880",
@@ -1725,7 +1803,7 @@
     "state": "MN",
     "zip_code": "56382-3602",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1735,7 +1813,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460388",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108880"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1108880",
+    "capacity_estimated": true
   },
   {
     "license_number": "1112051",
@@ -1747,7 +1826,7 @@
     "state": "MN",
     "zip_code": "56364-7135",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1757,7 +1836,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112051"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112051",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110383",
@@ -1769,7 +1849,7 @@
     "state": "MN",
     "zip_code": "56373-4011",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1779,7 +1859,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110383"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110383",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063419",
@@ -1791,7 +1872,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1801,7 +1882,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460779",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063419"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063419",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079287",
@@ -1813,7 +1895,7 @@
     "state": "MN",
     "zip_code": "56364",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1823,7 +1905,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079287"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079287",
+    "capacity_estimated": true
   },
   {
     "license_number": "1079788",
@@ -1835,7 +1918,7 @@
     "state": "MN",
     "zip_code": "56364-7687",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1845,7 +1928,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460976",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079788"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079788",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036445",
@@ -1857,7 +1941,7 @@
     "state": "MN",
     "zip_code": "56345-5226",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1867,7 +1951,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461050",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036445"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036445",
+    "capacity_estimated": true
   },
   {
     "license_number": "1053036",
@@ -1879,7 +1964,7 @@
     "state": "MN",
     "zip_code": "56345-4383",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1889,7 +1974,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461308",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053036"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053036",
+    "capacity_estimated": true
   },
   {
     "license_number": "1027847",
@@ -1901,7 +1987,7 @@
     "state": "MN",
     "zip_code": "56373",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1911,7 +1997,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461356",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027847"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1027847",
+    "capacity_estimated": true
   },
   {
     "license_number": "1050444",
@@ -1923,7 +2010,7 @@
     "state": "MN",
     "zip_code": "56345",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1933,7 +2020,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461369",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050444"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1050444",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103826",
@@ -1945,7 +2033,7 @@
     "state": "MN",
     "zip_code": "56345-3359",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1955,7 +2043,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461899",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103826"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103826",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089326",
@@ -1967,7 +2056,7 @@
     "state": "MN",
     "zip_code": "56345-1543",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1977,7 +2066,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461901",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089326"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089326",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089323",
@@ -1989,7 +2079,7 @@
     "state": "MN",
     "zip_code": "56345-3359",
     "county": "Morrison",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1999,6 +2089,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461905",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089323"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089323",
+    "capacity_estimated": true
   }
 ]

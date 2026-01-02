@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "55921-1869",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447803",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113937"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113937",
+    "capacity_estimated": true
   },
   {
     "license_number": "1059365",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "55947-1347",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448104",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059365"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1059365",
+    "capacity_estimated": true
   },
   {
     "license_number": "1004682",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "55947",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448244",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004682"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1004682",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055130",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "55921-1831",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448563",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055130"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055130",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098811",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "55974-1203",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448924",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098811"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098811",
+    "capacity_estimated": true
   },
   {
     "license_number": "808184",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "55947",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449499",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808184"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=808184",
+    "capacity_estimated": true
   },
   {
     "license_number": "1011526",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "55921",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449887",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011526"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1011526",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055834",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "55947-1615",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450459",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055834"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055834",
+    "capacity_estimated": true
   },
   {
     "license_number": "190782",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "55974-1101",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190782"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=190782",
+    "capacity_estimated": true
   },
   {
     "license_number": "1035303",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "55921",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451656",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035303"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1035303",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115503",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "55921-1214",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452066",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115503"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115503",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094460",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "55974",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452274",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094460"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094460",
+    "capacity_estimated": true
   },
   {
     "license_number": "105257",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "55947-1211",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453762",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105257"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=105257",
+    "capacity_estimated": true
   },
   {
     "license_number": "1036571",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "55947",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453826",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036571"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036571",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063270",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "55974-1101",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454313",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063270"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063270",
+    "capacity_estimated": true
   },
   {
     "license_number": "1073408",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "55974-1301",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455225",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073408"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1073408",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054588",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "55947",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455320",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054588"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054588",
+    "capacity_estimated": true
   },
   {
     "license_number": "209993",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "55921-9524",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455635",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209993"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=209993",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093301",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "55947-1002",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455697",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093301"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093301",
+    "capacity_estimated": true
   },
   {
     "license_number": "215369",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "55947",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455840",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215369"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=215369",
+    "capacity_estimated": true
   },
   {
     "license_number": "1052620",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "55921",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455941",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052620",
+    "capacity_estimated": true
   },
   {
     "license_number": "1111089",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "55947-1270",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457048",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111089"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111089",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078194",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "55921-1128",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458534",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078194"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078194",
+    "capacity_estimated": true
   },
   {
     "license_number": "1110943",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "55947-1225",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459477",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110943"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110943",
+    "capacity_estimated": true
   },
   {
     "license_number": "1024475",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "55921",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460562",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024475"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1024475",
+    "capacity_estimated": true
   },
   {
     "license_number": "809749",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "55921",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460789",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809749"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=809749",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089165",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "55921-1869",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461477",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089165"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089165",
+    "capacity_estimated": true
   },
   {
     "license_number": "1102230",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "55947-1560",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461956",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102230"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102230",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113644",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "55974-1204",
     "county": "Houston",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,6 +663,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462126",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113644"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113644",
+    "capacity_estimated": true
   }
 ]

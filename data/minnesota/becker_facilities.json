@@ -9,7 +9,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -19,7 +19,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.447951",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034020"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1034020",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114976",
@@ -31,7 +32,7 @@
     "state": "MN",
     "zip_code": "56501-3404",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -41,7 +42,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448569",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114976"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114976",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115257",
@@ -53,7 +55,7 @@
     "state": "MN",
     "zip_code": "56501-3708",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -63,7 +65,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448774",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115257"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115257",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115255",
@@ -75,7 +78,7 @@
     "state": "MN",
     "zip_code": "56501-3720",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -85,7 +88,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.448775",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115255"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115255",
+    "capacity_estimated": true
   },
   {
     "license_number": "1088247",
@@ -97,7 +101,7 @@
     "state": "MN",
     "zip_code": "56544-4500",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -107,7 +111,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449051",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088247"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088247",
+    "capacity_estimated": true
   },
   {
     "license_number": "830358",
@@ -119,7 +124,7 @@
     "state": "MN",
     "zip_code": "56501-2722",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -129,7 +134,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449060",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830358"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=830358",
+    "capacity_estimated": true
   },
   {
     "license_number": "804201",
@@ -141,7 +147,7 @@
     "state": "MN",
     "zip_code": "56544-4512",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -151,7 +157,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449062",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804201"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=804201",
+    "capacity_estimated": true
   },
   {
     "license_number": "810927",
@@ -163,7 +170,7 @@
     "state": "MN",
     "zip_code": "56501-2643",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -173,7 +180,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.449063",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810927"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810927",
+    "capacity_estimated": true
   },
   {
     "license_number": "1055769",
@@ -185,7 +193,7 @@
     "state": "MN",
     "zip_code": "56501-4605",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -195,7 +203,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.450523",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055769"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1055769",
+    "capacity_estimated": true
   },
   {
     "license_number": "1113840",
@@ -207,7 +216,7 @@
     "state": "MN",
     "zip_code": "56544-4311",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -217,7 +226,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451366",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113840"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113840",
+    "capacity_estimated": true
   },
   {
     "license_number": "1031213",
@@ -229,7 +239,7 @@
     "state": "MN",
     "zip_code": "56501-2925",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -239,7 +249,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.451966",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031213"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1031213",
+    "capacity_estimated": true
   },
   {
     "license_number": "1067474",
@@ -251,7 +262,7 @@
     "state": "MN",
     "zip_code": "56501-7540",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -261,7 +272,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452271",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067474"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1067474",
+    "capacity_estimated": true
   },
   {
     "license_number": "227744",
@@ -273,7 +285,7 @@
     "state": "MN",
     "zip_code": "56554",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -283,7 +295,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452480",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227744"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=227744",
+    "capacity_estimated": true
   },
   {
     "license_number": "1061106",
@@ -295,7 +308,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -305,7 +318,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452950",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061106"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1061106",
+    "capacity_estimated": true
   },
   {
     "license_number": "1078237",
@@ -317,7 +331,7 @@
     "state": "MN",
     "zip_code": "56501-0000",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -327,7 +341,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.452996",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078237"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078237",
+    "capacity_estimated": true
   },
   {
     "license_number": "806578",
@@ -339,7 +354,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -349,7 +364,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453059",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806578"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=806578",
+    "capacity_estimated": true
   },
   {
     "license_number": "228659",
@@ -361,7 +377,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -371,7 +387,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453459",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228659"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228659",
+    "capacity_estimated": true
   },
   {
     "license_number": "1106484",
@@ -383,7 +400,7 @@
     "state": "MN",
     "zip_code": "56544-0000",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -393,7 +410,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453505",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106484"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106484",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115073",
@@ -405,7 +423,7 @@
     "state": "MN",
     "zip_code": "56501-7636",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -415,7 +433,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453820",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115073"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115073",
+    "capacity_estimated": true
   },
   {
     "license_number": "1056303",
@@ -427,7 +446,7 @@
     "state": "MN",
     "zip_code": "56544",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -437,7 +456,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.453823",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056303"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1056303",
+    "capacity_estimated": true
   },
   {
     "license_number": "204789",
@@ -449,7 +469,7 @@
     "state": "MN",
     "zip_code": "56544-9120",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -459,7 +479,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454209",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204789"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=204789",
+    "capacity_estimated": true
   },
   {
     "license_number": "216984",
@@ -471,7 +492,7 @@
     "state": "MN",
     "zip_code": "56501-7536",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -481,7 +502,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454317",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216984"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216984",
+    "capacity_estimated": true
   },
   {
     "license_number": "1077208",
@@ -493,7 +515,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -503,7 +525,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.454854",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077208"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077208",
+    "capacity_estimated": true
   },
   {
     "license_number": "1046187",
@@ -515,7 +538,7 @@
     "state": "MN",
     "zip_code": "56554-9333",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -525,7 +548,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455229",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046187"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1046187",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063205",
@@ -537,7 +561,7 @@
     "state": "MN",
     "zip_code": "56501-2410",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -547,7 +571,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455264",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063205"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063205",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103786",
@@ -559,7 +584,7 @@
     "state": "MN",
     "zip_code": "56544-4511",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -569,7 +594,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455544",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103786"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103786",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115215",
@@ -581,7 +607,7 @@
     "state": "MN",
     "zip_code": "56501-2925",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -591,7 +617,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.455702",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115215"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115215",
+    "capacity_estimated": true
   },
   {
     "license_number": "1084620",
@@ -603,7 +630,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -613,7 +640,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456082",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084620"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084620",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096490",
@@ -625,7 +653,7 @@
     "state": "MN",
     "zip_code": "56501-8030",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -635,7 +663,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456825",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096490"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096490",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089819",
@@ -647,7 +676,7 @@
     "state": "MN",
     "zip_code": "56544",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -657,7 +686,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456844",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089819"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089819",
+    "capacity_estimated": true
   },
   {
     "license_number": "1014513",
@@ -669,7 +699,7 @@
     "state": "MN",
     "zip_code": "56554",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -679,7 +709,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.456960",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014513"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1014513",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094863",
@@ -691,7 +722,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -701,7 +732,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457012",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094863"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094863",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096815",
@@ -713,7 +745,7 @@
     "state": "MN",
     "zip_code": "56554",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -723,7 +755,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457191",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096815"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096815",
+    "capacity_estimated": true
   },
   {
     "license_number": "1114198",
@@ -735,7 +768,7 @@
     "state": "MN",
     "zip_code": "56501-4307",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -745,7 +778,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457286",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114198"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1114198",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076078",
@@ -757,7 +791,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -767,7 +801,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457295",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076078"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076078",
+    "capacity_estimated": true
   },
   {
     "license_number": "200203",
@@ -779,7 +814,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -789,7 +824,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457307",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200203"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200203",
+    "capacity_estimated": true
   },
   {
     "license_number": "1095877",
@@ -801,7 +837,7 @@
     "state": "MN",
     "zip_code": "56501-2925",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -811,7 +847,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457348",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095877"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095877",
+    "capacity_estimated": true
   },
   {
     "license_number": "1093199",
@@ -823,7 +860,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -833,7 +870,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457370",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093199"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093199",
+    "capacity_estimated": true
   },
   {
     "license_number": "111667",
@@ -845,7 +883,7 @@
     "state": "MN",
     "zip_code": "56501-7828",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -855,7 +893,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457391",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111667"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=111667",
+    "capacity_estimated": true
   },
   {
     "license_number": "212905",
@@ -867,7 +906,7 @@
     "state": "MN",
     "zip_code": "56501-2709",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -877,7 +916,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.457673",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212905"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212905",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063054",
@@ -889,7 +929,7 @@
     "state": "MN",
     "zip_code": "56501-3206",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -899,7 +939,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458176",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063054"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063054",
+    "capacity_estimated": true
   },
   {
     "license_number": "1097544",
@@ -911,7 +952,7 @@
     "state": "MN",
     "zip_code": "56501-2460",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -921,7 +962,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458328",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097544"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1097544",
+    "capacity_estimated": true
   },
   {
     "license_number": "1006660",
@@ -933,7 +975,7 @@
     "state": "MN",
     "zip_code": "56501-7686",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -943,7 +985,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458377",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006660"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1006660",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115068",
@@ -955,7 +998,7 @@
     "state": "MN",
     "zip_code": "56544-0000",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -965,7 +1008,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458778",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115068"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115068",
+    "capacity_estimated": true
   },
   {
     "license_number": "1094531",
@@ -977,7 +1021,7 @@
     "state": "MN",
     "zip_code": "56554",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -987,7 +1031,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458940",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094531"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1094531",
+    "capacity_estimated": true
   },
   {
     "license_number": "1104214",
@@ -999,7 +1044,7 @@
     "state": "MN",
     "zip_code": "56544-4500",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1009,7 +1054,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458964",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104214"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104214",
+    "capacity_estimated": true
   },
   {
     "license_number": "1086021",
@@ -1021,7 +1067,7 @@
     "state": "MN",
     "zip_code": "56544",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1031,7 +1077,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.458966",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086021"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1086021",
+    "capacity_estimated": true
   },
   {
     "license_number": "1045464",
@@ -1043,7 +1090,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1053,7 +1100,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459045",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045464"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045464",
+    "capacity_estimated": true
   },
   {
     "license_number": "1076006",
@@ -1065,7 +1113,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1075,7 +1123,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459053",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076006"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1076006",
+    "capacity_estimated": true
   },
   {
     "license_number": "237243",
@@ -1087,7 +1136,7 @@
     "state": "MN",
     "zip_code": "56501-0000",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1097,7 +1146,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459161",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237243"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=237243",
+    "capacity_estimated": true
   },
   {
     "license_number": "1103787",
@@ -1109,7 +1159,7 @@
     "state": "MN",
     "zip_code": "56501-4342",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1119,7 +1169,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459190",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103787"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1103787",
+    "capacity_estimated": true
   },
   {
     "license_number": "223526",
@@ -1131,7 +1182,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1141,7 +1192,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459516",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223526"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=223526",
+    "capacity_estimated": true
   },
   {
     "license_number": "1065285",
@@ -1153,7 +1205,7 @@
     "state": "MN",
     "zip_code": "56544-8999",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1163,7 +1215,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459625",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065285"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1065285",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063458",
@@ -1175,7 +1228,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1185,7 +1238,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460066",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063458"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063458",
+    "capacity_estimated": true
   },
   {
     "license_number": "1101388",
@@ -1197,7 +1251,7 @@
     "state": "MN",
     "zip_code": "56501-6954",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1207,7 +1261,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460076",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101388"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101388",
+    "capacity_estimated": true
   },
   {
     "license_number": "1098533",
@@ -1219,7 +1274,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1229,7 +1284,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460100",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098533"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1098533",
+    "capacity_estimated": true
   },
   {
     "license_number": "1057402",
@@ -1241,7 +1297,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1251,7 +1307,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460156",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057402"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057402",
+    "capacity_estimated": true
   },
   {
     "license_number": "1054183",
@@ -1263,7 +1320,7 @@
     "state": "MN",
     "zip_code": "56501-3812",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1273,7 +1330,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460258",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054183"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1054183",
+    "capacity_estimated": true
   },
   {
     "license_number": "224420",
@@ -1285,7 +1343,7 @@
     "state": "MN",
     "zip_code": "56544-8824",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1295,7 +1353,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460302",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224420"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=224420",
+    "capacity_estimated": true
   },
   {
     "license_number": "1115071",
@@ -1307,7 +1366,7 @@
     "state": "MN",
     "zip_code": "56501-7689",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1317,7 +1376,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460717",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115071"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115071",
+    "capacity_estimated": true
   },
   {
     "license_number": "1063960",
@@ -1329,7 +1389,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 12,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1339,7 +1399,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461021",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063960"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063960",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089234",
@@ -1351,7 +1412,7 @@
     "state": "MN",
     "zip_code": "56501-2100",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1361,7 +1422,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461471",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089234"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089234",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089718",
@@ -1373,7 +1435,7 @@
     "state": "MN",
     "zip_code": "56501-4004",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1383,7 +1445,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461521",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089718"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089718",
+    "capacity_estimated": true
   },
   {
     "license_number": "1089515",
@@ -1395,7 +1458,7 @@
     "state": "MN",
     "zip_code": "56501",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1405,7 +1468,8 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461530",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089515"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089515",
+    "capacity_estimated": true
   },
   {
     "license_number": "1096245",
@@ -1417,7 +1481,7 @@
     "state": "MN",
     "zip_code": "56501-0000",
     "county": "Becker",
-    "capacity": null,
+    "capacity": 75,
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
@@ -1427,6 +1491,7 @@
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462109",
-    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096245"
+    "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096245",
+    "capacity_estimated": true
   }
 ]
