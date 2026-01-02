@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare } from 'lucide-react';
 import './App.css';
 import './components/components.css';
 
@@ -15,6 +15,7 @@ import AdvancedSearch from './components/AdvancedSearch';
 import AnalyticsDashboard from './components/AnalyticsDashboard';
 import HeatMap from './components/HeatMap';
 import ExportPanel from './components/ExportPanel';
+import CommunityTips from './components/CommunityTips';
 import { buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
 import { addToWatchlist, removeFromWatchlist, isInWatchlist, getWatchlist } from './utils/watchlist';
 import { analyzeNetworks } from './utils/networkAnalysis';
@@ -563,6 +564,12 @@ function App() {
                   >
                     <Download size={16} /> Export
                   </button>
+                  <button
+                    className={`tab ${activeTab === 'tips' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('tips')}
+                  >
+                    <MessageSquare size={16} /> Tips
+                  </button>
                 </div>
 
                 {activeTab === 'overview' && (
@@ -829,6 +836,17 @@ function App() {
                       watchlist={watchlistItems}
                       countyName={selectedCounty.name}
                       stateName={stateData.config.name}
+                    />
+                  </div>
+                )}
+
+                {activeTab === 'tips' && (
+                  <div className="tab-content">
+                    <CommunityTips
+                      facilities={filteredFacilities}
+                      selectedFacility={selectedFacility}
+                      stateId={selectedState}
+                      onFacilitySelect={setSelectedFacility}
                     />
                   </div>
                 )}
