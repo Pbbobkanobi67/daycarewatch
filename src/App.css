@@ -1740,17 +1740,24 @@ tr.flagged-row:hover {
 
 /* Print Styles */
 @media print {
-  /* Hide everything on the page */
-  body > *:not(.facility-detail-overlay) {
+  /* Hide page elements when printing facility detail */
+  .app > header,
+  .app > .hero,
+  .app > main,
+  .app > footer,
+  .state-selector,
+  .county-selector,
+  .county-dashboard {
     display: none !important;
   }
 
   /* Reset body and html for print */
-  html, body {
+  html, body, .app {
     height: auto !important;
     overflow: visible !important;
     margin: 0 !important;
     padding: 0 !important;
+    background: white !important;
   }
 
   /* Show and position the modal overlay */
