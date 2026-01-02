@@ -1740,85 +1740,157 @@ tr.flagged-row:hover {
 
 /* Print Styles */
 @media print {
-  /* Hide everything except the modal */
-  body * {
-    visibility: hidden;
+  /* Hide everything on the page */
+  body > *:not(.facility-detail-overlay) {
+    display: none !important;
   }
 
-  .facility-detail-overlay,
-  .facility-detail-overlay * {
-    visibility: visible;
+  /* Reset body and html for print */
+  html, body {
+    height: auto !important;
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
+  /* Show and position the modal overlay */
   .facility-detail-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: white;
-    padding: 0;
+    display: block !important;
+    position: static !important;
+    background: white !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    height: auto !important;
   }
 
+  /* Modal fills page properly */
   .facility-detail-modal {
-    position: relative;
-    max-width: 100%;
-    max-height: none;
-    box-shadow: none;
-    border-radius: 0;
-    margin: 0;
-    overflow: visible;
+    position: static !important;
+    max-width: 100% !important;
+    max-height: none !important;
+    height: auto !important;
+    overflow: visible !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    margin: 0 !important;
   }
 
+  /* Header styling for print */
+  .facility-detail-header {
+    position: static !important;
+    border-bottom: 2px solid #000;
+    padding: 1rem !important;
+    margin-bottom: 0.5rem;
+  }
+
+  .facility-detail-header h2 {
+    font-size: 1.5rem !important;
+    margin: 0 0 0.5rem 0 !important;
+  }
+
+  /* Hide close buttons */
   .facility-detail-header .close-button,
-  .facility-detail-footer .close-button-secondary {
-    display: none;
-  }
-
+  .facility-detail-footer .close-button-secondary,
   .print-button {
-    display: none;
+    display: none !important;
   }
 
-  .external-link-button {
-    border: 1px solid #000;
-    background: white;
+  /* Body content */
+  .facility-detail-body {
+    padding: 1rem !important;
+    overflow: visible !important;
   }
 
-  /* Ensure sections don't break awkwardly */
+  /* Sections */
   .detail-section {
     break-inside: avoid;
     page-break-inside: avoid;
+    margin-bottom: 1rem !important;
   }
 
+  .detail-section h3 {
+    font-size: 1rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Flags */
   .flag-item {
     break-inside: avoid;
     page-break-inside: avoid;
   }
 
-  /* Add URL after external links for reference */
+  .flags-section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* External links */
+  .external-link-button {
+    border: 1px solid #000;
+    background: white !important;
+    padding: 0.5rem 0.75rem !important;
+    font-size: 0.75rem !important;
+  }
+
   .external-link-button::after {
     content: " (" attr(href) ")";
-    font-size: 0.7rem;
+    font-size: 0.65rem;
     color: #666;
+    display: block;
+    word-break: break-all;
   }
 
-  /* Header for printed report */
-  .facility-detail-header {
-    border-bottom: 2px solid #000;
-    padding-bottom: 1rem;
-    margin-bottom: 1rem;
+  /* Footer */
+  .facility-detail-footer {
+    display: none !important;
   }
 
-  /* Risk banner prints well */
-  .risk-score-banner {
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
-  }
-
-  /* Make sure colors print */
+  /* Ensure colors print */
+  .risk-score-banner,
   .flag-item,
   .status-badge,
-  .risk-badge {
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
+  .risk-badge,
+  .flags-section,
+  .investigator-section {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Info grid prints nicely */
+  .info-grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.5rem !important;
+  }
+
+  .info-item label {
+    font-size: 0.65rem !important;
+  }
+
+  .info-item span {
+    font-size: 0.85rem !important;
+  }
+
+  /* Disclaimer */
+  .disclaimer-section {
+    margin-top: 1rem;
+    border-top: 1px solid #ccc;
+    padding-top: 0.5rem;
+  }
+
+  .disclaimer {
+    font-size: 0.75rem !important;
+  }
+
+  /* Add printed report title */
+  .facility-detail-modal::before {
+    content: "DaycareWatch Facility Report";
+    display: block;
+    text-align: center;
+    font-size: 0.75rem;
+    color: #666;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 0.5rem;
   }
 }
