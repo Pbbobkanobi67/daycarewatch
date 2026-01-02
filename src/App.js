@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download } from 'lucide-react';
 import './App.css';
 import './components/components.css';
 
@@ -14,6 +14,7 @@ import InvestigationBanner from './components/InvestigationBanner';
 import AdvancedSearch from './components/AdvancedSearch';
 import AnalyticsDashboard from './components/AnalyticsDashboard';
 import HeatMap from './components/HeatMap';
+import ExportPanel from './components/ExportPanel';
 import { buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
 import { addToWatchlist, removeFromWatchlist, isInWatchlist, getWatchlist } from './utils/watchlist';
 import { analyzeNetworks } from './utils/networkAnalysis';
@@ -556,6 +557,12 @@ function App() {
                   >
                     <MapPin size={16} /> Map
                   </button>
+                  <button
+                    className={`tab ${activeTab === 'export' ? 'active' : ''}`}
+                    onClick={() => setActiveTab('export')}
+                  >
+                    <Download size={16} /> Export
+                  </button>
                 </div>
 
                 {activeTab === 'overview' && (
@@ -811,6 +818,17 @@ function App() {
                     <HeatMap
                       facilities={filteredFacilities}
                       onFacilityClick={setSelectedFacility}
+                    />
+                  </div>
+                )}
+
+                {activeTab === 'export' && (
+                  <div className="tab-content">
+                    <ExportPanel
+                      facilities={filteredFacilities}
+                      watchlist={watchlistItems}
+                      countyName={selectedCounty.name}
+                      stateName={stateData.config.name}
                     />
                   </div>
                 )}
