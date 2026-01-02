@@ -1,0 +1,707 @@
+{
+  "state": "Minnesota",
+  "generated_at": "2026-01-01T19:56:23.667825",
+  "source": "Minnesota GIS Data Commons (gisdata.mn.gov)",
+  "source_dataset": "Family and Child Care Centers, Minnesota",
+  "data_date": "2024-11-21",
+  "total_facilities": 7898,
+  "counties_with_data": 87,
+  "counties": {
+    "Aitkin": {
+      "total_facilities": 22,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 22
+      }
+    },
+    "Anoka": {
+      "total_facilities": 465,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 465
+      }
+    },
+    "Becker": {
+      "total_facilities": 65,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 65
+      }
+    },
+    "Beltrami": {
+      "total_facilities": 94,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 94
+      }
+    },
+    "Benton": {
+      "total_facilities": 104,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 104
+      }
+    },
+    "Big Stone": {
+      "total_facilities": 8,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 8
+      }
+    },
+    "Blue Earth": {
+      "total_facilities": 122,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 122
+      }
+    },
+    "Brown": {
+      "total_facilities": 71,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 71
+      }
+    },
+    "Carlton": {
+      "total_facilities": 21,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 21
+      }
+    },
+    "Carver": {
+      "total_facilities": 136,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 136
+      }
+    },
+    "Cass": {
+      "total_facilities": 27,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 27
+      }
+    },
+    "Chippewa": {
+      "total_facilities": 26,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 26
+      }
+    },
+    "Chisago": {
+      "total_facilities": 72,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 72
+      }
+    },
+    "Clay": {
+      "total_facilities": 148,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 148
+      }
+    },
+    "Clearwater": {
+      "total_facilities": 12,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 12
+      }
+    },
+    "Cook": {
+      "total_facilities": 5,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 5
+      }
+    },
+    "Cottonwood": {
+      "total_facilities": 19,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 19
+      }
+    },
+    "Crow Wing": {
+      "total_facilities": 105,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 105
+      }
+    },
+    "Dakota": {
+      "total_facilities": 583,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 583
+      }
+    },
+    "Dodge": {
+      "total_facilities": 47,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 47
+      }
+    },
+    "Douglas": {
+      "total_facilities": 91,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 91
+      }
+    },
+    "Faribault": {
+      "total_facilities": 19,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 19
+      }
+    },
+    "Fillmore": {
+      "total_facilities": 16,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 16
+      }
+    },
+    "Freeborn": {
+      "total_facilities": 40,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 40
+      }
+    },
+    "Goodhue": {
+      "total_facilities": 78,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 78
+      }
+    },
+    "Grant": {
+      "total_facilities": 7,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 7
+      }
+    },
+    "Hennepin": {
+      "total_facilities": 1168,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 1168
+      }
+    },
+    "Houston": {
+      "total_facilities": 29,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 29
+      }
+    },
+    "Hubbard": {
+      "total_facilities": 38,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 38
+      }
+    },
+    "Isanti": {
+      "total_facilities": 40,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 40
+      }
+    },
+    "Itasca": {
+      "total_facilities": 57,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 57
+      }
+    },
+    "Jackson": {
+      "total_facilities": 10,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 10
+      }
+    },
+    "Kanabec": {
+      "total_facilities": 24,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 24
+      }
+    },
+    "Kandiyohi": {
+      "total_facilities": 86,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 86
+      }
+    },
+    "Kittson": {
+      "total_facilities": 6,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 6
+      }
+    },
+    "Koochiching": {
+      "total_facilities": 17,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 17
+      }
+    },
+    "Lac qui Parle": {
+      "total_facilities": 18,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 18
+      }
+    },
+    "Lake": {
+      "total_facilities": 15,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 15
+      }
+    },
+    "Lake of the Woods": {
+      "total_facilities": 9,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 9
+      }
+    },
+    "Le Sueur": {
+      "total_facilities": 47,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 47
+      }
+    },
+    "Lincoln": {
+      "total_facilities": 3,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 3
+      }
+    },
+    "Lyon": {
+      "total_facilities": 74,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 74
+      }
+    },
+    "Mahnomen": {
+      "total_facilities": 2,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 2
+      }
+    },
+    "Marshall": {
+      "total_facilities": 6,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 6
+      }
+    },
+    "Martin": {
+      "total_facilities": 41,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 41
+      }
+    },
+    "McLeod": {
+      "total_facilities": 77,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 77
+      }
+    },
+    "Meeker": {
+      "total_facilities": 40,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 40
+      }
+    },
+    "Mille Lacs": {
+      "total_facilities": 22,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 22
+      }
+    },
+    "Morrison": {
+      "total_facilities": 91,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 91
+      }
+    },
+    "Mower": {
+      "total_facilities": 46,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 46
+      }
+    },
+    "Murray": {
+      "total_facilities": 10,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 10
+      }
+    },
+    "Nicollet": {
+      "total_facilities": 24,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 24
+      }
+    },
+    "Nobles": {
+      "total_facilities": 18,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 18
+      }
+    },
+    "Norman": {
+      "total_facilities": 6,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 6
+      }
+    },
+    "Olmsted": {
+      "total_facilities": 341,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 341
+      }
+    },
+    "Otter Tail": {
+      "total_facilities": 134,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 134
+      }
+    },
+    "Pennington": {
+      "total_facilities": 44,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 44
+      }
+    },
+    "Pine": {
+      "total_facilities": 30,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 30
+      }
+    },
+    "Pipestone": {
+      "total_facilities": 35,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 35
+      }
+    },
+    "Polk": {
+      "total_facilities": 67,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 67
+      }
+    },
+    "Pope": {
+      "total_facilities": 20,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 20
+      }
+    },
+    "Ramsey": {
+      "total_facilities": 503,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 503
+      }
+    },
+    "Red Lake": {
+      "total_facilities": 7,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 7
+      }
+    },
+    "Redwood": {
+      "total_facilities": 23,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 23
+      }
+    },
+    "Renville": {
+      "total_facilities": 15,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 15
+      }
+    },
+    "Rice": {
+      "total_facilities": 105,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 105
+      }
+    },
+    "Rock": {
+      "total_facilities": 22,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 22
+      }
+    },
+    "Roseau": {
+      "total_facilities": 40,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 40
+      }
+    },
+    "Scott": {
+      "total_facilities": 273,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 273
+      }
+    },
+    "Sherburne": {
+      "total_facilities": 199,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 199
+      }
+    },
+    "Sibley": {
+      "total_facilities": 29,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 29
+      }
+    },
+    "St. Louis": {
+      "total_facilities": 227,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 227
+      }
+    },
+    "Stearns": {
+      "total_facilities": 342,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 342
+      }
+    },
+    "Steele": {
+      "total_facilities": 97,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 97
+      }
+    },
+    "Stevens": {
+      "total_facilities": 17,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 17
+      }
+    },
+    "Swift": {
+      "total_facilities": 18,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 18
+      }
+    },
+    "Todd": {
+      "total_facilities": 52,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 52
+      }
+    },
+    "Traverse": {
+      "total_facilities": 7,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 7
+      }
+    },
+    "Wabasha": {
+      "total_facilities": 62,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 62
+      }
+    },
+    "Wadena": {
+      "total_facilities": 12,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 12
+      }
+    },
+    "Waseca": {
+      "total_facilities": 31,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 31
+      }
+    },
+    "Washington": {
+      "total_facilities": 343,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 343
+      }
+    },
+    "Watonwan": {
+      "total_facilities": 16,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 16
+      }
+    },
+    "Wilkin": {
+      "total_facilities": 14,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 14
+      }
+    },
+    "Winona": {
+      "total_facilities": 89,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 89
+      }
+    },
+    "Wright": {
+      "total_facilities": 238,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 238
+      }
+    },
+    "Yellow Medicine": {
+      "total_facilities": 19,
+      "total_capacity": null,
+      "by_type": {},
+      "by_status": {
+        "LICENSED": 19
+      }
+    }
+  }
+}

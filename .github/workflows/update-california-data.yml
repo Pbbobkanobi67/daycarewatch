@@ -1,0 +1,178 @@
+# DaycareWatch - California Automated Data Collection Pipeline
+# Runs weekly to scrape CCLD database and update facility data
+
+name: Update California Data
+
+on:
+  # Run every Sunday at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * 0'
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      county:
+        description: 'Specific county to scrape (leave empty for all)'
+        required: false
+        default: ''
+      include_details:
+        description: 'Fetch detailed info (slower)'
+        required: false
+        default: 'false'
+        type: boolean
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  scrape-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Create data directory
+        run: mkdir -p data/california
+
+      - name: Run scraper
+        id: scrape
+        run: |
+          cd scripts/california
+
+          if [ -n "${{ github.event.inputs.county }}" ]; then
+            # Scrape specific county
+            echo "Scraping ${{ github.event.inputs.county }} County..."
+            if [ "${{ github.event.inputs.include_details }}" = "true" ]; then
+              python scrape_ccld.py --county "${{ github.event.inputs.county }}" --include-details --output ../../data/california
+            else
+              python scrape_ccld.py --county "${{ github.event.inputs.county }}" --output ../../data/california
+            fi
+          else
+            # Scrape all counties (default for scheduled runs)
+            echo "Scraping all California counties..."
+            python scrape_ccld.py --all-counties --output ../../data/california
+          fi
+
+          # Generate summary
+          python scrape_ccld.py --generate-summary --output ../../data/california
+
+      - name: Generate data report
+        run: |
+          echo "## California Data Collection Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Run Date:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f "data/california/summary.json" ]; then
+            echo "### Summary" >> $GITHUB_STEP_SUMMARY
+            echo '```json' >> $GITHUB_STEP_SUMMARY
+            cat data/california/summary.json | head -50 >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Files Updated" >> $GITHUB_STEP_SUMMARY
+          ls -la data/california/*.json 2>/dev/null | head -20 >> $GITHUB_STEP_SUMMARY || echo "No JSON files found"
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add data/california/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update California facility data [$(date +%Y-%m-%d)]"
+            git push
+          fi
+
+  # Build and deploy updated site after data refresh
+  build-and-deploy:
+    needs: scrape-data
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Get latest with data updates
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+        env:
+          CI: false  # Ignore warnings as errors
+
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v25
+        if: github.ref == 'refs/heads/main'
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'
+          working-directory: ./
+
+  # Notify on completion
+  notify:
+    needs: [scrape-data, build-and-deploy]
+    runs-on: ubuntu-latest
+    if: always()
+
+    steps:
+      - name: Check job status
+        run: |
+          if [ "${{ needs.scrape-data.result }}" = "success" ] && [ "${{ needs.build-and-deploy.result }}" = "success" ]; then
+            echo "STATUS=success" >> $GITHUB_ENV
+            echo "MESSAGE=✅ DaycareWatch California data updated successfully" >> $GITHUB_ENV
+          else
+            echo "STATUS=failure" >> $GITHUB_ENV
+            echo "MESSAGE=❌ DaycareWatch California update failed" >> $GITHUB_ENV
+          fi
+
+      - name: Create issue on failure
+        if: env.STATUS == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🚨 California data update failed',
+              body: `The scheduled California data scraping workflow failed on ${new Date().toISOString()}.
+
+              Please check the [workflow run](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.
+
+              Common issues:
+              - CCLD website structure changed
+              - Rate limiting
+              - Network errors
+              `,
+              labels: ['bug', 'automated', 'california']
+            });

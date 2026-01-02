@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-01-01T00:00:00.000Z",
+  "note": "Placeholder data - run scraper to populate with real facility data",
+  "counties": {},
+  "totals": {
+    "facilities": 0,
+    "capacity": 0,
+    "by_type": {}
+  },
+  "data_sources": {
+    "licensing": "https://www.ccld.dss.ca.gov/carefacilitysearch/",
+    "subsidies": "Pending CPRA requests"
+  },
+  "project_status": {
+    "phase": "2 - San Diego Pilot",
+    "licensing_data": "In Progress",
+    "subsidy_data": "CPRA Pending"
+  }
+}

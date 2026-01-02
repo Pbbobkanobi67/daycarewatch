@@ -1,0 +1,96 @@
+{
+  "source": "Nick Shirley Investigation Video - December 2025",
+  "video_url": "https://youtube.com/watch?v=...",
+  "twitter_thread": "https://x.com/nickshirleyy/status/2004642794862961123",
+  "notes": "Facilities visited in 42-minute investigation video. Data compiled by 'David' from publicly available sources and MN House Republican staff.",
+  "data_disclaimer": "Payment figures are alleged and require independent verification. Inclusion does not imply guilt.",
+  "facilities": [
+    {
+      "name": "Quality Learning Center (Quality 'Learing' Center)",
+      "address": "Minneapolis, MN",
+      "zip_codes_visited": ["55404", "55407", "55408", "55411"],
+      "licensed_capacity": 99,
+      "alleged_ccap_fy2025": 1900000,
+      "alleged_total_since_fy2020": 4000000,
+      "observations": [
+        "Sign misspelled 'Learning' as 'Learing'",
+        "No children observed during business hours",
+        "Doors locked",
+        "Windows appeared blacked out",
+        "Staff unable to explain where children were"
+      ],
+      "license_status": "Active (per DHS)",
+      "dhs_note": "95 violations between 2019-2023 per KSTP report",
+      "conditional_license": "2022 (removed 2024)",
+      "flag_reasons": ["High payment vs no visible activity", "Extensive violation history"]
+    },
+    {
+      "name": "Facility 2 (Name TBD)",
+      "address": "Minneapolis, MN",
+      "licensed_capacity": 74,
+      "alleged_ccap_fy2025": 1260000,
+      "observations": [
+        "No children observed",
+        "Locked doors",
+        "Staff could not explain where children were"
+      ],
+      "license_status": "Active",
+      "flag_reasons": ["High payment vs no visible activity"]
+    },
+    {
+      "name": "Facility 3 (Name TBD)",
+      "address": "Minneapolis, MN",
+      "licensed_capacity": 99,
+      "alleged_ccap_fy2025": 3400000,
+      "alleged_period": "2 years",
+      "observations": [
+        "Woman screamed 'Don't open up! It's ICE!' when investigators arrived",
+        "Neighbors reported never seeing children"
+      ],
+      "license_status": "Active",
+      "flag_reasons": ["High payment", "Community reports of no activity"]
+    }
+  ],
+  "aggregate_claims": {
+    "total_facilities_visited": 8,
+    "total_alleged_fraud_fy2025": 17986049,
+    "total_alleged_fraud_since_fy2020": 27544654,
+    "shirley_claim_one_day": 110000000,
+    "note": "Snopes could not independently verify these figures"
+  },
+  "programs_mentioned": [
+    {
+      "name": "CCAP",
+      "full_name": "Child Care Assistance Program",
+      "annual_cost_fy2025": 157000000,
+      "serves": "23,000+ children from 12,000+ families",
+      "providers": "~4,000 registered"
+    },
+    {
+      "name": "ELS",
+      "full_name": "Early Learning Scholarships",
+      "note": "Some facilities receive ELS but not CCAP"
+    }
+  ],
+  "verification_sources": [
+    {
+      "name": "Minnesota DHS License Lookup",
+      "url": "https://licensinglookup.dhs.state.mn.us/",
+      "data_available": ["License status", "Capacity", "Address", "Violations"]
+    },
+    {
+      "name": "ParentAware",
+      "url": "https://parentaware.org/",
+      "data_available": ["Quality ratings", "CCAP registration", "ELS eligibility"]
+    },
+    {
+      "name": "MN DHS Statement",
+      "quote": "Each of the facilities mentioned in the video has been visited at least once in the last six months as part of our typical licensing process."
+    }
+  ],
+  "related_investigations": {
+    "dhs_oig_active_investigations": 62,
+    "feeding_our_future_fraud": "250M+ (separate case, meals program)",
+    "estimated_medicaid_fraud": "Up to 50% of $18B since 2018 per federal prosecutor"
+  }
+}
