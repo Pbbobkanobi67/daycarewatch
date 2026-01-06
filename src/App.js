@@ -759,7 +759,12 @@ function App() {
                       <div className="current-flags">
                         <h5>Flagged Facilities ({stats.flaggedCount}):</h5>
                         {filteredFacilities.filter(f => f.flagged).slice(0, 20).map(facility => (
-                          <div key={facility.license_number} className="flag-card">
+                          <div
+                            key={facility.license_number}
+                            className="flag-card clickable"
+                            onClick={() => setSelectedFacility(facility)}
+                            style={{ cursor: 'pointer' }}
+                          >
                             <AlertTriangle className="flag-icon-large" />
                             <div>
                               <strong>{facility.name}</strong>
@@ -770,7 +775,13 @@ function App() {
                                 ))}
                               </ul>
                               {facility.ccld_url && (
-                                <a href={facility.ccld_url} target="_blank" rel="noopener noreferrer" className="flag-link">
+                                <a
+                                  href={facility.ccld_url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="flag-link"
+                                  onClick={(e) => e.stopPropagation()}
+                                >
                                   View on CCLD <ExternalLink size={12} />
                                 </a>
                               )}
@@ -805,6 +816,7 @@ function App() {
                     <AnalyticsDashboard
                       facilities={filteredFacilities}
                       stateData={stateData}
+                      onFacilityClick={setSelectedFacility}
                     />
                   </div>
                 )}

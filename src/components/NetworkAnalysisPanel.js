@@ -7,7 +7,8 @@ import {
   Users,
   AlertTriangle,
   ChevronDown,
-  ChevronRight
+  ChevronRight,
+  RefreshCw
 } from 'lucide-react';
 import { analyzeNetworks } from '../utils/networkAnalysis';
 
@@ -44,11 +45,12 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
     setExpandedNetworks(newExpanded);
   };
 
-  const { ownerNetworks, addressNetworks, phoneNetworks, similarNames, stats } = analysis;
+  const { ownerNetworks, addressNetworks, phoneNetworks, similarNames, licenseChanges, stats } = analysis;
 
   const tabs = [
     { id: 'owners', label: 'Owner Networks', icon: <Users size={16} />, count: ownerNetworks.length },
     { id: 'addresses', label: 'Shared Addresses', icon: <MapPin size={16} />, count: addressNetworks.length },
+    { id: 'changes', label: 'License Changes', icon: <RefreshCw size={16} />, count: licenseChanges?.length || 0 },
     { id: 'phones', label: 'Shared Phones', icon: <Phone size={16} />, count: phoneNetworks.length },
     { id: 'names', label: 'Similar Names', icon: <Building size={16} />, count: similarNames.length },
   ];
@@ -123,7 +125,7 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
         <p className="no-data">No shared address locations detected.</p>
       ) : (
         addressNetworks.slice(0, 20).map((network, idx) => (
-          <div key={idx} className={`network-card ${network.multipleOwners ? 'warning' : ''}`}>
+          <div key={idx} className={`network-card ${network.score >= 30 ? 'high-risk' : network.multipleOwners ? 'warning' : ''}`}>
             <div
               className="network-header"
               onClick={() => toggleNetwork(`addr-${idx}`)}
@@ -134,15 +136,33 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
                 <strong>{network.address}</strong>
                 <span className="network-count">{network.facilityCount} facilities</span>
               </div>
-              {network.multipleOwners && (
-                <span className="warning-badge">Multiple Owners</span>
-              )}
+              <div className="network-badges">
+                {network.score > 0 && (
+                  <span className="risk-indicator">
+                    Risk: {network.score}
+                  </span>
+                )}
+                {network.multipleOwners && (
+                  <span className="warning-badge">Multiple Owners</span>
+                )}
+              </div>
             </div>
 
             {expandedNetworks.has(`addr-${idx}`) && (
               <div className="network-details">
                 <p className="address-city">{network.city}</p>
                 <p className="total-capacity">Combined Capacity: {network.totalCapacity}</p>
+
+                {network.flags && network.flags.length > 0 && (
+                  <div className="network-flags">
+                    {network.flags.map((flag, i) => (
+                      <div key={i} className={`flag-item ${flag.severity || ''}`}>
+                        <AlertTriangle size={14} />
+                        {flag.message}
+                      </div>
+                    ))}
+                  </div>
+                )}
 
                 {network.owners.length > 1 && (
                   <div className="owners-list">
@@ -265,6 +285,83 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
     </div>
   );
 
+  const renderLicenseChanges = () => (
+    <div className="network-list">
+      {!licenseChanges || licenseChanges.length === 0 ? (
+        <p className="no-data">No license change patterns detected at addresses.</p>
+      ) : (
+        licenseChanges.slice(0, 20).map((location, idx) => (
+          <div key={idx} className={`network-card ${location.riskScore >= 50 ? 'high-risk' : location.riskScore >= 25 ? 'warning' : ''}`}>
+            <div
+              className="network-header"
+              onClick={() => toggleNetwork(`change-${idx}`)}
+            >
+              <div className="network-title">
+                {expandedNetworks.has(`change-${idx}`) ? <ChevronDown size={18} /> : <ChevronRight size={18} />}
+                <RefreshCw size={16} />
+                <strong>{location.address}</strong>
+                <span className="network-count">{location.facilities.length} licenses</span>
+              </div>
+              <div className="network-badges">
+                <span className="risk-indicator">
+                  Risk: {location.riskScore}
+                </span>
+              </div>
+            </div>
+
+            {expandedNetworks.has(`change-${idx}`) && (
+              <div className="network-details">
+                <p className="address-city">{location.city}</p>
+
+                {/* Risk Indicators */}
+                <div className="network-flags">
+                  {location.indicators.map((indicator, i) => (
+                    <div key={i} className={`flag-item ${indicator.severity}`}>
+                      <AlertTriangle size={14} />
+                      <span>{indicator.message}</span>
+                    </div>
+                  ))}
+                </div>
+
+                {/* Owner History */}
+                {location.uniqueOwners > 1 && (
+                  <div className="history-section">
+                    <h5>Owner History ({location.uniqueOwners} different):</h5>
+                    <div className="history-list">
+                      {location.ownerHistory.map((h, i) => (
+                        <div key={i} className="history-item">
+                          <span className="history-owner">{h.owner}</span>
+                          <span className="history-name">{h.name}</span>
+                          {h.status && <span className={`history-status ${h.status.toLowerCase().includes('active') ? 'active' : 'inactive'}`}>{h.status}</span>}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Facilities at this address */}
+                <div className="facility-list">
+                  <h5>Current Licenses:</h5>
+                  {location.facilities.map((f, i) => (
+                    <div
+                      key={i}
+                      className="facility-item clickable"
+                      onClick={() => onFacilityClick && onFacilityClick(f)}
+                    >
+                      <span className="facility-name">{f.name}</span>
+                      <span className="facility-license">#{f.license_number}</span>
+                      <span className="facility-status">{f.status}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        ))
+      )}
+    </div>
+  );
+
   return (
     <div className="network-panel">
       <div className="network-panel-header">
@@ -285,12 +382,12 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
           <span className="stat-label">Shared addresses</span>
         </div>
         <div className="summary-stat">
-          <span className="stat-value">{stats.phonesSharedByMultipleFacilities}</span>
-          <span className="stat-label">Shared phones</span>
+          <span className="stat-value">{stats.addressesWithLicenseChanges || 0}</span>
+          <span className="stat-label">License changes</span>
         </div>
         <div className="summary-stat">
-          <span className="stat-value">{stats.largestOwnerNetwork}</span>
-          <span className="stat-label">Largest network</span>
+          <span className="stat-value">{stats.highRiskAddresses || 0}</span>
+          <span className="stat-label">High risk</span>
         </div>
       </div>
 
@@ -313,6 +410,7 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
       <div className="network-content">
         {activeTab === 'owners' && renderOwnerNetworks()}
         {activeTab === 'addresses' && renderAddressNetworks()}
+        {activeTab === 'changes' && renderLicenseChanges()}
         {activeTab === 'phones' && renderPhoneNetworks()}
         {activeTab === 'names' && renderSimilarNames()}
       </div>

@@ -155,7 +155,16 @@ const WatchlistPanel = ({ onFacilityClick, facilities }) => {
               >
                 <div className="item-main">
                   <div className="item-header">
-                    <span className="item-name">{item.name}</span>
+                    <span
+                      className="item-name clickable-link"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        handleViewFacility(item);
+                      }}
+                      style={{ cursor: 'pointer' }}
+                    >
+                      {item.name}
+                    </span>
                     {item.riskScore > 50 && (
                       <AlertTriangle size={16} className="risk-icon" />
                     )}

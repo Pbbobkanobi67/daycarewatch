@@ -225,7 +225,7 @@ export const findSimilarNames = (facilities, threshold = 0.5) => {
 };
 
 /**
- * Calculate network risk score
+ * Calculate network risk score for owner networks
  */
 export const calculateNetworkRisk = (network) => {
   let score = 0;
@@ -256,6 +256,188 @@ export const calculateNetworkRisk = (network) => {
 };
 
 /**
+ * Calculate risk score for address clustering
+ * Detects suspicious patterns at shared addresses
+ */
+export const calculateAddressRisk = (addressNetwork) => {
+  let score = 0;
+  const flags = [];
+
+  // Multiple different owners at same address - major red flag
+  if (addressNetwork.owners && addressNetwork.owners.length > 1) {
+    const ownerCount = addressNetwork.owners.length;
+    if (ownerCount >= 3) {
+      score += 40;
+      flags.push({
+        type: 'MULTIPLE_OWNERS',
+        severity: 'high',
+        message: `${ownerCount} different license holders at same address`
+      });
+    } else {
+      score += 25;
+      flags.push({
+        type: 'MULTIPLE_OWNERS',
+        severity: 'medium',
+        message: `${ownerCount} different license holders at same address`
+      });
+    }
+  }
+
+  // High capacity at single address
+  if (addressNetwork.totalCapacity > 200) {
+    score += 20;
+    flags.push({
+      type: 'HIGH_ADDRESS_CAPACITY',
+      severity: 'medium',
+      message: `Total capacity: ${addressNetwork.totalCapacity} at one location`
+    });
+  }
+
+  // Many facilities at same address
+  if (addressNetwork.facilityCount >= 4) {
+    score += 30;
+    flags.push({
+      type: 'FACILITY_CLUSTER',
+      severity: 'high',
+      message: `${addressNetwork.facilityCount} facilities registered at this address`
+    });
+  } else if (addressNetwork.facilityCount >= 2) {
+    score += 10;
+    flags.push({
+      type: 'FACILITY_CLUSTER',
+      severity: 'low',
+      message: `${addressNetwork.facilityCount} facilities at this address`
+    });
+  }
+
+  return { score, flags };
+};
+
+/**
+ * Detect potential license changes or shell company patterns at addresses
+ * Looks for facilities that may have changed hands or been re-registered
+ */
+export const detectLicenseChanges = (facilities) => {
+  const addressGroups = {};
+
+  // Group facilities by normalized address
+  facilities.forEach(facility => {
+    if (!facility.address) return;
+
+    const normalizedAddr = normalizeAddress(facility.address);
+    if (normalizedAddr.length < 5) return;
+
+    if (!addressGroups[normalizedAddr]) {
+      addressGroups[normalizedAddr] = {
+        address: facility.address,
+        city: facility.city,
+        facilities: [],
+        ownerHistory: [],
+        nameHistory: [],
+      };
+    }
+
+    addressGroups[normalizedAddr].facilities.push(facility);
+
+    if (facility.license_holder) {
+      addressGroups[normalizedAddr].ownerHistory.push({
+        owner: facility.license_holder,
+        name: facility.name,
+        license: facility.license_number,
+        status: facility.status,
+      });
+    }
+
+    if (facility.name) {
+      addressGroups[normalizedAddr].nameHistory.push({
+        name: facility.name,
+        owner: facility.license_holder,
+        license: facility.license_number,
+      });
+    }
+  });
+
+  // Find addresses with license change indicators
+  const suspiciousAddresses = [];
+
+  Object.values(addressGroups).forEach(group => {
+    const uniqueOwners = new Set(group.ownerHistory.map(h => normalizeName(h.owner)));
+    const uniqueNames = new Set(group.nameHistory.map(h => normalizeName(h.name)));
+    const uniqueLicenses = new Set(group.facilities.map(f => f.license_number).filter(Boolean));
+
+    // Skip if only one owner/name
+    if (uniqueOwners.size <= 1 && uniqueNames.size <= 1) return;
+
+    const indicators = [];
+    let riskScore = 0;
+
+    // Multiple owners at same address
+    if (uniqueOwners.size > 1) {
+      riskScore += 25 * (uniqueOwners.size - 1);
+      indicators.push({
+        type: 'OWNER_CHANGE',
+        severity: uniqueOwners.size >= 3 ? 'high' : 'medium',
+        message: `${uniqueOwners.size} different owners at this address`,
+        details: [...uniqueOwners],
+      });
+    }
+
+    // Multiple business names at same address
+    if (uniqueNames.size > 1) {
+      riskScore += 15 * (uniqueNames.size - 1);
+      indicators.push({
+        type: 'NAME_CHANGE',
+        severity: uniqueNames.size >= 3 ? 'medium' : 'low',
+        message: `${uniqueNames.size} different business names at this address`,
+        details: group.nameHistory.map(h => h.name),
+      });
+    }
+
+    // Multiple license numbers at same address (strong indicator of transfer)
+    if (uniqueLicenses.size > 1) {
+      riskScore += 20 * (uniqueLicenses.size - 1);
+      indicators.push({
+        type: 'LICENSE_TRANSFER',
+        severity: 'high',
+        message: `${uniqueLicenses.size} different license numbers at this address`,
+        details: [...uniqueLicenses],
+      });
+    }
+
+    // Check for closed/active transitions (possible fraud pattern)
+    const statuses = group.facilities.map(f => f.status).filter(Boolean);
+    const hasActive = statuses.some(s => s.toLowerCase().includes('active') || s.toLowerCase().includes('licensed'));
+    const hasClosed = statuses.some(s => s.toLowerCase().includes('closed') || s.toLowerCase().includes('inactive'));
+
+    if (hasActive && hasClosed) {
+      riskScore += 15;
+      indicators.push({
+        type: 'STATUS_CHANGE',
+        severity: 'medium',
+        message: 'Mix of active and closed facilities at this address',
+      });
+    }
+
+    if (indicators.length > 0) {
+      suspiciousAddresses.push({
+        address: group.address,
+        city: group.city,
+        facilities: group.facilities,
+        ownerHistory: group.ownerHistory,
+        nameHistory: group.nameHistory,
+        uniqueOwners: uniqueOwners.size,
+        uniqueNames: uniqueNames.size,
+        uniqueLicenses: uniqueLicenses.size,
+        indicators,
+        riskScore,
+      });
+    }
+  });
+
+  return suspiciousAddresses.sort((a, b) => b.riskScore - a.riskScore);
+};
+
+/**
  * Comprehensive network analysis
  */
 export const analyzeNetworks = (facilities) => {
@@ -263,11 +445,18 @@ export const analyzeNetworks = (facilities) => {
   const addressNetworks = buildAddressNetwork(facilities);
   const phoneNetworks = buildPhoneNetwork(facilities);
   const similarNames = findSimilarNames(facilities);
+  const licenseChanges = detectLicenseChanges(facilities);
 
   // Add risk scores to owner networks
   const scoredOwnerNetworks = ownerNetworks.map(network => ({
     ...network,
     ...calculateNetworkRisk(network),
+  }));
+
+  // Add risk scores to address networks
+  const scoredAddressNetworks = addressNetworks.map(network => ({
+    ...network,
+    ...calculateAddressRisk(network),
   }));
 
   // Summary statistics
@@ -279,13 +468,16 @@ export const analyzeNetworks = (facilities) => {
     largestOwnerNetwork: ownerNetworks[0]?.facilityCount || 0,
     addressesWithMultipleFacilities: addressNetworks.length,
     phonesSharedByMultipleFacilities: phoneNetworks.length,
+    addressesWithLicenseChanges: licenseChanges.length,
+    highRiskAddresses: scoredAddressNetworks.filter(n => n.score >= 30).length,
   };
 
   return {
     ownerNetworks: scoredOwnerNetworks,
-    addressNetworks,
+    addressNetworks: scoredAddressNetworks,
     phoneNetworks,
     similarNames,
+    licenseChanges,
     stats,
   };
 };
@@ -298,4 +490,7 @@ export default {
   analyzeNetworks,
   normalizeAddress,
   normalizeName,
+  calculateAddressRisk,
+  calculateNetworkRisk,
+  detectLicenseChanges,
 };

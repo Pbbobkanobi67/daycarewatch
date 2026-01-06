@@ -31,7 +31,7 @@ const RISK_COLORS = {
 /**
  * AnalyticsDashboard - Comparative analysis and statistics
  */
-const AnalyticsDashboard = ({ facilities, stateData }) => {
+const AnalyticsDashboard = ({ facilities, stateData, onFacilityClick }) => {
   const analytics = useMemo(() => {
     if (!facilities || facilities.length === 0) return null;
 
@@ -291,7 +291,12 @@ const AnalyticsDashboard = ({ facilities, stateData }) => {
             </thead>
             <tbody>
               {analytics.highRiskFacilities.map((f, idx) => (
-                <tr key={idx}>
+                <tr
+                  key={idx}
+                  className="clickable-row"
+                  onClick={() => onFacilityClick && onFacilityClick(f)}
+                  style={{ cursor: 'pointer' }}
+                >
                   <td>
                     <span className="facility-name">{f.name}</span>
                     <span className="license-number">#{f.license_number}</span>

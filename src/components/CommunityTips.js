@@ -425,7 +425,13 @@ https://daycarewatch.vercel.app
 
                   <div className="tip-facility">
                     <Building size={14} />
-                    <strong>{tip.facilityName}</strong>
+                    <strong
+                      className="clickable-link"
+                      onClick={() => onFacilitySelect && facility && onFacilitySelect(facility)}
+                      style={{ cursor: facility ? 'pointer' : 'default' }}
+                    >
+                      {tip.facilityName}
+                    </strong>
                     {facility && (
                       <span className="tip-address">
                         {facility.city}, {facility.state}
