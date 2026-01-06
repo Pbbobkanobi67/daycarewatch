@@ -1502,6 +1502,51 @@ tr.flagged-row:hover {
   border-radius: 8px;
 }
 
+/* Compliance Timeline */
+.compliance-timeline {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--navy-200);
+}
+
+.compliance-timeline h4 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--navy-700);
+  margin: 0 0 0.75rem 0;
+}
+
+.compliance-timeline .timeline-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.compliance-timeline .timeline-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--navy-50);
+  border-radius: 6px;
+  border-left: 3px solid var(--navy-400);
+}
+
+.compliance-timeline .timeline-date {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--navy-700);
+  min-width: 90px;
+}
+
+.compliance-timeline .timeline-type {
+  font-size: 0.85rem;
+  color: var(--navy-600);
+}
+
 /* Cross-Reference Grid */
 .cross-ref-grid {
   display: flex;

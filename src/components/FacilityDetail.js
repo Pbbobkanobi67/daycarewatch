@@ -14,7 +14,8 @@ import {
   Info,
   CheckCircle,
   Eye,
-  Printer
+  Printer,
+  Calendar
 } from 'lucide-react';
 
 /**
@@ -292,6 +293,12 @@ const FacilityDetail = ({
                 <label><Phone size={14} /> Phone</label>
                 <span>{facility.phone || 'Not on file'}</span>
               </div>
+              {facility.license_holder && (
+                <div className="info-item full-width">
+                  <label>License Holder</label>
+                  <span>{facility.license_holder}</span>
+                </div>
+              )}
             </div>
           </section>
 
@@ -350,6 +357,10 @@ const FacilityDetail = ({
             </h3>
             <div className="info-grid">
               <div className="info-item">
+                <label>Total Visits</label>
+                <span>{facility.total_visits || 'No data on file'}</span>
+              </div>
+              <div className="info-item">
                 <label>Total Violations</label>
                 <span className={facility.total_citations > 10 ? 'count-high' : ''}>
                   {facility.total_citations || investigationData?.dhs_note || 'No data on file'}
@@ -367,6 +378,12 @@ const FacilityDetail = ({
                 <label>License First Issued</label>
                 <span>{facility.license_first_date || 'No date on file'}</span>
               </div>
+              {facility.maltreatment_info && (
+                <div className="info-item">
+                  <label>Maltreatment Records</label>
+                  <span className="status-warning">{facility.maltreatment_info}</span>
+                </div>
+              )}
               {investigationData?.conditional_license && (
                 <div className="info-item">
                   <label>Conditional License</label>
@@ -374,6 +391,21 @@ const FacilityDetail = ({
                 </div>
               )}
             </div>
+
+            {/* Compliance Visit Timeline */}
+            {facility.compliance_visits && facility.compliance_visits.length > 0 && (
+              <div className="compliance-timeline">
+                <h4><Calendar size={16} /> Visit History</h4>
+                <div className="timeline-list">
+                  {facility.compliance_visits.map((visit, idx) => (
+                    <div key={idx} className="timeline-item">
+                      <span className="timeline-date">{visit.date}</span>
+                      <span className="timeline-type">{visit.type}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
           </section>
 
           {/* Cross-Reference Checks */}
