@@ -45318,18 +45318,44 @@
     "state": "MN",
     "zip_code": "55423",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 670-4699",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459830",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084195",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Lisa J Stewart AND Katelyn M Jahns",
+    "compliance_visits": [
+      {
+        "date": "10/15/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "12/16/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/20/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/21/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:54:27.006Z"
   },
   {
     "license_number": "200920",
@@ -45341,18 +45367,44 @@
     "state": "MN",
     "zip_code": "55369-3244",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 493-5770",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459836",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=200920",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Lori A Stewart",
+    "compliance_visits": [
+      {
+        "date": "6/4/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/9/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/15/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/13/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:54:34.382Z"
   },
   {
     "license_number": "219340",
@@ -45364,18 +45416,40 @@
     "state": "MN",
     "zip_code": "55431-4015",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 240-6183",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459843",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=219340",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Jane M Stoa AND Grace Jane Saylor",
+    "compliance_visits": [
+      {
+        "date": "3/28/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/14/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/4/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:54:41.539Z"
   },
   {
     "license_number": "217663",
@@ -45388,17 +45462,43 @@
     "zip_code": "55446",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 804-9700",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459888",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217663",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Lorelie J Strand",
+    "compliance_visits": [
+      {
+        "date": "8/18/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/12/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/20/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/11/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:54:49.573Z"
   },
   {
     "license_number": "1052375",
@@ -45411,17 +45511,43 @@
     "zip_code": "55417",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 229-8392",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459889",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1052375",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Kristin L Strandlund",
+    "compliance_visits": [
+      {
+        "date": "7/17/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/6/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/14/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/12/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:54:56.827Z"
   },
   {
     "license_number": "220722",
@@ -45434,17 +45560,35 @@
     "zip_code": "55428-1826",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 533-5004",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 2,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459900",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220722",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Glenda Streeter",
+    "compliance_visits": [
+      {
+        "date": "3/21/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/16/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:06.198Z"
   },
   {
     "license_number": "1113133",
@@ -45456,18 +45600,36 @@
     "state": "MN",
     "zip_code": "55412-2443",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 529-9592",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 2,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459936",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1113133",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Jada M Stumon",
+    "compliance_visits": [
+      {
+        "date": "8/12/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/28/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:15.947Z"
   },
   {
     "license_number": "220372",
@@ -45479,18 +45641,44 @@
     "state": "MN",
     "zip_code": "55429-1647",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 535-7304",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.459989",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220372",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Janet Swanda Tieden",
+    "compliance_visits": [
+      {
+        "date": "7/21/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/3/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/3/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/1/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:22.895Z"
   },
   {
     "license_number": "1042442",
@@ -45503,17 +45691,43 @@
     "zip_code": "55316-3393",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 427-8580",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460049",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1042442",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Christy D Sykes",
+    "compliance_visits": [
+      {
+        "date": "2/19/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/7/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/20/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/3/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:30.563Z"
   },
   {
     "license_number": "1100372",
@@ -45525,18 +45739,48 @@
     "state": "MN",
     "zip_code": "55428-1439",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 516-4114",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460050",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1100372",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Denita C Sydnor",
+    "compliance_visits": [
+      {
+        "date": "4/29/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/11/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/16/2024",
+        "type": "Licensing Investigation"
+      },
+      {
+        "date": "9/6/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/22/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:38.835Z"
   },
   {
     "license_number": "116231",
@@ -45548,18 +45792,44 @@
     "state": "MN",
     "zip_code": "55346-3406",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 934-1784",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460069",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116231",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Janet Taragos",
+    "compliance_visits": [
+      {
+        "date": "4/7/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/25/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/31/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/8/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:48.422Z"
   },
   {
     "license_number": "1084683",
@@ -45575,14 +45845,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460083",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1084683",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:55:54.203Z"
   },
   {
     "license_number": "1093212",
@@ -45594,18 +45867,36 @@
     "state": "MN",
     "zip_code": "55311",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 9,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 356-5499",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 2,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460094",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1093212",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Nina Teiken",
+    "compliance_visits": [
+      {
+        "date": "1/24/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/17/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:01.674Z"
   },
   {
     "license_number": "1101805",
@@ -45617,18 +45908,44 @@
     "state": "MN",
     "zip_code": "55420-1223",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 465-2147",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460099",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1101805",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Wudassie Kassa Tefera",
+    "compliance_visits": [
+      {
+        "date": "3/4/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/4/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/14/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/24/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:08.495Z"
   },
   {
     "license_number": "1049613",
@@ -45640,18 +45957,44 @@
     "state": "MN",
     "zip_code": "55316",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 923-3582",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460116",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049613",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Victoria Tepley AND Michael Tepley",
+    "compliance_visits": [
+      {
+        "date": "11/14/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/2/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/3/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/14/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:15.523Z"
   },
   {
     "license_number": "1115388",
@@ -45667,14 +46010,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460151",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115388",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:21.577Z"
   },
   {
     "license_number": "116396",
@@ -45686,18 +46032,44 @@
     "state": "MN",
     "zip_code": "55443",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 425-5420",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460159",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116396",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Michelle R Thole",
+    "compliance_visits": [
+      {
+        "date": "7/11/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/18/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/25/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/27/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:29.052Z"
   },
   {
     "license_number": "1085989",
@@ -45710,17 +46082,47 @@
     "zip_code": "55411",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 239-7498",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460171",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1085989",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Josalyn Ann Thomas",
+    "compliance_visits": [
+      {
+        "date": "5/28/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/13/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/27/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/26/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/24/2020",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:36.244Z"
   },
   {
     "license_number": "1036389",
@@ -45733,17 +46135,39 @@
     "zip_code": "55411-1015",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 520-4003",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460172",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1036389",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Juanita Thomas",
+    "compliance_visits": [
+      {
+        "date": "8/27/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/30/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/22/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:43.257Z"
   },
   {
     "license_number": "226404",
@@ -45755,18 +46179,48 @@
     "state": "MN",
     "zip_code": "55443-1782",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 597-4237",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460174",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=226404",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "heran Thomas",
+    "compliance_visits": [
+      {
+        "date": "3/6/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/20/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/12/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/20/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/12/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:50.846Z"
   },
   {
     "license_number": "1060800",
@@ -45778,18 +46232,40 @@
     "state": "MN",
     "zip_code": "55425-2183",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 237-7035",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460193",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060800",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Jamie Thompson",
+    "compliance_visits": [
+      {
+        "date": "11/22/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/20/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/26/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:56:58.112Z"
   },
   {
     "license_number": "1049424",
@@ -45801,18 +46277,44 @@
     "state": "MN",
     "zip_code": "55444-1329",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 669-3267",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460276",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1049424",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Helena Y Tokpah",
+    "compliance_visits": [
+      {
+        "date": "7/14/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/21/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/28/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:05.273Z"
   },
   {
     "license_number": "1015292",
@@ -45828,14 +46330,36 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 861-2951",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460309",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1015292",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Yvonne M Trawick",
+    "compliance_visits": [
+      {
+        "date": "8/21/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/12/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/29/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:12.650Z"
   },
   {
     "license_number": "218319",
@@ -45847,18 +46371,44 @@
     "state": "MN",
     "zip_code": "55445-7725",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 229-3050",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460320",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218319",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Cindy Tretsven",
+    "compliance_visits": [
+      {
+        "date": "4/30/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/29/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/26/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:20.024Z"
   },
   {
     "license_number": "212540",
@@ -45870,18 +46420,44 @@
     "state": "MN",
     "zip_code": "55441-5917",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 541-9877",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460327",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212540",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Nancy M Trombley",
+    "compliance_visits": [
+      {
+        "date": "8/14/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/14/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/22/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/24/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:26.996Z"
   },
   {
     "license_number": "1111997",
@@ -45893,18 +46469,40 @@
     "state": "MN",
     "zip_code": "55410-2428",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 889-5038",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460379",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111997",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Phyllis M Turner",
+    "compliance_visits": [
+      {
+        "date": "9/5/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/2/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/19/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:34.039Z"
   },
   {
     "license_number": "1028349",
@@ -45917,17 +46515,47 @@
     "zip_code": "55413-1022",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 706-2675",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460401",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1028349",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "vitlana Uniyat",
+    "compliance_visits": [
+      {
+        "date": "3/14/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/8/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/9/2024",
+        "type": "Licensing Investigation"
+      },
+      {
+        "date": "11/27/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/31/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:41.639Z"
   },
   {
     "license_number": "116863",
@@ -45939,18 +46567,44 @@
     "state": "MN",
     "zip_code": "55447-1052",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 476-1052",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460403",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=116863",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Becky A Undlin",
+    "compliance_visits": [
+      {
+        "date": "10/30/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/30/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/13/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/24/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:48.578Z"
   },
   {
     "license_number": "216407",
@@ -45963,17 +46617,43 @@
     "zip_code": "55346-2015",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 949-1141",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460416",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=216407",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Kathryn J Vaala",
+    "compliance_visits": [
+      {
+        "date": "4/24/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/4/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/26/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/20/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:57:56.078Z"
   },
   {
     "license_number": "1079757",
@@ -45986,17 +46666,43 @@
     "zip_code": "55347-1731",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 741-4458",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460444",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1079757",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Nicole R Vanden Boogart",
+    "compliance_visits": [
+      {
+        "date": "10/20/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/1/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/18/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/11/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:03.410Z"
   },
   {
     "license_number": "1057731",
@@ -46009,17 +46715,43 @@
     "zip_code": "55443-5432",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 269-9451",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460463",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057731",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Jennifer L Vandervegt",
+    "compliance_visits": [
+      {
+        "date": "9/23/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/8/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/13/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/11/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:10.312Z"
   },
   {
     "license_number": "1057913",
@@ -46032,17 +46764,39 @@
     "zip_code": "55369-8923",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 420-4300",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460487",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1057913",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Jackie VanSlooten",
+    "compliance_visits": [
+      {
+        "date": "5/23/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/26/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:18.892Z"
   },
   {
     "license_number": "1111006",
@@ -46055,17 +46809,35 @@
     "zip_code": "55422-3564",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 227-2970",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 2,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460515",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111006",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Connie K Vieira",
+    "compliance_visits": [
+      {
+        "date": "7/7/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/7/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:26.192Z"
   },
   {
     "license_number": "117092",
@@ -46081,14 +46853,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460537",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117092",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:32.096Z"
   },
   {
     "license_number": "220835",
@@ -46100,18 +46875,48 @@
     "state": "MN",
     "zip_code": "55369-1121",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 599-3292",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460548",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=220835",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "June Volk",
+    "compliance_visits": [
+      {
+        "date": "11/18/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/6/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/17/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/1/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/21/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:39.417Z"
   },
   {
     "license_number": "1023228",
@@ -46124,17 +46929,43 @@
     "zip_code": "55428",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 233-9308",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460564",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1023228",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "ara A Vos",
+    "compliance_visits": [
+      {
+        "date": "2/10/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/5/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/10/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/11/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:47.720Z"
   },
   {
     "license_number": "1060340",
@@ -46146,18 +46977,44 @@
     "state": "MN",
     "zip_code": "55410-2725",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 718-8002",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460585",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1060340",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Cathleen Renee Vrchota",
+    "compliance_visits": [
+      {
+        "date": "4/10/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/15/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/16/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/14/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:58:55.116Z"
   },
   {
     "license_number": "206275",
@@ -46170,17 +47027,43 @@
     "zip_code": "55311-2659",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 229-4311",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460596",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206275",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Amy Wagner",
+    "compliance_visits": [
+      {
+        "date": "2/13/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/27/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/6/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/30/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:02.896Z"
   },
   {
     "license_number": "1111175",
@@ -46193,17 +47076,39 @@
     "zip_code": "55316-3037",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(320) 582-1016",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460622",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1111175",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Haley Waldorf",
+    "compliance_visits": [
+      {
+        "date": "1/23/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/8/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/30/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:10.783Z"
   },
   {
     "license_number": "231066",
@@ -46219,14 +47124,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460658",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=231066",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:16.711Z"
   },
   {
     "license_number": "117331",
@@ -46239,17 +47147,47 @@
     "zip_code": "55406-4063",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 729-9572",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460683",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117331",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "heryl Warner",
+    "compliance_visits": [
+      {
+        "date": "3/14/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/1/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/25/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/8/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/31/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:25.761Z"
   },
   {
     "license_number": "117367",
@@ -46261,18 +47199,48 @@
     "state": "MN",
     "zip_code": "55447-1048",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 476-3016",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460688",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=117367",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Frances Waters",
+    "compliance_visits": [
+      {
+        "date": "4/23/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/22/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/9/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/31/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/28/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:33.612Z"
   },
   {
     "license_number": "1045779",
@@ -46285,17 +47253,47 @@
     "zip_code": "55419-5018",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 987-0119",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460698",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1045779",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Faye S Weaver",
+    "compliance_visits": [
+      {
+        "date": "11/21/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "12/13/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/15/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/25/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "12/10/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:41.071Z"
   },
   {
     "license_number": "1078665",
@@ -46307,18 +47305,44 @@
     "state": "MN",
     "zip_code": "55417",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 9,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 703-4540",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460705",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1078665",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Delaney S Webb",
+    "compliance_visits": [
+      {
+        "date": "2/12/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/6/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/15/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:48.692Z"
   },
   {
     "license_number": "218448",
@@ -46330,18 +47354,44 @@
     "state": "MN",
     "zip_code": "55375-1148",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 703-8598",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460744",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=218448",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Jill M Weinzierl",
+    "compliance_visits": [
+      {
+        "date": "10/20/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/3/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/1/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/30/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T07:59:56.178Z"
   },
   {
     "license_number": "206477",
@@ -46353,18 +47403,48 @@
     "state": "MN",
     "zip_code": "55431-2752",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 831-1879",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460755",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=206477",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Rebecca Weiss",
+    "compliance_visits": [
+      {
+        "date": "6/26/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/10/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/1/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/24/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/12/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:03.540Z"
   },
   {
     "license_number": "225065",
@@ -46377,17 +47457,39 @@
     "zip_code": "55422",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 439-6212",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460807",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=225065",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Laura M Wenner",
+    "compliance_visits": [
+      {
+        "date": "8/5/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/29/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:12.800Z"
   },
   {
     "license_number": "1043297",
@@ -46400,17 +47502,43 @@
     "zip_code": "55444-2938",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 424-3015",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460808",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1043297",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "tacy R Wensel",
+    "compliance_visits": [
+      {
+        "date": "10/2/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/2/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/8/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/4/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:21.892Z"
   },
   {
     "license_number": "1063277",
@@ -46423,17 +47551,43 @@
     "zip_code": "55428-2521",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 843-6485",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460826",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1063277",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Tiffany R Wesley",
+    "compliance_visits": [
+      {
+        "date": "9/22/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/30/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/15/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/6/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:33.073Z"
   },
   {
     "license_number": "236137",
@@ -46446,17 +47600,43 @@
     "zip_code": "55369-2612",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 439-5391",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460855",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236137",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Connie L Wetzel",
+    "compliance_visits": [
+      {
+        "date": "8/6/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/12/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/10/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/5/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:40.011Z"
   },
   {
     "license_number": "1026178",
@@ -46472,14 +47652,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460872",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1026178",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:46.060Z"
   },
   {
     "license_number": "1082658",
@@ -46491,18 +47674,44 @@
     "state": "MN",
     "zip_code": "55425",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 228-1642",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460882",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1082658",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Tanya E Whitesides",
+    "compliance_visits": [
+      {
+        "date": "4/16/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/22/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/28/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/26/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:00:54.483Z"
   },
   {
     "license_number": "1077874",
@@ -46514,18 +47723,48 @@
     "state": "MN",
     "zip_code": "55427-4537",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 875-4213",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460886",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1077874",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Twyla D Whitney Berry",
+    "compliance_visits": [
+      {
+        "date": "11/14/2025",
+        "type": "Licensing Investigation"
+      },
+      {
+        "date": "2/21/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/2/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/16/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/29/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:01.788Z"
   },
   {
     "license_number": "228023",
@@ -46541,14 +47780,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460924",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=228023",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:07.514Z"
   },
   {
     "license_number": "810705",
@@ -46561,17 +47803,43 @@
     "zip_code": "55311-1526",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 213-9678",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460948",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=810705",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Barbara Wilkinson",
+    "compliance_visits": [
+      {
+        "date": "4/10/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/13/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "7/3/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/3/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:14.998Z"
   },
   {
     "license_number": "1020507",
@@ -46583,18 +47851,44 @@
     "state": "MN",
     "zip_code": "55443-2325",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 560-6998",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460958",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1020507",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Alaere A Williams",
+    "compliance_visits": [
+      {
+        "date": "5/8/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/6/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/21/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/13/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:22.731Z"
   },
   {
     "license_number": "1115134",
@@ -46610,14 +47904,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460960",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1115134",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:28.570Z"
   },
   {
     "license_number": "1090264",
@@ -46633,14 +47930,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460975",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090264",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:34.369Z"
   },
   {
     "license_number": "229119",
@@ -46656,14 +47956,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.460979",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229119",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:40.310Z"
   },
   {
     "license_number": "232031",
@@ -46675,18 +47978,44 @@
     "state": "MN",
     "zip_code": "55422",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 210-8276",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461032",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232031",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Carri M Wirkes",
+    "compliance_visits": [
+      {
+        "date": "7/22/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/28/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/26/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:48.717Z"
   },
   {
     "license_number": "207330",
@@ -46698,18 +48027,44 @@
     "state": "MN",
     "zip_code": "55445-2144",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 424-6880",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461039",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=207330",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Pamela R Wirth",
+    "compliance_visits": [
+      {
+        "date": "6/12/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "12/17/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/21/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/9/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:01:56.071Z"
   },
   {
     "license_number": "217505",
@@ -46725,14 +48080,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461111",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=217505",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:01.773Z"
   },
   {
     "license_number": "1088024",
@@ -46744,18 +48102,44 @@
     "state": "MN",
     "zip_code": "55428-1665",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 387-5077",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461128",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1088024",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Isatu A Deen",
+    "compliance_visits": [
+      {
+        "date": "2/14/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/5/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/8/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "8/29/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:09.209Z"
   },
   {
     "license_number": "229667",
@@ -46767,18 +48151,40 @@
     "state": "MN",
     "zip_code": "55411-1112",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 14,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 522-3965",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 3,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461256",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229667",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Zang Chang",
+    "compliance_visits": [
+      {
+        "date": "8/27/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/26/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/30/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:16.294Z"
   },
   {
     "license_number": "1053302",
@@ -46790,18 +48196,44 @@
     "state": "MN",
     "zip_code": "55429-2049",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 951-3205",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461275",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1053302",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "handa Yang",
+    "compliance_visits": [
+      {
+        "date": "12/5/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/22/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/1/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/30/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:24.778Z"
   },
   {
     "license_number": "229461",
@@ -46817,14 +48249,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(651) 431-6500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461280",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=229461",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:30.433Z"
   },
   {
     "license_number": "1080160",
@@ -46837,17 +48272,47 @@
     "zip_code": "55441-2207",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 961-0644",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461281",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1080160",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Maria A Yassine",
+    "compliance_visits": [
+      {
+        "date": "7/22/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/24/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/20/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/30/2022",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/7/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:38.084Z"
   },
   {
     "license_number": "118192",
@@ -46859,18 +48324,44 @@
     "state": "MN",
     "zip_code": "55426-3024",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 925-1647",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461287",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=118192",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Deborah K Yellen",
+    "compliance_visits": [
+      {
+        "date": "4/3/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/18/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "2/1/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/21/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:45.422Z"
   },
   {
     "license_number": "212839",
@@ -46882,18 +48373,44 @@
     "state": "MN",
     "zip_code": "55407-3410",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 245-1499",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461296",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=212839",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Amy Young",
+    "compliance_visits": [
+      {
+        "date": "5/13/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/1/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "4/13/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:02:52.754Z"
   },
   {
     "license_number": "1032787",
@@ -46906,17 +48423,43 @@
     "zip_code": "55443-1627",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 221-1984",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461321",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1032787",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "taci L Zang Habighorst",
+    "compliance_visits": [
+      {
+        "date": "9/10/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/14/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "10/6/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:01.031Z"
   },
   {
     "license_number": "232631",
@@ -46928,18 +48471,44 @@
     "state": "MN",
     "zip_code": "55424-1936",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 10,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 925-1981",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461357",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=232631",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Catherine J Ziola",
+    "compliance_visits": [
+      {
+        "date": "6/25/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "9/13/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "6/28/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "1/2/2023",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:08.808Z"
   },
   {
     "license_number": "120038",
@@ -46951,18 +48520,48 @@
     "state": "MN",
     "zip_code": "55417",
     "county": "Hennepin",
-    "capacity": 12,
-    "status": "LICENSED",
+    "capacity": 9,
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 728-8087",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 5,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461366",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=120038",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Audrey J Zirbes",
+    "compliance_visits": [
+      {
+        "date": "3/26/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/14/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "11/14/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/11/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "12/22/2021",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:15.942Z"
   },
   {
     "license_number": "236478",
@@ -46975,17 +48574,43 @@
     "zip_code": "55347-4919",
     "county": "Hennepin",
     "capacity": 12,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 644-8645",
     "last_inspection_date": null,
-    "total_visits": null,
+    "total_visits": 4,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461379",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=236478",
-    "capacity_estimated": true
+    "capacity_estimated": false,
+    "capacity_infants": null,
+    "capacity_toddlers": null,
+    "capacity_preschool": null,
+    "capacity_school_age": null,
+    "license_holder": "Joan Zurn",
+    "compliance_visits": [
+      {
+        "date": "3/13/2025",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/14/2024",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "5/4/2023",
+        "type": "Licensing Review"
+      },
+      {
+        "date": "3/7/2022",
+        "type": "Licensing Review"
+      }
+    ],
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:23.497Z"
   },
   {
     "license_number": "1089333",
@@ -46998,17 +48623,20 @@
     "zip_code": "55316-3440",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 506-6013",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461413",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089333",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:29.291Z"
   },
   {
     "license_number": "1089332",
@@ -47021,17 +48649,20 @@
     "zip_code": "55327-9735",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 506-2213",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461414",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089332",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:35.424Z"
   },
   {
     "license_number": "1089415",
@@ -47044,17 +48675,20 @@
     "zip_code": "55444-2121",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 506-3613",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461429",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089415",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:41.373Z"
   },
   {
     "license_number": "1089324",
@@ -47067,17 +48701,20 @@
     "zip_code": "55316-3559",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 506-3813",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461435",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089324",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:47.092Z"
   },
   {
     "license_number": "1089163",
@@ -47093,14 +48730,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 230-3600",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461458",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089163",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:03:54.254Z"
   },
   {
     "license_number": "1096095",
@@ -47113,17 +48753,20 @@
     "zip_code": "55347-2274",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 975-6940",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461489",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096095",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:00.177Z"
   },
   {
     "license_number": "1089418",
@@ -47136,17 +48779,20 @@
     "zip_code": "55430-2614",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 503-8982",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461499",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089418",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:06.137Z"
   },
   {
     "license_number": "1096096",
@@ -47159,17 +48805,20 @@
     "zip_code": "55344-6631",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 975-6940",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461533",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096096",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:12.070Z"
   },
   {
     "license_number": "1089653",
@@ -47182,17 +48831,20 @@
     "zip_code": "55424-1713",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 848-3947",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461534",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089653",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:18.252Z"
   },
   {
     "license_number": "1089651",
@@ -47205,17 +48857,20 @@
     "zip_code": "55436-2501",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 848-3947",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461536",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089651",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:24.375Z"
   },
   {
     "license_number": "1089652",
@@ -47228,17 +48883,20 @@
     "zip_code": "55435-4137",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 848-3947",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461537",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089652",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:30.315Z"
   },
   {
     "license_number": "1089349",
@@ -47251,17 +48909,20 @@
     "zip_code": "55424-2401",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 848-3947",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461538",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089349",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:36.412Z"
   },
   {
     "license_number": "1089649",
@@ -47274,17 +48935,20 @@
     "zip_code": "55439-1124",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 848-3947",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461544",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089649",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:42.583Z"
   },
   {
     "license_number": "1089650",
@@ -47297,17 +48961,20 @@
     "zip_code": "55436-2017",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 848-3947",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461545",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089650",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:48.544Z"
   },
   {
     "license_number": "1089446",
@@ -47320,17 +48987,20 @@
     "zip_code": "55331-9164",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6830",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461550",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089446",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:04:54.587Z"
   },
   {
     "license_number": "1089329",
@@ -47343,17 +49013,20 @@
     "zip_code": "55429-0000",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 533-0500",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461552",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089329",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:00.660Z"
   },
   {
     "license_number": "1089724",
@@ -47366,17 +49039,20 @@
     "zip_code": "55331-3035",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6824",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461553",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089724",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:06.494Z"
   },
   {
     "license_number": "1089725",
@@ -47389,17 +49065,20 @@
     "zip_code": "55345-1003",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6824",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461554",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089725",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:12.463Z"
   },
   {
     "license_number": "1089729",
@@ -47412,17 +49091,20 @@
     "zip_code": "55391-4531",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6824",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461556",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089729",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:18.542Z"
   },
   {
     "license_number": "1089727",
@@ -47435,17 +49117,20 @@
     "zip_code": "55345-5235",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6824",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461559",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089727",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:24.600Z"
   },
   {
     "license_number": "1089726",
@@ -47458,17 +49143,20 @@
     "zip_code": "55331-8450",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6824",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461562",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089726",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:30.250Z"
   },
   {
     "license_number": "1089728",
@@ -47481,17 +49169,20 @@
     "zip_code": "55345-5022",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 401-6824",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461566",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089728",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:36.206Z"
   },
   {
     "license_number": "1096098",
@@ -47504,17 +49195,20 @@
     "zip_code": "55346-2804",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 975-6940",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461569",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1096098",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:41.795Z"
   },
   {
     "license_number": "1089682",
@@ -47527,17 +49221,20 @@
     "zip_code": "55311-3238",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 315-7687",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461575",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089682",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:47.821Z"
   },
   {
     "license_number": "1089635",
@@ -47550,17 +49247,20 @@
     "zip_code": "55369-5575",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 391-8547",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461576",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089635",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:53.772Z"
   },
   {
     "license_number": "1106009",
@@ -47573,17 +49273,20 @@
     "zip_code": "55369-5452",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 391-8688",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461578",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1106009",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:05:59.911Z"
   },
   {
     "license_number": "1089683",
@@ -47599,14 +49302,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 391-7214",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461581",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089683",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:05.956Z"
   },
   {
     "license_number": "1089637",
@@ -47619,17 +49325,20 @@
     "zip_code": "55311-1432",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 391-8877",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461582",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089637",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:11.985Z"
   },
   {
     "license_number": "1089685",
@@ -47642,17 +49351,20 @@
     "zip_code": "55369-9503",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 315-7385",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461584",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089685",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:17.974Z"
   },
   {
     "license_number": "1089630",
@@ -47665,17 +49377,20 @@
     "zip_code": "55443-4063",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 585-7281",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461585",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089630",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:23.761Z"
   },
   {
     "license_number": "1089636",
@@ -47688,17 +49403,20 @@
     "zip_code": "55311-4310",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 391-7210",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461588",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089636",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:29.922Z"
   },
   {
     "license_number": "1104919",
@@ -47711,17 +49429,20 @@
     "zip_code": "55405-1289",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 370-4951",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461597",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1104919",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:35.900Z"
   },
   {
     "license_number": "1089499",
@@ -47734,17 +49455,20 @@
     "zip_code": "55411-2450",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 465-0486",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461598",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089499",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:41.899Z"
   },
   {
     "license_number": "1089142",
@@ -47757,17 +49481,20 @@
     "zip_code": "55373-8100",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 477-7555",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461601",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089142",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:47.865Z"
   },
   {
     "license_number": "1112687",
@@ -47783,14 +49510,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 988-5004",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461605",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1112687",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:53.874Z"
   },
   {
     "license_number": "1110508",
@@ -47806,14 +49536,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 988-5004",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461609",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1110508",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:06:59.857Z"
   },
   {
     "license_number": "1095985",
@@ -47829,14 +49562,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 988-5262",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461610",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095985",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:05.861Z"
   },
   {
     "license_number": "1089443",
@@ -47852,14 +49588,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 988-5041",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461611",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089443",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:11.799Z"
   },
   {
     "license_number": "1095988",
@@ -47875,14 +49614,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 988-4951",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461612",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095988",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:17.845Z"
   },
   {
     "license_number": "1095987",
@@ -47898,14 +49640,17 @@
     "status": "LICENSED",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 988-5123",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461614",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1095987",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:23.855Z"
   },
   {
     "license_number": "1089131",
@@ -47918,17 +49663,20 @@
     "zip_code": "55374-7515",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(612) 685-6692",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461627",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089131",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:29.936Z"
   },
   {
     "license_number": "1089508",
@@ -47941,17 +49689,20 @@
     "zip_code": "55374-9192",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(763) 241-3520",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461633",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089508",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:35.705Z"
   },
   {
     "license_number": "1089477",
@@ -47964,17 +49715,20 @@
     "zip_code": "55437-2052",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 681-6125",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461711",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089477",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:41.786Z"
   },
   {
     "license_number": "1089475",
@@ -47987,17 +49741,20 @@
     "zip_code": "55431-2471",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 681-6125",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461713",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089475",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:47.769Z"
   },
   {
     "license_number": "1089479",
@@ -48010,17 +49767,20 @@
     "zip_code": "55437-2610",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 681-6125",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461714",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089479",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:53.688Z"
   },
   {
     "license_number": "1089478",
@@ -48033,17 +49793,20 @@
     "zip_code": "55431-3163",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 681-6125",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461715",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089478",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:07:59.619Z"
   },
   {
     "license_number": "1089480",
@@ -48056,17 +49819,20 @@
     "zip_code": "55437-1337",
     "county": "Hennepin",
     "capacity": 75,
-    "status": "LICENSED",
+    "status": "ACTIVE",
     "license_first_date": null,
     "license_expiration_date": null,
-    "phone": null,
+    "phone": "(952) 681-6125",
     "last_inspection_date": null,
     "total_visits": null,
     "total_citations": null,
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461717",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089480",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "maltreatment_info": "Investigation Memorandums",
+    "dhs_enriched": true,
+    "dhs_enriched_at": "2026-01-02T08:08:05.487Z"
   },
   {
     "license_number": "1089483",
