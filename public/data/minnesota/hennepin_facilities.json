@@ -70,7 +70,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:06:05.314Z"
+    "dhs_enriched_at": "2026-01-02T06:06:05.314Z",
+    "latitude": 45.1093211,
+    "longitude": -93.3449614,
+    "geocoded_at": "2026-01-06T07:40:38.045Z"
   },
   {
     "license_number": "1081425",
@@ -148,7 +151,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:06:17.307Z"
+    "dhs_enriched_at": "2026-01-02T06:06:17.307Z",
+    "latitude": 44.9567982,
+    "longitude": -93.2408235,
+    "geocoded_at": "2026-01-06T07:40:41.627Z"
   },
   {
     "license_number": "800020",
@@ -197,7 +203,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:06:23.385Z"
+    "dhs_enriched_at": "2026-01-02T06:06:23.385Z",
+    "latitude": 43.2587266,
+    "longitude": -88.3630279,
+    "geocoded_at": "2026-01-06T07:40:48.865Z"
   },
   {
     "license_number": "1095850",
@@ -828,7 +837,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:07:36.057Z"
+    "dhs_enriched_at": "2026-01-02T06:07:36.057Z",
+    "latitude": 44.898113,
+    "longitude": -93.43607,
+    "geocoded_at": "2026-01-06T07:40:51.603Z"
   },
   {
     "license_number": "1080082",
@@ -877,7 +889,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:07:41.817Z"
+    "dhs_enriched_at": "2026-01-02T06:07:41.817Z",
+    "latitude": 44.9550681,
+    "longitude": -93.2353391,
+    "geocoded_at": "2026-01-06T07:40:55.133Z"
   },
   {
     "license_number": "1087704",
@@ -2048,7 +2063,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:09:59.089Z"
+    "dhs_enriched_at": "2026-01-02T06:09:59.089Z",
+    "latitude": 40.095752,
+    "longitude": -75.3058254,
+    "geocoded_at": "2026-01-06T07:40:59.078Z"
   },
   {
     "license_number": "800229",
@@ -2097,7 +2115,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:11:01.967Z"
+    "dhs_enriched_at": "2026-01-02T06:11:01.967Z",
+    "latitude": 44.9811282,
+    "longitude": -93.3424552,
+    "geocoded_at": "2026-01-06T07:41:05.872Z"
   },
   {
     "license_number": "1018118",
@@ -2208,7 +2229,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:11:19.828Z"
+    "dhs_enriched_at": "2026-01-02T06:11:19.828Z",
+    "latitude": 44.9775854,
+    "longitude": -93.2713333,
+    "geocoded_at": "2026-01-06T07:41:08.502Z"
   },
   {
     "license_number": "1037620",
@@ -2257,7 +2281,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:11:25.901Z"
+    "dhs_enriched_at": "2026-01-02T06:11:25.901Z",
+    "latitude": 44.9796029,
+    "longitude": -93.4563607,
+    "geocoded_at": "2026-01-06T07:41:11.183Z"
   },
   {
     "license_number": "1080450",
@@ -2902,7 +2929,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:12:37.763Z"
+    "dhs_enriched_at": "2026-01-02T06:12:37.763Z",
+    "latitude": 44.938668,
+    "longitude": -93.512583,
+    "geocoded_at": "2026-01-06T07:41:17.056Z"
   },
   {
     "license_number": "800314",
@@ -3424,7 +3454,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:13:38.648Z"
+    "dhs_enriched_at": "2026-01-02T06:13:38.648Z",
+    "latitude": 45.0627372,
+    "longitude": -93.3118685,
+    "geocoded_at": "2026-01-06T07:41:20.574Z"
   },
   {
     "license_number": "1113282",
@@ -3752,7 +3785,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:14:20.448Z"
+    "dhs_enriched_at": "2026-01-02T06:14:20.448Z",
+    "latitude": 44.9712813,
+    "longitude": -93.4937767,
+    "geocoded_at": "2026-01-06T07:41:33.254Z"
   },
   {
     "license_number": "1095453",
@@ -3801,7 +3837,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:14:26.258Z"
+    "dhs_enriched_at": "2026-01-02T06:14:26.258Z",
+    "latitude": 44.9457731,
+    "longitude": -93.4995382,
+    "geocoded_at": "2026-01-06T07:41:38.864Z"
   },
   {
     "license_number": "802475",
@@ -4080,7 +4119,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:15:01.404Z"
+    "dhs_enriched_at": "2026-01-02T06:15:01.404Z",
+    "latitude": 44.9480517,
+    "longitude": -93.2717107,
+    "geocoded_at": "2026-01-06T07:41:42.112Z"
   },
   {
     "license_number": "1092201",
@@ -4290,7 +4332,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:15:25.398Z"
+    "dhs_enriched_at": "2026-01-02T06:15:25.398Z",
+    "latitude": 45.1069377,
+    "longitude": -93.4564246,
+    "geocoded_at": "2026-01-06T07:41:45.014Z"
   },
   {
     "license_number": "800578",
@@ -5349,7 +5394,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:17:39.263Z"
+    "dhs_enriched_at": "2026-01-02T06:17:39.263Z",
+    "latitude": 44.86284,
+    "longitude": -93.3210606,
+    "geocoded_at": "2026-01-06T07:41:54.772Z"
   },
   {
     "license_number": "800747",
@@ -6263,7 +6311,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:19:20.580Z"
+    "dhs_enriched_at": "2026-01-02T06:19:20.580Z",
+    "latitude": 44.9628138,
+    "longitude": -93.2545523,
+    "geocoded_at": "2026-01-06T07:41:59.574Z"
   },
   {
     "license_number": "1057345",
@@ -8766,7 +8817,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:24:07.652Z"
+    "dhs_enriched_at": "2026-01-02T06:24:07.652Z",
+    "latitude": 44.9480421,
+    "longitude": -93.2786183,
+    "geocoded_at": "2026-01-06T07:42:12.625Z"
   },
   {
     "license_number": "1057300",
@@ -9400,7 +9454,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:25:20.619Z"
+    "dhs_enriched_at": "2026-01-02T06:25:20.619Z",
+    "latitude": 45.104378,
+    "longitude": -93.4462787,
+    "geocoded_at": "2026-01-06T07:42:18.617Z"
   },
   {
     "license_number": "1092660",
@@ -10069,7 +10126,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:26:26.554Z"
+    "dhs_enriched_at": "2026-01-02T06:26:26.554Z",
+    "latitude": 44.9782957,
+    "longitude": -93.2718215,
+    "geocoded_at": "2026-01-06T07:42:21.777Z"
   },
   {
     "license_number": "800435",
@@ -12247,7 +12307,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:30:26.704Z"
+    "dhs_enriched_at": "2026-01-02T06:30:26.704Z",
+    "latitude": 41.5381224,
+    "longitude": -93.5994326,
+    "geocoded_at": "2026-01-06T07:42:41.504Z"
   },
   {
     "license_number": "1081046",
@@ -13805,7 +13868,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:33:37.236Z"
+    "dhs_enriched_at": "2026-01-02T06:33:37.236Z",
+    "latitude": 44.9513829,
+    "longitude": -93.2561569,
+    "geocoded_at": "2026-01-06T07:42:55.830Z"
   },
   {
     "license_number": "1085773",
@@ -13883,7 +13949,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:33:48.949Z"
+    "dhs_enriched_at": "2026-01-02T06:33:48.949Z",
+    "latitude": 44.9521395,
+    "longitude": -93.2659258,
+    "geocoded_at": "2026-01-06T07:43:00.167Z"
   },
   {
     "license_number": "1112235",
@@ -13973,7 +14042,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:34:01.027Z"
+    "dhs_enriched_at": "2026-01-02T06:34:01.027Z",
+    "latitude": 45.1067964,
+    "longitude": -93.4561667,
+    "geocoded_at": "2026-01-06T07:43:04.330Z"
   },
   {
     "license_number": "1058149",
@@ -14358,7 +14430,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:34:43.222Z"
+    "dhs_enriched_at": "2026-01-02T06:34:43.222Z",
+    "latitude": 44.9485074,
+    "longitude": -93.283785,
+    "geocoded_at": "2026-01-06T07:43:07.233Z"
   },
   {
     "license_number": "1064168",
@@ -14467,7 +14542,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:34:56.002Z"
+    "dhs_enriched_at": "2026-01-02T06:34:56.002Z",
+    "latitude": 44.9621092,
+    "longitude": -93.3327975,
+    "geocoded_at": "2026-01-06T07:43:13.722Z"
   },
   {
     "license_number": "801563",
@@ -14790,7 +14868,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:35:38.097Z"
+    "dhs_enriched_at": "2026-01-02T06:35:38.097Z",
+    "latitude": 44.8637679,
+    "longitude": -93.3586365,
+    "geocoded_at": "2026-01-06T07:43:16.799Z"
   },
   {
     "license_number": "1064787",
@@ -14939,7 +15020,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:35:56.211Z"
+    "dhs_enriched_at": "2026-01-02T06:35:56.211Z",
+    "latitude": 44.948442,
+    "longitude": -93.2561058,
+    "geocoded_at": "2026-01-06T07:43:19.986Z"
   },
   {
     "license_number": "801601",
@@ -15284,7 +15368,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:36:44.027Z"
+    "dhs_enriched_at": "2026-01-02T06:36:44.027Z",
+    "latitude": 43.681468,
+    "longitude": -92.972102,
+    "geocoded_at": "2026-01-06T07:43:35.812Z"
   },
   {
     "license_number": "809464",
@@ -15882,7 +15969,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:37:44.044Z"
+    "dhs_enriched_at": "2026-01-02T06:37:44.044Z",
+    "latitude": 44.3475267,
+    "longitude": -93.1108867,
+    "geocoded_at": "2026-01-06T07:43:49.841Z"
   },
   {
     "license_number": "1064732",
@@ -16328,7 +16418,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:38:25.467Z"
+    "dhs_enriched_at": "2026-01-02T06:38:25.467Z",
+    "latitude": 45.1115316,
+    "longitude": -93.3026279,
+    "geocoded_at": "2026-01-06T07:43:59.711Z"
   },
   {
     "license_number": "1036265",
@@ -16885,7 +16978,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:39:21.542Z"
+    "dhs_enriched_at": "2026-01-02T06:39:21.542Z",
+    "latitude": 35.2637706,
+    "longitude": -80.1171969,
+    "geocoded_at": "2026-01-06T07:44:08.370Z"
   },
   {
     "license_number": "1021279",
@@ -16942,7 +17038,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:39:27.478Z"
+    "dhs_enriched_at": "2026-01-02T06:39:27.478Z",
+    "latitude": 34.1767986,
+    "longitude": -82.201772,
+    "geocoded_at": "2026-01-06T07:44:15.257Z"
   },
   {
     "license_number": "801688",
@@ -17391,7 +17490,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:40:03.768Z"
+    "dhs_enriched_at": "2026-01-02T06:40:03.768Z",
+    "latitude": 44.9675249,
+    "longitude": -93.3415242,
+    "geocoded_at": "2026-01-06T07:44:23.840Z"
   },
   {
     "license_number": "1115227",
@@ -17868,7 +17970,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:40:58.297Z"
+    "dhs_enriched_at": "2026-01-02T06:40:58.297Z",
+    "latitude": 44.9485074,
+    "longitude": -93.283785,
+    "geocoded_at": "2026-01-06T07:44:26.908Z"
   },
   {
     "license_number": "1106142",
@@ -18133,7 +18238,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:41:28.570Z"
+    "dhs_enriched_at": "2026-01-02T06:41:28.570Z",
+    "latitude": 39.1235923,
+    "longitude": -84.5453288,
+    "geocoded_at": "2026-01-06T07:44:33.154Z"
   },
   {
     "license_number": "806785",
@@ -18506,7 +18614,10 @@
     ],
     "maltreatment_info": "Investigation\t+ See Violation(s)",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:42:11.210Z"
+    "dhs_enriched_at": "2026-01-02T06:42:11.210Z",
+    "latitude": 44.9434427,
+    "longitude": -93.3456403,
+    "geocoded_at": "2026-01-06T07:44:41.757Z"
   },
   {
     "license_number": "1112075",
@@ -20458,7 +20569,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:46:51.152Z"
+    "dhs_enriched_at": "2026-01-02T06:46:51.152Z",
+    "latitude": 39.1235923,
+    "longitude": -84.5453288,
+    "geocoded_at": "2026-01-06T07:44:55.028Z"
   },
   {
     "license_number": "1106130",
@@ -20770,7 +20884,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:47:32.745Z"
+    "dhs_enriched_at": "2026-01-02T06:47:32.745Z",
+    "latitude": 45.1293828,
+    "longitude": -93.6664118,
+    "geocoded_at": "2026-01-06T07:45:02.954Z"
   },
   {
     "license_number": "1114575",
@@ -20796,7 +20913,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:47:38.737Z"
+    "dhs_enriched_at": "2026-01-02T06:47:38.737Z",
+    "latitude": 44.9710283,
+    "longitude": -93.2161298,
+    "geocoded_at": "2026-01-06T07:45:05.474Z"
   },
   {
     "license_number": "1088993",
@@ -21135,7 +21255,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:48:22.067Z"
+    "dhs_enriched_at": "2026-01-02T06:48:22.067Z",
+    "latitude": 44.9482799,
+    "longitude": -93.2571481,
+    "geocoded_at": "2026-01-06T07:45:10.005Z"
   },
   {
     "license_number": "802223",
@@ -21389,7 +21512,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:48:53.541Z"
+    "dhs_enriched_at": "2026-01-02T06:48:53.541Z",
+    "latitude": 42.4243145,
+    "longitude": -90.435817,
+    "geocoded_at": "2026-01-06T07:45:26.845Z"
   },
   {
     "license_number": "1062906",
@@ -21766,7 +21892,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:49:35.162Z"
+    "dhs_enriched_at": "2026-01-02T06:49:35.162Z",
+    "latitude": 44.9862415,
+    "longitude": -93.5029829,
+    "geocoded_at": "2026-01-06T07:45:31.218Z"
   },
   {
     "license_number": "1115061",
@@ -23340,7 +23469,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:52:42.309Z"
+    "dhs_enriched_at": "2026-01-02T06:52:42.309Z",
+    "latitude": 44.9515555,
+    "longitude": -93.2376811,
+    "geocoded_at": "2026-01-06T07:45:39.898Z"
   },
   {
     "license_number": "1100881",
@@ -23437,7 +23569,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:52:54.513Z"
+    "dhs_enriched_at": "2026-01-02T06:52:54.513Z",
+    "latitude": 44.9485074,
+    "longitude": -93.283785,
+    "geocoded_at": "2026-01-06T07:45:43.709Z"
   },
   {
     "license_number": "1085546",
@@ -23486,7 +23621,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:53:00.513Z"
+    "dhs_enriched_at": "2026-01-02T06:53:00.513Z",
+    "latitude": 44.8694147,
+    "longitude": -93.3596855,
+    "geocoded_at": "2026-01-06T07:45:46.166Z"
   },
   {
     "license_number": "1094457",
@@ -23739,7 +23877,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:53:30.470Z"
+    "dhs_enriched_at": "2026-01-02T06:53:30.470Z",
+    "latitude": 44.856715,
+    "longitude": -93.248033,
+    "geocoded_at": "2026-01-06T07:45:49.662Z"
   },
   {
     "license_number": "1059378",
@@ -23972,7 +24113,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:53:54.284Z"
+    "dhs_enriched_at": "2026-01-02T06:53:54.284Z",
+    "latitude": 44.963723,
+    "longitude": -93.442201,
+    "geocoded_at": "2026-01-06T07:45:52.148Z"
   },
   {
     "license_number": "1093613",
@@ -24537,7 +24681,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:54:53.783Z"
+    "dhs_enriched_at": "2026-01-02T06:54:53.783Z",
+    "latitude": 43.121225,
+    "longitude": -78.939722,
+    "geocoded_at": "2026-01-06T07:45:59.550Z"
   },
   {
     "license_number": "1000642",
@@ -25058,7 +25205,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:55:50.254Z"
+    "dhs_enriched_at": "2026-01-02T06:55:50.254Z",
+    "latitude": 45.019031,
+    "longitude": -93.2103409,
+    "geocoded_at": "2026-01-06T07:46:06.376Z"
   },
   {
     "license_number": "810915",
@@ -25197,7 +25347,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:56:09.377Z"
+    "dhs_enriched_at": "2026-01-02T06:56:09.377Z",
+    "latitude": 44.8111968,
+    "longitude": -93.3270843,
+    "geocoded_at": "2026-01-06T07:46:17.633Z"
   },
   {
     "license_number": "802633",
@@ -25494,7 +25647,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:56:45.390Z"
+    "dhs_enriched_at": "2026-01-02T06:56:45.390Z",
+    "latitude": 44.9789026,
+    "longitude": -93.5756263,
+    "geocoded_at": "2026-01-06T07:46:26.201Z"
   },
   {
     "license_number": "802679",
@@ -25563,7 +25719,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:56:51.372Z"
+    "dhs_enriched_at": "2026-01-02T06:56:51.372Z",
+    "latitude": 44.9651036,
+    "longitude": -93.3262673,
+    "geocoded_at": "2026-01-06T07:46:32.768Z"
   },
   {
     "license_number": "802734",
@@ -26571,7 +26730,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:58:44.062Z"
+    "dhs_enriched_at": "2026-01-02T06:58:44.062Z",
+    "latitude": 44.9201382,
+    "longitude": -93.3998937,
+    "geocoded_at": "2026-01-06T07:46:42.548Z"
   },
   {
     "license_number": "190498",
@@ -26626,7 +26788,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:58:55.669Z"
+    "dhs_enriched_at": "2026-01-02T06:58:55.669Z",
+    "latitude": 38.6485279,
+    "longitude": -90.2140756,
+    "geocoded_at": "2026-01-06T07:46:48.962Z"
   },
   {
     "license_number": "1092960",
@@ -26704,7 +26869,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T06:59:09.029Z"
+    "dhs_enriched_at": "2026-01-02T06:59:09.029Z",
+    "latitude": 45.0666999,
+    "longitude": -93.2370899,
+    "geocoded_at": "2026-01-06T07:46:54.355Z"
   },
   {
     "license_number": "1113029",
@@ -28130,7 +28298,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:03:00.611Z"
+    "dhs_enriched_at": "2026-01-02T07:03:00.611Z",
+    "latitude": 44.9675249,
+    "longitude": -93.3415242,
+    "geocoded_at": "2026-01-06T07:47:01.679Z"
   },
   {
     "license_number": "1031603",
@@ -30573,7 +30744,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:09:31.307Z"
+    "dhs_enriched_at": "2026-01-02T07:09:31.307Z",
+    "latitude": 33.6458087,
+    "longitude": -85.9013615,
+    "geocoded_at": "2026-01-06T07:47:15.254Z"
   },
   {
     "license_number": "1028710",
@@ -31620,7 +31794,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:12:20.009Z"
+    "dhs_enriched_at": "2026-01-02T07:12:20.009Z",
+    "latitude": 45.0025109,
+    "longitude": -93.302061,
+    "geocoded_at": "2026-01-06T07:47:19.571Z"
   },
   {
     "license_number": "103321",
@@ -32196,7 +32373,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:13:43.599Z"
+    "dhs_enriched_at": "2026-01-02T07:13:43.599Z",
+    "latitude": 45.0651811,
+    "longitude": -93.7168749,
+    "geocoded_at": "2026-01-06T07:47:35.765Z"
   },
   {
     "license_number": "206459",
@@ -33380,7 +33560,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:16:55.822Z"
+    "dhs_enriched_at": "2026-01-02T07:16:55.822Z",
+    "latitude": 45.2351677,
+    "longitude": -93.5388779,
+    "geocoded_at": "2026-01-06T07:47:42.477Z"
   },
   {
     "license_number": "232255",
@@ -34434,7 +34617,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:19:47.214Z"
+    "dhs_enriched_at": "2026-01-02T07:19:47.214Z",
+    "latitude": 45.0064598,
+    "longitude": -93.5071389,
+    "geocoded_at": "2026-01-06T07:47:54.247Z"
   },
   {
     "license_number": "204934",
@@ -34479,7 +34665,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:19:54.248Z"
+    "dhs_enriched_at": "2026-01-02T07:19:54.248Z",
+    "latitude": 44.947727,
+    "longitude": -93.498574,
+    "geocoded_at": "2026-01-06T07:47:59.699Z"
   },
   {
     "license_number": "214385",
@@ -35156,7 +35345,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:21:36.205Z"
+    "dhs_enriched_at": "2026-01-02T07:21:36.205Z",
+    "latitude": 44.9613188,
+    "longitude": -93.2614289,
+    "geocoded_at": "2026-01-06T07:48:02.666Z"
   },
   {
     "license_number": "1099495",
@@ -38120,7 +38312,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:29:07.774Z"
+    "dhs_enriched_at": "2026-01-02T07:29:07.774Z",
+    "latitude": 44.8084915,
+    "longitude": -93.331458,
+    "geocoded_at": "2026-01-06T07:48:21.203Z"
   },
   {
     "license_number": "108169",
@@ -38506,7 +38701,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:30:08.783Z"
+    "dhs_enriched_at": "2026-01-02T07:30:08.783Z",
+    "latitude": 44.9748994,
+    "longitude": -93.3806285,
+    "geocoded_at": "2026-01-06T07:48:27.347Z"
   },
   {
     "license_number": "216705",
@@ -38611,7 +38809,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:30:23.786Z"
+    "dhs_enriched_at": "2026-01-02T07:30:23.786Z",
+    "latitude": 44.9159372,
+    "longitude": -93.2306861,
+    "geocoded_at": "2026-01-06T07:48:30.009Z"
   },
   {
     "license_number": "1040145",
@@ -39007,7 +39208,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:31:27.422Z"
+    "dhs_enriched_at": "2026-01-02T07:31:27.422Z",
+    "latitude": 45.0298054,
+    "longitude": -93.2192892,
+    "geocoded_at": "2026-01-06T07:48:35.511Z"
   },
   {
     "license_number": "1051408",
@@ -39212,7 +39416,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:32:00.789Z"
+    "dhs_enriched_at": "2026-01-02T07:32:00.789Z",
+    "latitude": 43.076706,
+    "longitude": -75.043833,
+    "geocoded_at": "2026-01-06T07:48:41.357Z"
   },
   {
     "license_number": "209503",
@@ -40818,7 +41025,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:35:59.666Z"
+    "dhs_enriched_at": "2026-01-02T07:35:59.666Z",
+    "latitude": 44.889964,
+    "longitude": -93.587816,
+    "geocoded_at": "2026-01-06T07:48:52.539Z"
   },
   {
     "license_number": "121532",
@@ -42159,7 +42369,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:39:23.985Z"
+    "dhs_enriched_at": "2026-01-02T07:39:23.985Z",
+    "latitude": 40.7409325,
+    "longitude": -96.845533,
+    "geocoded_at": "2026-01-06T07:49:06.599Z"
   },
   {
     "license_number": "1065964",
@@ -42266,7 +42479,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:39:42.485Z"
+    "dhs_enriched_at": "2026-01-02T07:39:42.485Z",
+    "latitude": 45.0018549,
+    "longitude": -93.5885487,
+    "geocoded_at": "2026-01-06T07:49:12.916Z"
   },
   {
     "license_number": "111580",
@@ -43372,7 +43588,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:42:23.201Z"
+    "dhs_enriched_at": "2026-01-02T07:42:23.201Z",
+    "latitude": 40.7597624,
+    "longitude": -73.9408112,
+    "geocoded_at": "2026-01-06T07:49:19.475Z"
   },
   {
     "license_number": "1012334",
@@ -44233,7 +44452,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:44:40.508Z"
+    "dhs_enriched_at": "2026-01-02T07:44:40.508Z",
+    "latitude": 45.2434733,
+    "longitude": -91.6335208,
+    "geocoded_at": "2026-01-06T07:49:27.257Z"
   },
   {
     "license_number": "1023126",
@@ -44278,7 +44500,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:44:47.778Z"
+    "dhs_enriched_at": "2026-01-02T07:44:47.778Z",
+    "latitude": 45.1520687,
+    "longitude": -93.3672408,
+    "geocoded_at": "2026-01-06T07:49:29.391Z"
   },
   {
     "license_number": "1104236",
@@ -45314,7 +45539,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:47:24.478Z"
+    "dhs_enriched_at": "2026-01-02T07:47:24.478Z",
+    "latitude": 40.2530665,
+    "longitude": -94.0603738,
+    "geocoded_at": "2026-01-06T07:49:50.865Z"
   },
   {
     "license_number": "219326",
@@ -45496,7 +45724,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:47:52.334Z"
+    "dhs_enriched_at": "2026-01-02T07:47:52.334Z",
+    "latitude": 45.2108498,
+    "longitude": -93.4354214,
+    "geocoded_at": "2026-01-06T07:49:53.774Z"
   },
   {
     "license_number": "232202",
@@ -46378,7 +46609,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:50:14.472Z"
+    "dhs_enriched_at": "2026-01-02T07:50:14.472Z",
+    "latitude": 45.0018077,
+    "longitude": -93.5873965,
+    "geocoded_at": "2026-01-06T07:50:12.537Z"
   },
   {
     "license_number": "1016745",
@@ -46691,7 +46925,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:51:03.007Z"
+    "dhs_enriched_at": "2026-01-02T07:51:03.007Z",
+    "latitude": 44.919866,
+    "longitude": -93.5434833,
+    "geocoded_at": "2026-01-06T07:50:18.642Z"
   },
   {
     "license_number": "1111176",
@@ -46740,7 +46977,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T07:51:11.987Z"
+    "dhs_enriched_at": "2026-01-02T07:51:11.987Z",
+    "latitude": 45.1198728,
+    "longitude": -93.3489252,
+    "geocoded_at": "2026-01-06T07:50:25.432Z"
   },
   {
     "license_number": "120063",
@@ -51394,7 +51634,10 @@
     ],
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T08:03:23.497Z"
+    "dhs_enriched_at": "2026-01-02T08:03:23.497Z",
+    "latitude": 44.4408153,
+    "longitude": -93.1873566,
+    "geocoded_at": "2026-01-06T07:50:43.746Z"
   },
   {
     "license_number": "1089333",
@@ -51826,7 +52069,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T08:04:54.587Z"
+    "dhs_enriched_at": "2026-01-02T08:04:54.587Z",
+    "latitude": 44.9208308,
+    "longitude": -93.5237341,
+    "geocoded_at": "2026-01-06T07:50:50.844Z"
   },
   {
     "license_number": "1089329",
@@ -51852,7 +52098,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T08:05:00.660Z"
+    "dhs_enriched_at": "2026-01-02T08:05:00.660Z",
+    "latitude": 45.072984,
+    "longitude": -93.3544049,
+    "geocoded_at": "2026-01-06T07:50:53.882Z"
   },
   {
     "license_number": "1089724",
@@ -51936,7 +52185,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T08:05:18.542Z"
+    "dhs_enriched_at": "2026-01-02T08:05:18.542Z",
+    "latitude": 37.9951495,
+    "longitude": -121.7484344,
+    "geocoded_at": "2026-01-06T07:50:59.572Z"
   },
   {
     "license_number": "1089727",
@@ -52658,7 +52910,10 @@
     "capacity_estimated": true,
     "maltreatment_info": "Investigation Memorandums",
     "dhs_enriched": true,
-    "dhs_enriched_at": "2026-01-02T08:07:47.769Z"
+    "dhs_enriched_at": "2026-01-02T08:07:47.769Z",
+    "latitude": 47.2326988,
+    "longitude": -91.7107561,
+    "geocoded_at": "2026-01-06T07:51:06.748Z"
   },
   {
     "license_number": "1089479",
@@ -52872,7 +53127,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461726",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089173",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 45.0644082,
+    "longitude": -93.3899788,
+    "geocoded_at": "2026-01-06T07:51:13.562Z"
   },
   {
     "license_number": "1089352",
@@ -52996,7 +53254,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461734",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089358",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 45.0344834,
+    "longitude": -93.41926,
+    "geocoded_at": "2026-01-06T07:51:27.466Z"
   },
   {
     "license_number": "1089356",
@@ -53175,7 +53436,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461744",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089294",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 45.027881,
+    "longitude": -93.217989,
+    "geocoded_at": "2026-01-06T07:51:35.645Z"
   },
   {
     "license_number": "1092542",
@@ -53380,7 +53644,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461906",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089472",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 44.9395427,
+    "longitude": -93.3591402,
+    "geocoded_at": "2026-01-06T07:51:44.877Z"
   },
   {
     "license_number": "1089469",
@@ -53429,7 +53696,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461909",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1102563",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 44.9651036,
+    "longitude": -93.3262673,
+    "geocoded_at": "2026-01-06T07:51:52.822Z"
   },
   {
     "license_number": "1089470",
@@ -53556,7 +53826,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461920",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089365",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 45.1170402,
+    "longitude": -93.3566166,
+    "geocoded_at": "2026-01-06T07:51:58.399Z"
   },
   {
     "license_number": "1089369",
@@ -54073,7 +54346,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.461999",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089557",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 44.9416773,
+    "longitude": -93.2828628,
+    "geocoded_at": "2026-01-06T07:52:02.362Z"
   },
   {
     "license_number": "1089589",
@@ -54717,7 +54993,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462131",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089802",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 44.942039,
+    "longitude": -93.512395,
+    "geocoded_at": "2026-01-06T07:52:15.726Z"
   },
   {
     "license_number": "1089436",
@@ -54896,7 +55175,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462182",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1090816",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 45.4720329,
+    "longitude": -94.289571,
+    "geocoded_at": "2026-01-06T07:52:23.081Z"
   },
   {
     "license_number": "1089437",
@@ -54971,7 +55253,10 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462252",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089300",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 45.1337815,
+    "longitude": -93.2730195,
+    "geocoded_at": "2026-01-06T07:52:28.842Z"
   },
   {
     "license_number": "1089364",
@@ -54994,6 +55279,9 @@
     "total_complaints": null,
     "scraped_at": "2026-01-01T19:56:23.462262",
     "dhs_url": "https://licensinglookup.dhs.state.mn.us/Details.aspx?l=1089364",
-    "capacity_estimated": true
+    "capacity_estimated": true,
+    "latitude": 44.965943,
+    "longitude": -93.433838,
+    "geocoded_at": "2026-01-06T07:52:35.059Z"
   }
 ]
