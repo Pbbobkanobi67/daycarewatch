@@ -2188,3 +2188,523 @@
 .high-risk-table .clickable-row:hover td {
   background-color: #f0f7ff;
 }
+
+/* ===== About & Methodology Pages ===== */
+.page-content {
+  padding: 2rem 0;
+}
+
+.about-page,
+.methodology-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  color: #1a365d;
+  margin: 0 0 0.75rem 0;
+}
+
+.page-subtitle {
+  font-size: 1.25rem;
+  color: #64748b;
+  margin: 0;
+}
+
+.about-section,
+.method-section {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.about-section:last-child,
+.method-section:last-child {
+  border-bottom: none;
+}
+
+.section-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  background: linear-gradient(135deg, #1a365d, #2c5282);
+  border-radius: 12px;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.about-section h2,
+.method-section h2 {
+  font-size: 1.75rem;
+  color: #1a365d;
+  margin: 0 0 1rem 0;
+}
+
+.about-section p,
+.method-section p {
+  color: #475569;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+/* Problem Stats */
+.problem-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.problem-stat {
+  text-align: center;
+  padding: 1.5rem;
+  background: #fef2f2;
+  border-radius: 12px;
+  border: 1px solid #fecaca;
+}
+
+.problem-stat .stat-number {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #dc2626;
+  margin-bottom: 0.5rem;
+}
+
+.problem-stat .stat-desc {
+  font-size: 0.875rem;
+  color: #991b1b;
+}
+
+/* Feature Grid */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.feature-card {
+  padding: 1.5rem;
+  background: #f8fafc;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+}
+
+.feature-card svg {
+  color: #2c5282;
+  margin-bottom: 0.75rem;
+}
+
+.feature-card h3 {
+  font-size: 1.1rem;
+  color: #1a365d;
+  margin: 0 0 0.5rem 0;
+}
+
+.feature-card p {
+  font-size: 0.9rem;
+  color: #64748b;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* CTA Buttons */
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.cta-button.primary {
+  background: #1a365d;
+  color: white;
+}
+
+.cta-button.primary:hover {
+  background: #2c5282;
+}
+
+.cta-button.secondary {
+  background: white;
+  color: #1a365d;
+  border: 2px solid #1a365d;
+}
+
+.cta-button.secondary:hover {
+  background: #f1f5f9;
+}
+
+/* Contribute Ways */
+.contribute-ways {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contribute-item {
+  padding: 1rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border-left: 4px solid #2c5282;
+  color: #475569;
+}
+
+.contribute-item strong {
+  color: #1a365d;
+}
+
+/* Disclaimer */
+.about-section.disclaimer {
+  background: #fefce8;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #fef08a;
+}
+
+.about-section.disclaimer h2 {
+  color: #a16207;
+}
+
+.about-section.disclaimer p {
+  color: #78350f;
+}
+
+/* Data Sources */
+.data-source-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.data-source {
+  padding: 1.5rem;
+  background: #f8fafc;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+}
+
+.data-source.pending {
+  background: #fefce8;
+  border-color: #fef08a;
+}
+
+.data-source h3 {
+  font-size: 1.1rem;
+  color: #1a365d;
+  margin: 0 0 0.75rem 0;
+}
+
+.data-source ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.data-source li {
+  color: #475569;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.data-source a {
+  color: #2c5282;
+  margin-left: 0.25rem;
+}
+
+/* Process Steps */
+.process-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.process-step {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.step-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #1a365d, #2c5282);
+  color: white;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.step-content {
+  flex: 1;
+  padding-top: 0.25rem;
+}
+
+.step-content h3 {
+  font-size: 1.1rem;
+  color: #1a365d;
+  margin: 0 0 0.5rem 0;
+}
+
+.step-content p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Risk Factors Table */
+.risk-factors {
+  margin-top: 1.5rem;
+}
+
+.risk-factors h3 {
+  font-size: 1.1rem;
+  color: #1a365d;
+  margin: 0 0 1rem 0;
+}
+
+.factors-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.factors-table th,
+.factors-table td {
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.factors-table th {
+  background: #f8fafc;
+  color: #1a365d;
+  font-weight: 600;
+}
+
+.factors-table td {
+  color: #475569;
+}
+
+.factors-table tr:hover td {
+  background: #f8fafc;
+}
+
+/* Risk Levels */
+.risk-levels {
+  margin-top: 2rem;
+}
+
+.risk-levels h3 {
+  font-size: 1.1rem;
+  color: #1a365d;
+  margin: 0 0 1rem 0;
+}
+
+.level-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.level-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.level-item.low {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+}
+
+.level-item.low svg {
+  color: #22c55e;
+}
+
+.level-item.moderate {
+  background: #fefce8;
+  border: 1px solid #fef08a;
+}
+
+.level-item.moderate svg {
+  color: #eab308;
+}
+
+.level-item.high {
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+}
+
+.level-item.high svg {
+  color: #f97316;
+}
+
+.level-item.critical {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+}
+
+.level-item.critical svg {
+  color: #ef4444;
+}
+
+.level-name {
+  font-weight: 600;
+  color: #1a365d;
+}
+
+.level-desc {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+/* Network Types */
+.network-types {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.network-type {
+  padding: 1rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+.network-type h3 {
+  font-size: 1rem;
+  color: #1a365d;
+  margin: 0 0 0.5rem 0;
+}
+
+.network-type p {
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+/* Geo Features */
+.geo-features {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.geo-features li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+/* Limitations */
+.limitations-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.limitation {
+  padding: 1rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border-left: 4px solid #64748b;
+}
+
+.limitation h3 {
+  font-size: 1rem;
+  color: #1a365d;
+  margin: 0 0 0.5rem 0;
+}
+
+.limitation p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/* Tech List */
+.tech-list {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.tech-list li {
+  margin-bottom: 0.5rem;
+}
+
+/* Nav Button Styles */
+.nav button.nav-link {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.nav .nav-link.active {
+  color: #4299e1;
+  font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .page-header h1 {
+    font-size: 2rem;
+  }
+
+  .problem-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+  }
+
+  .level-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .network-types {
+    grid-template-columns: 1fr;
+  }
+
+  .factors-table {
+    font-size: 0.8rem;
+  }
+
+  .factors-table th,
+  .factors-table td {
+    padding: 0.5rem;
+  }
+}

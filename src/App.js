@@ -16,6 +16,8 @@ import AnalyticsDashboard from './components/AnalyticsDashboard';
 import HeatMap from './components/HeatMap';
 import ExportPanel from './components/ExportPanel';
 import CommunityTips from './components/CommunityTips';
+import AboutPage from './components/AboutPage';
+import MethodologyPage from './components/MethodologyPage';
 import { buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
 import { addToWatchlist, removeFromWatchlist, isInWatchlist, getWatchlist } from './utils/watchlist';
 import { analyzeNetworks } from './utils/networkAnalysis';
@@ -45,6 +47,9 @@ function App() {
 
   // Watchlist state
   const [watchlistRefresh, setWatchlistRefresh] = useState(0);
+
+  // Page navigation state (null = main app, 'about', 'methodology')
+  const [activePage, setActivePage] = useState(null);
 
   // Load investigation seed data (Shirley investigation)
   useEffect(() => {
@@ -279,7 +284,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <div className="logo" onClick={() => { setSelectedState(null); setSelectedCounty(null); }} style={{cursor: 'pointer'}}>
+          <div className="logo" onClick={() => { setSelectedState(null); setSelectedCounty(null); setActivePage(null); }} style={{cursor: 'pointer'}}>
             <div className="logo-icon">
               <Building2 size={28} />
             </div>
@@ -289,8 +294,18 @@ function App() {
             </div>
           </div>
           <nav className="nav">
-            <a href="#about" className="nav-link">About</a>
-            <a href="#methodology" className="nav-link">Methodology</a>
+            <button
+              className={`nav-link ${activePage === 'about' ? 'active' : ''}`}
+              onClick={() => setActivePage('about')}
+            >
+              About
+            </button>
+            <button
+              className={`nav-link ${activePage === 'methodology' ? 'active' : ''}`}
+              onClick={() => setActivePage('methodology')}
+            >
+              Methodology
+            </button>
             <a href="https://github.com/Pbbobkanobi67/daycarewatch" className="nav-link" target="_blank" rel="noopener noreferrer">
               GitHub <ExternalLink size={14} />
             </a>
@@ -298,8 +313,22 @@ function App() {
         </div>
       </header>
 
-      {/* Hero Section - shown when no county is selected */}
-      {!selectedCounty && (
+      {/* About Page */}
+      {activePage === 'about' && (
+        <main className="main page-content">
+          <AboutPage />
+        </main>
+      )}
+
+      {/* Methodology Page */}
+      {activePage === 'methodology' && (
+        <main className="main page-content">
+          <MethodologyPage />
+        </main>
+      )}
+
+      {/* Hero Section - shown when no county is selected and no page active */}
+      {!activePage && !selectedCounty && (
         <section className="hero">
           <div className="hero-content">
             <h2>Where do childcare subsidies actually go?</h2>
@@ -342,6 +371,8 @@ function App() {
         </section>
       )}
 
+      {/* Main App Content - hidden when on About/Methodology pages */}
+      {!activePage && (
       <main className="main">
         {/* State Selection View - shown when no state is selected */}
         {!selectedState ? (
@@ -869,6 +900,7 @@ function App() {
           </section>
         )}
       </main>
+      )}
 
       {/* Facility Detail Modal */}
       {selectedFacility && (
