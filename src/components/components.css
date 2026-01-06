@@ -99,10 +99,11 @@
 }
 
 .network-card {
-  border: 1px solid #edf2f7;
+  border: 1px solid #e2e8f0;
   border-radius: 8px;
-  overflow: hidden;
+  overflow: visible;
   background: #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
 .network-card.high-risk {
@@ -123,7 +124,13 @@
   cursor: pointer;
   background: #ffffff;
   color: #1a202c;
-  min-height: 40px;
+  min-height: 48px;
+  box-sizing: border-box;
+}
+
+.network-header svg {
+  flex-shrink: 0;
+  color: #4a5568;
 }
 
 .network-card.high-risk .network-header {
@@ -138,11 +145,20 @@
   font-size: 0.9rem;
   color: #1a202c;
   flex: 1;
+  min-width: 0;
+}
+
+.network-title svg {
+  flex-shrink: 0;
+  color: #4a5568;
 }
 
 .network-title strong {
   color: #1a202c;
   font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .network-count {
