@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(npm run:*)",
+      "Bash(npm start)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(cat:*)",
+      "Bash(node --version:*)",
+      "Bash(node scripts/geocode-facilities.js:*)",
+      "Bash(powershell:*)",
+      "Bash(node -e:*)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:daycarewatch.vercel.app)",
+      "Bash(curl:*)",
+      "Bash(node scripts/geocode-retry.js:*)"
+    ]
+  }
+}

@@ -73,7 +73,9 @@ function App() {
 
     try {
       const filename = countyName.toLowerCase().replace(/ /g, '_');
-      const response = await fetch(`/data/${stateId}/${filename}_facilities.json`);
+      // Add cache-busting parameter to ensure fresh data
+      const cacheBuster = Date.now();
+      const response = await fetch(`/data/${stateId}/${filename}_facilities.json?v=${cacheBuster}`);
 
       if (!response.ok) {
         if (response.status === 404) {

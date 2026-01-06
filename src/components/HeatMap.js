@@ -96,20 +96,6 @@ const HeatMap = ({ facilities, onFacilityClick }) => {
   const [showHeatmap, setShowHeatmap] = useState(true);
   const [riskFilter, setRiskFilter] = useState('all'); // all, high, critical
 
-  // Debug: log facilities data
-  useEffect(() => {
-    if (facilities && facilities.length > 0) {
-      const withCoords = facilities.filter(f => f.latitude && f.longitude);
-      console.log('[HeatMap] Total facilities:', facilities.length);
-      console.log('[HeatMap] With coordinates:', withCoords.length);
-      if (withCoords.length > 0) {
-        console.log('[HeatMap] Sample:', withCoords[0].name, withCoords[0].latitude, withCoords[0].longitude);
-      } else if (facilities.length > 0) {
-        console.log('[HeatMap] First facility keys:', Object.keys(facilities[0]));
-      }
-    }
-  }, [facilities]);
-
   // Default center (Minneapolis for MN, or first facility location)
   const defaultCenter = useMemo(() => {
     const validFacility = facilities.find(f => f.latitude && f.longitude);
