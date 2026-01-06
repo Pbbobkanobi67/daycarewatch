@@ -155,9 +155,14 @@
 .risk-indicator {
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
+  background: #f97316;
   color: white;
   font-size: 0.75rem;
   font-weight: 600;
+}
+
+.network-card.high-risk .risk-indicator {
+  background: #ef4444;
 }
 
 .warning-badge {

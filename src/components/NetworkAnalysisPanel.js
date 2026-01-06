@@ -66,11 +66,12 @@ const NetworkAnalysisPanel = ({ facilities, onFacilityClick }) => {
             >
               <div className="network-title">
                 {expandedNetworks.has(`owner-${idx}`) ? <ChevronDown size={18} /> : <ChevronRight size={18} />}
+                <Users size={16} />
                 <strong>{network.owner}</strong>
                 <span className="network-count">{network.facilityCount} facilities</span>
               </div>
               {network.score > 0 && (
-                <span className="risk-indicator" style={{ backgroundColor: network.score > 30 ? '#ef4444' : '#f97316' }}>
+                <span className="risk-indicator">
                   Risk: {network.score}
                 </span>
               )}
