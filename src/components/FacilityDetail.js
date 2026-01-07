@@ -188,17 +188,17 @@ Sincerely,
 
       return {
         type: 'portal',
-        portalUrl: 'https://cdss.govqa.us/WEBAPP/_rs/RequestSubmission.aspx?rid=457',
+        portalUrl: 'https://cdss.govqa.us/WEBAPP/_rs/SupportHome.aspx',
         body,
         lawName: 'CPRA',
         lawFull: 'California Public Records Act',
         agency: 'California Department of Social Services',
         instructions: [
-          'Click "Open CDSS Portal" to go to the request form',
-          'Click "Submit a PRA Request" on the portal',
-          'Select "Child Care Licensing" as the program area',
-          'Copy and paste the request text below into the form',
-          'Create a free account if prompted (for tracking)',
+          'Click "Open CDSS Portal" to go to the records request site',
+          'Click "Submit a PRA Request" tile on the homepage',
+          'Create a free account or log in if prompted',
+          'Select "Community Care Licensing" as the program area',
+          'Copy and paste the request text below into the description field',
           'Response required within 10 calendar days'
         ]
       };
