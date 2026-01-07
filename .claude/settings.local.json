@@ -31,7 +31,10 @@
       "WebFetch(domain:cdss.govqa.us)",
       "Bash(python3:*)",
       "WebFetch(domain:data.colorado.gov)",
-      "Bash(node scripts/process-colorado.js:*)"
+      "Bash(node scripts/process-colorado.js:*)",
+      "Bash(ls -la \"D:\\\\Apps\\\\DaycareWatch\\\\src\\\\components\"\" | grep -i \".js \")",
+      "WebFetch(domain:www.health.state.mn.us)",
+      "WebFetch(domain:mhcpproviderdirectory.dhs.state.mn.us)"
     ]
   }
 }

@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare, Truck } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare, Truck, Heart } from 'lucide-react';
 import './App.css';
 import './components/components.css';
 
@@ -19,6 +19,7 @@ import CommunityTips from './components/CommunityTips';
 import AboutPage from './components/AboutPage';
 import MethodologyPage from './components/MethodologyPage';
 import TransportWatchPage from './components/TransportWatchPage';
+import HealthWatchPage from './components/HealthWatchPage';
 import { buildAddressGroups, calculateZipStats } from './utils/anomalyDetection';
 import { addToWatchlist, removeFromWatchlist, isInWatchlist, getWatchlist } from './utils/watchlist';
 import { analyzeNetworks } from './utils/networkAnalysis';
@@ -313,6 +314,12 @@ function App() {
             >
               <Truck size={14} /> TransportWatch
             </button>
+            <button
+              className={`nav-link ${activePage === 'healthwatch' ? 'active' : ''}`}
+              onClick={() => setActivePage('healthwatch')}
+            >
+              <Heart size={14} /> HealthWatch
+            </button>
             <a href="https://github.com/Pbbobkanobi67/daycarewatch" className="nav-link" target="_blank" rel="noopener noreferrer">
               GitHub <ExternalLink size={14} />
             </a>
@@ -338,6 +345,13 @@ function App() {
       {activePage === 'transportwatch' && (
         <main className="main page-content">
           <TransportWatchPage />
+        </main>
+      )}
+
+      {/* HealthWatch Page */}
+      {activePage === 'healthwatch' && (
+        <main className="main page-content">
+          <HealthWatchPage />
         </main>
       )}
 
