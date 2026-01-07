@@ -30,6 +30,7 @@ const TransportWatchPage = () => {
     mndot: {
       agency: 'Minnesota Department of Transportation',
       email: 'datapractices.dot@state.mn.us',
+      formUrl: 'https://mnitservices.my.site.com/license/GuestForms_DirectorFlow?FormVar=1',
       subject: 'MGDPA Request - STS Provider List and Vehicle Records',
       body: `To: Minnesota Department of Transportation
 Data Practices Office
@@ -74,7 +75,7 @@ Sincerely,
     },
     dhs_nemt: {
       agency: 'Minnesota Department of Human Services',
-      email: 'dhs.dataaccess@state.mn.us',
+      email: 'DHS.info@state.mn.us',
       subject: 'MGDPA Request - NEMT Provider Enrollment and Billing Data',
       body: `To: Minnesota Department of Human Services
 Data Practices Office
@@ -342,9 +343,20 @@ Sincerely,
           </div>
 
           <div className="tw-template-actions">
+            {currentTemplate.formUrl && (
+              <a
+                href={currentTemplate.formUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="tw-action-button primary"
+              >
+                <ExternalLink size={18} />
+                Use Online Form (Recommended)
+              </a>
+            )}
             <a
               href={generateMailtoLink(currentTemplate)}
-              className="tw-action-button primary"
+              className={`tw-action-button ${currentTemplate.formUrl ? 'secondary' : 'primary'}`}
             >
               <Mail size={18} />
               Open in Email Client

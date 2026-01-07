@@ -102,7 +102,7 @@ const FacilityDetail = ({
 
     if (stateId === 'minnesota') {
       const subject = `MGDPA Request - CCAP Payment Records - License #${licenseNum}`;
-      const body = `To: Minnesota Department of Human Services
+      const body = `To: Minnesota Department of Children, Youth, and Families
 Data Practices Office
 
 RE: Minnesota Government Data Practices Act Request
@@ -135,7 +135,7 @@ Sincerely,
 [Your Email]
 [Your Phone]`;
 
-      return `mailto:dhs.dataaccess@state.mn.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      return `mailto:dcyf.datarequest@state.mn.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     } else if (stateId === 'california') {
       const subject = `CPRA Request - Childcare Subsidy Records - Facility #${licenseNum}`;
       const body = `To: California Department of Social Services
