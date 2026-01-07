@@ -482,7 +482,7 @@ export const analyzeNetworks = (facilities) => {
   };
 };
 
-export default {
+const networkAnalysis = {
   buildOwnerNetwork,
   buildAddressNetwork,
   buildPhoneNetwork,
@@ -494,3 +494,5 @@ export default {
   calculateNetworkRisk,
   detectLicenseChanges,
 };
+
+export default networkAnalysis;

@@ -312,7 +312,7 @@ export const analyzeAllFacilities = (facilities, investigationData = null) => {
   };
 };
 
-export default {
+const anomalyDetection = {
   calculateRiskScore,
   buildAddressGroups,
   calculateZipStats,
@@ -320,3 +320,5 @@ export default {
   analyzeAllFacilities,
   RISK_LEVELS,
 };
+
+export default anomalyDetection;

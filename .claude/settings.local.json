@@ -34,7 +34,24 @@
       "Bash(node scripts/process-colorado.js:*)",
       "Bash(ls -la \"D:\\\\Apps\\\\DaycareWatch\\\\src\\\\components\"\" | grep -i \".js \")",
       "WebFetch(domain:www.health.state.mn.us)",
-      "WebFetch(domain:mhcpproviderdirectory.dhs.state.mn.us)"
+      "WebFetch(domain:mhcpproviderdirectory.dhs.state.mn.us)",
+      "WebFetch(domain:www.checkccmd.org)",
+      "Bash(pip install:*)",
+      "Bash(pip show:*)",
+      "Bash(\"C:/Users/bob/miniconda3/python.exe\" -c:*)",
+      "Bash(\"C:/Users/bob/miniconda3/python.exe\" /d/Apps/DaycareWatch/scripts/process-maryland.py)",
+      "Bash(\"C:/Users/bob/miniconda3/python.exe\":*)",
+      "Bash(git reset:*)",
+      "WebFetch(domain:www.dhs.state.mn.us)",
+      "WebFetch(domain:www.hennepinhealthcare.org)",
+      "WebFetch(domain:www.anokacountymn.gov)",
+      "WebFetch(domain:www.blueearthcountymn.gov)",
+      "Bash(git checkout:*)",
+      "WebFetch(domain:findaprogram.marylandexcels.org)",
+      "WebFetch(domain:earlychildhood.marylandpublicschools.org)",
+      "WebFetch(domain:opendata.maryland.gov)",
+      "Bash(npx vercel --prod)",
+      "Bash(npx vercel --prod --yes)"
     ]
   }
 }

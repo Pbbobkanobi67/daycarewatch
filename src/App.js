@@ -31,8 +31,6 @@ function App() {
   const [selectedState, setSelectedState] = useState(null);
   const [selectedCounty, setSelectedCounty] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
-  const [facilitySearch, setFacilitySearch] = useState("");
-  const [showFlagged, setShowFlagged] = useState(false);
   const [activeTab, setActiveTab] = useState("overview");
 
   // Real data state
@@ -63,7 +61,7 @@ function App() {
 
   // Get current state data if a state is selected
   const stateData = selectedState ? getState(selectedState) : null;
-  const currentCounties = stateData ? stateData.counties : [];
+  const currentCounties = useMemo(() => stateData ? stateData.counties : [], [stateData]);
 
   // Load facility data when county is selected
   useEffect(() => {
@@ -158,6 +156,7 @@ function App() {
   }, []);
 
   // Get current watchlist
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const watchlistItems = useMemo(() => getWatchlist(), [watchlistRefresh]);
 
   // Filter and process facilities with enhanced anomaly detection
@@ -186,29 +185,13 @@ function App() {
       };
     });
 
-    // Text search
-    if (facilitySearch) {
-      const search = facilitySearch.toLowerCase();
-      filtered = filtered.filter(f =>
-        (f.name && f.name.toLowerCase().includes(search)) ||
-        (f.address && f.address.toLowerCase().includes(search)) ||
-        (f.city && f.city.toLowerCase().includes(search)) ||
-        (f.license_number && f.license_number.includes(facilitySearch))
-      );
-    }
-
-    // Flagged filter
-    if (showFlagged) {
-      filtered = filtered.filter(f => f.flagged);
-    }
-
     // Sort by risk score descending
     filtered = [...filtered].sort((a, b) =>
       (b.riskAssessment?.score || 0) - (a.riskAssessment?.score || 0)
     );
 
     return filtered;
-  }, [facilities, facilitySearch, showFlagged, addressGroups, zipStats, investigationData]);
+  }, [facilities, addressGroups, zipStats, investigationData]);
 
   // Calculate stats from real data
   const stats = useMemo(() => {

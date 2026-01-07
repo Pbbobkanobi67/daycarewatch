@@ -186,7 +186,7 @@ export const clearWatchlist = () => {
   localStorage.removeItem(NOTES_KEY);
 };
 
-export default {
+const watchlistUtils = {
   getWatchlist,
   addToWatchlist,
   removeFromWatchlist,
@@ -199,3 +199,5 @@ export default {
   importWatchlist,
   clearWatchlist,
 };
+
+export default watchlistUtils;

@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   Database,
-  Search,
   AlertTriangle,
   Network,
   MapPin,

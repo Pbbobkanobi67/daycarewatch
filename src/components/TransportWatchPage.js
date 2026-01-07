@@ -11,8 +11,7 @@ import {
   MapPin,
   Clock,
   CheckCircle,
-  Copy,
-  Download
+  Copy
 } from 'lucide-react';
 
 /**

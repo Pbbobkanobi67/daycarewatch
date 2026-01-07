@@ -168,7 +168,7 @@ export const getInvestigationDetails = (facility) => {
   }) || null;
 };
 
-export default {
+const federalInvestigation = {
   SHIRLEY_VIDEO_FACILITIES,
   FEDERAL_AGENCIES,
   INVESTIGATION_STATS,
@@ -177,3 +177,5 @@ export default {
   isUnderFederalInvestigation,
   getInvestigationDetails,
 };
+
+export default federalInvestigation;
