@@ -137,41 +137,9 @@ Sincerely,
 
       return `mailto:dcyf.datarequest@state.mn.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     } else if (stateId === 'california') {
-      const subject = `CPRA Request - Childcare Subsidy Records - Facility #${licenseNum}`;
-      const body = `To: California Department of Social Services
-Public Records Act Coordinator
-
-RE: California Public Records Act Request (Gov. Code § 6250 et seq.)
-Facility: ${facilityName}
-License Number: ${licenseNum}
-Address: ${facilityAddress}
-
-Dear Public Records Coordinator,
-
-Pursuant to the California Public Records Act (Government Code Section 6250 et seq.), I am requesting the following public records:
-
-1. Childcare subsidy payment records (CalWORKs Stage 1, 2, 3 and/or Alternative Payment) for the above-referenced facility for fiscal years 2020-2025, including:
-   - Total payments by fiscal year
-   - Monthly reimbursement amounts
-   - Number of children served
-   - Attendance/enrollment data submitted for reimbursement
-
-2. Any compliance reviews, audits, or enforcement actions related to subsidy billing
-
-3. Community Care Licensing inspection reports and complaint investigations
-
-Please provide these records in electronic format if available.
-
-Per Government Code Section 6253(c), I request a response within 10 days.
-
-Thank you for your assistance with this request.
-
-Sincerely,
-[Your Name]
-[Your Email]
-[Your Phone]`;
-
-      return `mailto:CDSSPublicRecordsAct@dss.ca.gov?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      // California CDSS uses an online portal - return the portal URL
+      // The user will need to copy the request text and submit through the portal
+      return `https://cdss.govqa.us/WEBAPP/_rs/SupportHome.aspx`;
     }
 
     return null;
@@ -433,10 +401,14 @@ Sincerely,
                 {getPublicRecordsLink() && (
                   <a
                     href={getPublicRecordsLink()}
+                    target={stateId === 'california' ? '_blank' : undefined}
+                    rel={stateId === 'california' ? 'noopener noreferrer' : undefined}
                     className="records-request-button"
                   >
                     <Mail size={16} />
-                    Request Payment Records ({stateId === 'minnesota' ? 'MGDPA' : 'CPRA'})
+                    {stateId === 'minnesota'
+                      ? 'Request Payment Records (MGDPA)'
+                      : 'Open CDSS Records Portal (CPRA)'}
                   </a>
                 )}
               </div>
