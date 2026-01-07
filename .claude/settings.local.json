@@ -29,7 +29,9 @@
       "WebFetch(domain:www.sos.state.mn.us)",
       "WebFetch(domain:www.sos.mn.gov)",
       "WebFetch(domain:cdss.govqa.us)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:data.colorado.gov)",
+      "Bash(node scripts/process-colorado.js:*)"
     ]
   }
 }

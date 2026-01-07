@@ -202,6 +202,58 @@ Sincerely,
           'Response required within 10 calendar days'
         ]
       };
+    } else if (stateId === 'colorado') {
+      const countyName = facility.county || 'the county';
+      const subject = `CORA Request - CCCAP Payment Records - Provider #${licenseNum}`;
+      const body = `RE: Colorado Open Records Act Request (C.R.S. 24-72-200.1 et seq.)
+Facility: ${facilityName}
+Provider ID: ${licenseNum}
+Address: ${facilityAddress}
+County: ${countyName}
+
+Dear Public Records Coordinator,
+
+Pursuant to the Colorado Open Records Act (C.R.S. 24-72-200.1 et seq.), I am requesting the following public records:
+
+1. Colorado Child Care Assistance Program (CCCAP) payment records for the above-referenced facility for fiscal years 2020-2025, including:
+   - Total payments by fiscal year
+   - Monthly reimbursement amounts
+   - Number of children served
+   - Attendance/enrollment data submitted for reimbursement
+
+2. Any compliance reviews, audits, or enforcement actions related to CCCAP billing
+
+3. Colorado Shines quality rating documentation and assessments
+
+4. Licensing inspection reports and complaint investigations
+
+Please provide these records in electronic format if available.
+
+Per C.R.S. 24-72-203(3)(a), I request a response within 3 working days.
+
+Thank you for your assistance with this request.
+
+Sincerely,
+[Your Name]
+[Your Email]
+[Your Phone]`;
+
+      return {
+        type: 'email',
+        email: 'cdec_cora@state.co.us',
+        subject,
+        body,
+        mailto: `mailto:cdec_cora@state.co.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`,
+        lawName: 'CORA',
+        lawFull: 'Colorado Open Records Act',
+        agency: 'Colorado Department of Early Childhood',
+        instructions: [
+          'Click "Open in Email" to send directly, OR',
+          'Click "Copy Request Text" and paste into your email client',
+          'Send to: cdec_cora@state.co.us',
+          'Response required within 3 working days'
+        ]
+      };
     }
 
     return null;

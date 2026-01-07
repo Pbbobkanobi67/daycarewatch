@@ -1,0 +1,20 @@
+{
+  "state": "Colorado",
+  "state_id": "colorado",
+  "last_updated": "2026-01-07T05:20:26.817Z",
+  "total_facilities": 982,
+  "counties": [
+    {
+      "name": "Jefferson",
+      "id": "jefferson",
+      "facility_count": 485
+    },
+    {
+      "name": "Arapahoe",
+      "id": "arapahoe",
+      "facility_count": 497
+    }
+  ],
+  "data_source": "Colorado CDEC Open Data Portal",
+  "data_source_url": "https://data.colorado.gov/resource/a9rr-k8mu"
+}

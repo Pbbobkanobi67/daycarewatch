@@ -7,6 +7,10 @@ import californiaConfig from './california/config';
 import { CALIFORNIA_COUNTIES } from './california/counties';
 import { getCaliforniaDataStatus } from './california/dataStatus';
 
+import coloradoConfig from './colorado/config';
+import { COLORADO_COUNTIES } from './colorado/counties';
+import { getColoradoDataStatus } from './colorado/dataStatus';
+
 import minnesotaConfig from './minnesota/config';
 import { MINNESOTA_COUNTIES } from './minnesota/counties';
 import { getMinnesotaDataStatus } from './minnesota/dataStatus';
@@ -19,6 +23,11 @@ export const states = {
     config: californiaConfig,
     counties: CALIFORNIA_COUNTIES,
     getDataStatus: getCaliforniaDataStatus
+  },
+  colorado: {
+    config: coloradoConfig,
+    counties: COLORADO_COUNTIES,
+    getDataStatus: getColoradoDataStatus
   },
   minnesota: {
     config: minnesotaConfig,
