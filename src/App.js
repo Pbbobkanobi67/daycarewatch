@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare, Truck, Heart, Home, ChevronDown } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare, Truck, Heart, Home } from 'lucide-react';
 import './App.css';
 import './components/components.css';
 
@@ -302,22 +302,18 @@ function App() {
             >
               <Home size={14} /> Home
             </button>
-            <div className="nav-dropdown">
-              <button className={`nav-link ${activePage === 'transportwatch' ? 'active' : ''}`}>
-                <Truck size={14} /> TransportWatch <ChevronDown size={12} />
-              </button>
-              <div className="nav-dropdown-content">
-                <button onClick={() => setActivePage('transportwatch')}>Minnesota (NEMT)</button>
-              </div>
-            </div>
-            <div className="nav-dropdown">
-              <button className={`nav-link ${activePage === 'healthwatch' ? 'active' : ''}`}>
-                <Heart size={14} /> HealthWatch <ChevronDown size={12} />
-              </button>
-              <div className="nav-dropdown-content">
-                <button onClick={() => setActivePage('healthwatch')}>Minnesota (Medicaid)</button>
-              </div>
-            </div>
+            <button
+              className={`nav-link ${activePage === 'transportwatch' ? 'active' : ''}`}
+              onClick={() => setActivePage('transportwatch')}
+            >
+              <Truck size={14} /> TransportWatch
+            </button>
+            <button
+              className={`nav-link ${activePage === 'healthwatch' ? 'active' : ''}`}
+              onClick={() => setActivePage('healthwatch')}
+            >
+              <Heart size={14} /> HealthWatch
+            </button>
             <button
               className={`nav-link ${activePage === 'about' ? 'active' : ''}`}
               onClick={() => setActivePage('about')}
