@@ -29,46 +29,49 @@ const TransportWatchPage = () => {
   const templates = {
     mndot: {
       agency: 'Minnesota Department of Transportation',
-      email: 'datapractices.dot@state.mn.us',
-      formUrl: 'https://mnitservices.my.site.com/license/GuestForms_DirectorFlow?FormVar=1',
-      subject: 'MGDPA Request - STS Provider List and Vehicle Records',
-      body: `To: Minnesota Department of Transportation
-Data Practices Office
-395 John Ireland Blvd
-St. Paul, MN 55155
+      email: null,
+      formUrl: 'http://www.dot.state.mn.us/information/datapractices/submit-request.html',
+      subject: 'MGDPA Request - Commercial Vehicle Registrations for Medical Transportation',
+      body: `MINNESOTA GOVERNMENT DATA PRACTICES ACT (MGDPA) REQUEST
+Minnesota Department of Transportation
 
-RE: Minnesota Government Data Practices Act Request
-Special Transportation Services (STS) Provider Records
+Subject: Commercial Vehicle Registrations for Medical Transportation Companies
 
-Dear Data Practices Officer,
+Purpose: Public accountability research examining Non-Emergency Medical Transportation (NEMT) providers in Minnesota, in connection with the ongoing $9 billion Medicaid fraud investigation.
 
-Pursuant to the Minnesota Government Data Practices Act (Minn. Stat. Ch. 13), I am requesting the following public data:
+DATA REQUESTED:
 
-1. Complete list of all currently certified Special Transportation Service (STS) providers in Minnesota, including:
-   - Provider/company name
-   - Business address
-   - STS Certificate number
-   - Certification date
-   - Contact information
+1. COMMERCIAL VEHICLE REGISTRATIONS
+For vehicles registered to businesses classified under medical transportation, ambulette services, or non-emergency medical transportation (NAICS codes 485991, 621910, or similar):
+- Vehicle identification (VIN, plate number)
+- Registered owner name and business name
+- Business address
+- Vehicle type/class
+- Registration date and expiration
+- Registration status (active, expired, suspended)
 
-2. For each certified provider, the certified vehicle list including:
-   - Vehicle identification numbers (VINs)
-   - Vehicle make/model/year
-   - License plate numbers
-   - Certification/inspection dates
-   - Any inspection findings or deficiencies
+2. FLEET REGISTRATIONS
+For any business with 3 or more vehicles registered for medical/patient transportation:
+- Company name and address
+- Total vehicles registered
+- Registration history (additions/removals) for 2020-2025
 
-3. Records of any STS certification revocations, suspensions, or denials in the past 5 years, including the reasons for such actions
+3. AMBULETTE/MEDICAL TRANSPORT PERMITS
+Any special permits, certifications, or endorsements required for medical transportation vehicles:
+- Permit holder name and address
+- Permit type and status
+- Issue and expiration dates
 
-4. Annual or random inspection records for STS providers conducted in the past 3 years
+4. AGGREGATE DATA
+- Total medical transportation vehicles registered by county
+- Year-over-year registration trends (2020-2025)
 
-Please provide these records in electronic format (CSV, Excel, or PDF) if available.
+PREFERRED FORMAT: CSV or Excel files preferred. PDF acceptable.
 
-I understand there may be reasonable costs associated with this request. Please contact me if costs will exceed $50 before proceeding.
+FEE WAIVER REQUEST: I request a fee waiver as this research serves the public interest in accountability for taxpayer-funded programs. If a waiver is not possible, please provide a cost estimate before processing.
 
-Thank you for your assistance with this request.
+NOTE: This request relates to the December 2025 federal/state investigation into Minnesota Medicaid fraud, which identified NEMT as one of 14 high-risk programs.
 
-Sincerely,
 [Your Name]
 [Your Email]
 [Your Phone]`
@@ -76,46 +79,68 @@ Sincerely,
     dhs_nemt: {
       agency: 'Minnesota Department of Human Services',
       email: 'DHS.info@state.mn.us',
-      subject: 'MGDPA Request - NEMT Provider Enrollment and Billing Data',
-      body: `To: Minnesota Department of Human Services
-Data Practices Office
+      subject: 'MGDPA Request - NEMT Provider Enrollment, Certification, and Billing Data',
+      body: `MINNESOTA GOVERNMENT DATA PRACTICES ACT (MGDPA) REQUEST
+Minnesota Department of Human Services
+
+To: DHS Data Practices Office
 PO Box 64998
 St. Paul, MN 55164-0998
 
-RE: Minnesota Government Data Practices Act Request
-Non-Emergency Medical Transportation (NEMT) Provider Data
+Subject: Non-Emergency Medical Transportation (NEMT) Provider Data
 
-Dear Data Practices Officer,
+Purpose: Public accountability research examining NEMT providers enrolled in Minnesota Health Care Programs (MHCP), in connection with the December 2025 federal/state investigation identifying NEMT as one of 14 high-risk Medicaid programs.
 
-Pursuant to the Minnesota Government Data Practices Act (Minn. Stat. Ch. 13), I am requesting the following public data:
+DATA REQUESTED:
 
-1. Complete list of all enrolled NEMT providers in Minnesota Health Care Programs (MHCP), including:
-   - Provider name and NPI number
-   - Business address
-   - Enrollment date
-   - Provider type (Mode 1-5)
-   - Number of affiliated drivers
-   - Service area/counties
+1. ENROLLED NEMT PROVIDERS
+Complete list of all currently enrolled NEMT providers in MHCP, including:
+- Provider legal name and DBA name
+- National Provider Identifier (NPI)
+- Business address (physical and mailing)
+- Provider enrollment date
+- Provider type/mode (Mode 1-5 classification)
+- Number of vehicles certified
+- Number of affiliated/credentialed drivers
+- Service area (counties authorized to serve)
 
-2. NEMT billing and payment data for fiscal years 2020-2025:
-   - Total payments by provider
-   - Number of trips billed by provider
-   - Average payment per trip by provider
-   - Breakdown by transport mode (wheelchair, stretcher, ambulatory, etc.)
+2. BILLING AND PAYMENT DATA (FY2020-2025)
+For each enrolled NEMT provider:
+- Total payments received by fiscal year
+- Number of trips billed by fiscal year
+- Average payment per trip
+- Breakdown by transport mode (ambulatory, wheelchair, stretcher, etc.)
+- Number of unique Medicaid recipients served
 
-3. Any NEMT providers currently under payment withhold, investigation, or with terminated enrollment status
+3. CERTIFICATION AND COMPLIANCE STATUS
+- Current certification status (active, suspended, pending)
+- MnDOT STS certification status
+- Any corrective action plans
+- Results of compliance reviews or audits
 
-4. NEMT fraud referrals made to law enforcement or the Office of Inspector General in the past 5 years (to the extent public)
+4. PROVIDER ENROLLMENT/TERMINATION HISTORY
+- Providers newly enrolled 2020-2025 (date and approving entity)
+- Providers terminated or voluntarily withdrawn 2020-2025 (date and reason)
+- Providers with denied enrollment applications (reason for denial)
 
-5. Results of any NEMT program integrity audits or reviews
+5. PROGRAM INTEGRITY DATA
+- Providers currently under payment withhold
+- Providers referred for investigation (to extent public)
+- Overpayment recoveries by provider
+- Fraud referrals to law enforcement or OIG (aggregate statistics acceptable)
 
-Please provide these records in electronic format (CSV, Excel, or PDF) if available.
+6. AGGREGATE STATISTICS
+- Total NEMT spending by fiscal year (2020-2025)
+- Total trips by fiscal year
+- Number of enrolled providers by year
+- Geographic distribution of providers by county
 
-I understand there may be reasonable costs associated with this request. Please contact me if costs will exceed $50 before proceeding.
+PREFERRED FORMAT: CSV or Excel files preferred for data tables. PDF acceptable for reports.
 
-Thank you for your assistance with this request.
+FEE WAIVER REQUEST: I request a fee waiver as this research serves the public interest in accountability for taxpayer-funded programs. If a waiver is not possible, please provide a cost estimate before processing.
 
-Sincerely,
+NOTE: This request relates to the December 2025 federal/state investigation into Minnesota Medicaid fraud, which identified NEMT as one of 14 high-risk programs with an estimated $9 billion in fraudulent claims.
+
 [Your Name]
 [Your Email]
 [Your Phone]`
