@@ -19,7 +19,16 @@
       "WebFetch(domain:www.ccld.dss.ca.gov)",
       "WebSearch",
       "Bash(node scripts/process-california.js:*)",
-      "Bash(node scripts/geocode-california.js:*)"
+      "Bash(node scripts/geocode-california.js:*)",
+      "WebFetch(domain:www.dot.state.mn.us)",
+      "Bash(git restore:*)",
+      "WebFetch(domain:mn.gov)",
+      "WebFetch(domain:www.cdss.ca.gov)",
+      "WebFetch(domain:dcyf.mn.gov)",
+      "WebFetch(domain:dps.mn.gov)",
+      "WebFetch(domain:www.sos.state.mn.us)",
+      "WebFetch(domain:www.sos.mn.gov)",
+      "WebFetch(domain:cdss.govqa.us)"
     ]
   }
 }

@@ -122,7 +122,8 @@ Sincerely,
     },
     dvs: {
       agency: 'Minnesota Driver and Vehicle Services',
-      email: 'DVS.RecordRequests@state.mn.us',
+      email: null,
+      formUrl: 'https://dvsportal-dpsmn.govqa.us/WEBAPP/_rs/supporthome.aspx?lp=10',
       subject: 'Data Practices Request - Commercial Fleet Vehicle Records',
       body: `To: Minnesota Department of Public Safety
 Driver and Vehicle Services - Records Unit
@@ -335,7 +336,9 @@ Sincerely,
         <div className="tw-template-content">
           <div className="tw-template-header">
             <h3>{currentTemplate.agency}</h3>
-            <span className="tw-template-email">{currentTemplate.email}</span>
+            <span className="tw-template-email">
+              {currentTemplate.email || (currentTemplate.formUrl ? 'Online Portal Only' : '')}
+            </span>
           </div>
 
           <div className="tw-template-body">
@@ -351,16 +354,18 @@ Sincerely,
                 className="tw-action-button primary"
               >
                 <ExternalLink size={18} />
-                Use Online Form (Recommended)
+                Use Online Form {currentTemplate.email ? '(Recommended)' : ''}
               </a>
             )}
-            <a
-              href={generateMailtoLink(currentTemplate)}
-              className={`tw-action-button ${currentTemplate.formUrl ? 'secondary' : 'primary'}`}
-            >
-              <Mail size={18} />
-              Open in Email Client
-            </a>
+            {currentTemplate.email && (
+              <a
+                href={generateMailtoLink(currentTemplate)}
+                className={`tw-action-button ${currentTemplate.formUrl ? 'secondary' : 'primary'}`}
+              >
+                <Mail size={18} />
+                Open in Email Client
+              </a>
+            )}
             <button
               className="tw-action-button secondary"
               onClick={() => copyToClipboard(currentTemplate.body, selectedTemplate)}
