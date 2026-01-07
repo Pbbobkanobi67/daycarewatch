@@ -13,7 +13,7 @@ const RISK_WEIGHTS = {
   HIGH_CCAP_PAYMENT: 25,                // Payment > $1M/year
   HIGH_PAYMENT_RATIO: 35,               // Payment/capacity > $15K
   MANY_VIOLATIONS: 15,                  // >10 violations
-  PANDEMIC_ERA_LICENSE: 10,             // Licensed 2020-2021
+  PANDEMIC_ERA_LICENSE: 0,              // Removed - too many false positives on legitimate businesses
   SHIRLEY_INVESTIGATION: 50,            // In known investigation list
   PROBATION_STATUS: 25,                 // License on probation
   SUSPENDED_STATUS: 40,                 // License suspended
@@ -50,19 +50,29 @@ export const calculateRiskScore = (facility, context = {}) => {
     });
   }
 
-  // Multiple facilities at same address
+  // Multiple facilities at same address - only flag if DIFFERENT owners
+  // (Same owner with multiple licenses for different age groups is normal)
   if (context.addressGroups) {
     const normalizedAddress = normalizeAddressSimple(facility.address);
     const facilitiesAtAddress = context.addressGroups[normalizedAddress] || [];
     if (facilitiesAtAddress.length > 1) {
-      score += RISK_WEIGHTS.MULTIPLE_FACILITIES_SAME_ADDRESS;
-      flags.push({
-        type: 'MULTIPLE_FACILITIES_SAME_ADDRESS',
-        severity: 'high',
-        message: `${facilitiesAtAddress.length} facilities at this address`,
-        detail: facilitiesAtAddress.map(f => f.name).join(', '),
-        relatedFacilities: facilitiesAtAddress.filter(f => f.license_number !== facility.license_number)
-      });
+      // Check if there are different licensees at this address
+      const uniqueLicensees = new Set(facilitiesAtAddress.map(f =>
+        (f.licensee || f.license_holder || '').toLowerCase().trim()
+      ).filter(l => l));
+
+      // Only flag if multiple DIFFERENT owners at same address (shell company pattern)
+      if (uniqueLicensees.size > 1) {
+        score += RISK_WEIGHTS.MULTIPLE_FACILITIES_SAME_ADDRESS;
+        flags.push({
+          type: 'MULTIPLE_FACILITIES_SAME_ADDRESS',
+          severity: 'high',
+          message: `${uniqueLicensees.size} different owners at this address`,
+          detail: `${facilitiesAtAddress.length} facilities with different licensees - potential shell company pattern`,
+          relatedFacilities: facilitiesAtAddress.filter(f => f.license_number !== facility.license_number)
+        });
+      }
+      // If same owner has multiple licenses (preschool + infant + school-age), that's normal - no flag
     }
   }
 
@@ -122,19 +132,9 @@ export const calculateRiskScore = (facility, context = {}) => {
     });
   }
 
-  // Pandemic-era license (2020-2021)
-  if (facility.license_first_date) {
-    const licenseYear = new Date(facility.license_first_date).getFullYear();
-    if (licenseYear >= 2020 && licenseYear <= 2021) {
-      score += RISK_WEIGHTS.PANDEMIC_ERA_LICENSE;
-      flags.push({
-        type: 'PANDEMIC_ERA_LICENSE',
-        severity: 'low',
-        message: `Licensed during pandemic (${licenseYear})`,
-        detail: 'Many fraudulent facilities were established during pandemic funding surge'
-      });
-    }
-  }
+  // NOTE: Pandemic-era license flag removed - too many false positives
+  // Legitimate businesses like churches and established organizations
+  // opened childcare during 2020-2021 for valid reasons
 
   // In Shirley investigation list
   if (context.investigationList) {

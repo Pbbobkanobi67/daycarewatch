@@ -15,7 +15,11 @@
       "Bash(gh api:*)",
       "WebFetch(domain:daycarewatch.vercel.app)",
       "Bash(curl:*)",
-      "Bash(node scripts/geocode-retry.js:*)"
+      "Bash(node scripts/geocode-retry.js:*)",
+      "WebFetch(domain:www.ccld.dss.ca.gov)",
+      "WebSearch",
+      "Bash(node scripts/process-california.js:*)",
+      "Bash(node scripts/geocode-california.js:*)"
     ]
   }
 }

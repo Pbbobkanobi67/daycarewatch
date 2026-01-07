@@ -41,60 +41,71 @@ function calculateRiskScore(facility, allFacilities) {
   let score = 0;
   const flags = [];
 
-  // Check for multiple facilities at same address
+  // Check for multiple DIFFERENT OWNERS at same address (shell company pattern)
+  // Same owner with multiple licenses (preschool + infant + school-age) is NORMAL
   const sameAddress = allFacilities.filter(f =>
     f.address === facility.address &&
     f.city === facility.city &&
     f.license_number !== facility.license_number
   );
 
-  if (sameAddress.length >= 3) {
-    score += 40;
-    flags.push(`${sameAddress.length + 1} facilities at same address`);
-  } else if (sameAddress.length >= 1) {
-    score += 15 + (sameAddress.length * 5);
-    flags.push(`${sameAddress.length + 1} facilities at same address`);
+  if (sameAddress.length >= 1) {
+    // Check if there are different licensees at this address
+    const licensees = new Set([facility.licensee, ...sameAddress.map(f => f.licensee)].filter(l => l));
+    const differentOwners = licensees.size > 1;
+
+    if (differentOwners) {
+      // Different owners at same address = suspicious (shell company pattern)
+      if (sameAddress.length >= 3) {
+        score += 40;
+        flags.push(`${licensees.size} different owners at same address (${sameAddress.length + 1} licenses)`);
+      } else {
+        score += 20;
+        flags.push(`${licensees.size} different owners at same address`);
+      }
+    }
+    // Same owner with multiple licenses at same address = normal (no flag)
   }
 
-  // Check for multiple facilities with same licensee
+  // Large networks - only flag very large networks (10+) as informational
+  // Organizations like YMCA, KinderCare, churches legitimately operate many facilities
   const sameLicensee = allFacilities.filter(f =>
     f.licensee === facility.licensee &&
     f.license_number !== facility.license_number
   );
 
-  if (sameLicensee.length >= 10) {
-    score += 30;
-    flags.push(`Large network: ${sameLicensee.length + 1} facilities same licensee`);
-  } else if (sameLicensee.length >= 5) {
-    score += 20;
-    flags.push(`Network: ${sameLicensee.length + 1} facilities same licensee`);
-  } else if (sameLicensee.length >= 2) {
-    score += 10;
-    flags.push(`${sameLicensee.length + 1} facilities same licensee`);
+  // Only flag extremely large networks (15+) as potentially suspicious
+  if (sameLicensee.length >= 15) {
+    score += 15;
+    flags.push(`Very large network: ${sameLicensee.length + 1} facilities`);
   }
 
-  // Check for shared phone numbers
+  // Shared phone numbers at DIFFERENT addresses is suspicious
   const samePhone = allFacilities.filter(f =>
     f.phone === facility.phone &&
     f.license_number !== facility.license_number &&
+    f.address !== facility.address && // Different address
     facility.phone
   );
 
   if (samePhone.length >= 2) {
     score += 15;
-    flags.push(`Shared phone with ${samePhone.length} other facilities`);
+    flags.push(`Shared phone with ${samePhone.length} facilities at different addresses`);
   }
 
-  // Check facility status
-  if (facility.status !== 'LICENSED') {
-    score += 25;
+  // Check facility status - CLOSED/UNLICENSED is a concern
+  if (facility.status === 'CLOSED' || facility.status === 'UNLICENSED') {
+    score += 20;
+    flags.push(`Status: ${facility.status}`);
+  } else if (facility.status !== 'LICENSED') {
+    score += 10;
     flags.push(`Status: ${facility.status}`);
   }
 
-  // High capacity flag (potential overbilling risk)
-  if (facility.capacity > 150) {
-    score += 10;
-    flags.push(`High capacity: ${facility.capacity}`);
+  // Very high capacity flag (potential overbilling risk) - only flag extreme cases
+  if (facility.capacity > 200) {
+    score += 5;
+    flags.push(`Very high capacity: ${facility.capacity}`);
   }
 
   // Determine risk level
