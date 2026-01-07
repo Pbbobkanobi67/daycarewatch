@@ -76,3 +76,4 @@ secrets/
 credentials.json
 
 # API Keys (add patterns here, never actual keys)
+public/data/california/childcarecenters_full.csv

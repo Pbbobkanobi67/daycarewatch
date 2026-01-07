@@ -7,9 +7,9 @@ const COUNTIES_WITH_DATA = {
   'San Diego': {
     licensingData: true,
     subsidyData: false,
-    lastUpdated: '2026-01-01',
-    facilitiesCount: 3518,
-    note: 'Pilot county - subsidy CPRA request pending'
+    lastUpdated: '2026-01-06',
+    facilitiesCount: 1632,
+    note: 'Pilot county - 72 critical, 409 high risk - subsidy CPRA request pending'
   }
 };
 
