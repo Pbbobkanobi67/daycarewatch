@@ -286,7 +286,7 @@ Sincerely,
     },
     mdh: {
       agency: 'Minnesota Department of Health',
-      email: 'health.datapractices@state.mn.us',
+      email: 'Health.DataPracticesRequest@state.mn.us',
       subject: 'Data Practices Request - Healthcare Facility Licensing Records',
       body: `To: Minnesota Department of Health
 Data Practices Office
