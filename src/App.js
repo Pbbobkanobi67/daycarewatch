@@ -45,7 +45,7 @@ function App() {
   const [investigationData, setInvestigationData] = useState(null);
 
   // Advanced search filtered facilities
-  const [advancedFilteredFacilities, setAdvancedFilteredFacilities] = useState([]);
+  const [advancedFilteredFacilities, setAdvancedFilteredFacilities] = useState(null);
 
   // Watchlist state
   const [watchlistRefresh, setWatchlistRefresh] = useState(0);
@@ -723,7 +723,7 @@ function App() {
                           </tr>
                         </thead>
                         <tbody>
-                          {(advancedFilteredFacilities.length > 0 ? advancedFilteredFacilities : filteredFacilities).slice(0, 100).map(facility => (
+                          {(advancedFilteredFacilities !== null ? advancedFilteredFacilities : filteredFacilities).slice(0, 100).map(facility => (
                             <tr
                               key={facility.license_number}
                               className={`facility-row ${facility.flagged ? 'flagged-row' : ''} ${isInWatchlist(facility.license_number) ? 'watched-row' : ''} clickable`}
@@ -787,14 +787,14 @@ function App() {
                       <p className="table-hint">* = estimated capacity | Click any row to view details | <Eye size={12} style={{verticalAlign: 'middle'}} /> = watchlist</p>
                     </div>
 
-                    {(advancedFilteredFacilities.length > 0 ? advancedFilteredFacilities : filteredFacilities).length > 100 && (
+                    {(advancedFilteredFacilities !== null ? advancedFilteredFacilities : filteredFacilities).length > 100 && (
                       <p className="table-note">
-                        Showing first 100 of {(advancedFilteredFacilities.length > 0 ? advancedFilteredFacilities : filteredFacilities).length.toLocaleString()} facilities.
+                        Showing first 100 of {(advancedFilteredFacilities !== null ? advancedFilteredFacilities : filteredFacilities).length.toLocaleString()} facilities.
                         Use search to filter results.
                       </p>
                     )}
 
-                    {advancedFilteredFacilities.length === 0 && filteredFacilities.length === 0 && (
+                    {(advancedFilteredFacilities !== null ? advancedFilteredFacilities : filteredFacilities).length === 0 && (
                       <p className="table-note">
                         No facilities match your search. Try different filters.
                       </p>

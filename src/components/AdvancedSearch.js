@@ -112,7 +112,23 @@ const AdvancedSearch = ({ facilities, onFilteredResults, counties }) => {
       filtered = filtered.filter(f => f.dhs_enriched);
     }
 
-    onFilteredResults(filtered);
+    // Check if any filters are actually applied
+    const hasActiveFilters =
+      filters.searchTerm ||
+      filters.ownerSearch ||
+      filters.addressSearch ||
+      filters.minCapacity ||
+      filters.maxCapacity ||
+      filters.facilityTypes.length > 0 ||
+      filters.statuses.length > 0 ||
+      filters.hasViolations ||
+      filters.hasMaltreatment ||
+      filters.minRiskScore ||
+      filters.county ||
+      filters.enrichedOnly;
+
+    // Pass null when no filters active, otherwise pass the filtered array
+    onFilteredResults(hasActiveFilters ? filtered : null);
   }, [filters, facilities, onFilteredResults]);
 
   const handleFilterChange = (key, value) => {
