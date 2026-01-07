@@ -11,7 +11,9 @@ import {
   MapPin,
   Clock,
   CheckCircle,
-  Copy
+  Copy,
+  Heart,
+  Link2
 } from 'lucide-react';
 
 /**
@@ -20,7 +22,7 @@ import {
  * Exposes patterns in medical transportation billing fraud, which often
  * operates alongside daycare fraud using similar shell company structures.
  */
-const TransportWatchPage = () => {
+const TransportWatchPage = ({ onNavigate }) => {
   const [copiedTemplate, setCopiedTemplate] = useState(null);
   const [selectedTemplate, setSelectedTemplate] = useState('mndot');
 
@@ -292,6 +294,34 @@ Sincerely,
         <div className="tw-stat-card">
           <span className="tw-stat-number">90 Days</span>
           <span className="tw-stat-label">Payment Freeze</span>
+        </div>
+      </section>
+
+      {/* Cross-Reference Section */}
+      <section className="tw-section tw-crossref">
+        <div className="tw-crossref-header">
+          <Link2 size={24} />
+          <h2>Cross-Reference Other Programs</h2>
+        </div>
+        <p className="tw-crossref-description">
+          NEMT fraud networks often overlap with childcare and healthcare fraud.
+          <strong> Same owners, same addresses, same patterns.</strong>
+        </p>
+        <div className="tw-crossref-links">
+          <button type="button" onClick={() => onNavigate && onNavigate(null)} className="tw-crossref-card">
+            <Building size={24} />
+            <div>
+              <strong>Check DaycareWatch</strong>
+              <span>Cross-reference with flagged childcare facilities</span>
+            </div>
+          </button>
+          <button type="button" onClick={() => onNavigate && onNavigate('healthwatch')} className="tw-crossref-card">
+            <Heart size={24} />
+            <div>
+              <strong>Check HealthWatch</strong>
+              <span>Cross-reference with 13 high-risk Medicaid programs</span>
+            </div>
+          </button>
         </div>
       </section>
 

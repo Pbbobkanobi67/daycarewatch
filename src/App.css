@@ -241,6 +241,72 @@ body {
   margin-top: 0.25rem;
 }
 
+/* Hero Cross-Reference Links */
+.hero-crossref {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+.crossref-intro {
+  color: rgba(255,255,255,0.9);
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.crossref-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.crossref-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.5rem;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: left;
+}
+
+.crossref-btn:hover {
+  background: rgba(255,255,255,0.2);
+  border-color: rgba(255,255,255,0.3);
+  transform: translateY(-2px);
+}
+
+.crossref-btn.healthwatch:hover {
+  background: rgba(239, 68, 68, 0.3);
+  border-color: rgba(239, 68, 68, 0.5);
+}
+
+.crossref-btn.transportwatch:hover {
+  background: rgba(59, 130, 246, 0.3);
+  border-color: rgba(59, 130, 246, 0.5);
+}
+
+.crossref-btn div {
+  display: flex;
+  flex-direction: column;
+}
+
+.crossref-btn strong {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.crossref-btn span {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.7);
+  margin-top: 0.15rem;
+}
+
 /* Main Content */
 .main {
   flex: 1;

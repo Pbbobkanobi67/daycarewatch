@@ -27,7 +27,7 @@ import {
  * which often operate alongside daycare and NEMT fraud using similar
  * shell company structures.
  */
-const HealthWatchPage = () => {
+const HealthWatchPage = ({ onNavigate }) => {
   const [copiedTemplate, setCopiedTemplate] = useState(null);
   const [selectedTemplate, setSelectedTemplate] = useState('dhs_programs');
   const [expandedProgram, setExpandedProgram] = useState(null);
@@ -509,14 +509,14 @@ Sincerely,
           childcare and NEMT fraud. Same owners. Same addresses. Same fraud patterns.
         </p>
         <div className="hw-crossref-links">
-          <button type="button" onClick={() => window.scrollTo(0, 0)} className="hw-crossref-card">
+          <button type="button" onClick={() => onNavigate && onNavigate(null)} className="hw-crossref-card">
             <Building size={24} />
             <div>
               <strong>Check DaycareWatch</strong>
               <span>Cross-reference healthcare providers with flagged childcare facilities</span>
             </div>
           </button>
-          <button type="button" className="hw-crossref-card">
+          <button type="button" onClick={() => onNavigate && onNavigate('transportwatch')} className="hw-crossref-card">
             <MapPin size={24} />
             <div>
               <strong>Check TransportWatch</strong>

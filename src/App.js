@@ -333,14 +333,14 @@ function App() {
       {/* TransportWatch Page */}
       {activePage === 'transportwatch' && (
         <main className="main page-content">
-          <TransportWatchPage />
+          <TransportWatchPage onNavigate={setActivePage} />
         </main>
       )}
 
       {/* HealthWatch Page */}
       {activePage === 'healthwatch' && (
         <main className="main page-content">
-          <HealthWatchPage />
+          <HealthWatchPage onNavigate={setActivePage} />
         </main>
       )}
 
@@ -384,6 +384,35 @@ function App() {
                 </div>
               </div>
             )}
+
+            {/* Cross-Reference Links */}
+            <div className="hero-crossref">
+              <p className="crossref-intro">
+                <strong>Same fraud networks operate across programs.</strong> Check if owners and addresses appear in:
+              </p>
+              <div className="crossref-buttons">
+                <button
+                  className="crossref-btn healthwatch"
+                  onClick={() => setActivePage('healthwatch')}
+                >
+                  <Heart size={20} />
+                  <div>
+                    <strong>HealthWatch</strong>
+                    <span>13 high-risk Medicaid programs</span>
+                  </div>
+                </button>
+                <button
+                  className="crossref-btn transportwatch"
+                  onClick={() => setActivePage('transportwatch')}
+                >
+                  <Truck size={20} />
+                  <div>
+                    <strong>TransportWatch</strong>
+                    <span>NEMT provider fraud</span>
+                  </div>
+                </button>
+              </div>
+            </div>
           </div>
         </section>
       )}
