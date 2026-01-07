@@ -15,7 +15,8 @@ import {
   CheckCircle,
   Eye,
   Printer,
-  Calendar
+  Calendar,
+  Mail
 } from 'lucide-react';
 
 /**
@@ -91,6 +92,89 @@ const FacilityDetail = ({
     if (s === 'SUSPENDED' || s === 'REVOKED') return 'status-suspended';
     if (s === 'PENDING') return 'status-pending';
     return '';
+  };
+
+  // Generate public records request mailto link
+  const getPublicRecordsLink = () => {
+    const licenseNum = facility.license_number || 'Unknown';
+    const facilityName = facility.name || 'Unknown Facility';
+    const facilityAddress = `${facility.address || ''}, ${facility.city || ''}, ${facility.state || ''} ${facility.zip_code || ''}`.trim();
+
+    if (stateId === 'minnesota') {
+      const subject = `MGDPA Request - CCAP Payment Records - License #${licenseNum}`;
+      const body = `To: Minnesota Department of Human Services
+Data Practices Office
+
+RE: Minnesota Government Data Practices Act Request
+Facility: ${facilityName}
+License Number: ${licenseNum}
+Address: ${facilityAddress}
+
+Dear Data Practices Officer,
+
+Pursuant to the Minnesota Government Data Practices Act (Minn. Stat. Ch. 13), I am requesting the following public data:
+
+1. Child Care Assistance Program (CCAP) payment records for the above-referenced facility for fiscal years 2020-2025, including:
+   - Total payments by fiscal year
+   - Monthly payment amounts
+   - Number of children served per month
+   - Attendance records submitted for reimbursement
+
+2. Any compliance or enforcement actions related to CCAP billing
+
+3. Licensing inspection reports and findings
+
+Please provide these records in electronic format if available.
+
+I understand there may be reasonable costs associated with this request and am willing to pay up to $25 without prior notification. Please contact me if costs will exceed this amount.
+
+Thank you for your assistance with this request.
+
+Sincerely,
+[Your Name]
+[Your Email]
+[Your Phone]`;
+
+      return `mailto:dhs.dataaccess@state.mn.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    } else if (stateId === 'california') {
+      const subject = `CPRA Request - Childcare Subsidy Records - Facility #${licenseNum}`;
+      const body = `To: California Department of Social Services
+Public Records Act Coordinator
+
+RE: California Public Records Act Request (Gov. Code § 6250 et seq.)
+Facility: ${facilityName}
+License Number: ${licenseNum}
+Address: ${facilityAddress}
+
+Dear Public Records Coordinator,
+
+Pursuant to the California Public Records Act (Government Code Section 6250 et seq.), I am requesting the following public records:
+
+1. Childcare subsidy payment records (CalWORKs Stage 1, 2, 3 and/or Alternative Payment) for the above-referenced facility for fiscal years 2020-2025, including:
+   - Total payments by fiscal year
+   - Monthly reimbursement amounts
+   - Number of children served
+   - Attendance/enrollment data submitted for reimbursement
+
+2. Any compliance reviews, audits, or enforcement actions related to subsidy billing
+
+3. Community Care Licensing inspection reports and complaint investigations
+
+Please provide these records in electronic format if available.
+
+Per Government Code Section 6253(c), I request a response within 10 days.
+
+Thank you for your assistance with this request.
+
+Sincerely,
+[Your Name]
+[Your Email]
+[Your Phone]`;
+
+      return `mailto:CDSSPublicRecordsAct@dss.ca.gov?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    }
+
+    return null;
   };
 
   // Build external links based on state
@@ -342,10 +426,20 @@ const FacilityDetail = ({
                 </div>
               </div>
             ) : (
-              <p className="no-data">
-                Financial data not yet available. File an MGDPA (Minnesota) or CPRA (California) request
-                to obtain CCAP payment records.
-              </p>
+              <div className="no-data">
+                <p>
+                  Financial data not yet available. File a public records request to obtain subsidy payment records.
+                </p>
+                {getPublicRecordsLink() && (
+                  <a
+                    href={getPublicRecordsLink()}
+                    className="records-request-button"
+                  >
+                    <Mail size={16} />
+                    Request Payment Records ({stateId === 'minnesota' ? 'MGDPA' : 'CPRA'})
+                  </a>
+                )}
+              </div>
             )}
           </section>
 

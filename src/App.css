@@ -1502,6 +1502,39 @@ tr.flagged-row:hover {
   border-radius: 8px;
 }
 
+.no-data p {
+  margin: 0 0 1rem 0;
+}
+
+.records-request-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.3);
+}
+
+.records-request-button:hover {
+  background: linear-gradient(135deg, #1d4ed8, #1e40af);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(37, 99, 235, 0.4);
+  color: white;
+}
+
+.records-request-button svg {
+  flex-shrink: 0;
+}
+
 /* Compliance Timeline */
 .compliance-timeline {
   margin-top: 1.25rem;
