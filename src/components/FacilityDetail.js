@@ -254,6 +254,62 @@ Sincerely,
           'Response required within 3 working days'
         ]
       };
+    } else if (stateId === 'maryland') {
+      const countyName = facility.county || 'the county';
+      const subject = `MPIA Request - Child Care Scholarship Records - ${licenseNum}`;
+      const body = `RE: Maryland Public Information Act Request (Md. Code, Gen. Prov. 4-101 et seq.)
+Facility: ${facilityName}
+License Number: ${licenseNum}
+Address: ${facilityAddress}
+County: ${countyName}
+
+Dear Public Information Act Officer,
+
+Pursuant to the Maryland Public Information Act (Md. Code, Gen. Prov. 4-101 et seq.), I am requesting the following public records:
+
+1. Child Care Scholarship (CCS) Program payment records for the above-referenced facility for fiscal years 2020-2025, including:
+   - Total reimbursement payments by fiscal year
+   - Monthly payment amounts
+   - Number of children receiving scholarships at this facility
+   - Attendance records submitted for reimbursement
+
+2. Licensing inspection reports and findings for the past 5 years
+
+3. Any substantiated complaints, violations, or enforcement actions
+
+4. Maryland EXCELS quality rating documentation
+
+5. Any audit findings related to CCS billing or compliance
+
+Please provide these records in electronic format if available.
+
+Per the MPIA, I expect a response within 30 days of receipt.
+
+If any fees are associated with this request, please notify me before proceeding if they exceed $25.
+
+Thank you for your assistance with this request.
+
+Sincerely,
+[Your Name]
+[Your Email]
+[Your Phone]`;
+
+      return {
+        type: 'email',
+        email: 'earlychildhoodpolicy.msde@maryland.gov',
+        subject,
+        body,
+        mailto: `mailto:earlychildhoodpolicy.msde@maryland.gov?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`,
+        lawName: 'MPIA',
+        lawFull: 'Maryland Public Information Act',
+        agency: 'Maryland State Department of Education',
+        instructions: [
+          'Click "Open in Email" to send directly, OR',
+          'Click "Copy Request Text" and paste into your email client',
+          'Send to: earlychildhoodpolicy.msde@maryland.gov',
+          'Response required within 30 days'
+        ]
+      };
     }
 
     return null;
@@ -319,6 +375,22 @@ Sincerely,
       links.push({
         label: 'CA Secretary of State',
         url: 'https://bizfileonline.sos.ca.gov/search/business',
+        icon: <Building size={14} />
+      });
+    } else if (stateId === 'maryland') {
+      links.push({
+        label: 'CheckCCMD Provider Search',
+        url: 'https://www.checkccmd.org/',
+        icon: <Shield size={14} />
+      });
+      links.push({
+        label: 'Maryland EXCELS Quality Ratings',
+        url: 'https://marylandexcels.org/',
+        icon: <CheckCircle size={14} />
+      });
+      links.push({
+        label: 'MD SDAT Business Search',
+        url: 'https://egov.maryland.gov/BusinessExpress/EntitySearch',
         icon: <Building size={14} />
       });
     }

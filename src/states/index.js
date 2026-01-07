@@ -15,6 +15,10 @@ import minnesotaConfig from './minnesota/config';
 import { MINNESOTA_COUNTIES } from './minnesota/counties';
 import { getMinnesotaDataStatus } from './minnesota/dataStatus';
 
+import marylandConfig from './maryland/config';
+import { MARYLAND_COUNTIES } from './maryland/counties';
+import { getMarylandDataStatus } from './maryland/dataStatus';
+
 /**
  * All available states with their configurations
  */
@@ -28,6 +32,11 @@ export const states = {
     config: coloradoConfig,
     counties: COLORADO_COUNTIES,
     getDataStatus: getColoradoDataStatus
+  },
+  maryland: {
+    config: marylandConfig,
+    counties: MARYLAND_COUNTIES,
+    getDataStatus: getMarylandDataStatus
   },
   minnesota: {
     config: minnesotaConfig,

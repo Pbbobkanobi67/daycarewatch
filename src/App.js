@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
-import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare, Truck, Heart } from 'lucide-react';
+import { Search, AlertTriangle, Building2, DollarSign, Users, ExternalLink, Info, ArrowLeft, Eye, Network, TrendingUp, BookMarked, MapPin, Download, MessageSquare, Truck, Heart, Home, ChevronDown } from 'lucide-react';
 import './App.css';
 import './components/components.css';
 
@@ -297,6 +297,28 @@ function App() {
           </div>
           <nav className="nav">
             <button
+              className={`nav-link ${!activePage ? 'active' : ''}`}
+              onClick={() => { setSelectedState(null); setSelectedCounty(null); setActivePage(null); }}
+            >
+              <Home size={14} /> Home
+            </button>
+            <div className="nav-dropdown">
+              <button className={`nav-link ${activePage === 'transportwatch' ? 'active' : ''}`}>
+                <Truck size={14} /> TransportWatch <ChevronDown size={12} />
+              </button>
+              <div className="nav-dropdown-content">
+                <button onClick={() => setActivePage('transportwatch')}>Minnesota (NEMT)</button>
+              </div>
+            </div>
+            <div className="nav-dropdown">
+              <button className={`nav-link ${activePage === 'healthwatch' ? 'active' : ''}`}>
+                <Heart size={14} /> HealthWatch <ChevronDown size={12} />
+              </button>
+              <div className="nav-dropdown-content">
+                <button onClick={() => setActivePage('healthwatch')}>Minnesota (Medicaid)</button>
+              </div>
+            </div>
+            <button
               className={`nav-link ${activePage === 'about' ? 'active' : ''}`}
               onClick={() => setActivePage('about')}
             >
@@ -307,18 +329,6 @@ function App() {
               onClick={() => setActivePage('methodology')}
             >
               Methodology
-            </button>
-            <button
-              className={`nav-link ${activePage === 'transportwatch' ? 'active' : ''}`}
-              onClick={() => setActivePage('transportwatch')}
-            >
-              <Truck size={14} /> TransportWatch
-            </button>
-            <button
-              className={`nav-link ${activePage === 'healthwatch' ? 'active' : ''}`}
-              onClick={() => setActivePage('healthwatch')}
-            >
-              <Heart size={14} /> HealthWatch
             </button>
             <a href="https://github.com/Pbbobkanobi67/daycarewatch" className="nav-link" target="_blank" rel="noopener noreferrer">
               GitHub <ExternalLink size={14} />
@@ -987,6 +997,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
+          <p className="carewatch-project">A CareWatch America Project</p>
           <p>Built with public records. Open source. No affiliation with any government agency.</p>
         </div>
       </footer>
