@@ -30,6 +30,7 @@ const AdvancedSearch = ({ facilities, onFilteredResults, counties }) => {
     county: '',
     enrichedOnly: false,
     hasMultipleFacilities: false,
+    hideSchoolPrograms: false,
   });
 
   // Get unique values for filters
@@ -112,6 +113,21 @@ const AdvancedSearch = ({ facilities, onFilteredResults, counties }) => {
       filtered = filtered.filter(f => f.dhs_enriched);
     }
 
+    // Hide school-based programs (before/after care at public schools)
+    if (filters.hideSchoolPrograms) {
+      filtered = filtered.filter(f => {
+        const name = (f.name || '').toLowerCase();
+        // Match patterns like "@ Elementary", "Before Care", "After Care", "Extended Day"
+        const isSchoolProgram =
+          /@\s*\w+.*(?:elementary|middle|high|school|ES|MS|HS)/i.test(f.name) ||
+          /\b(?:before|after)\s*(?:care|school)/i.test(name) ||
+          /\bextended\s*day\b/i.test(name) ||
+          /\bschool.?s?\s*out\b/i.test(name) ||
+          /\bkids?\s*club\s*at\b/i.test(name);
+        return !isSchoolProgram;
+      });
+    }
+
     // Check if any filters are actually applied
     const hasActiveFilters =
       filters.searchTerm ||
@@ -125,7 +141,8 @@ const AdvancedSearch = ({ facilities, onFilteredResults, counties }) => {
       filters.hasMaltreatment ||
       filters.minRiskScore ||
       filters.county ||
-      filters.enrichedOnly;
+      filters.enrichedOnly ||
+      filters.hideSchoolPrograms;
 
     // Pass null when no filters active, otherwise pass the filtered array
     onFilteredResults(hasActiveFilters ? filtered : null);
@@ -161,6 +178,7 @@ const AdvancedSearch = ({ facilities, onFilteredResults, counties }) => {
       county: '',
       enrichedOnly: false,
       hasMultipleFacilities: false,
+      hideSchoolPrograms: false,
     });
   };
 
@@ -342,6 +360,14 @@ const AdvancedSearch = ({ facilities, onFilteredResults, counties }) => {
                     onChange={(e) => handleFilterChange('enrichedOnly', e.target.checked)}
                   />
                   DHS verified data only
+                </label>
+                <label className="checkbox-label">
+                  <input
+                    type="checkbox"
+                    checked={filters.hideSchoolPrograms}
+                    onChange={(e) => handleFilterChange('hideSchoolPrograms', e.target.checked)}
+                  />
+                  Hide school-based programs
                 </label>
               </div>
             </div>
