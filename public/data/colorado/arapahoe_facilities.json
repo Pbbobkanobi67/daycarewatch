@@ -18,7 +18,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.660346,
+    "longitude": -104.993346,
+    "geocoded_at": "2026-01-07T05:41:32.007Z"
   },
   {
     "license_number": "1705639",
@@ -39,7 +42,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6878971,
+    "longitude": -104.7933494,
+    "geocoded_at": "2026-01-07T05:41:33.355Z"
   },
   {
     "license_number": "1704815",
@@ -60,7 +66,10 @@
     "school_district": "Cherry Creek",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5940238,
+    "longitude": -104.7811389,
+    "geocoded_at": "2026-01-07T05:41:34.977Z"
   },
   {
     "license_number": "1705113",
@@ -81,7 +90,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7182573,
+    "longitude": -104.8688179,
+    "geocoded_at": "2026-01-07T05:41:36.728Z"
   },
   {
     "license_number": "1708908",
@@ -102,7 +114,10 @@
     "school_district": "Aurora public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7313496,
+    "longitude": -104.8148303,
+    "geocoded_at": "2026-01-07T05:41:38.555Z"
   },
   {
     "license_number": "1669526",
@@ -123,7 +138,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:41:40.349Z"
   },
   {
     "license_number": "1563418",
@@ -144,7 +162,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6820559,
+    "longitude": -104.8529285,
+    "geocoded_at": "2026-01-07T05:41:42.010Z"
   },
   {
     "license_number": "8068",
@@ -165,7 +186,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:41:45.517Z"
   },
   {
     "license_number": "18880",
@@ -186,7 +210,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5850511,
+    "longitude": -104.9355229,
+    "geocoded_at": "2026-01-07T05:41:46.867Z"
   },
   {
     "license_number": "42839",
@@ -207,7 +234,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.646224,
+    "longitude": -104.7447389,
+    "geocoded_at": "2026-01-07T05:41:48.636Z"
   },
   {
     "license_number": "1536552",
@@ -228,7 +258,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7428021,
+    "longitude": -104.8003092,
+    "geocoded_at": "2026-01-07T05:41:50.688Z"
   },
   {
     "license_number": "1544815",
@@ -249,7 +282,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6831802,
+    "longitude": -104.8577788,
+    "geocoded_at": "2026-01-07T05:41:52.338Z"
   },
   {
     "license_number": "1544817",
@@ -270,7 +306,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5903191,
+    "longitude": -104.722065,
+    "geocoded_at": "2026-01-07T05:41:55.844Z"
   },
   {
     "license_number": "1549207",
@@ -291,7 +330,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.621724,
+    "longitude": -104.704616,
+    "geocoded_at": "2026-01-07T05:41:57.281Z"
   },
   {
     "license_number": "1597580",
@@ -312,7 +354,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5968984,
+    "longitude": -104.6940634,
+    "geocoded_at": "2026-01-07T05:41:58.778Z"
   },
   {
     "license_number": "81979",
@@ -333,7 +378,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:42:01.938Z"
   },
   {
     "license_number": "1692593",
@@ -354,7 +402,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:42:05.233Z"
   },
   {
     "license_number": "1713278",
@@ -375,7 +426,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7354423,
+    "longitude": -104.8605287,
+    "geocoded_at": "2026-01-07T05:42:06.654Z"
   },
   {
     "license_number": "1713303",
@@ -396,7 +450,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7583455,
+    "longitude": -104.8370257,
+    "geocoded_at": "2026-01-07T05:42:08.354Z"
   },
   {
     "license_number": "1713481",
@@ -417,7 +474,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:42:11.101Z"
   },
   {
     "license_number": "1715772",
@@ -438,7 +498,10 @@
     "school_district": "Arapahoe",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.752194,
+    "longitude": -104.8893792,
+    "geocoded_at": "2026-01-07T05:42:13.071Z"
   },
   {
     "license_number": "1715779",
@@ -459,7 +522,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.752194,
+    "longitude": -104.8893792,
+    "geocoded_at": "2026-01-07T05:42:15.058Z"
   },
   {
     "license_number": "1717044",
@@ -480,7 +546,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:42:18.018Z"
   },
   {
     "license_number": "1719382",
@@ -501,7 +570,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5816,
+    "longitude": -104.6705925,
+    "geocoded_at": "2026-01-07T05:42:19.386Z"
   },
   {
     "license_number": "1719858",
@@ -522,7 +594,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.600965,
+    "longitude": -104.958016,
+    "geocoded_at": "2026-01-07T05:42:21.559Z"
   },
   {
     "license_number": "1720207",
@@ -543,7 +618,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.632391,
+    "longitude": -104.817332,
+    "geocoded_at": "2026-01-07T05:42:23.407Z"
   },
   {
     "license_number": "1720208",
@@ -564,7 +642,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5816,
+    "longitude": -104.6705925,
+    "geocoded_at": "2026-01-07T05:42:24.995Z"
   },
   {
     "license_number": "1720209",
@@ -585,7 +666,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7518573,
+    "longitude": -104.8655506,
+    "geocoded_at": "2026-01-07T05:42:26.677Z"
   },
   {
     "license_number": "1720262",
@@ -606,7 +690,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6543977,
+    "longitude": -104.9595729,
+    "geocoded_at": "2026-01-07T05:42:29.112Z"
   },
   {
     "license_number": "1720300",
@@ -627,7 +714,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5903191,
+    "longitude": -104.722065,
+    "geocoded_at": "2026-01-07T05:42:32.460Z"
   },
   {
     "license_number": "1720352",
@@ -648,7 +738,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6523371,
+    "longitude": -104.8124325,
+    "geocoded_at": "2026-01-07T05:42:35.463Z"
   },
   {
     "license_number": "1721725",
@@ -669,7 +762,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7095853,
+    "longitude": -104.7934403,
+    "geocoded_at": "2026-01-07T05:42:37.128Z"
   },
   {
     "license_number": "1721793",
@@ -690,7 +786,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:42:39.994Z"
   },
   {
     "license_number": "1722345",
@@ -711,7 +810,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7363732,
+    "longitude": -104.8481326,
+    "geocoded_at": "2026-01-07T05:42:42.010Z"
   },
   {
     "license_number": "1723880",
@@ -732,7 +834,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:42:45.615Z"
   },
   {
     "license_number": "1724365",
@@ -753,7 +858,10 @@
     "school_district": "Englewood",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6313952,
+    "longitude": -104.9934097,
+    "geocoded_at": "2026-01-07T05:42:47.435Z"
   },
   {
     "license_number": "1725421",
@@ -774,7 +882,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6515581,
+    "longitude": -104.8075561,
+    "geocoded_at": "2026-01-07T05:42:48.903Z"
   },
   {
     "license_number": "1725988",
@@ -795,7 +906,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5971023,
+    "longitude": -104.8762826,
+    "geocoded_at": "2026-01-07T05:42:50.473Z"
   },
   {
     "license_number": "1727334",
@@ -816,7 +930,10 @@
     "school_district": "Arapahoe 1 Englewood",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:42:55.685Z"
   },
   {
     "license_number": "1727610",
@@ -837,7 +954,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:43:00.986Z"
   },
   {
     "license_number": "1728868",
@@ -858,7 +978,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:43:03.703Z"
   },
   {
     "license_number": "1729860",
@@ -879,7 +1002,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6169324,
+    "longitude": -104.9936999,
+    "geocoded_at": "2026-01-07T05:43:05.315Z"
   },
   {
     "license_number": "1730400",
@@ -900,7 +1026,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6803887,
+    "longitude": -104.8214241,
+    "geocoded_at": "2026-01-07T05:43:06.970Z"
   },
   {
     "license_number": "1732062",
@@ -921,7 +1050,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:43:12.762Z"
   },
   {
     "license_number": "1733133",
@@ -942,7 +1074,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6367123,
+    "longitude": -104.7880746,
+    "geocoded_at": "2026-01-07T05:43:14.142Z"
   },
   {
     "license_number": "1733479",
@@ -963,7 +1098,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.631439,
+    "longitude": -104.8081392,
+    "geocoded_at": "2026-01-07T05:43:15.835Z"
   },
   {
     "license_number": "1734039",
@@ -984,7 +1122,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:43:20.399Z"
   },
   {
     "license_number": "1735392",
@@ -1005,7 +1146,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6735859,
+    "longitude": -104.7928732,
+    "geocoded_at": "2026-01-07T05:43:22.081Z"
   },
   {
     "license_number": "1738549",
@@ -1026,7 +1170,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:43:24.558Z"
   },
   {
     "license_number": "1739740",
@@ -1047,7 +1194,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6404151,
+    "longitude": -104.7356514,
+    "geocoded_at": "2026-01-07T05:43:26.029Z"
   },
   {
     "license_number": "1739941",
@@ -1089,7 +1239,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7803837,
+    "longitude": -104.7295358,
+    "geocoded_at": "2026-01-07T05:43:33.041Z"
   },
   {
     "license_number": "1742929",
@@ -1110,7 +1263,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:43:37.857Z"
   },
   {
     "license_number": "1743881",
@@ -1131,7 +1287,10 @@
     "school_district": "ENGLEWOOD PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6593222,
+    "longitude": -104.9795604,
+    "geocoded_at": "2026-01-07T05:43:40.005Z"
   },
   {
     "license_number": "1744607",
@@ -1152,7 +1311,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6172101,
+    "longitude": -104.950814,
+    "geocoded_at": "2026-01-07T05:43:43.067Z"
   },
   {
     "license_number": "1744799",
@@ -1173,7 +1335,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7305058,
+    "longitude": -104.8657679,
+    "geocoded_at": "2026-01-07T05:43:44.720Z"
   },
   {
     "license_number": "1746776",
@@ -1194,7 +1359,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7231068,
+    "longitude": -104.9338192,
+    "geocoded_at": "2026-01-07T05:43:46.774Z"
   },
   {
     "license_number": "1746789",
@@ -1215,7 +1383,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7387303,
+    "longitude": -104.8725785,
+    "geocoded_at": "2026-01-07T05:43:48.293Z"
   },
   {
     "license_number": "1746899",
@@ -1236,7 +1407,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:43:53.064Z"
   },
   {
     "license_number": "1747831",
@@ -1257,7 +1431,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.716912,
+    "longitude": -104.673352,
+    "geocoded_at": "2026-01-07T05:43:54.503Z"
   },
   {
     "license_number": "1750149",
@@ -1278,7 +1455,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6933404,
+    "longitude": -104.786161,
+    "geocoded_at": "2026-01-07T05:44:01.267Z"
   },
   {
     "license_number": "1750340",
@@ -1299,7 +1479,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6681265,
+    "longitude": -104.7756897,
+    "geocoded_at": "2026-01-07T05:44:02.576Z"
   },
   {
     "license_number": "1750406",
@@ -1320,7 +1503,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6159056,
+    "longitude": -104.8873535,
+    "geocoded_at": "2026-01-07T05:44:04.628Z"
   },
   {
     "license_number": "1750859",
@@ -1341,7 +1527,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:44:09.525Z"
   },
   {
     "license_number": "1751282",
@@ -1362,7 +1551,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:44:12.775Z"
   },
   {
     "license_number": "1752216",
@@ -1383,7 +1575,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5807742,
+    "longitude": -105.0444208,
+    "geocoded_at": "2026-01-07T05:44:14.409Z"
   },
   {
     "license_number": "1753975",
@@ -1404,7 +1599,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:44:16.929Z"
   },
   {
     "license_number": "1754037",
@@ -1425,7 +1623,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:44:19.529Z"
   },
   {
     "license_number": "1755011",
@@ -1446,7 +1647,10 @@
     "school_district": "Cherry Creek",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6401735,
+    "longitude": -104.8073376,
+    "geocoded_at": "2026-01-07T05:44:20.962Z"
   },
   {
     "license_number": "1755731",
@@ -1467,7 +1671,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.656691,
+    "longitude": -104.985349,
+    "geocoded_at": "2026-01-07T05:44:23.762Z"
   },
   {
     "license_number": "1755957",
@@ -1488,7 +1695,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:44:26.556Z"
   },
   {
     "license_number": "1756140",
@@ -1509,7 +1719,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:44:29.360Z"
   },
   {
     "license_number": "1756890",
@@ -1530,7 +1743,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5892773,
+    "longitude": -104.6865975,
+    "geocoded_at": "2026-01-07T05:44:31.120Z"
   },
   {
     "license_number": "1522032",
@@ -1551,7 +1767,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:44:34.769Z"
   },
   {
     "license_number": "1758113",
@@ -1572,7 +1791,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6082719,
+    "longitude": -104.7157465,
+    "geocoded_at": "2026-01-07T05:44:36.232Z"
   },
   {
     "license_number": "1758234",
@@ -1593,7 +1815,10 @@
     "school_district": "ENGLEWOOD PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:44:39.604Z"
   },
   {
     "license_number": "1758257",
@@ -1614,7 +1839,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:44:42.156Z"
   },
   {
     "license_number": "1758288",
@@ -1635,7 +1863,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:44:46.342Z"
   },
   {
     "license_number": "1758563",
@@ -1656,7 +1887,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6378508,
+    "longitude": -104.7318361,
+    "geocoded_at": "2026-01-07T05:44:48.004Z"
   },
   {
     "license_number": "1758648",
@@ -1677,7 +1911,10 @@
     "school_district": "SHERIDAN 2",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.633836,
+    "longitude": -105.0300637,
+    "geocoded_at": "2026-01-07T05:44:49.430Z"
   },
   {
     "license_number": "1760160",
@@ -1698,7 +1935,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6881548,
+    "longitude": -104.8678033,
+    "geocoded_at": "2026-01-07T05:44:52.911Z"
   },
   {
     "license_number": "1760188",
@@ -1719,7 +1959,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6578757,
+    "longitude": -104.7772921,
+    "geocoded_at": "2026-01-07T05:44:56.379Z"
   },
   {
     "license_number": "1760253",
@@ -1740,7 +1983,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:44:58.887Z"
   },
   {
     "license_number": "1761062",
@@ -1761,7 +2007,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5839995,
+    "longitude": -104.7216391,
+    "geocoded_at": "2026-01-07T05:45:00.254Z"
   },
   {
     "license_number": "1761780",
@@ -1782,7 +2031,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.644862,
+    "longitude": -104.8133638,
+    "geocoded_at": "2026-01-07T05:45:02.026Z"
   },
   {
     "license_number": "1761882",
@@ -1803,7 +2055,10 @@
     "school_district": "ENGLEWOOD PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:45:05.284Z"
   },
   {
     "license_number": "1761983",
@@ -1824,7 +2079,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:45:08.783Z"
   },
   {
     "license_number": "1762228",
@@ -1845,7 +2103,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.661648,
+    "longitude": -104.859111,
+    "geocoded_at": "2026-01-07T05:45:12.713Z"
   },
   {
     "license_number": "1762245",
@@ -1866,7 +2127,10 @@
     "school_district": "LITTLETON PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6088109,
+    "longitude": -105.037434,
+    "geocoded_at": "2026-01-07T05:45:14.416Z"
   },
   {
     "license_number": "1763298",
@@ -1887,7 +2151,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6142725,
+    "longitude": -105.0122674,
+    "geocoded_at": "2026-01-07T05:45:15.751Z"
   },
   {
     "license_number": "1763303",
@@ -1908,7 +2175,10 @@
     "school_district": "Arapahoe",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6201141,
+    "longitude": -104.8414341,
+    "geocoded_at": "2026-01-07T05:45:18.074Z"
   },
   {
     "license_number": "1763328",
@@ -1929,7 +2199,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6379782,
+    "longitude": -104.7359235,
+    "geocoded_at": "2026-01-07T05:45:19.711Z"
   },
   {
     "license_number": "1764276",
@@ -1950,7 +2223,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6759367,
+    "longitude": -104.8711923,
+    "geocoded_at": "2026-01-07T05:45:22.915Z"
   },
   {
     "license_number": "1764418",
@@ -1971,7 +2247,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.620156,
+    "longitude": -105.035466,
+    "geocoded_at": "2026-01-07T05:45:24.349Z"
   },
   {
     "license_number": "1764590",
@@ -2013,7 +2292,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5924447,
+    "longitude": -104.9048367,
+    "geocoded_at": "2026-01-07T05:45:29.106Z"
   },
   {
     "license_number": "1766629",
@@ -2034,7 +2316,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.608445,
+    "longitude": -104.744092,
+    "geocoded_at": "2026-01-07T05:45:30.699Z"
   },
   {
     "license_number": "1766801",
@@ -2055,7 +2340,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7028714,
+    "longitude": -104.8595193,
+    "geocoded_at": "2026-01-07T05:45:32.337Z"
   },
   {
     "license_number": "1766799",
@@ -2076,7 +2364,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5749773,
+    "longitude": -104.6643408,
+    "geocoded_at": "2026-01-07T05:45:33.771Z"
   },
   {
     "license_number": "1766571",
@@ -2097,7 +2388,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:45:36.535Z"
   },
   {
     "license_number": "1765482",
@@ -2118,7 +2412,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6164866,
+    "longitude": -105.029185,
+    "geocoded_at": "2026-01-07T05:45:38.145Z"
   },
   {
     "license_number": "1767411",
@@ -2139,7 +2436,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:45:40.874Z"
   },
   {
     "license_number": "1765857",
@@ -2160,7 +2460,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:45:43.490Z"
   },
   {
     "license_number": "1767982",
@@ -2181,7 +2484,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6185331,
+    "longitude": -105.0283771,
+    "geocoded_at": "2026-01-07T05:45:45.139Z"
   },
   {
     "license_number": "1768117",
@@ -2202,7 +2508,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6259633,
+    "longitude": -105.0246978,
+    "geocoded_at": "2026-01-07T05:45:49.437Z"
   },
   {
     "license_number": "1767289",
@@ -2223,7 +2532,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5749773,
+    "longitude": -104.6643408,
+    "geocoded_at": "2026-01-07T05:45:50.738Z"
   },
   {
     "license_number": "1767481",
@@ -2244,7 +2556,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7292309,
+    "longitude": -104.8458328,
+    "geocoded_at": "2026-01-07T05:45:52.510Z"
   },
   {
     "license_number": "1769461",
@@ -2265,7 +2580,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:45:55.080Z"
   },
   {
     "license_number": "1770257",
@@ -2286,7 +2604,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:45:58.095Z"
   },
   {
     "license_number": "1768808",
@@ -2307,7 +2628,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:46:00.878Z"
   },
   {
     "license_number": "1771181",
@@ -2328,7 +2652,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6733718,
+    "longitude": -104.8120181,
+    "geocoded_at": "2026-01-07T05:46:02.753Z"
   },
   {
     "license_number": "1770629",
@@ -2349,7 +2676,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6183067,
+    "longitude": -104.6906591,
+    "geocoded_at": "2026-01-07T05:46:04.483Z"
   },
   {
     "license_number": "1770630",
@@ -2370,7 +2700,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7039097,
+    "longitude": -104.8594091,
+    "geocoded_at": "2026-01-07T05:46:07.043Z"
   },
   {
     "license_number": "1771221",
@@ -2391,7 +2724,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:46:10.649Z"
   },
   {
     "license_number": "1776095",
@@ -2412,7 +2748,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6723832,
+    "longitude": -104.8885117,
+    "geocoded_at": "2026-01-07T05:46:12.479Z"
   },
   {
     "license_number": "1771873",
@@ -2433,7 +2772,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:46:14.832Z"
   },
   {
     "license_number": "1772439",
@@ -2454,7 +2796,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:46:17.904Z"
   },
   {
     "license_number": "1771849",
@@ -2475,7 +2820,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5886192,
+    "longitude": -104.9135532,
+    "geocoded_at": "2026-01-07T05:46:20.022Z"
   },
   {
     "license_number": "1771857",
@@ -2496,7 +2844,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6105609,
+    "longitude": -104.7646433,
+    "geocoded_at": "2026-01-07T05:46:21.723Z"
   },
   {
     "license_number": "1771899",
@@ -2517,7 +2868,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6172101,
+    "longitude": -104.950814,
+    "geocoded_at": "2026-01-07T05:46:25.043Z"
   },
   {
     "license_number": "1771902",
@@ -2538,7 +2892,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6468087,
+    "longitude": -104.8765403,
+    "geocoded_at": "2026-01-07T05:46:26.684Z"
   },
   {
     "license_number": "1771911",
@@ -2559,7 +2916,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5742592,
+    "longitude": -104.8887859,
+    "geocoded_at": "2026-01-07T05:46:28.763Z"
   },
   {
     "license_number": "1771923",
@@ -2580,7 +2940,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6057242,
+    "longitude": -104.7194944,
+    "geocoded_at": "2026-01-07T05:46:30.113Z"
   },
   {
     "license_number": "1771934",
@@ -2601,7 +2964,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6907119,
+    "longitude": -104.8525015,
+    "geocoded_at": "2026-01-07T05:46:31.844Z"
   },
   {
     "license_number": "1771940",
@@ -2622,7 +2988,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6059024,
+    "longitude": -104.8699937,
+    "geocoded_at": "2026-01-07T05:46:35.927Z"
   },
   {
     "license_number": "1771950",
@@ -2643,7 +3012,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6318191,
+    "longitude": -104.7974839,
+    "geocoded_at": "2026-01-07T05:46:37.607Z"
   },
   {
     "license_number": "1771953",
@@ -2685,7 +3057,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:46:44.806Z"
   },
   {
     "license_number": "1773129",
@@ -2706,7 +3081,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:46:47.192Z"
   },
   {
     "license_number": "1775649",
@@ -2727,7 +3105,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6184489,
+    "longitude": -104.7698979,
+    "geocoded_at": "2026-01-07T05:46:48.761Z"
   },
   {
     "license_number": "1774102",
@@ -2748,7 +3129,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:46:54.462Z"
   },
   {
     "license_number": "1773665",
@@ -2769,7 +3153,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:46:57.848Z"
   },
   {
     "license_number": "1774173",
@@ -2790,7 +3177,10 @@
     "school_district": "Bennet School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:47:02.351Z"
   },
   {
     "license_number": "1774521",
@@ -2811,7 +3201,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:47:07.641Z"
   },
   {
     "license_number": "1775507",
@@ -2832,7 +3225,10 @@
     "school_district": "CHARTER SCHOOL INSTITUTE",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6930587,
+    "longitude": -104.8305036,
+    "geocoded_at": "2026-01-07T05:47:09.301Z"
   },
   {
     "license_number": "1775024",
@@ -2853,7 +3249,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:47:14.329Z"
   },
   {
     "license_number": "1777217",
@@ -2874,7 +3273,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5910337,
+    "longitude": -104.9883938,
+    "geocoded_at": "2026-01-07T05:47:15.967Z"
   },
   {
     "license_number": "1776089",
@@ -2895,7 +3297,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5965916,
+    "longitude": -104.8332836,
+    "geocoded_at": "2026-01-07T05:47:17.562Z"
   },
   {
     "license_number": "1776217",
@@ -2916,7 +3321,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.632935,
+    "longitude": -104.7495257,
+    "geocoded_at": "2026-01-07T05:47:18.964Z"
   },
   {
     "license_number": "1776221",
@@ -2937,7 +3345,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5748786,
+    "longitude": -104.8851779,
+    "geocoded_at": "2026-01-07T05:47:20.620Z"
   },
   {
     "license_number": "1776556",
@@ -2958,7 +3369,10 @@
     "school_district": "Aurora",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:47:23.324Z"
   },
   {
     "license_number": "1778029",
@@ -2979,7 +3393,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:47:27.239Z"
   },
   {
     "license_number": "1777441",
@@ -3000,7 +3417,10 @@
     "school_district": "Arapahoe",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:47:31.598Z"
   },
   {
     "license_number": "1777326",
@@ -3021,7 +3441,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7121733,
+    "longitude": -104.8600858,
+    "geocoded_at": "2026-01-07T05:47:33.073Z"
   },
   {
     "license_number": "1777633",
@@ -3042,7 +3465,10 @@
     "school_district": "CHERRY CREEK  SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6748217,
+    "longitude": -104.8307506,
+    "geocoded_at": "2026-01-07T05:47:34.807Z"
   },
   {
     "license_number": "1778472",
@@ -3063,7 +3489,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:47:39.642Z"
   },
   {
     "license_number": "1779267",
@@ -3084,7 +3513,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:47:42.077Z"
   },
   {
     "license_number": "1779854",
@@ -3105,7 +3537,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:47:45.457Z"
   },
   {
     "license_number": "1779946",
@@ -3126,7 +3561,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6337447,
+    "longitude": -104.9404787,
+    "geocoded_at": "2026-01-07T05:47:46.931Z"
   },
   {
     "license_number": "1780158",
@@ -3147,7 +3585,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:47:50.064Z"
   },
   {
     "license_number": "1780756",
@@ -3168,7 +3609,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:47:52.855Z"
   },
   {
     "license_number": "1780281",
@@ -3189,7 +3633,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6064283,
+    "longitude": -104.6912196,
+    "geocoded_at": "2026-01-07T05:47:54.397Z"
   },
   {
     "license_number": "1781593",
@@ -3210,7 +3657,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7070984,
+    "longitude": -104.8098724,
+    "geocoded_at": "2026-01-07T05:47:56.408Z"
   },
   {
     "license_number": "1781035",
@@ -3231,7 +3681,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5989441,
+    "longitude": -104.8475987,
+    "geocoded_at": "2026-01-07T05:47:57.957Z"
   },
   {
     "license_number": "1780606",
@@ -3252,7 +3705,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6581192,
+    "longitude": -104.9731735,
+    "geocoded_at": "2026-01-07T05:47:59.308Z"
   },
   {
     "license_number": "1781395",
@@ -3273,7 +3729,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6997278,
+    "longitude": -104.8470647,
+    "geocoded_at": "2026-01-07T05:48:00.939Z"
   },
   {
     "license_number": "1781562",
@@ -3294,7 +3753,10 @@
     "school_district": "Cherry Creek 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.623348,
+    "longitude": -104.877396,
+    "geocoded_at": "2026-01-07T05:48:02.383Z"
   },
   {
     "license_number": "1782979",
@@ -3315,7 +3777,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7392364,
+    "longitude": -104.984862,
+    "geocoded_at": "2026-01-07T05:48:06.707Z"
   },
   {
     "license_number": "1783249",
@@ -3336,7 +3801,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:48:09.089Z"
   },
   {
     "license_number": "1782458",
@@ -3357,7 +3825,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:48:11.959Z"
   },
   {
     "license_number": "1783305",
@@ -3378,7 +3849,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6539172,
+    "longitude": -104.750367,
+    "geocoded_at": "2026-01-07T05:48:13.719Z"
   },
   {
     "license_number": "1783343",
@@ -3399,7 +3873,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7285205,
+    "longitude": -104.8710534,
+    "geocoded_at": "2026-01-07T05:48:15.340Z"
   },
   {
     "license_number": "1783317",
@@ -3420,7 +3897,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.716912,
+    "longitude": -104.673352,
+    "geocoded_at": "2026-01-07T05:48:16.827Z"
   },
   {
     "license_number": "1783344",
@@ -3441,7 +3921,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6578757,
+    "longitude": -104.7772921,
+    "geocoded_at": "2026-01-07T05:48:20.171Z"
   },
   {
     "license_number": "1783309",
@@ -3462,7 +3945,10 @@
     "school_district": "Adams-Arapahoe 28j School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7194184,
+    "longitude": -104.7011731,
+    "geocoded_at": "2026-01-07T05:48:22.013Z"
   },
   {
     "license_number": "1783310",
@@ -3483,7 +3969,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7369298,
+    "longitude": -104.800515,
+    "geocoded_at": "2026-01-07T05:48:23.413Z"
   },
   {
     "license_number": "1783771",
@@ -3504,7 +3993,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6695572,
+    "longitude": -104.7771566,
+    "geocoded_at": "2026-01-07T05:48:24.963Z"
   },
   {
     "license_number": "1783676",
@@ -3525,7 +4017,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:48:28.246Z"
   },
   {
     "license_number": "1783787",
@@ -3546,7 +4041,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7296928,
+    "longitude": -104.8472858,
+    "geocoded_at": "2026-01-07T05:48:29.860Z"
   },
   {
     "license_number": "1784507",
@@ -3567,7 +4065,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6547501,
+    "longitude": -104.960091,
+    "geocoded_at": "2026-01-07T05:48:31.663Z"
   },
   {
     "license_number": "1784293",
@@ -3588,7 +4089,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:48:34.045Z"
   },
   {
     "license_number": "1784839",
@@ -3609,7 +4113,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.661648,
+    "longitude": -104.859111,
+    "geocoded_at": "2026-01-07T05:48:36.888Z"
   },
   {
     "license_number": "1789586",
@@ -3630,7 +4137,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5968767,
+    "longitude": -104.9586681,
+    "geocoded_at": "2026-01-07T05:48:38.641Z"
   },
   {
     "license_number": "1785441",
@@ -3651,7 +4161,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:48:42.149Z"
   },
   {
     "license_number": "1785389",
@@ -3672,7 +4185,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7302071,
+    "longitude": -104.6555066,
+    "geocoded_at": "2026-01-07T05:48:43.633Z"
   },
   {
     "license_number": "1787331",
@@ -3693,7 +4209,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6628197,
+    "longitude": -104.8608384,
+    "geocoded_at": "2026-01-07T05:48:45.202Z"
   },
   {
     "license_number": "1787822",
@@ -3714,7 +4233,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5734636,
+    "longitude": -105.0030195,
+    "geocoded_at": "2026-01-07T05:48:46.785Z"
   },
   {
     "license_number": "1788813",
@@ -3735,7 +4257,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6804027,
+    "longitude": -104.8213454,
+    "geocoded_at": "2026-01-07T05:48:48.585Z"
   },
   {
     "license_number": "1788059",
@@ -3756,7 +4281,10 @@
     "school_district": "Arapahoe county school district",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5748806,
+    "longitude": -104.8852421,
+    "geocoded_at": "2026-01-07T05:48:50.046Z"
   },
   {
     "license_number": "1788338",
@@ -3777,7 +4305,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6194495,
+    "longitude": -104.8927868,
+    "geocoded_at": "2026-01-07T05:48:51.585Z"
   },
   {
     "license_number": "1788416",
@@ -3798,7 +4329,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:48:55.039Z"
   },
   {
     "license_number": "1788283",
@@ -3819,7 +4353,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6054115,
+    "longitude": -104.7362198,
+    "geocoded_at": "2026-01-07T05:48:56.550Z"
   },
   {
     "license_number": "1788630",
@@ -3840,7 +4377,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.619726,
+    "longitude": -104.990442,
+    "geocoded_at": "2026-01-07T05:48:58.127Z"
   },
   {
     "license_number": "1789273",
@@ -3861,7 +4401,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7038527,
+    "longitude": -104.8340433,
+    "geocoded_at": "2026-01-07T05:48:59.563Z"
   },
   {
     "license_number": "1789518",
@@ -3882,7 +4425,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7186216,
+    "longitude": -104.8404036,
+    "geocoded_at": "2026-01-07T05:49:01.438Z"
   },
   {
     "license_number": "1789305",
@@ -3903,7 +4449,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.702461,
+    "longitude": -104.8011551,
+    "geocoded_at": "2026-01-07T05:49:02.975Z"
   },
   {
     "license_number": "1789269",
@@ -3924,7 +4473,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.661226,
+    "longitude": -104.783471,
+    "geocoded_at": "2026-01-07T05:49:04.859Z"
   },
   {
     "license_number": "1789271",
@@ -3945,7 +4497,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7313496,
+    "longitude": -104.8148303,
+    "geocoded_at": "2026-01-07T05:49:06.463Z"
   },
   {
     "license_number": "1789521",
@@ -3966,7 +4521,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7354423,
+    "longitude": -104.8605287,
+    "geocoded_at": "2026-01-07T05:49:08.125Z"
   },
   {
     "license_number": "1789575",
@@ -3987,7 +4545,10 @@
     "school_district": "LITTLETON PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6097607,
+    "longitude": -104.9674633,
+    "geocoded_at": "2026-01-07T05:49:09.793Z"
   },
   {
     "license_number": "1789830",
@@ -4008,7 +4569,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.692184,
+    "longitude": -104.7852909,
+    "geocoded_at": "2026-01-07T05:49:11.336Z"
   },
   {
     "license_number": "1789577",
@@ -4029,7 +4593,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6106179,
+    "longitude": -104.7550469,
+    "geocoded_at": "2026-01-07T05:49:12.806Z"
   },
   {
     "license_number": "1789828",
@@ -4050,7 +4617,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7459388,
+    "longitude": -104.7576616,
+    "geocoded_at": "2026-01-07T05:49:14.649Z"
   },
   {
     "license_number": "1790088",
@@ -4071,7 +4641,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6572163,
+    "longitude": -104.7962469,
+    "geocoded_at": "2026-01-07T05:49:16.119Z"
   },
   {
     "license_number": "1790190",
@@ -4092,7 +4665,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:49:19.272Z"
   },
   {
     "license_number": "1791128",
@@ -4113,7 +4689,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.735031,
+    "longitude": -104.8366563,
+    "geocoded_at": "2026-01-07T05:49:20.674Z"
   },
   {
     "license_number": "1792611",
@@ -4134,7 +4713,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5995745,
+    "longitude": -104.856653,
+    "geocoded_at": "2026-01-07T05:49:22.746Z"
   },
   {
     "license_number": "1792633",
@@ -4155,7 +4737,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5995891,
+    "longitude": -104.8557926,
+    "geocoded_at": "2026-01-07T05:49:24.888Z"
   },
   {
     "license_number": "1630670",
@@ -4176,7 +4761,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:49:27.638Z"
   },
   {
     "license_number": "10840",
@@ -4197,7 +4785,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7291909,
+    "longitude": -104.8619844,
+    "geocoded_at": "2026-01-07T05:49:29.086Z"
   },
   {
     "license_number": "1504062",
@@ -4218,7 +4809,10 @@
     "school_district": "Aurora Public Schools (ADAMS-ARAPAHOE 28J)",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7425957,
+    "longitude": -104.8146327,
+    "geocoded_at": "2026-01-07T05:49:30.812Z"
   },
   {
     "license_number": "4310",
@@ -4239,7 +4833,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.624246,
+    "longitude": -105.035112,
+    "geocoded_at": "2026-01-07T05:49:32.201Z"
   },
   {
     "license_number": "1549721",
@@ -4260,7 +4857,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7296928,
+    "longitude": -104.8472858,
+    "geocoded_at": "2026-01-07T05:49:34.134Z"
   },
   {
     "license_number": "53757",
@@ -4281,7 +4881,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7583455,
+    "longitude": -104.8370257,
+    "geocoded_at": "2026-01-07T05:49:35.643Z"
   },
   {
     "license_number": "31426",
@@ -4302,7 +4905,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7428787,
+    "longitude": -104.870215,
+    "geocoded_at": "2026-01-07T05:49:37.279Z"
   },
   {
     "license_number": "105471",
@@ -4323,7 +4929,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7038527,
+    "longitude": -104.8340433,
+    "geocoded_at": "2026-01-07T05:49:38.626Z"
   },
   {
     "license_number": "31430",
@@ -4344,7 +4953,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6578757,
+    "longitude": -104.7772921,
+    "geocoded_at": "2026-01-07T05:49:41.786Z"
   },
   {
     "license_number": "1596630",
@@ -4365,7 +4977,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7194184,
+    "longitude": -104.7011731,
+    "geocoded_at": "2026-01-07T05:49:43.490Z"
   },
   {
     "license_number": "10842",
@@ -4386,7 +5001,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6572163,
+    "longitude": -104.7962469,
+    "geocoded_at": "2026-01-07T05:49:45.062Z"
   },
   {
     "license_number": "1544759",
@@ -4407,7 +5025,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.735031,
+    "longitude": -104.8366563,
+    "geocoded_at": "2026-01-07T05:49:46.574Z"
   },
   {
     "license_number": "1504070",
@@ -4428,7 +5049,10 @@
     "school_district": "Aurora public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7279905,
+    "longitude": -104.8705077,
+    "geocoded_at": "2026-01-07T05:49:48.205Z"
   },
   {
     "license_number": "1512890",
@@ -4449,7 +5073,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7354423,
+    "longitude": -104.8605287,
+    "geocoded_at": "2026-01-07T05:49:49.704Z"
   },
   {
     "license_number": "31429",
@@ -4470,7 +5097,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6820559,
+    "longitude": -104.8529285,
+    "geocoded_at": "2026-01-07T05:49:51.192Z"
   },
   {
     "license_number": "1554891",
@@ -4491,7 +5121,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6578757,
+    "longitude": -104.7772921,
+    "geocoded_at": "2026-01-07T05:49:54.412Z"
   },
   {
     "license_number": "1536980",
@@ -4512,7 +5145,10 @@
     "school_district": "Aurora Public Schools (ADAMS-ARAPAHOE 28J)",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.692184,
+    "longitude": -104.7852909,
+    "geocoded_at": "2026-01-07T05:49:56.017Z"
   },
   {
     "license_number": "1596636",
@@ -4533,7 +5169,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6906767,
+    "longitude": -104.7102458,
+    "geocoded_at": "2026-01-07T05:49:57.656Z"
   },
   {
     "license_number": "19440",
@@ -4554,7 +5193,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7380284,
+    "longitude": -104.8005156,
+    "geocoded_at": "2026-01-07T05:49:59.529Z"
   },
   {
     "license_number": "1564571",
@@ -4575,7 +5217,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6878971,
+    "longitude": -104.7933494,
+    "geocoded_at": "2026-01-07T05:50:00.933Z"
   },
   {
     "license_number": "95359",
@@ -4596,7 +5241,10 @@
     "school_district": "SHERIDAN SCHOOL DISTRICT 2",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6411102,
+    "longitude": -105.0262417,
+    "geocoded_at": "2026-01-07T05:50:02.572Z"
   },
   {
     "license_number": "47043",
@@ -4617,7 +5265,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5703721,
+    "longitude": -104.988437,
+    "geocoded_at": "2026-01-07T05:50:04.124Z"
   },
   {
     "license_number": "1529248",
@@ -4638,7 +5289,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7218432,
+    "longitude": -104.8378594,
+    "geocoded_at": "2026-01-07T05:50:05.727Z"
   },
   {
     "license_number": "105478",
@@ -4659,7 +5313,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6683684,
+    "longitude": -104.8037315,
+    "geocoded_at": "2026-01-07T05:50:07.317Z"
   },
   {
     "license_number": "31428",
@@ -4680,7 +5337,10 @@
     "school_district": "Aurora public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6624202,
+    "longitude": -104.7990801,
+    "geocoded_at": "2026-01-07T05:50:08.942Z"
   },
   {
     "license_number": "85229",
@@ -4701,7 +5361,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6468693,
+    "longitude": -104.9974955,
+    "geocoded_at": "2026-01-07T05:50:10.560Z"
   },
   {
     "license_number": "1610920",
@@ -4722,7 +5385,10 @@
     "school_district": "Aurora",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6954884,
+    "longitude": -104.8454835,
+    "geocoded_at": "2026-01-07T05:50:12.304Z"
   },
   {
     "license_number": "1550861",
@@ -4743,7 +5409,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6804024,
+    "longitude": -104.86755,
+    "geocoded_at": "2026-01-07T05:50:13.907Z"
   },
   {
     "license_number": "43525",
@@ -4764,7 +5433,10 @@
     "school_district": "Aurora",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7047738,
+    "longitude": -104.826541,
+    "geocoded_at": "2026-01-07T05:50:15.884Z"
   },
   {
     "license_number": "1554318",
@@ -4785,7 +5457,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.568405,
+    "longitude": -104.902651,
+    "geocoded_at": "2026-01-07T05:50:19.409Z"
   },
   {
     "license_number": "1558859",
@@ -4806,7 +5481,10 @@
     "school_district": "Denver Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6952852,
+    "longitude": -104.8678177,
+    "geocoded_at": "2026-01-07T05:50:20.908Z"
   },
   {
     "license_number": "1564578",
@@ -4827,7 +5505,10 @@
     "school_district": "SHERIDAN 2",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.655199,
+    "longitude": -105.025167,
+    "geocoded_at": "2026-01-07T05:50:24.588Z"
   },
   {
     "license_number": "54037",
@@ -4848,7 +5529,10 @@
     "school_district": "Denver Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6901247,
+    "longitude": -104.8757775,
+    "geocoded_at": "2026-01-07T05:50:26.388Z"
   },
   {
     "license_number": "1536881",
@@ -4869,7 +5553,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6988457,
+    "longitude": -104.8183748,
+    "geocoded_at": "2026-01-07T05:50:27.771Z"
   },
   {
     "license_number": "1587340",
@@ -4890,7 +5577,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.591307,
+    "longitude": -105.0149867,
+    "geocoded_at": "2026-01-07T05:50:29.614Z"
   },
   {
     "license_number": "1593573",
@@ -4911,7 +5601,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.623348,
+    "longitude": -104.877396,
+    "geocoded_at": "2026-01-07T05:50:31.016Z"
   },
   {
     "license_number": "1535013",
@@ -4932,7 +5625,10 @@
     "school_district": "Arapahoe",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6105031,
+    "longitude": -104.9601,
+    "geocoded_at": "2026-01-07T05:50:33.646Z"
   },
   {
     "license_number": "1536321",
@@ -4953,7 +5649,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6325857,
+    "longitude": -104.7521743,
+    "geocoded_at": "2026-01-07T05:50:34.989Z"
   },
   {
     "license_number": "1594131",
@@ -4974,7 +5673,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7070984,
+    "longitude": -104.8098724,
+    "geocoded_at": "2026-01-07T05:50:37.183Z"
   },
   {
     "license_number": "1543576",
@@ -4995,7 +5697,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6172101,
+    "longitude": -104.950814,
+    "geocoded_at": "2026-01-07T05:50:43.162Z"
   },
   {
     "license_number": "1517193",
@@ -5016,7 +5721,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6279548,
+    "longitude": -104.7617029,
+    "geocoded_at": "2026-01-07T05:50:44.667Z"
   },
   {
     "license_number": "16676",
@@ -5037,7 +5745,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6488297,
+    "longitude": -104.784534,
+    "geocoded_at": "2026-01-07T05:50:46.075Z"
   },
   {
     "license_number": "24382",
@@ -5058,7 +5769,10 @@
     "school_district": "Aurora",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6628197,
+    "longitude": -104.8608384,
+    "geocoded_at": "2026-01-07T05:50:47.672Z"
   },
   {
     "license_number": "82349",
@@ -5079,7 +5793,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5815738,
+    "longitude": -104.8998904,
+    "geocoded_at": "2026-01-07T05:50:48.991Z"
   },
   {
     "license_number": "1506266",
@@ -5100,7 +5817,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6011222,
+    "longitude": -104.7819064,
+    "geocoded_at": "2026-01-07T05:50:50.638Z"
   },
   {
     "license_number": "42840",
@@ -5121,7 +5841,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:50:54.425Z"
   },
   {
     "license_number": "9944",
@@ -5142,7 +5865,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6759367,
+    "longitude": -104.8711923,
+    "geocoded_at": "2026-01-07T05:50:58.087Z"
   },
   {
     "license_number": "46815",
@@ -5163,7 +5889,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6405025,
+    "longitude": -104.8092833,
+    "geocoded_at": "2026-01-07T05:50:59.711Z"
   },
   {
     "license_number": "1655258",
@@ -5184,7 +5913,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6798788,
+    "longitude": -104.8757437,
+    "geocoded_at": "2026-01-07T05:51:01.350Z"
   },
   {
     "license_number": "1589389",
@@ -5205,7 +5937,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:51:04.192Z"
   },
   {
     "license_number": "59882",
@@ -5226,7 +5961,10 @@
     "school_district": "Cherry Creek Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6250322,
+    "longitude": -104.7875758,
+    "geocoded_at": "2026-01-07T05:51:05.855Z"
   },
   {
     "license_number": "1537832",
@@ -5247,7 +5985,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6329763,
+    "longitude": -104.8850669,
+    "geocoded_at": "2026-01-07T05:51:07.475Z"
   },
   {
     "license_number": "1542762",
@@ -5268,7 +6009,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:51:10.464Z"
   },
   {
     "license_number": "1598865",
@@ -5310,7 +6054,10 @@
     "school_district": "Aurora public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7186216,
+    "longitude": -104.8404036,
+    "geocoded_at": "2026-01-07T05:51:15.109Z"
   },
   {
     "license_number": "45492",
@@ -5331,7 +6078,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5893645,
+    "longitude": -105.0155325,
+    "geocoded_at": "2026-01-07T05:51:17.528Z"
   },
   {
     "license_number": "90217",
@@ -5352,7 +6102,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6267459,
+    "longitude": -104.779409,
+    "geocoded_at": "2026-01-07T05:51:19.066Z"
   },
   {
     "license_number": "16683",
@@ -5373,7 +6126,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6467703,
+    "longitude": -104.8049468,
+    "geocoded_at": "2026-01-07T05:51:20.680Z"
   },
   {
     "license_number": "47520",
@@ -5394,7 +6150,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.688455,
+    "longitude": -104.9193621,
+    "geocoded_at": "2026-01-07T05:51:22.117Z"
   },
   {
     "license_number": "47049",
@@ -5415,7 +6174,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.674701,
+    "longitude": -104.855268,
+    "geocoded_at": "2026-01-07T05:51:24.021Z"
   },
   {
     "license_number": "1598996",
@@ -5436,7 +6198,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:51:29.448Z"
   },
   {
     "license_number": "20690",
@@ -5457,7 +6222,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.608529,
+    "longitude": -104.6998686,
+    "geocoded_at": "2026-01-07T05:51:31.558Z"
   },
   {
     "license_number": "64166",
@@ -5478,7 +6246,10 @@
     "school_district": "Aurora/Cherry Creek",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6577742,
+    "longitude": -104.771535,
+    "geocoded_at": "2026-01-07T05:51:33.957Z"
   },
   {
     "license_number": "90211",
@@ -5499,7 +6270,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6223644,
+    "longitude": -104.7115109,
+    "geocoded_at": "2026-01-07T05:51:36.986Z"
   },
   {
     "license_number": "1518511",
@@ -5520,7 +6294,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6638736,
+    "longitude": -104.8517786,
+    "geocoded_at": "2026-01-07T05:51:38.598Z"
   },
   {
     "license_number": "1621015",
@@ -5541,7 +6318,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5726155,
+    "longitude": -105.0084315,
+    "geocoded_at": "2026-01-07T05:51:40.389Z"
   },
   {
     "license_number": "1541340",
@@ -5562,7 +6342,10 @@
     "school_district": "LITTLETON PUBLIC SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5953885,
+    "longitude": -105.0193414,
+    "geocoded_at": "2026-01-07T05:51:41.900Z"
   },
   {
     "license_number": "1617443",
@@ -5583,7 +6366,10 @@
     "school_district": "Arapahoe",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6543977,
+    "longitude": -104.9595729,
+    "geocoded_at": "2026-01-07T05:51:44.180Z"
   },
   {
     "license_number": "1524233",
@@ -5604,7 +6390,10 @@
     "school_district": "Adams 14",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7350606,
+    "longitude": -104.8594195,
+    "geocoded_at": "2026-01-07T05:51:45.810Z"
   },
   {
     "license_number": "80536",
@@ -5625,7 +6414,10 @@
     "school_district": "Arapahoe County Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.570766,
+    "longitude": -104.9071113,
+    "geocoded_at": "2026-01-07T05:51:47.339Z"
   },
   {
     "license_number": "1553737",
@@ -5646,7 +6438,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5901252,
+    "longitude": -104.7099726,
+    "geocoded_at": "2026-01-07T05:51:48.743Z"
   },
   {
     "license_number": "1556034",
@@ -5667,7 +6462,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6402762,
+    "longitude": -104.7344659,
+    "geocoded_at": "2026-01-07T05:51:50.487Z"
   },
   {
     "license_number": "68711",
@@ -5688,7 +6486,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6236705,
+    "longitude": -104.8791286,
+    "geocoded_at": "2026-01-07T05:51:51.896Z"
   },
   {
     "license_number": "90228",
@@ -5709,7 +6510,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6419437,
+    "longitude": -104.7479672,
+    "geocoded_at": "2026-01-07T05:51:53.595Z"
   },
   {
     "license_number": "82885",
@@ -5730,7 +6534,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6928952,
+    "longitude": -104.8140645,
+    "geocoded_at": "2026-01-07T05:51:55.111Z"
   },
   {
     "license_number": "1601162",
@@ -5751,7 +6558,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:51:58.387Z"
   },
   {
     "license_number": "90214",
@@ -5772,7 +6582,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6263389,
+    "longitude": -104.7768829,
+    "geocoded_at": "2026-01-07T05:51:59.909Z"
   },
   {
     "license_number": "47353",
@@ -5793,7 +6606,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6285231,
+    "longitude": -104.8852036,
+    "geocoded_at": "2026-01-07T05:52:02.507Z"
   },
   {
     "license_number": "90215",
@@ -5835,7 +6651,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:52:10.732Z"
   },
   {
     "license_number": "64701",
@@ -5856,7 +6675,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:52:13.030Z"
   },
   {
     "license_number": "1630722",
@@ -5877,7 +6699,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6103786,
+    "longitude": -104.8893675,
+    "geocoded_at": "2026-01-07T05:52:16.513Z"
   },
   {
     "license_number": "1622875",
@@ -5898,7 +6723,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7110821,
+    "longitude": -104.8286159,
+    "geocoded_at": "2026-01-07T05:52:18.211Z"
   },
   {
     "license_number": "64900",
@@ -5919,7 +6747,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:52:21.735Z"
   },
   {
     "license_number": "102673",
@@ -5940,7 +6771,10 @@
     "school_district": "AURORA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:52:24.890Z"
   },
   {
     "license_number": "1506025",
@@ -5961,7 +6795,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7295856,
+    "longitude": -104.8625427,
+    "geocoded_at": "2026-01-07T05:52:26.339Z"
   },
   {
     "license_number": "47304",
@@ -5982,7 +6819,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6773343,
+    "longitude": -104.7712727,
+    "geocoded_at": "2026-01-07T05:52:27.980Z"
   },
   {
     "license_number": "1630429",
@@ -6003,7 +6843,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7245016,
+    "longitude": -104.8088874,
+    "geocoded_at": "2026-01-07T05:52:29.415Z"
   },
   {
     "license_number": "1610914",
@@ -6024,7 +6867,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6640862,
+    "longitude": -104.8330116,
+    "geocoded_at": "2026-01-07T05:52:32.898Z"
   },
   {
     "license_number": "86320",
@@ -6066,7 +6912,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7392364,
+    "longitude": -104.984862,
+    "geocoded_at": "2026-01-07T05:52:39.552Z"
   },
   {
     "license_number": "1554095",
@@ -6087,7 +6936,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6573438,
+    "longitude": -104.9145862,
+    "geocoded_at": "2026-01-07T05:52:41.093Z"
   },
   {
     "license_number": "1536320",
@@ -6108,7 +6960,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5830913,
+    "longitude": -104.8008351,
+    "geocoded_at": "2026-01-07T05:52:42.717Z"
   },
   {
     "license_number": "1645706",
@@ -6129,7 +6984,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6757943,
+    "longitude": -104.7905651,
+    "geocoded_at": "2026-01-07T05:52:45.399Z"
   },
   {
     "license_number": "79799",
@@ -6150,7 +7008,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:52:48.368Z"
   },
   {
     "license_number": "76999",
@@ -6171,7 +7032,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:52:50.961Z"
   },
   {
     "license_number": "1519985",
@@ -6192,7 +7056,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:52:53.409Z"
   },
   {
     "license_number": "50338",
@@ -6213,7 +7080,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:52:56.679Z"
   },
   {
     "license_number": "1641364",
@@ -6234,7 +7104,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:52:59.198Z"
   },
   {
     "license_number": "1656630",
@@ -6255,7 +7128,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.738412,
+    "longitude": -104.863367,
+    "geocoded_at": "2026-01-07T05:53:02.082Z"
   },
   {
     "license_number": "1554238",
@@ -6276,7 +7152,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:53:05.699Z"
   },
   {
     "license_number": "102645",
@@ -6297,7 +7176,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.661648,
+    "longitude": -104.859111,
+    "geocoded_at": "2026-01-07T05:53:08.020Z"
   },
   {
     "license_number": "1646690",
@@ -6318,7 +7200,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7475525,
+    "longitude": -104.8622845,
+    "geocoded_at": "2026-01-07T05:53:09.699Z"
   },
   {
     "license_number": "1553297",
@@ -6339,7 +7224,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:53:12.425Z"
   },
   {
     "license_number": "76640",
@@ -6360,7 +7248,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:53:15.357Z"
   },
   {
     "license_number": "91890",
@@ -6381,7 +7272,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:53:17.850Z"
   },
   {
     "license_number": "1564862",
@@ -6402,7 +7296,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:53:23.794Z"
   },
   {
     "license_number": "1641898",
@@ -6423,7 +7320,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6978425,
+    "longitude": -104.8077409,
+    "geocoded_at": "2026-01-07T05:53:25.429Z"
   },
   {
     "license_number": "1638438",
@@ -6444,7 +7344,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:53:27.920Z"
   },
   {
     "license_number": "1622675",
@@ -6465,7 +7368,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T05:53:30.751Z"
   },
   {
     "license_number": "79117",
@@ -6486,7 +7392,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:53:33.541Z"
   },
   {
     "license_number": "1509873",
@@ -6507,7 +7416,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:53:35.831Z"
   },
   {
     "license_number": "96049",
@@ -6528,7 +7440,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:53:38.434Z"
   },
   {
     "license_number": "1617112",
@@ -6549,7 +7464,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:53:40.993Z"
   },
   {
     "license_number": "1535859",
@@ -6570,7 +7488,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:53:43.311Z"
   },
   {
     "license_number": "1637540",
@@ -6591,7 +7512,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6621474,
+    "longitude": -104.8451046,
+    "geocoded_at": "2026-01-07T05:53:44.781Z"
   },
   {
     "license_number": "1605839",
@@ -6612,7 +7536,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:53:47.838Z"
   },
   {
     "license_number": "26632",
@@ -6633,7 +7560,10 @@
     "school_district": "CHERRY CREEK  SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:53:50.312Z"
   },
   {
     "license_number": "1543579",
@@ -6654,7 +7584,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6102877,
+    "longitude": -104.9003895,
+    "geocoded_at": "2026-01-07T05:53:52.080Z"
   },
   {
     "license_number": "1622523",
@@ -6675,7 +7608,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5848742,
+    "longitude": -104.6945702,
+    "geocoded_at": "2026-01-07T05:53:53.612Z"
   },
   {
     "license_number": "46062",
@@ -6696,7 +7632,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6388285,
+    "longitude": -104.7841896,
+    "geocoded_at": "2026-01-07T05:53:55.232Z"
   },
   {
     "license_number": "1520069",
@@ -6717,7 +7656,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:53:58.196Z"
   },
   {
     "license_number": "1649255",
@@ -6738,7 +7680,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:00.525Z"
   },
   {
     "license_number": "1624562",
@@ -6759,7 +7704,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:03.931Z"
   },
   {
     "license_number": "1529249",
@@ -6780,7 +7728,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6695572,
+    "longitude": -104.7771566,
+    "geocoded_at": "2026-01-07T05:54:05.429Z"
   },
   {
     "license_number": "1640578",
@@ -6801,7 +7752,10 @@
     "school_district": "Aurora Public Schools - (ADAMS-ARAPAHOE 28J)",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6539172,
+    "longitude": -104.750367,
+    "geocoded_at": "2026-01-07T05:54:06.957Z"
   },
   {
     "license_number": "1559068",
@@ -6822,7 +7776,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:54:10.279Z"
   },
   {
     "license_number": "45508",
@@ -6843,7 +7800,10 @@
     "school_district": "ENGLEWOOD SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.628298,
+    "longitude": -104.9894507,
+    "geocoded_at": "2026-01-07T05:54:11.815Z"
   },
   {
     "license_number": "1519035",
@@ -6864,7 +7824,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:54:14.314Z"
   },
   {
     "license_number": "1515938",
@@ -6885,7 +7848,10 @@
     "school_district": "LITTLETON PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:54:16.250Z"
   },
   {
     "license_number": "1618565",
@@ -6906,7 +7872,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:54:18.471Z"
   },
   {
     "license_number": "18057",
@@ -6927,7 +7896,10 @@
     "school_district": "Cherry Creek School District 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:21.031Z"
   },
   {
     "license_number": "1648685",
@@ -6948,7 +7920,10 @@
     "school_district": "ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:54:23.343Z"
   },
   {
     "license_number": "1537729",
@@ -6969,7 +7944,10 @@
     "school_district": "ENGLEWOOD PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6528081,
+    "longitude": -104.982541,
+    "geocoded_at": "2026-01-07T05:54:25.048Z"
   },
   {
     "license_number": "47051",
@@ -6990,7 +7968,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6568017,
+    "longitude": -104.7661759,
+    "geocoded_at": "2026-01-07T05:54:26.423Z"
   },
   {
     "license_number": "80068",
@@ -7032,7 +8013,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:31.988Z"
   },
   {
     "license_number": "1598162",
@@ -7053,7 +8037,10 @@
     "school_district": "Adams-Arapahoe School District 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:54:35.464Z"
   },
   {
     "license_number": "1513156",
@@ -7074,7 +8061,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:54:40.109Z"
   },
   {
     "license_number": "1525182",
@@ -7095,7 +8085,10 @@
     "school_district": "Littleton",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:54:43.284Z"
   },
   {
     "license_number": "20413",
@@ -7116,7 +8109,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:54:45.946Z"
   },
   {
     "license_number": "1555353",
@@ -7137,7 +8133,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:48.464Z"
   },
   {
     "license_number": "86423",
@@ -7158,7 +8157,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:54:51.344Z"
   },
   {
     "license_number": "50673",
@@ -7179,7 +8181,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:53.801Z"
   },
   {
     "license_number": "81185",
@@ -7200,7 +8205,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:54:56.003Z"
   },
   {
     "license_number": "46978",
@@ -7221,7 +8229,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6019734,
+    "longitude": -104.9984782,
+    "geocoded_at": "2026-01-07T05:54:57.794Z"
   },
   {
     "license_number": "79606",
@@ -7242,7 +8253,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:55:00.182Z"
   },
   {
     "license_number": "1565189",
@@ -7263,7 +8277,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6578757,
+    "longitude": -104.7772921,
+    "geocoded_at": "2026-01-07T05:55:03.630Z"
   },
   {
     "license_number": "1544162",
@@ -7284,7 +8301,10 @@
     "school_district": "Arapahoe",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:55:07.322Z"
   },
   {
     "license_number": "1630618",
@@ -7305,7 +8325,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7382008,
+    "longitude": -104.7997436,
+    "geocoded_at": "2026-01-07T05:55:08.702Z"
   },
   {
     "license_number": "63100",
@@ -7326,7 +8349,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:55:13.667Z"
   },
   {
     "license_number": "1528536",
@@ -7347,7 +8373,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7255303,
+    "longitude": -104.8114889,
+    "geocoded_at": "2026-01-07T05:55:15.509Z"
   },
   {
     "license_number": "47140",
@@ -7368,7 +8397,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6523337,
+    "longitude": -104.9414566,
+    "geocoded_at": "2026-01-07T05:55:17.353Z"
   },
   {
     "license_number": "69299",
@@ -7389,7 +8421,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:55:20.795Z"
   },
   {
     "license_number": "12256",
@@ -7410,7 +8445,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:55:23.599Z"
   },
   {
     "license_number": "86842",
@@ -7431,7 +8469,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6097963,
+    "longitude": -105.004332,
+    "geocoded_at": "2026-01-07T05:55:25.144Z"
   },
   {
     "license_number": "17878",
@@ -7452,7 +8493,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6270518,
+    "longitude": -104.9826662,
+    "geocoded_at": "2026-01-07T05:55:28.207Z"
   },
   {
     "license_number": "103047",
@@ -7473,7 +8517,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6026893,
+    "longitude": -105.0076847,
+    "geocoded_at": "2026-01-07T05:55:29.742Z"
   },
   {
     "license_number": "18874",
@@ -7494,7 +8541,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6009778,
+    "longitude": -104.9310293,
+    "geocoded_at": "2026-01-07T05:55:31.075Z"
   },
   {
     "license_number": "49653",
@@ -7515,7 +8565,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:55:34.965Z"
   },
   {
     "license_number": "974",
@@ -7536,7 +8589,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:55:37.990Z"
   },
   {
     "license_number": "1548867",
@@ -7557,7 +8613,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:55:41.259Z"
   },
   {
     "license_number": "9388",
@@ -7578,7 +8637,10 @@
     "school_district": "ARAPAHOE",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:55:43.593Z"
   },
   {
     "license_number": "100573",
@@ -7599,7 +8661,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7392364,
+    "longitude": -104.984862,
+    "geocoded_at": "2026-01-07T05:55:50.121Z"
   },
   {
     "license_number": "104912",
@@ -7620,7 +8685,10 @@
     "school_district": "Cherry Creek Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:55:53.091Z"
   },
   {
     "license_number": "1544599",
@@ -7641,7 +8709,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:55:56.198Z"
   },
   {
     "license_number": "47597",
@@ -7662,7 +8733,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.661648,
+    "longitude": -104.859111,
+    "geocoded_at": "2026-01-07T05:55:58.542Z"
   },
   {
     "license_number": "28015",
@@ -7683,7 +8757,10 @@
     "school_district": "LITTLETON PUBLIC SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6015571,
+    "longitude": -104.9229648,
+    "geocoded_at": "2026-01-07T05:56:00.495Z"
   },
   {
     "license_number": "73554",
@@ -7704,7 +8781,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:56:04.047Z"
   },
   {
     "license_number": "1560516",
@@ -7725,7 +8805,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6185122,
+    "longitude": -104.7358416,
+    "geocoded_at": "2026-01-07T05:56:05.696Z"
   },
   {
     "license_number": "19365",
@@ -7746,7 +8829,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6285231,
+    "longitude": -104.8852036,
+    "geocoded_at": "2026-01-07T05:56:07.500Z"
   },
   {
     "license_number": "62368",
@@ -7767,7 +8853,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:56:09.988Z"
   },
   {
     "license_number": "1544495",
@@ -7788,7 +8877,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6337447,
+    "longitude": -104.9404787,
+    "geocoded_at": "2026-01-07T05:56:11.619Z"
   },
   {
     "license_number": "1640015",
@@ -7809,7 +8901,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.619726,
+    "longitude": -104.990442,
+    "geocoded_at": "2026-01-07T05:56:12.947Z"
   },
   {
     "license_number": "61855",
@@ -7830,7 +8925,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:56:15.860Z"
   },
   {
     "license_number": "82881",
@@ -7851,7 +8949,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6473921,
+    "longitude": -104.7833154,
+    "geocoded_at": "2026-01-07T05:56:17.193Z"
   },
   {
     "license_number": "82352",
@@ -7872,7 +8973,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.627079,
+    "longitude": -104.738089,
+    "geocoded_at": "2026-01-07T05:56:18.757Z"
   },
   {
     "license_number": "1589258",
@@ -7893,7 +8997,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6385945,
+    "longitude": -104.7820642,
+    "geocoded_at": "2026-01-07T05:56:20.249Z"
   },
   {
     "license_number": "62200",
@@ -7914,7 +9021,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:56:23.539Z"
   },
   {
     "license_number": "74764",
@@ -7935,7 +9045,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:56:26.218Z"
   },
   {
     "license_number": "80084",
@@ -7956,7 +9069,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7243188,
+    "longitude": -104.791057,
+    "geocoded_at": "2026-01-07T05:56:27.951Z"
   },
   {
     "license_number": "107264",
@@ -7977,7 +9093,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5969264,
+    "longitude": -104.9796505,
+    "geocoded_at": "2026-01-07T05:56:29.412Z"
   },
   {
     "license_number": "1552965",
@@ -7998,7 +9117,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5908619,
+    "longitude": -104.6895886,
+    "geocoded_at": "2026-01-07T05:56:31.106Z"
   },
   {
     "license_number": "1510220",
@@ -8019,7 +9141,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5768841,
+    "longitude": -104.9604856,
+    "geocoded_at": "2026-01-07T05:56:33.252Z"
   },
   {
     "license_number": "89440",
@@ -8040,7 +9165,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:56:37.047Z"
   },
   {
     "license_number": "46101",
@@ -8061,7 +9189,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5683993,
+    "longitude": -104.9956936,
+    "geocoded_at": "2026-01-07T05:56:38.366Z"
   },
   {
     "license_number": "42589",
@@ -8082,7 +9213,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5992379,
+    "longitude": -104.9881063,
+    "geocoded_at": "2026-01-07T05:56:40.128Z"
   },
   {
     "license_number": "1617466",
@@ -8103,7 +9237,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:56:43.783Z"
   },
   {
     "license_number": "83310",
@@ -8124,7 +9261,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:56:46.689Z"
   },
   {
     "license_number": "92865",
@@ -8145,7 +9285,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:56:49.820Z"
   },
   {
     "license_number": "4403",
@@ -8166,7 +9309,10 @@
     "school_district": "Cherry Creek",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6524105,
+    "longitude": -104.932978,
+    "geocoded_at": "2026-01-07T05:56:51.297Z"
   },
   {
     "license_number": "45573",
@@ -8187,7 +9333,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.610181,
+    "longitude": -105.021045,
+    "geocoded_at": "2026-01-07T05:56:53.302Z"
   },
   {
     "license_number": "60318",
@@ -8208,7 +9357,10 @@
     "school_district": "NA",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6231117,
+    "longitude": -104.8705395,
+    "geocoded_at": "2026-01-07T05:56:54.940Z"
   },
   {
     "license_number": "1538099",
@@ -8229,7 +9381,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6731629,
+    "longitude": -104.8512988,
+    "geocoded_at": "2026-01-07T05:56:56.526Z"
   },
   {
     "license_number": "1645993",
@@ -8250,7 +9405,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:56:58.934Z"
   },
   {
     "license_number": "105297",
@@ -8271,7 +9429,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:57:01.830Z"
   },
   {
     "license_number": "81052",
@@ -8292,7 +9453,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:57:05.266Z"
   },
   {
     "license_number": "1599062",
@@ -8313,7 +9477,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:57:08.668Z"
   },
   {
     "license_number": "1599162",
@@ -8334,7 +9501,10 @@
     "school_district": "ENGLEWOOD PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:57:12.285Z"
   },
   {
     "license_number": "1604787",
@@ -8355,7 +9525,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:57:15.085Z"
   },
   {
     "license_number": "68601",
@@ -8376,7 +9549,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7405111,
+    "longitude": -104.830994,
+    "geocoded_at": "2026-01-07T05:57:17.416Z"
   },
   {
     "license_number": "1553378",
@@ -8397,7 +9573,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:57:20.130Z"
   },
   {
     "license_number": "1608606",
@@ -8418,7 +9597,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7103915,
+    "longitude": -104.8641518,
+    "geocoded_at": "2026-01-07T05:57:21.769Z"
   },
   {
     "license_number": "1622661",
@@ -8439,7 +9621,10 @@
     "school_district": "AURORA PUBLIC SCHOOLS",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:57:24.405Z"
   },
   {
     "license_number": "1640803",
@@ -8460,7 +9645,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:57:27.981Z"
   },
   {
     "license_number": "1523067",
@@ -8481,7 +9669,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:57:30.540Z"
   },
   {
     "license_number": "1544818",
@@ -8502,7 +9693,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6219966,
+    "longitude": -104.70601,
+    "geocoded_at": "2026-01-07T05:57:32.509Z"
   },
   {
     "license_number": "67823",
@@ -8523,7 +9717,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:57:36.669Z"
   },
   {
     "license_number": "1996",
@@ -8544,7 +9741,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6185594,
+    "longitude": -104.7795701,
+    "geocoded_at": "2026-01-07T05:57:38.256Z"
   },
   {
     "license_number": "2450",
@@ -8565,7 +9765,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6437459,
+    "longitude": -104.7574309,
+    "geocoded_at": "2026-01-07T05:57:39.646Z"
   },
   {
     "license_number": "2712",
@@ -8586,7 +9789,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6267459,
+    "longitude": -104.779409,
+    "geocoded_at": "2026-01-07T05:57:41.361Z"
   },
   {
     "license_number": "2799",
@@ -8607,7 +9813,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6219966,
+    "longitude": -104.70601,
+    "geocoded_at": "2026-01-07T05:57:43.069Z"
   },
   {
     "license_number": "3098",
@@ -8628,7 +9837,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6467703,
+    "longitude": -104.8049468,
+    "geocoded_at": "2026-01-07T05:57:44.641Z"
   },
   {
     "license_number": "4855",
@@ -8649,7 +9861,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:57:47.797Z"
   },
   {
     "license_number": "4856",
@@ -8670,7 +9885,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5970661,
+    "longitude": -104.9106065,
+    "geocoded_at": "2026-01-07T05:57:49.228Z"
   },
   {
     "license_number": "4857",
@@ -8691,7 +9909,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5904803,
+    "longitude": -104.8962108,
+    "geocoded_at": "2026-01-07T05:57:50.812Z"
   },
   {
     "license_number": "7491",
@@ -8712,7 +9933,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6223644,
+    "longitude": -104.7115109,
+    "geocoded_at": "2026-01-07T05:57:52.490Z"
   },
   {
     "license_number": "10700",
@@ -8733,7 +9957,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6641758,
+    "longitude": -104.7659947,
+    "geocoded_at": "2026-01-07T05:57:54.077Z"
   },
   {
     "license_number": "10779",
@@ -8754,7 +9981,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.585494,
+    "longitude": -104.9988034,
+    "geocoded_at": "2026-01-07T05:57:55.458Z"
   },
   {
     "license_number": "10780",
@@ -8775,7 +10005,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.591012,
+    "longitude": -104.955249,
+    "geocoded_at": "2026-01-07T05:57:57.263Z"
   },
   {
     "license_number": "11037",
@@ -8796,7 +10029,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6159917,
+    "longitude": -104.92128,
+    "geocoded_at": "2026-01-07T05:57:59.044Z"
   },
   {
     "license_number": "12128",
@@ -8817,7 +10053,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6389305,
+    "longitude": -104.9780487,
+    "geocoded_at": "2026-01-07T05:58:00.925Z"
   },
   {
     "license_number": "12136",
@@ -8838,7 +10077,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6105609,
+    "longitude": -104.7646433,
+    "geocoded_at": "2026-01-07T05:58:02.296Z"
   },
   {
     "license_number": "15494",
@@ -8859,7 +10101,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579338,
+    "longitude": -104.7573096,
+    "geocoded_at": "2026-01-07T05:58:04.243Z"
   },
   {
     "license_number": "17105",
@@ -8880,7 +10125,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.632391,
+    "longitude": -104.817332,
+    "geocoded_at": "2026-01-07T05:58:06.268Z"
   },
   {
     "license_number": "18877",
@@ -8901,7 +10149,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5709121,
+    "longitude": -104.9791337,
+    "geocoded_at": "2026-01-07T05:58:07.888Z"
   },
   {
     "license_number": "19009",
@@ -8922,7 +10173,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6007891,
+    "longitude": -105.0068349,
+    "geocoded_at": "2026-01-07T05:58:10.770Z"
   },
   {
     "license_number": "28457",
@@ -8943,7 +10197,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6488297,
+    "longitude": -104.784534,
+    "geocoded_at": "2026-01-07T05:58:12.287Z"
   },
   {
     "license_number": "31025",
@@ -8964,7 +10221,10 @@
     "school_district": "DENVER COUNTY 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7350606,
+    "longitude": -104.8594195,
+    "geocoded_at": "2026-01-07T05:58:13.790Z"
   },
   {
     "license_number": "32162",
@@ -8985,7 +10245,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6976563,
+    "longitude": -104.8766454,
+    "geocoded_at": "2026-01-07T05:58:15.427Z"
   },
   {
     "license_number": "35715",
@@ -9006,7 +10269,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:58:19.036Z"
   },
   {
     "license_number": "36341",
@@ -9027,7 +10293,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T05:58:22.756Z"
   },
   {
     "license_number": "37943",
@@ -9048,7 +10317,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.646224,
+    "longitude": -104.7447389,
+    "geocoded_at": "2026-01-07T05:58:24.337Z"
   },
   {
     "license_number": "40657",
@@ -9069,7 +10341,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6000143,
+    "longitude": -104.969038,
+    "geocoded_at": "2026-01-07T05:58:25.949Z"
   },
   {
     "license_number": "66789",
@@ -9090,7 +10365,10 @@
     "school_district": "CHERRY CREEK  SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.61065,
+    "longitude": -104.9058462,
+    "geocoded_at": "2026-01-07T05:58:27.450Z"
   },
   {
     "license_number": "71010",
@@ -9111,7 +10389,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6265516,
+    "longitude": -104.9909197,
+    "geocoded_at": "2026-01-07T05:58:29.026Z"
   },
   {
     "license_number": "78587",
@@ -9132,7 +10413,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6164866,
+    "longitude": -105.029185,
+    "geocoded_at": "2026-01-07T05:58:30.585Z"
   },
   {
     "license_number": "80534",
@@ -9153,7 +10437,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5953885,
+    "longitude": -105.0193414,
+    "geocoded_at": "2026-01-07T05:58:32.634Z"
   },
   {
     "license_number": "80832",
@@ -9174,7 +10461,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:58:36.212Z"
   },
   {
     "license_number": "82348",
@@ -9195,7 +10485,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:58:39.630Z"
   },
   {
     "license_number": "82684",
@@ -9216,7 +10509,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6831802,
+    "longitude": -104.8577788,
+    "geocoded_at": "2026-01-07T05:58:41.246Z"
   },
   {
     "license_number": "83849",
@@ -9237,7 +10533,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6059024,
+    "longitude": -104.8699937,
+    "geocoded_at": "2026-01-07T05:58:43.014Z"
   },
   {
     "license_number": "85230",
@@ -9258,7 +10557,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6638736,
+    "longitude": -104.8517786,
+    "geocoded_at": "2026-01-07T05:58:44.506Z"
   },
   {
     "license_number": "86903",
@@ -9279,7 +10581,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7028714,
+    "longitude": -104.8595193,
+    "geocoded_at": "2026-01-07T05:58:46.194Z"
   },
   {
     "license_number": "86990",
@@ -9300,7 +10605,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6907119,
+    "longitude": -104.8525015,
+    "geocoded_at": "2026-01-07T05:58:47.681Z"
   },
   {
     "license_number": "87039",
@@ -9321,7 +10629,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6731629,
+    "longitude": -104.8512988,
+    "geocoded_at": "2026-01-07T05:58:49.284Z"
   },
   {
     "license_number": "88803",
@@ -9342,7 +10653,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6534545,
+    "longitude": -104.9595361,
+    "geocoded_at": "2026-01-07T05:58:51.268Z"
   },
   {
     "license_number": "89643",
@@ -9363,7 +10677,10 @@
     "school_district": "Littleton School District 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T05:58:54.709Z"
   },
   {
     "license_number": "94387",
@@ -9384,7 +10701,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:58:57.995Z"
   },
   {
     "license_number": "94441",
@@ -9405,7 +10725,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6088305,
+    "longitude": -104.8589374,
+    "geocoded_at": "2026-01-07T05:59:01.031Z"
   },
   {
     "license_number": "96291",
@@ -9426,7 +10749,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6318191,
+    "longitude": -104.7974839,
+    "geocoded_at": "2026-01-07T05:59:02.471Z"
   },
   {
     "license_number": "96302",
@@ -9447,7 +10773,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6577742,
+    "longitude": -104.771535,
+    "geocoded_at": "2026-01-07T05:59:04.163Z"
   },
   {
     "license_number": "97773",
@@ -9468,7 +10797,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:59:07.180Z"
   },
   {
     "license_number": "107271",
@@ -9489,7 +10821,10 @@
     "school_district": "Englewood",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:59:10.325Z"
   },
   {
     "license_number": "1502691",
@@ -9531,7 +10866,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6021175,
+    "longitude": -104.783374,
+    "geocoded_at": "2026-01-07T05:59:14.957Z"
   },
   {
     "license_number": "1504274",
@@ -9552,7 +10890,10 @@
     "school_district": "Arapahoe 1 Englewood School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:59:18.230Z"
   },
   {
     "license_number": "1512277",
@@ -9573,7 +10914,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6057242,
+    "longitude": -104.7194944,
+    "geocoded_at": "2026-01-07T05:59:19.779Z"
   },
   {
     "license_number": "1534865",
@@ -9594,7 +10938,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6325857,
+    "longitude": -104.7521743,
+    "geocoded_at": "2026-01-07T05:59:21.272Z"
   },
   {
     "license_number": "1535261",
@@ -9615,7 +10962,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5830913,
+    "longitude": -104.8008351,
+    "geocoded_at": "2026-01-07T05:59:23.012Z"
   },
   {
     "license_number": "1540134",
@@ -9636,7 +10986,10 @@
     "school_district": "Cherry Creek",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6723832,
+    "longitude": -104.8885117,
+    "geocoded_at": "2026-01-07T05:59:24.750Z"
   },
   {
     "license_number": "1540324",
@@ -9657,7 +11010,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5913356,
+    "longitude": -104.7026368,
+    "geocoded_at": "2026-01-07T05:59:26.334Z"
   },
   {
     "license_number": "1547448",
@@ -9678,7 +11034,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.621724,
+    "longitude": -104.704616,
+    "geocoded_at": "2026-01-07T05:59:27.675Z"
   },
   {
     "license_number": "1553282",
@@ -9699,7 +11058,10 @@
     "school_district": "Arapahoe county",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7313496,
+    "longitude": -104.8148303,
+    "geocoded_at": "2026-01-07T05:59:29.361Z"
   },
   {
     "license_number": "1561174",
@@ -9720,7 +11082,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6683684,
+    "longitude": -104.8037315,
+    "geocoded_at": "2026-01-07T05:59:30.911Z"
   },
   {
     "license_number": "1596962",
@@ -9741,7 +11106,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5968984,
+    "longitude": -104.6940634,
+    "geocoded_at": "2026-01-07T05:59:32.452Z"
   },
   {
     "license_number": "1613666",
@@ -9762,7 +11130,10 @@
     "school_district": "ADAMS-ARAPAHOE 28J",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5776967,
+    "longitude": -104.9286657,
+    "geocoded_at": "2026-01-07T05:59:34.183Z"
   },
   {
     "license_number": "1621203",
@@ -9783,7 +11154,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5848742,
+    "longitude": -104.6945702,
+    "geocoded_at": "2026-01-07T05:59:35.949Z"
   },
   {
     "license_number": "1637780",
@@ -9804,7 +11178,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T05:59:39.266Z"
   },
   {
     "license_number": "1656106",
@@ -9825,7 +11202,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T05:59:42.582Z"
   },
   {
     "license_number": "1530860",
@@ -9846,7 +11226,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6641758,
+    "longitude": -104.7659947,
+    "geocoded_at": "2026-01-07T05:59:43.981Z"
   },
   {
     "license_number": "1670768",
@@ -9867,7 +11250,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5896614,
+    "longitude": -104.9209181,
+    "geocoded_at": "2026-01-07T05:59:45.732Z"
   },
   {
     "license_number": "97193",
@@ -9888,7 +11274,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6888975,
+    "longitude": -104.7817274,
+    "geocoded_at": "2026-01-07T05:59:49.021Z"
   },
   {
     "license_number": "1669919",
@@ -9909,7 +11298,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6363419,
+    "longitude": -104.7886893,
+    "geocoded_at": "2026-01-07T05:59:50.715Z"
   },
   {
     "license_number": "1670636",
@@ -9930,7 +11322,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6847868,
+    "longitude": -104.8196103,
+    "geocoded_at": "2026-01-07T05:59:52.262Z"
   },
   {
     "license_number": "1672878",
@@ -9951,7 +11346,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6961132,
+    "longitude": -104.7003176,
+    "geocoded_at": "2026-01-07T05:59:57.625Z"
   },
   {
     "license_number": "1675169",
@@ -9972,7 +11370,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6385945,
+    "longitude": -104.7820642,
+    "geocoded_at": "2026-01-07T05:59:59.226Z"
   },
   {
     "license_number": "1672776",
@@ -9993,7 +11394,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6617165,
+    "longitude": -104.8535756,
+    "geocoded_at": "2026-01-07T06:00:01.414Z"
   },
   {
     "license_number": "1672783",
@@ -10014,7 +11418,10 @@
     "school_district": "CHERRY CREEK SCHOOL DISTRICT",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6615819,
+    "longitude": -104.8526528,
+    "geocoded_at": "2026-01-07T06:00:05.054Z"
   },
   {
     "license_number": "1544816",
@@ -10035,7 +11442,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579338,
+    "longitude": -104.7573096,
+    "geocoded_at": "2026-01-07T06:00:07.005Z"
   },
   {
     "license_number": "1671550",
@@ -10056,7 +11466,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T06:00:11.551Z"
   },
   {
     "license_number": "1673860",
@@ -10077,7 +11490,10 @@
     "school_district": "Cherry Creek Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6602882,
+    "longitude": -104.7817827,
+    "geocoded_at": "2026-01-07T06:00:15.470Z"
   },
   {
     "license_number": "1676357",
@@ -10098,7 +11514,10 @@
     "school_district": "Aurora public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7287408,
+    "longitude": -104.7841536,
+    "geocoded_at": "2026-01-07T06:00:18.108Z"
   },
   {
     "license_number": "1677437",
@@ -10119,7 +11538,10 @@
     "school_district": "LITTLETON 6",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T06:00:21.794Z"
   },
   {
     "license_number": "1678116",
@@ -10140,7 +11562,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.579155,
+    "longitude": -104.8769227,
+    "geocoded_at": "2026-01-07T06:00:26.219Z"
   },
   {
     "license_number": "1678168",
@@ -10161,7 +11586,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6581192,
+    "longitude": -104.9731735,
+    "geocoded_at": "2026-01-07T06:00:27.632Z"
   },
   {
     "license_number": "1678172",
@@ -10182,7 +11610,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6339991,
+    "longitude": -104.9860623,
+    "geocoded_at": "2026-01-07T06:00:30.227Z"
   },
   {
     "license_number": "1681659",
@@ -10203,7 +11634,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6578757,
+    "longitude": -104.7772921,
+    "geocoded_at": "2026-01-07T06:00:33.464Z"
   },
   {
     "license_number": "1685830",
@@ -10224,7 +11658,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.569261,
+    "longitude": -104.9217724,
+    "geocoded_at": "2026-01-07T06:00:35.196Z"
   },
   {
     "license_number": "1686388",
@@ -10245,7 +11682,10 @@
     "school_district": "Littleton Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.613321,
+    "longitude": -105.016649,
+    "geocoded_at": "2026-01-07T06:00:38.688Z"
   },
   {
     "license_number": "1564771",
@@ -10266,7 +11706,10 @@
     "school_district": "Aurora Public schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.7377865,
+    "longitude": -104.8805749,
+    "geocoded_at": "2026-01-07T06:00:40.474Z"
   },
   {
     "license_number": "1688694",
@@ -10287,7 +11730,10 @@
     "school_district": "ENGLEWOOD 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6482059,
+    "longitude": -104.9879641,
+    "geocoded_at": "2026-01-07T06:00:42.988Z"
   },
   {
     "license_number": "1695076",
@@ -10308,7 +11754,10 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.632935,
+    "longitude": -104.7495257,
+    "geocoded_at": "2026-01-07T06:00:44.649Z"
   },
   {
     "license_number": "1694740",
@@ -10329,7 +11778,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.708141,
+    "longitude": -104.8098785,
+    "geocoded_at": "2026-01-07T06:00:46.464Z"
   },
   {
     "license_number": "1775932",
@@ -10350,7 +11802,10 @@
     "school_district": "Aurora Public Schools",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6966876,
+    "longitude": -104.844351,
+    "geocoded_at": "2026-01-07T06:00:50.361Z"
   },
   {
     "license_number": "1781210",
@@ -10371,7 +11826,10 @@
     "school_district": "CHERRY CREEK 5",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.5834036,
+    "longitude": -104.7098891,
+    "geocoded_at": "2026-01-07T06:00:53.740Z"
   },
   {
     "license_number": "1561494",
@@ -10392,7 +11850,10 @@
     "school_district": "DOUGLAS COUNTY RE 1",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.622886,
+    "longitude": -104.9160764,
+    "geocoded_at": "2026-01-07T06:00:55.301Z"
   },
   {
     "license_number": "82880",
@@ -10413,7 +11874,10 @@
     "school_district": "Aurora Public School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.6629891,
+    "longitude": -104.7996531,
+    "geocoded_at": "2026-01-07T06:00:57.017Z"
   },
   {
     "license_number": "1673899",
@@ -10434,6 +11898,9 @@
     "school_district": "Cherry Creek School District",
     "status": "LICENSED",
     "data_source": "Colorado CDEC Open Data",
-    "scraped_at": "2026-01-07T05:20:26.816Z"
+    "scraped_at": "2026-01-07T05:20:26.816Z",
+    "latitude": 39.602627,
+    "longitude": -104.7094872,
+    "geocoded_at": "2026-01-07T06:01:00.649Z"
   }
 ]
