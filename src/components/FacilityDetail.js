@@ -16,7 +16,9 @@ import {
   Eye,
   Printer,
   Calendar,
-  Mail
+  Mail,
+  Copy,
+  ClipboardCheck
 } from 'lucide-react';
 
 /**
@@ -43,6 +45,8 @@ const FacilityDetail = ({
 }) => {
   const [watchlistReason, setWatchlistReason] = useState('');
   const [showWatchlistInput, setShowWatchlistInput] = useState(false);
+  const [showRecordsRequest, setShowRecordsRequest] = useState(false);
+  const [copiedRequest, setCopiedRequest] = useState(false);
 
   if (!facility) return null;
 
@@ -94,8 +98,8 @@ const FacilityDetail = ({
     return '';
   };
 
-  // Generate public records request mailto link
-  const getPublicRecordsLink = () => {
+  // Generate public records request data
+  const getPublicRecordsData = () => {
     const licenseNum = facility.license_number || 'Unknown';
     const facilityName = facility.name || 'Unknown Facility';
     const facilityAddress = `${facility.address || ''}, ${facility.city || ''}, ${facility.state || ''} ${facility.zip_code || ''}`.trim();
@@ -135,14 +139,85 @@ Sincerely,
 [Your Email]
 [Your Phone]`;
 
-      return `mailto:dcyf.datarequest@state.mn.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      return {
+        type: 'email',
+        email: 'dcyf.datarequest@state.mn.us',
+        subject,
+        body,
+        mailto: `mailto:dcyf.datarequest@state.mn.us?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`,
+        lawName: 'MGDPA',
+        lawFull: 'Minnesota Government Data Practices Act',
+        agency: 'Minnesota Department of Children, Youth, and Families',
+        instructions: [
+          'Click "Open in Email" to send directly, OR',
+          'Click "Copy Request Text" and paste into your email client',
+          'Send to: dcyf.datarequest@state.mn.us',
+          'Response required within 10 business days'
+        ]
+      };
     } else if (stateId === 'california') {
-      // California CDSS uses an online portal - return the portal URL
-      // The user will need to copy the request text and submit through the portal
-      return `https://cdss.govqa.us/WEBAPP/_rs/SupportHome.aspx`;
+      const body = `RE: California Public Records Act Request (Gov. Code § 6250 et seq.)
+Facility: ${facilityName}
+License Number: ${licenseNum}
+Address: ${facilityAddress}
+
+Dear Public Records Coordinator,
+
+Pursuant to the California Public Records Act (Government Code Section 6250 et seq.), I am requesting the following public records:
+
+1. Childcare subsidy payment records (CalWORKs Stage 1, 2, 3 and/or Alternative Payment) for the above-referenced facility for fiscal years 2020-2025, including:
+   - Total payments by fiscal year
+   - Monthly reimbursement amounts
+   - Number of children served
+   - Attendance/enrollment data submitted for reimbursement
+
+2. Any compliance reviews, audits, or enforcement actions related to subsidy billing
+
+3. Community Care Licensing inspection reports and complaint investigations
+
+Please provide these records in electronic format if available.
+
+Per Government Code Section 6253(c), I request a response within 10 days.
+
+Thank you for your assistance with this request.
+
+Sincerely,
+[Your Name]
+[Your Email]
+[Your Phone]`;
+
+      return {
+        type: 'portal',
+        portalUrl: 'https://cdss.govqa.us/WEBAPP/_rs/RequestSubmission.aspx?rid=457',
+        body,
+        lawName: 'CPRA',
+        lawFull: 'California Public Records Act',
+        agency: 'California Department of Social Services',
+        instructions: [
+          'Click "Open CDSS Portal" to go to the request form',
+          'Click "Submit a PRA Request" on the portal',
+          'Select "Child Care Licensing" as the program area',
+          'Copy and paste the request text below into the form',
+          'Create a free account if prompted (for tracking)',
+          'Response required within 10 calendar days'
+        ]
+      };
     }
 
     return null;
+  };
+
+  const recordsData = getPublicRecordsData();
+
+  const handleCopyRequest = () => {
+    if (recordsData) {
+      const textToCopy = recordsData.type === 'email'
+        ? `Subject: ${recordsData.subject}\n\n${recordsData.body}`
+        : recordsData.body;
+      navigator.clipboard.writeText(textToCopy);
+      setCopiedRequest(true);
+      setTimeout(() => setCopiedRequest(false), 2000);
+    }
   };
 
   // Build external links based on state
@@ -398,18 +473,89 @@ Sincerely,
                 <p>
                   Financial data not yet available. File a public records request to obtain subsidy payment records.
                 </p>
-                {getPublicRecordsLink() && (
-                  <a
-                    href={getPublicRecordsLink()}
-                    target={stateId === 'california' ? '_blank' : undefined}
-                    rel={stateId === 'california' ? 'noopener noreferrer' : undefined}
+                {recordsData && !showRecordsRequest && (
+                  <button
+                    onClick={() => setShowRecordsRequest(true)}
                     className="records-request-button"
                   >
                     <Mail size={16} />
-                    {stateId === 'minnesota'
-                      ? 'Request Payment Records (MGDPA)'
-                      : 'Open CDSS Records Portal (CPRA)'}
-                  </a>
+                    Request Payment Records ({recordsData.lawName})
+                  </button>
+                )}
+                {recordsData && showRecordsRequest && (
+                  <div className="records-request-form">
+                    <div className="records-request-header">
+                      <h4>
+                        <FileText size={18} />
+                        {recordsData.lawFull} Request
+                      </h4>
+                      <button
+                        className="close-records-btn"
+                        onClick={() => setShowRecordsRequest(false)}
+                      >
+                        <X size={16} />
+                      </button>
+                    </div>
+
+                    <div className="records-request-instructions">
+                      <strong>How to submit:</strong>
+                      <ol>
+                        {recordsData.instructions.map((instruction, idx) => (
+                          <li key={idx}>{instruction}</li>
+                        ))}
+                      </ol>
+                    </div>
+
+                    {recordsData.type === 'email' && (
+                      <div className="records-email-info">
+                        <span className="email-label">Send to:</span>
+                        <code>{recordsData.email}</code>
+                      </div>
+                    )}
+
+                    <div className="records-request-text">
+                      <label>Request Text (copy this):</label>
+                      <pre>{recordsData.type === 'email' ? `Subject: ${recordsData.subject}\n\n${recordsData.body}` : recordsData.body}</pre>
+                    </div>
+
+                    <div className="records-request-actions">
+                      {recordsData.type === 'email' ? (
+                        <a
+                          href={recordsData.mailto}
+                          className="records-action-btn primary"
+                        >
+                          <Mail size={16} />
+                          Open in Email
+                        </a>
+                      ) : (
+                        <a
+                          href={recordsData.portalUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="records-action-btn primary"
+                        >
+                          <ExternalLink size={16} />
+                          Open CDSS Portal
+                        </a>
+                      )}
+                      <button
+                        onClick={handleCopyRequest}
+                        className="records-action-btn secondary"
+                      >
+                        {copiedRequest ? (
+                          <>
+                            <ClipboardCheck size={16} />
+                            Copied!
+                          </>
+                        ) : (
+                          <>
+                            <Copy size={16} />
+                            Copy Request Text
+                          </>
+                        )}
+                      </button>
+                    </div>
+                  </div>
                 )}
               </div>
             )}

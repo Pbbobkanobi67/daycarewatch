@@ -28,7 +28,8 @@
       "WebFetch(domain:dps.mn.gov)",
       "WebFetch(domain:www.sos.state.mn.us)",
       "WebFetch(domain:www.sos.mn.gov)",
-      "WebFetch(domain:cdss.govqa.us)"
+      "WebFetch(domain:cdss.govqa.us)",
+      "Bash(python3:*)"
     ]
   }
 }
