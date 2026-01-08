@@ -1,0 +1,26 @@
+Provider Name,NPI,Provider ID,Provider Type,Service Codes,Address,City,State,Zip,Phone,Enrollment Date,Termination Date,Status,Owner Name,Payment 2021,Payment 2022,Payment 2023,Payment 2024,Total Payments
+Premier Healthcare Solutions LLC,2345678901,HCBS001,Personal Care Assistance,T1019,4900 85TH AVE N,Minneapolis,MN,55443,763-555-0200,2021-07-05,,Active,Ahmed Hassan,150000,450000,780000,1200000,2580000
+Premier Home Care Services LLC,2345678902,HCBS002,Integrated Community Supports,H2016,4900 85TH AVE N,Minneapolis,MN,55443,763-555-0201,2021-07-18,,Active,Ahmed Hassan,50000,280000,650000,1100000,2080000
+Aaron PCA Services LLC,2345678903,HCBS003,Personal Care Assistance,T1019,2500 MINNEHAHA AVE STE 300,Minneapolis,MN,55404,612-555-0202,2022-03-15,,Active,Michael Johnson,0,180000,420000,680000,1280000
+Sunrise Adult Day Services LLC,2345678904,HCBS004,Adult Day Services,S5100,1500 Lake Street,Minneapolis,MN,55407,612-555-0203,2021-03-05,,Active,Fatima Osman,120000,350000,580000,820000,1870000
+Sunrise Housing Support LLC,2345678905,HCBS005,Housing Stabilization Services,H2015,1500 Lake Street,Minneapolis,MN,55407,612-555-0204,2021-03-08,2024-06-01,Terminated,Fatima Osman,200000,580000,920000,450000,2150000
+Sunrise EIDBI Services LLC,2345678906,HCBS006,Early Intensive Developmental and Behavioral Intervention,H2019,1500 Lake Street,Minneapolis,MN,55407,612-555-0205,2021-03-12,,Active,Fatima Osman,80000,320000,720000,1150000,2270000
+Community First ICS Services LLC,2345678907,HCBS007,Integrated Community Supports,H2016,4500 Penn Ave N,Minneapolis,MN,55412,612-555-0206,2022-04-05,,Active,Maria Garcia,0,120000,480000,950000,1550000
+Community First ARMHS LLC,2345678908,HCBS008,Adult Rehabilitative Mental Health Services,H0036,4500 Penn Ave N,Minneapolis,MN,55412,612-555-0207,2022-04-12,,Active,Maria Garcia,0,95000,380000,620000,1095000
+Harmony Home Health LLC,2345678909,HCBS009,Personal Care Assistance,T1019,8200 Nicollet Ave S,Bloomington,MN,55420,952-555-0208,2021-11-25,,Active,Sarah Chen,45000,180000,320000,480000,1025000
+Bright Future Home Care LLC,2345678910,HCBS010,Individualized Home Supports,T2025,6000 France Ave S,Edina,MN,55435,952-555-0209,2022-03-01,,Active,Robert Taylor,0,85000,220000,380000,685000
+Metro PCA Solutions Inc,2345678911,HCBS011,Personal Care Assistance,T1019,1200 Hennepin Ave,Minneapolis,MN,55403,612-555-0210,2021-09-02,,Active,David Kim,90000,280000,520000,780000,1670000
+Unity Healthcare Partners LLC,2345678912,HCBS012,Adult Rehabilitative Mental Health Services,H0036,3500 West Broadway,Minneapolis,MN,55411,612-555-0211,2020-07-15,,Active,Lisa Brown,180000,320000,480000,650000,1630000
+Reliable Care Services 1 LLC,2345678913,HCBS013,Integrated Community Supports,H2016,2000 University Ave,St Paul,MN,55104,651-555-0212,2023-01-08,,Active,Hassan Mohamed,0,0,280000,850000,1130000
+Reliable Care Services 2 LLC,2345678914,HCBS014,Recovery Peer Support,H0038,2000 University Ave,St Paul,MN,55104,651-555-0213,2023-01-10,,Active,Hassan Mohamed,0,0,150000,420000,570000
+Reliable Care Services 3 LLC,2345678915,HCBS015,Night Supervision Services,T2025,2000 University Ave,St Paul,MN,55104,651-555-0214,2023-01-14,,Active,Hassan Mohamed,0,0,120000,380000,500000
+Reliable Care Services 4 LLC,2345678916,HCBS016,Adult Companion Services,T1016,2000 University Ave,St Paul,MN,55104,651-555-0215,2023-01-17,,Active,Hassan Mohamed,0,0,95000,290000,385000
+Reliable Care Services 5 LLC,2345678917,HCBS017,Assertive Community Treatment,H0039,2000 University Ave,St Paul,MN,55104,651-555-0216,2023-01-20,,Active,Hassan Mohamed,0,0,180000,520000,700000
+Northstar ICS Solutions LLC,2345678918,HCBS018,Integrated Community Supports,H2016,500 Washington Ave,Minneapolis,MN,55401,612-555-0217,2022-06-01,,Active,Omar Ahmed,0,220000,680000,1450000,2350000
+Northstar IRTS Services LLC,2345678919,HCBS019,Intensive Residential Treatment Services,H0017,500 Washington Ave,Minneapolis,MN,55401,612-555-0218,2022-06-05,,Active,Omar Ahmed,0,180000,520000,920000,1620000
+Northstar Recuperative Care LLC,2345678920,HCBS020,Recuperative Care,T1030,500 Washington Ave,Minneapolis,MN,55401,612-555-0219,2022-06-10,,Active,Omar Ahmed,0,95000,280000,480000,855000
+Twin Cities Behavioral Health LLC,2345678921,HCBS021,Adult Rehabilitative Mental Health Services,H0036,100 Portland Ave,Minneapolis,MN,55401,612-555-0220,2021-09-18,,Active,Jennifer Adams,85000,220000,380000,520000,1205000
+Golden Gate EIDBI LLC,2345678922,HCBS022,Early Intensive Developmental and Behavioral Intervention,H2019,3200 Central Ave NE,Minneapolis,MN,55418,612-555-0221,2022-02-01,,Active,James Wilson,0,120000,380000,620000,1120000
+Horizon PCA Services LLC,2345678923,HCBS023,Personal Care Assistance,T1019,7500 Brooklyn Blvd,Brooklyn Park,MN,55443,763-555-0222,2021-08-10,,Active,Samuel Lee,65000,180000,320000,480000,1045000
+CareFirst Community Services LLC,2345678924,HCBS024,Housing Stabilization Services,H2015,5500 Wayzata Blvd,Golden Valley,MN,55416,763-555-0223,2021-06-01,2024-06-01,Terminated,William Davis,280000,650000,1100000,520000,2550000
+AllCare CFSS Services LLC,2345678925,HCBS025,Community First Services and Supports,T1019,1400 W Broadway,Minneapolis,MN,55411,612-555-0224,2023-02-15,,Active,Christopher Brown,0,0,120000,280000,400000

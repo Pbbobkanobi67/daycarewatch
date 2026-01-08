@@ -1,0 +1,21 @@
+Provider Name,NPI,Provider ID,Provider Type,Address,City,State,Zip,Phone,Enrollment Date,Termination Date,Status,Owner Name,Vehicle Count,Counties,Total Payments
+Premier MN Transport Services LLC,1234567890,NEMT001,Non-Emergency Medical Transportation,4900 85TH AVE N,Minneapolis,MN,55443,763-555-0100,2021-06-25,,Active,Ahmed Hassan,8,Hennepin,1250000.00
+Aaron Medical Transport LLC,1234567891,NEMT002,Non-Emergency Medical Transportation,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,612-555-0101,2022-03-10,,Active,Michael Johnson,5,Hennepin;Ramsey,875000.00
+Sunrise NEMT Services LLC,1234567892,NEMT003,Non-Emergency Medical Transportation,1500 Lake Street,Minneapolis,MN,55407,612-555-0102,2021-02-20,,Active,Fatima Osman,12,Hennepin;Dakota,2150000.00
+Golden Gate Transport LLC,1234567893,NEMT004,Non-Emergency Medical Transportation,3200 Central Ave NE,Minneapolis,MN,55418,612-555-0103,2022-01-18,,Active,James Wilson,6,Hennepin,920000.00
+Metro Medical Transport Inc,1234567894,NEMT005,Non-Emergency Medical Transportation,1200 Hennepin Ave,Minneapolis,MN,55403,612-555-0104,2020-02-18,,Active,David Kim,15,Hennepin;Ramsey;Dakota,3450000.00
+Twin Cities Transport LLC,1234567895,NEMT006,Non-Emergency Medical Transportation,100 Portland Ave,Minneapolis,MN,55401,612-555-0105,2021-09-20,,Active,Jennifer Adams,4,Hennepin,650000.00
+Unity Transport Solutions LLC,1234567896,NEMT007,Non-Emergency Medical Transportation,3500 West Broadway,Minneapolis,MN,55411,612-555-0106,2022-06-25,,Active,Lisa Brown,7,Hennepin,1100000.00
+Express Medical Rides LLC,1234567897,NEMT008,Non-Emergency Medical Transportation,900 Chicago Ave,Minneapolis,MN,55407,612-555-0107,2021-04-08,,Active,Thomas Anderson,3,Hennepin;Ramsey,480000.00
+Swift NEMT Solutions LLC,1234567898,NEMT009,Non-Emergency Medical Transportation,2200 Park Ave,Minneapolis,MN,55404,612-555-0108,2022-08-18,,Active,Nancy White,2,Hennepin,320000.00
+Northstar Transport Group LLC,1234567899,NEMT010,Non-Emergency Medical Transportation,500 Washington Ave,Minneapolis,MN,55401,612-555-0109,2022-05-28,,Active,Omar Ahmed,18,Hennepin;Ramsey;Anoka,4200000.00
+Reliable Medical Transport LLC,1234567800,NEMT011,Non-Emergency Medical Transportation,2000 University Ave,St Paul,MN,55104,651-555-0110,2023-01-20,,Active,Hassan Mohamed,10,Ramsey;Hennepin,1850000.00
+Community Care Transport LLC,1234567801,NEMT012,Non-Emergency Medical Transportation,4500 Penn Ave N,Minneapolis,MN,55412,612-555-0111,2022-04-15,,Active,Maria Garcia,5,Hennepin,780000.00
+Horizon Medical Rides LLC,1234567802,NEMT013,Non-Emergency Medical Transportation,7500 Brooklyn Blvd,Brooklyn Park,MN,55443,763-555-0112,2021-08-05,,Active,Samuel Lee,4,Hennepin,620000.00
+Trusted Transport Services LLC,1234567803,NEMT014,Non-Emergency Medical Transportation,1800 Lyndale Ave S,Minneapolis,MN,55403,612-555-0113,2020-11-12,,Active,Patricia Martinez,8,Hennepin;Ramsey,1380000.00
+SafeRide Medical Transport LLC,1234567804,NEMT015,Non-Emergency Medical Transportation,3000 Excelsior Blvd,Minneapolis,MN,55416,612-555-0114,2022-02-01,,Active,Kevin Johnson,3,Hennepin,450000.00
+CareFirst Transport Inc,1234567805,NEMT016,Non-Emergency Medical Transportation,5500 Wayzata Blvd,Golden Valley,MN,55416,763-555-0115,2021-05-15,2024-03-01,Terminated,William Davis,6,Hennepin,980000.00
+Mobility Plus LLC,1234567806,NEMT017,Non-Emergency Medical Transportation,2800 E Lake St,Minneapolis,MN,55406,612-555-0116,2022-09-01,,Active,Jennifer Wilson,4,Hennepin,520000.00
+AllCare Transport Services LLC,1234567807,NEMT018,Non-Emergency Medical Transportation,1400 W Broadway,Minneapolis,MN,55411,612-555-0117,2023-02-10,,Active,Christopher Brown,2,Hennepin,180000.00
+Midwest Medical Mobility LLC,1234567808,NEMT019,Non-Emergency Medical Transportation,6200 Penn Ave S,Richfield,MN,55423,612-555-0118,2021-12-01,,Active,Elizabeth Taylor,5,Hennepin;Dakota,890000.00
+Premier Care Rides LLC,1234567809,NEMT020,Non-Emergency Medical Transportation,4000 Central Ave NE,Columbia Heights,MN,55421,763-555-0119,2022-07-20,,Active,Daniel Anderson,3,Hennepin;Anoka,410000.00

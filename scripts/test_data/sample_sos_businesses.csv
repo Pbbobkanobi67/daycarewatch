@@ -1,0 +1,42 @@
+Business Filing Type,Business Name,File Number,Filing Date,Status,Address,City,Region Code,Zip,Country,Business Party Name Type,Party Full Name,Next Renewal Due Date
+Limited Liability Company,Premier MN Brooklyn Park LLC,1234567,2019-03-15,Active,4900 85TH AVE N,Minneapolis,MN,55443,USA,Registered Agent,Ahmed Hassan,2026-03-15
+Limited Liability Company,Premier MN Transport Services LLC,1234568,2021-06-20,Active,4900 85TH AVE N,Minneapolis,MN,55443,USA,Registered Agent,Ahmed Hassan,2026-06-20
+Limited Liability Company,Premier Healthcare Solutions LLC,1234569,2021-07-01,Active,4900 85TH AVE N,Minneapolis,MN,55443,USA,Registered Agent,Ahmed Hassan,2026-07-01
+Limited Liability Company,Premier Home Care Services LLC,1234570,2021-07-15,Active,4900 85TH AVE N,Minneapolis,MN,55443,USA,Registered Agent,Ahmed Hassan,2026-07-15
+Limited Liability Company,Aaron Child Care Inc.,2345678,2018-01-10,Active,2500 MINNEHAHA AVE STE 100,Minneapolis,MN,55404,USA,Registered Agent,Michael Johnson,2026-01-10
+Limited Liability Company,Aaron Medical Transport LLC,2345679,2022-03-05,Active,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,USA,Registered Agent,Michael Johnson,2026-03-05
+Limited Liability Company,Aaron PCA Services LLC,2345680,2022-03-10,Active,2500 MINNEHAHA AVE STE 300,Minneapolis,MN,55404,USA,Registered Agent,Michael Johnson,2026-03-10
+Limited Liability Company,Sunrise Community Care LLC,3456789,2020-08-12,Active,1500 Lake Street,Minneapolis,MN,55407,USA,Registered Agent,Fatima Osman,2026-08-12
+Limited Liability Company,Sunrise NEMT Services LLC,3456790,2021-02-18,Active,1500 Lake Street,Minneapolis,MN,55407,USA,Registered Agent,Fatima Osman,2026-02-18
+Limited Liability Company,Sunrise Adult Day Services LLC,3456791,2021-03-01,Active,1500 Lake Street,Minneapolis,MN,55407,USA,Registered Agent,Fatima Osman,2026-03-01
+Limited Liability Company,Sunrise Housing Support LLC,3456792,2021-03-05,Active,1500 Lake Street,Minneapolis,MN,55407,USA,Registered Agent,Fatima Osman,2026-03-05
+Limited Liability Company,Sunrise EIDBI Services LLC,3456793,2021-03-10,Active,1500 Lake Street,Minneapolis,MN,55407,USA,Registered Agent,Fatima Osman,2026-03-10
+Limited Liability Company,Golden Gate Child Development LLC,4567890,2019-05-20,Active,3200 Central Ave NE,Minneapolis,MN,55418,USA,Registered Agent,James Wilson,2026-05-20
+Limited Liability Company,Golden Gate Transport LLC,4567891,2022-01-15,Active,3200 Central Ave NE,Minneapolis,MN,55418,USA,Registered Agent,James Wilson,2026-01-15
+Limited Liability Company,Harmony Kids Learning Center LLC,5678901,2017-09-01,Active,8200 Nicollet Ave S,Bloomington,MN,55420,USA,Registered Agent,Sarah Chen,2026-09-01
+Limited Liability Company,Harmony Home Health LLC,5678902,2021-11-20,Active,8200 Nicollet Ave S,Bloomington,MN,55420,USA,Registered Agent,Sarah Chen,2026-11-20
+Limited Liability Company,Northstar Rapid Services 1 LLC,6789001,2022-05-01,Active,500 Washington Ave,Minneapolis,MN,55401,USA,Registered Agent,Omar Ahmed,2026-05-01
+Limited Liability Company,Northstar Rapid Services 2 LLC,6789002,2022-05-05,Active,500 Washington Ave,Minneapolis,MN,55401,USA,Registered Agent,Omar Ahmed,2026-05-05
+Limited Liability Company,Northstar Rapid Services 3 LLC,6789003,2022-05-10,Active,500 Washington Ave,Minneapolis,MN,55401,USA,Registered Agent,Omar Ahmed,2026-05-10
+Limited Liability Company,Northstar Rapid Services 4 LLC,6789004,2022-05-15,Active,500 Washington Ave,Minneapolis,MN,55401,USA,Registered Agent,Omar Ahmed,2026-05-15
+Limited Liability Company,Northstar Rapid Services 5 LLC,6789005,2022-05-20,Active,500 Washington Ave,Minneapolis,MN,55401,USA,Registered Agent,Omar Ahmed,2026-05-20
+Limited Liability Company,Northstar Rapid Services 6 LLC,6789006,2022-05-25,Active,500 Washington Ave,Minneapolis,MN,55401,USA,Registered Agent,Omar Ahmed,2026-05-25
+Limited Liability Company,Metro Medical Transport Inc,7890123,2020-02-14,Active,1200 Hennepin Ave,Minneapolis,MN,55403,USA,Registered Agent,David Kim,2026-02-14
+Limited Liability Company,Metro PCA Solutions Inc,7890124,2021-08-30,Active,1200 Hennepin Ave,Minneapolis,MN,55403,USA,Registered Agent,David Kim,2026-08-30
+Limited Liability Company,Community First Childcare LLC,8901234,2018-06-15,Active,4500 Penn Ave N,Minneapolis,MN,55412,USA,Registered Agent,Maria Garcia,2026-06-15
+Limited Liability Company,Community First ICS Services LLC,8901235,2022-04-01,Active,4500 Penn Ave N,Minneapolis,MN,55412,USA,Registered Agent,Maria Garcia,2026-04-01
+Limited Liability Company,Community First ARMHS LLC,8901236,2022-04-10,Active,4500 Penn Ave N,Minneapolis,MN,55412,USA,Registered Agent,Maria Garcia,2026-04-10
+Nonprofit Corporation,Twin Cities Youth Services,9012345,2015-01-20,Active,100 Portland Ave,Minneapolis,MN,55401,USA,Registered Agent,Jennifer Adams,2026-01-20
+Limited Liability Company,Twin Cities Transport LLC,9012346,2021-09-15,Active,100 Portland Ave,Minneapolis,MN,55401,USA,Registered Agent,Jennifer Adams,2026-09-15
+Limited Liability Company,Bright Future Learning LLC,1012345,2019-04-22,Active,6000 France Ave S,Edina,MN,55435,USA,Registered Agent,Robert Taylor,2026-04-22
+Limited Liability Company,Bright Future Home Care LLC,1012346,2022-02-28,Active,6000 France Ave S,Edina,MN,55435,USA,Registered Agent,Robert Taylor,2026-02-28
+Limited Liability Company,Reliable Care Services 1 LLC,1112345,2023-01-05,Active,2000 University Ave,St Paul,MN,55104,USA,Registered Agent,Hassan Mohamed,2026-01-05
+Limited Liability Company,Reliable Care Services 2 LLC,1112346,2023-01-08,Active,2000 University Ave,St Paul,MN,55104,USA,Registered Agent,Hassan Mohamed,2026-01-08
+Limited Liability Company,Reliable Care Services 3 LLC,1112347,2023-01-12,Active,2000 University Ave,St Paul,MN,55104,USA,Registered Agent,Hassan Mohamed,2026-01-12
+Limited Liability Company,Reliable Care Services 4 LLC,1112348,2023-01-15,Active,2000 University Ave,St Paul,MN,55104,USA,Registered Agent,Hassan Mohamed,2026-01-15
+Limited Liability Company,Reliable Care Services 5 LLC,1112349,2023-01-18,Active,2000 University Ave,St Paul,MN,55104,USA,Registered Agent,Hassan Mohamed,2026-01-18
+Limited Liability Company,Unity Healthcare Partners LLC,1212345,2020-07-10,Active,3500 West Broadway,Minneapolis,MN,55411,USA,Registered Agent,Lisa Brown,2026-07-10
+Limited Liability Company,Unity Transport Solutions LLC,1212346,2022-06-22,Active,3500 West Broadway,Minneapolis,MN,55411,USA,Registered Agent,Lisa Brown,2026-06-22
+Limited Liability Company,Unity Childcare Center LLC,1212347,2021-03-18,Active,3500 West Broadway,Minneapolis,MN,55411,USA,Registered Agent,Lisa Brown,2026-03-18
+Limited Liability Company,Express Medical Rides LLC,1312345,2021-04-05,Active,900 Chicago Ave,Minneapolis,MN,55407,USA,Registered Agent,Thomas Anderson,2026-04-05
+Limited Liability Company,Swift NEMT Solutions LLC,1412345,2022-08-14,Active,2200 Park Ave,Minneapolis,MN,55404,USA,Registered Agent,Nancy White,2026-08-14

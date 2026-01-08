@@ -1,0 +1,80 @@
+Plate Number,VIN,Owner Name,Owner Address,Owner City,Owner State,Owner Zip,Year,Make,Model,Vehicle Type,Body Style,Registration Date,Expiration Date,Use Type
+ABC123,1HGBH41JXMN109186,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2021,Toyota,Sienna,Passenger Van,Minivan,2021-07-01,2026-07-01,Commercial
+ABC124,2HGBH41JXMN109187,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2021,Honda,Odyssey,Passenger Van,Minivan,2021-07-05,2026-07-05,Commercial
+ABC125,3HGBH41JXMN109188,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2022,Dodge,Grand Caravan,Wheelchair Van,Accessible Vehicle,2022-01-15,2027-01-15,Commercial
+ABC126,4HGBH41JXMN109189,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2022,Ford,Transit,Passenger Van,Multi-Passenger,2022-03-20,2027-03-20,Commercial
+ABC127,5HGBH41JXMN109190,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2022,Chrysler,Pacifica,Wheelchair Van,Accessible Vehicle,2022-06-10,2027-06-10,Commercial
+ABC128,6HGBH41JXMN109191,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2023,Toyota,Sienna,Passenger Van,Minivan,2023-01-08,2028-01-08,Commercial
+ABC129,7HGBH41JXMN109192,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2023,Honda,Odyssey,Passenger Van,Minivan,2023-02-14,2028-02-14,Commercial
+ABC130,8HGBH41JXMN109193,Premier MN Transport Services LLC,4900 85TH AVE N,Minneapolis,MN,55443,2023,Dodge,Grand Caravan,Wheelchair Van,Accessible Vehicle,2023-04-22,2028-04-22,Commercial
+DEF201,1GCGG25K881234567,Aaron Medical Transport LLC,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,2022,Chevrolet,Express,Passenger Van,Multi-Passenger,2022-03-15,2027-03-15,Commercial
+DEF202,2GCGG25K882234568,Aaron Medical Transport LLC,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,2022,GMC,Savana,Passenger Van,Multi-Passenger,2022-04-01,2027-04-01,Commercial
+DEF203,3GCGG25K883234569,Aaron Medical Transport LLC,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,2022,Ford,E-350,Wheelchair Van,Accessible Vehicle,2022-05-20,2027-05-20,Commercial
+DEF204,4GCGG25K884234570,Aaron Medical Transport LLC,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,2023,Chevrolet,Express,Passenger Van,Multi-Passenger,2023-01-10,2028-01-10,Commercial
+DEF205,5GCGG25K885234571,Aaron Medical Transport LLC,2500 MINNEHAHA AVE STE 200,Minneapolis,MN,55404,2023,Ford,Transit,Passenger Van,Minivan,2023-03-05,2028-03-05,Commercial
+GHI301,1FMZU63K91UB12345,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2021,Ford,Explorer,SUV,Passenger,2021-02-25,2026-02-25,Commercial
+GHI302,2FMZU63K92UB12346,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2021,Ford,Transit,Passenger Van,Multi-Passenger,2021-03-10,2026-03-10,Commercial
+GHI303,3FMZU63K93UB12347,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2021,Dodge,Grand Caravan,Wheelchair Van,Accessible Vehicle,2021-04-15,2026-04-15,Commercial
+GHI304,4FMZU63K94UB12348,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2021,Toyota,Sienna,Passenger Van,Minivan,2021-05-22,2026-05-22,Commercial
+GHI305,5FMZU63K95UB12349,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2021,Honda,Odyssey,Passenger Van,Minivan,2021-06-18,2026-06-18,Commercial
+GHI306,6FMZU63K96UB12350,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2022,Ford,Transit,Passenger Van,Multi-Passenger,2022-01-05,2027-01-05,Commercial
+GHI307,7FMZU63K97UB12351,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2022,Chrysler,Pacifica,Wheelchair Van,Accessible Vehicle,2022-02-12,2027-02-12,Commercial
+GHI308,8FMZU63K98UB12352,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2022,Dodge,Grand Caravan,Passenger Van,Minivan,2022-03-28,2027-03-28,Commercial
+GHI309,9FMZU63K99UB12353,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2022,Toyota,Sienna,Passenger Van,Minivan,2022-05-14,2027-05-14,Commercial
+GHI310,1FMZU63K90UB12354,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2023,Ford,E-350,Stretcher Van,Ambulette,2023-01-20,2028-01-20,Commercial
+GHI311,2FMZU63K91UB12355,Sunrise NEMT Services LLC,1500 Lake Street,Minneapolis,MN,55407,2023,GMC,Savana,Wheelchair Van,Accessible Vehicle,2023-02-28,2028-02-28,Commercial
+JKL401,1N4AL3AP1DC234567,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Nissan,Altima,Sedan,Passenger,2022-05-02,2027-05-02,Commercial
+JKL402,2N4AL3AP2DC234568,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Toyota,Camry,Sedan,Passenger,2022-05-05,2027-05-05,Commercial
+JKL403,3N4AL3AP3DC234569,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Ford,Transit,Passenger Van,Multi-Passenger,2022-05-08,2027-05-08,Commercial
+JKL404,4N4AL3AP4DC234570,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Dodge,Grand Caravan,Wheelchair Van,Accessible Vehicle,2022-05-12,2027-05-12,Commercial
+JKL405,5N4AL3AP5DC234571,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Honda,Odyssey,Passenger Van,Minivan,2022-05-15,2027-05-15,Commercial
+JKL406,6N4AL3AP6DC234572,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Toyota,Sienna,Passenger Van,Minivan,2022-05-18,2027-05-18,Commercial
+JKL407,7N4AL3AP7DC234573,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Chrysler,Pacifica,Wheelchair Van,Accessible Vehicle,2022-05-22,2027-05-22,Commercial
+JKL408,8N4AL3AP8DC234574,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Ford,E-350,Stretcher Van,Ambulette,2022-05-25,2027-05-25,Commercial
+JKL409,9N4AL3AP9DC234575,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2022,Chevrolet,Express,Passenger Van,Multi-Passenger,2022-05-28,2027-05-28,Commercial
+JKL410,1N4AL3AP0DC234576,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,GMC,Savana,Passenger Van,Multi-Passenger,2023-01-05,2028-01-05,Commercial
+JKL411,2N4AL3AP1DC234577,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,Ford,Transit,Wheelchair Van,Accessible Vehicle,2023-02-10,2028-02-10,Commercial
+JKL412,3N4AL3AP2DC234578,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,Dodge,Grand Caravan,Passenger Van,Minivan,2023-03-15,2028-03-15,Commercial
+JKL413,4N4AL3AP3DC234579,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,Toyota,Sienna,Passenger Van,Minivan,2023-04-20,2028-04-20,Commercial
+JKL414,5N4AL3AP4DC234580,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,Honda,Odyssey,Passenger Van,Minivan,2023-05-25,2028-05-25,Commercial
+JKL415,6N4AL3AP5DC234581,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,Chrysler,Pacifica,Wheelchair Van,Accessible Vehicle,2023-06-30,2028-06-30,Commercial
+JKL416,7N4AL3AP6DC234582,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,Ford,E-350,Stretcher Van,Ambulette,2023-08-05,2028-08-05,Commercial
+JKL417,8N4AL3AP7DC234583,Northstar Transport Group LLC,500 Washington Ave,Minneapolis,MN,55401,2023,GMC,Savana,Passenger Van,Multi-Passenger,2023-09-10,2028-09-10,Commercial
+MNO501,1FDFE4FS1DDA12345,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2020,Ford,E-450,Stretcher Van,Ambulette,2020-02-20,2025-02-20,Commercial
+MNO502,2FDFE4FS2DDA12346,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2020,Chevrolet,Express,Passenger Van,Multi-Passenger,2020-04-15,2025-04-15,Commercial
+MNO503,3FDFE4FS3DDA12347,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2021,Ford,Transit,Wheelchair Van,Accessible Vehicle,2021-01-10,2026-01-10,Commercial
+MNO504,4FDFE4FS4DDA12348,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2021,GMC,Savana,Passenger Van,Multi-Passenger,2021-03-25,2026-03-25,Commercial
+MNO505,5FDFE4FS5DDA12349,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2021,Dodge,Grand Caravan,Passenger Van,Minivan,2021-06-08,2026-06-08,Commercial
+MNO506,6FDFE4FS6DDA12350,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2022,Toyota,Sienna,Passenger Van,Minivan,2022-01-20,2027-01-20,Commercial
+MNO507,7FDFE4FS7DDA12351,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2022,Honda,Odyssey,Wheelchair Van,Accessible Vehicle,2022-04-05,2027-04-05,Commercial
+MNO508,8FDFE4FS8DDA12352,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2022,Ford,Transit,Passenger Van,Multi-Passenger,2022-07-12,2027-07-12,Commercial
+MNO509,9FDFE4FS9DDA12353,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2023,Chrysler,Pacifica,Passenger Van,Minivan,2023-01-15,2028-01-15,Commercial
+MNO510,1FDFE4FS0DDA12354,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2023,Ford,E-350,Stretcher Van,Ambulette,2023-03-28,2028-03-28,Commercial
+MNO511,2FDFE4FS1DDA12355,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2023,Chevrolet,Express,Wheelchair Van,Accessible Vehicle,2023-06-10,2028-06-10,Commercial
+MNO512,3FDFE4FS2DDA12356,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2023,GMC,Savana,Passenger Van,Multi-Passenger,2023-09-05,2028-09-05,Commercial
+MNO513,4FDFE4FS3DDA12357,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2024,Ford,Transit,Passenger Van,Minivan,2024-01-08,2029-01-08,Commercial
+MNO514,5FDFE4FS4DDA12358,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2024,Toyota,Sienna,Wheelchair Van,Accessible Vehicle,2024-03-15,2029-03-15,Commercial
+MNO515,6FDFE4FS5DDA12359,Metro Medical Transport Inc,1200 Hennepin Ave,Minneapolis,MN,55403,2024,Honda,Odyssey,Passenger Van,Minivan,2024-06-20,2029-06-20,Commercial
+PQR601,1GCWGAFG1K1234567,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2022,Chevrolet,Express,Passenger Van,Multi-Passenger,2022-06-28,2027-06-28,Commercial
+PQR602,2GCWGAFG2K1234568,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2022,Ford,Transit,Wheelchair Van,Accessible Vehicle,2022-08-15,2027-08-15,Commercial
+PQR603,3GCWGAFG3K1234569,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2022,Dodge,Grand Caravan,Passenger Van,Minivan,2022-10-01,2027-10-01,Commercial
+PQR604,4GCWGAFG4K1234570,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2023,Toyota,Sienna,Passenger Van,Minivan,2023-01-18,2028-01-18,Commercial
+PQR605,5GCWGAFG5K1234571,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2023,Honda,Odyssey,Passenger Van,Minivan,2023-04-08,2028-04-08,Commercial
+PQR606,6GCWGAFG6K1234572,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2023,Chrysler,Pacifica,Wheelchair Van,Accessible Vehicle,2023-07-22,2028-07-22,Commercial
+PQR607,7GCWGAFG7K1234573,Unity Transport Solutions LLC,3500 West Broadway,Minneapolis,MN,55411,2024,Ford,E-350,Stretcher Van,Ambulette,2024-02-10,2029-02-10,Commercial
+STU701,1FTBW3XM1JKA12345,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Ford,Transit,Passenger Van,Multi-Passenger,2023-01-22,2028-01-22,Commercial
+STU702,2FTBW3XM2JKA12346,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Chevrolet,Express,Wheelchair Van,Accessible Vehicle,2023-02-05,2028-02-05,Commercial
+STU703,3FTBW3XM3JKA12347,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,GMC,Savana,Passenger Van,Multi-Passenger,2023-02-18,2028-02-18,Commercial
+STU704,4FTBW3XM4JKA12348,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Dodge,Grand Caravan,Passenger Van,Minivan,2023-03-01,2028-03-01,Commercial
+STU705,5FTBW3XM5JKA12349,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Toyota,Sienna,Passenger Van,Minivan,2023-03-15,2028-03-15,Commercial
+STU706,6FTBW3XM6JKA12350,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Honda,Odyssey,Wheelchair Van,Accessible Vehicle,2023-03-28,2028-03-28,Commercial
+STU707,7FTBW3XM7JKA12351,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Ford,E-350,Stretcher Van,Ambulette,2023-04-10,2028-04-10,Commercial
+STU708,8FTBW3XM8JKA12352,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Chrysler,Pacifica,Passenger Van,Minivan,2023-04-22,2028-04-22,Commercial
+STU709,9FTBW3XM9JKA12353,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2023,Chevrolet,Express,Passenger Van,Multi-Passenger,2023-05-05,2028-05-05,Commercial
+STU710,1FTBW3XM0JKA12354,Reliable Medical Transport LLC,2000 University Ave,St Paul,MN,55104,2024,Ford,Transit,Wheelchair Van,Accessible Vehicle,2024-01-15,2029-01-15,Commercial
+VWX801,1GCGG25K101234567,Golden Gate Transport LLC,3200 Central Ave NE,Minneapolis,MN,55418,2022,Chevrolet,Express,Passenger Van,Multi-Passenger,2022-01-20,2027-01-20,Commercial
+VWX802,2GCGG25K102234568,Golden Gate Transport LLC,3200 Central Ave NE,Minneapolis,MN,55418,2022,Ford,Transit,Wheelchair Van,Accessible Vehicle,2022-03-15,2027-03-15,Commercial
+VWX803,3GCGG25K103234569,Golden Gate Transport LLC,3200 Central Ave NE,Minneapolis,MN,55418,2022,Dodge,Grand Caravan,Passenger Van,Minivan,2022-06-08,2027-06-08,Commercial
+VWX804,4GCGG25K104234570,Golden Gate Transport LLC,3200 Central Ave NE,Minneapolis,MN,55418,2023,Toyota,Sienna,Passenger Van,Minivan,2023-02-22,2028-02-22,Commercial
+VWX805,5GCGG25K105234571,Golden Gate Transport LLC,3200 Central Ave NE,Minneapolis,MN,55418,2023,Honda,Odyssey,Passenger Van,Minivan,2023-08-14,2028-08-14,Commercial
+VWX806,6GCGG25K106234572,Golden Gate Transport LLC,3200 Central Ave NE,Minneapolis,MN,55418,2024,Chrysler,Pacifica,Wheelchair Van,Accessible Vehicle,2024-04-01,2029-04-01,Commercial
